@@ -1,0 +1,8 @@
+{
+  "python.formatting.provider": "black",
+  "python.pythonPath": "C:\\Users\\richr\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\tcc-S-IJK4Cl-py3.9\\Scripts\\python.exe",
+  "python.linting.pycodestyleEnabled": true,
+  "python.linting.enabled": true,
+  "discord.detailsEditing": "Fazendo meu TCC, mexendo em {file_name}",
+  "discord.largeImage": "Programando em {LANG}"
+}
