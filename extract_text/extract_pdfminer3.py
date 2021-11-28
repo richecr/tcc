@@ -1,4 +1,5 @@
 from io import StringIO
+import shutil
 
 from pdfminer3.converter import TextConverter
 from pdfminer3.layout import LAParams
@@ -10,15 +11,21 @@ from pdfminer3.pdfparser import PDFParser
 from utils import write_txt
 
 output_string = StringIO()
-with open('./pdfs_samples/page1.pdf', 'rb') as in_file:
+with open('./pdfs_samples/pdf_1_10.pdf', 'rb') as in_file:
     parser = PDFParser(in_file)
     doc = PDFDocument(parser)
     rsrcmgr = PDFResourceManager()
-    device = TextConverter(rsrcmgr, output_string, laparams=LAParams())
+    device = TextConverter(rsrcmgr, output_string, codec="utf-8", laparams=LAParams())
     interpreter = PDFPageInterpreter(rsrcmgr, device)
     for page in PDFPage.create_pages(doc):
         interpreter.process_page(page)
 
 content = output_string.getvalue()
+device.close()
+output_string.close()
+
+content = content.replace("�", '.')
+
 write_txt(content, filename='output_pdfminer3.txt')
 print(content)
+

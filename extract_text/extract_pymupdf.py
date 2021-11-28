@@ -18,4 +18,5 @@ for page in pdf:
     write_txt(text, filename='index_pymupdf.html')
 
     text = page.get_text()
+    text = text.replace("�", '.')
     write_txt(text, filename='output_pymupdf.txt')

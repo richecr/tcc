@@ -20,5 +20,6 @@ with open('./pdfs_samples/page1.pdf', 'rb') as in_file:
         interpreter.process_page(page)
 
 content = output_string.getvalue()
+content = content.replace("�", '.')
 print(content)
 write_txt(content, filename='output_pdfminer_six.txt')
