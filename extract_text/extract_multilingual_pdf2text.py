@@ -11,12 +11,13 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 def main():
     ## create document for extraction with configurations
-    pdf_document = Document(document_path="./pdfs_samples/page1.pdf", language="por")
+    pdf_document = Document(document_path="./pdfs_samples/pdf_pb.pdf", language="por")
     pdf2text = PDF2Text(document=pdf_document)
     content = pdf2text.extract()
     for page in content:
         print(page["text"])
-        write_txt(page["text"], filename="output_multilingual_pdf2.txt")
+        write_txt(page["text"], filename="output_multilingual_pdf2_pb.txt", mode="a")
+
 
 
 if __name__ == "__main__":

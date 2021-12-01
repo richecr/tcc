@@ -11,7 +11,7 @@ from pdfminer3.pdfparser import PDFParser
 from utils import write_txt
 
 output_string = StringIO()
-with open('./pdfs_samples/pdf_1_10.pdf', 'rb') as in_file:
+with open('./pdfs_samples/pdf_pb.pdf', 'rb') as in_file:
     parser = PDFParser(in_file)
     doc = PDFDocument(parser)
     rsrcmgr = PDFResourceManager()
@@ -26,6 +26,6 @@ output_string.close()
 
 content = content.replace("�", '.')
 
-write_txt(content, filename='output_pdfminer3.txt')
+write_txt(content, filename='output_pdfminer3_pb.txt')
 print(content)
 
