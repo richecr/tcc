@@ -9,7 +9,7 @@ from pdfminer3.pdfparser import PDFParser
 
 from utils import write_txt_pb
 
-def extract(pdf):
+def extract_pdfminer3(pdf):
     output_string = StringIO()
     with open(pdf, 'rb') as in_file:
         parser = PDFParser(in_file)
@@ -23,7 +23,5 @@ def extract(pdf):
     content = output_string.getvalue()
     device.close()
     output_string.close()
-
     content = content.replace("�", '.')
-
     write_txt_pb(content, filename='output_{}.txt'.format(pdf.split("/")[3]))

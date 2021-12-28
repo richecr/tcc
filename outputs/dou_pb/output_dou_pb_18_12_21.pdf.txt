@@ -8,21 +8,21 @@ João Pessoa - Sábado, 18 de Dezembro de 2021
 
 R$ 2,00
 
- 
-
- 
-
 PORTARIA Nº 512/2021/SEAD                                              João Pessoa, 17 de dezembro de 2021.                
 
 A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando das atribuições 
 que lhe confere o art. art. 78, incisos II e XII, do Decreto nº 41.415, de 13 de julho de 2021, e tendo 
 em vista Parecer nº 1770/2021 da Assessoria Jurídica, constante do Processo n.º 21.013.201-9/SEAD;
 RESOLVE  conceder  Licença  para  Desempenho  de  Mandato  Classista  ao  ser-
-vidor  BERGSON ALMEIDA  DE  VASCONCELOS,  matrícula  n.º  155.649-5,  no  período  de 
+vidor  BERGSON  ALMEIDA  DE  VASCONCELOS,  matrícula  n.º  155.649-5,  no  período  de 
 26.01.2018 a 25.01.2022, junto a Associação dos Delegados de Polícia Civil do Estado da Paraíba 
 – ADEPDEL. 
 
 PORTARIA Nº 513/2021/SEAD                                                João Pessoa, 17 de dezembro de 2021.                
+
+ 
+
+ 
 
 A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando das atribuições 
 que lhe confere o art. 78, incisos II e XII, do Decreto nº 41.415, de 13 de julho de 2021, e tendo em vista 
@@ -39,7 +39,7 @@ RESENHA Nº : 639/2021 /DEREH/GS
 EXPEDIENTE DO DIA: 17-12-2021
 
 O   DIRETOR   EXECUTIVO   DE   RECURSOS   HUMANOS,   por   delegação   de   competência   constante   na
-Portaria nº 2374/GS, datada de 18/07/88, resolve INDEFERIR os Processos dos Profissionais do Grupo do Magistério de
+Portaria   nº   2374/GS,   datada   de   18/07/88,   resolve   INDEFERIR   os   Processos   dos   Profissionais   do  Grupo  do  Magistério  de
 PROGRESSÃO FUNCIONAL HORIZONTAL abaixo relacionados:
 
 Nº Processo
@@ -49,6 +49,36 @@ Matricula
 Nome
 
 Cargo
+
+172.410-0
+
+ELCIANE DE LIMA PAULINO
+
+PROFESSOR DE EDUCACAO BASICA 3
+
+157.098-6
+
+ELIANA CASIMIRO DA SILVEIRA
+
+PROFESSOR DE EDUCACAO BASICA 3
+
+159.729-9
+
+ELIANE CORREIA DE SOUZA ARAUJO
+
+PROFESSOR DE EDUCACAO BASICA 3
+
+163.696-1
+
+KATIA PEREIRA DUARTE
+
+PROFESSOR DE EDUCACAO BASICA 3
+
+178.086-7
+
+LIJECSON SOUZA DOS SANTOS
+
+PROFESSOR DE EDUCACAO BASICA 3
 
 21.018.321-7
 
@@ -62,46 +92,16 @@ Cargo
 
 PUBLIQUE-SE
 
-172.410-0
-
-157.098-6
-
-159.729-9
-
-163.696-1
-
-178.086-7
-
-ELCIANE DE LIMA PAULINO
-
-ELIANA CASIMIRO DA SILVEIRA
-
-PROFESSOR DE EDUCACAO BASICA 3
-
-PROFESSOR DE EDUCACAO BASICA 3
-
-ELIANE CORREIA DE SOUZA ARAUJO
-
-PROFESSOR DE EDUCACAO BASICA 3
-
-KATIA PEREIRA DUARTE
-
-LIJECSON SOUZA DOS SANTOS
-
-PROFESSOR DE EDUCACAO BASICA 3
-
-PROFESSOR DE EDUCACAO BASICA 3
-
 SECRETARIA DE ESTADO DA ADMINISTRAÇÃO  
-DIRETORIA EXECUTIVA DE RECURSOS HUMANOS  
  
+DIRETORIA EXECUTIVA DE RECURSOS HUMANOS  
 GERÊNCIA EXECUTIVA DE CONCESSÃO DE DIREITOS E VANTAGENS  
 
 RESENHA Nº : 641/2020
 EXPEDIENTE DO DIA : 17-12-2021
 
 O DIRETOR EXECUTIVO DE RECURSOS HUMANOS , por delegação de competência que lhe foi outorgada pela Portaria 
-nº  2374/GS,  datada  de  18.07.88  e  tendo  em  vista  Parecer  da  ASSESSORIA  JURÍDICA  desta  Secretaria,  INDEFERIU  o processo  de  ABONO  DE 
+nº  2374/GS,  datada  de  18.07.88  e  tendo  em  vista  Parecer  da  ASSESSORIA  JURÍDICA  desta  Secretaria,  INDEFERIU  o  processo  de  ABONO  DE 
 PERMANÊNCIA abaixo relacionado:  
  
 Nº Processo 
@@ -125,6 +125,7 @@ Nº 1951/2021/ASJUR
 JUÇARA FARIAS DE ALMEIDA 
 
 ATO DO PODER EXECUTIVO
+
 DECRETO Nº  42.089  DE  17 DE  DEZEMBRO DE 2021.
 
 Institui o Prêmio Estadual de Juventude da Paraíba “Neto Borges” 
@@ -137,7 +138,7 @@ conferem os incisos IV e VI do art. 86 da Constituição do Estado,
 
 D E C R E T A:
 Art. 1º  Fica instituído o Prêmio Estadual de Juventude da Paraíba “Neto Borges”, 
-que será conferido aos Gestores Municipais de Políticas Públicas de Juventude e aos Jovens que se 
+que  será  conferido  aos  Gestores  Municipais  de  Políticas  Públicas  de  Juventude  e  aos  Jovens  que  se 
 destacarem por suas atuações na gestão de juventude ou nos múltiplos movimentos juvenis paraibanos. 
 Parágrafo único. O Prêmio Estadual de Juventude da Paraíba “Neto Borges” será 
 
@@ -154,11 +155,11 @@ VII – execução de projetos voltados à prática da educomunicação;
 VIII - mobilização de ações com foco na sustentabilidade e defesa do meio ambiente.
 Art. 3º A concessão do Prêmio será avaliada e viabilizada por um Grupo de Trabalho, 
 
-dicados pela:
-
 coordenado pela Secretaria de Estado da Juventude, Esporte e Lazer da Paraíba.
 
 § 1º O Grupo de Trabalho será formado por representantes, titulares e suplentes, in-
+
+dicados pela:
 
 I - Secretaria de Estado da Juventude, Esporte e Lazer;
 II - Conselho Estadual de Juventude (CEJUP);
@@ -215,7 +216,7 @@ O SECRETÁRIO DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNO-
 LOGIA, no uso de suas atribuições, e tendo em vista o que dispõe o art. 137 da Lei Complementar nº 
 58, de 30 de dezembro de 2003, resolve:
 
-Designar os servidores ADV. CLÁUDIO ROBERTO TÔLEDO DE SANTANA, 
+Designar  os  servidores ADV.  CLÁUDIO  ROBERTO TÔLEDO  DE  SANTANA, 
 matrícula nº 84.061-1, PROFA. MARIA JOSÉ MEDEIROS NETA, matrícula nº 134.138-3, ADV. 
 RITA TORRES FORMIGA, matrícula nº 65.633-0, para, sob a Presidência do primeiro, apurar em 
 sede de Processo Administrativo Disciplinar, os fatos constantes no Processo nº SEE-PRC-2021/12745, 
@@ -230,7 +231,7 @@ O SECRETÁRIO DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNO-
 LOGIA, no uso de suas atribuições, e tendo em vista o que dispõe o art. 137 da Lei Complementar nº 
 58, de 30 de dezembro de 2003, resolve:
 
-Designar os servidores ADV. CLÁUDIO ROBERTO TÔLEDO DE SANTANA, 
+Designar  os  servidores ADV.  CLÁUDIO  ROBERTO TÔLEDO  DE  SANTANA, 
 matrícula nº 84.061-1, PROFA. MARIA JOSÉ MEDEIROS NETA, matrícula nº 134.138-3, ADV. 
 RITA TORRES FORMIGA, matrícula nº 65.633-0, para, sob a Presidência do primeiro, apurar em 
 sede de Processo Administrativo Disciplinar, os fatos do Processo nº SEE-PRC-2021/10257, que tem 
@@ -245,11 +246,11 @@ O SECRETÁRIO DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNO-
 LOGIA, no uso de suas atribuições, e tendo em vista o que dispõe o art. 137 da Lei Complementar nº 
 58, de 30 de dezembro de 2003, resolve:
 
-Designar os servidores ADV. CLÁUDIO ROBERTO TÔLEDO DE SANTANA, 
+Designar  os  servidores ADV.  CLÁUDIO  ROBERTO TÔLEDO  DE  SANTANA, 
 matrícula nº 84.061-1, PROFA. MARIA JOSÉ MEDEIROS NETA, matrícula nº 134.138-3, ADV. 
 RITA TORRES FORMIGA, matrícula nº 65.633-0, para, sob a Presidência do primeiro, apurar em 
 sede de Processo Administrativo Disciplinar, os fatos do Processo nº SEE-PRC-2021/16715, que tem 
-por objetivo apurar suposto caso de acúmulo ilegal de cargo público, praticado pelo servidor Elton 
+por  objetivo  apurar  suposto  caso  de  acúmulo  ilegal  de  cargo  público,  praticado  pelo  servidor  Elton 
 Ricardo de Souza – matrícula nº 175.877-2, lotado nesta SEECT/PB.
 
 Portaria nº   922 
@@ -261,55 +262,42 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/03807, resolve:
 
-1. Determinar a aplicação da penalidade de ADVERTÊNCIA, com fulcro no Art. 
+1.  Determinar  a  aplicação  da  penalidade  de  ADVERTÊNCIA,  com  fulcro  no Art. 
 116, inciso I, em face do servidor Danieres Francisco de Sousa – matrícula nº 611.176-9, por descum-
 primento dos deveres elencados no Art. 106, incisos I, II, III e IV, e incidência na proibição contida no 
 Art. 107, inciso XV, todos da Lei Complementar nº 58/2003, haja vista que o supracitado servidor não 
 realizou a prestação de contas do PROGÁS referente ao exercício 2019 da E.E.E.F. Frei Bruno, dentro 
 do prazo ﬁ xado em lei;
 
-2. Pelo registro da penalidade de ADVERTÊNCIA em desfavor da ex-servidora 
+2.  Pelo  registro  da  penalidade  de  ADVERTÊNCIA  em  desfavor  da  ex-servidora 
 Francigerlane Silva do Ó – matrícula nº 187.427-6, com fulcro no Art. 116, inciso I, por descumpri-
 mento dos deveres elencados no Art. 106, incisos I, II, III e IV, e incidência na proibição contida no Art. 
 107, inciso XV, todos da Lei Complementar nº 58/2003, pois a referida encontra-se afastada de suas 
 
 GOVERNO DO ESTADO
-
 Governador João Azevêdo Lins Filho
-
 SECRETARIA DE ESTADO DA COMUNICAÇÃO INSTITUCIONAL
-
 EMPRESA PARAIBANA DE COMUNICAÇÃO S.A.
-
 BR 101 - Km 03 - Distrito Industrial - João Pessoa-PB - CEP 58082-010
 
 Naná Garcez de Castro Dória
-
 DIRETORA PRESIDENTE
 
 William Costa
-
 DIRETOR DE MÍDIA IMPRESSA
 
 Rui Leitão
-
 DIRETOR DE RÁDIO E TV
 
 Lúcio Falcão
-
 GERENTE OPERACIONAL DE EDITORAÇÃO
-
 GOVERNO DO ESTADO
 
 PUBLICAÇÕES: www. sispublicações.pb.gov.br
-
 DIÁRIO OFICIAL - Fone: (83) 3218-6533 - E-mail: wdesdiario@epc.pb.gov.br
-
 COMERCIAL - Fone; (83) 3218-6526 -  E-mail: comercialauniaopb@yahoo.com.br
 CIRCULAÇÃO - Fone: (83) 3218-6518 - E-mail: circulacaoauniaopb@gmail.com
-
 OUVIDORIA: 99143-6762
-
 Assinatura Digital Anual...................................................................................R$ 300,00
 Assinatura Digital Semestral...........................................................................R$ 150,00
 Assinatura Impressa Anual ............................................................................. R$ 400,00
@@ -329,7 +317,7 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/08011, resolve:
 
-1. Determinar a aplicação da penalidade de ADVERTÊNCIA, com fulcro no Art. 
+1.  Determinar  a  aplicação  da  penalidade  de ADVERTÊNCIA,  com  fulcro  no Art. 
 116, inciso I, em face da servidora Maria do Socorro Lima Dantas – matrícula 184.398-2, por des-
 cumprimento dos deveres elencados no Art. 106, incisos I, II, III e IV, todos da Lei Complementar nº 
 58/2003, em face do cometimento de conduta inadequada, quando do exercício de sua função.
@@ -363,7 +351,7 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/12425, resolve:
 
-1. Determinar a aplicação da penalidade de ADVERTÊNCIA, com fulcro no Art. 
+1.  Determinar  a  aplicação  da  penalidade  de ADVERTÊNCIA,  com  fulcro  no Art. 
 116, inciso I, em face do servidor Vanildo Pedrosa dos Santos – matrícula nº 116.063-0, por descum-
 primento dos deveres elencados no Art. 106, incisos I, II, III, e IX, e incorreu nas proibições contidas 
 no Art. 107, XV, todos da Lei Complementar nº 58/2003, haja vista que a cometeu conduta inadequada 
@@ -409,7 +397,7 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/10638, resolve:
 
-1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  em 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo  Administrativo  Disciplinar,  em 
 face da servidora  Adrianne Martha Melo do Monte – matrícula n° 177.134-5, nos termos do Art. 
 153, §1º, da LC 58/2003, tendo em vista que conforme vislumbrado, não há indícios de irregularidades 
 passíveis de punição, impossibilitando assim, esta Comissão sugerir qualquer tipo de penalidade para 
@@ -510,7 +498,7 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/10675, resolve:
 
-1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  em 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo  Administrativo  Disciplinar,  em 
 face da servidora  Janeide Barbosa dos Satos Andrade – matrícula n° 187.931-6, nos termos do Art. 
 153, §1º, da LC 58/2003, tendo em vista que conforme vislumbrado, não há indícios de irregularidades 
 passíveis de punição, impossibilitando assim, esta Comissão sugerir qualquer tipo de penalidade para 
@@ -525,7 +513,7 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/10662, resolve:
 
-1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  em 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo  Administrativo  Disciplinar,  em 
 face da servidora  Fernanda Carolina Pereira Medeiros – matrícula n° 615.931-1, nos termos do Art. 
 153, §1º, da LC 58/2003, tendo em vista que conforme vislumbrado, não há indícios de irregularidades 
 passíveis de punição, impossibilitando assim, esta Comissão sugerir qualquer tipo de penalidade para 
@@ -554,7 +542,7 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/10653, resolve:
 
-1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  em 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo  Administrativo  Disciplinar,  em 
 face da servidora  Josilene de Castro dos Santos Pereira – matrícula n° 114.904-1, nos termos do Art. 
 153, §1º, da LC 58/2003, tendo em vista que conforme vislumbrado, não há indícios de irregularidades 
 passíveis de punição, impossibilitando assim, esta Comissão sugerir qualquer tipo de penalidade para 
@@ -600,7 +588,7 @@ mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo de S
 1. Pelo ARQUIVAMENTO da presente Sindicância, no que diz respeito ao objeto 
 do presente feito, nos termos do Art. 133, inciso I da LC 58/2003, em face da falta de informações e a 
 ausência do conjunto probatório que comprove a autoria dos fatos delituosos, quais sejam as invasões, 
-arrombamentos e furtos de materiais e equipamentos ocorridos no âmbito da ECI Dr. Hortênsio de 
+arrombamentos  e  furtos  de  materiais  e  equipamentos  ocorridos  no  âmbito  da  ECI  Dr.  Hortênsio  de 
 Sousa Ribeiro, pertencente à 3ª GRE-SEECT/PB.
 
 Portaria nº   943 
@@ -752,7 +740,7 @@ servidores de seu quadro funcional, dentro do critério de conveniência e oport
 derados como servidores estáveis, desde que o ato administrativo seja devidamente motivado; 
 
 RESOLVE,  por  necessidade  da  Administração  Pública  e  visando  a  eﬁ ciência 
-na prestação do serviço, designar o servidor DANIEL LEAL ARAUJO, Policial Penal, matrícula 
+na  prestação  do  serviço,  designar  o  servidor  DANIEL  LEAL ARAUJO,  Policial  Penal,  matrícula 
 168.751-4, ora lotado na Penitenciária João Bosco Carneiro para prestar serviço junto à CADEIA PÚ-
 BLICA DE ALAGOA GRANDE, até ulterior deliberação.
 
@@ -842,7 +830,7 @@ servidores de seu quadro funcional, dentro do critério de conveniência e oport
 derados como servidores estáveis, desde que o ato administrativo seja devidamente motivado; 
 
 RESOLVE, por necessidade da Administração Pública e visando a eﬁ ciência na 
-prestação do serviço, designar o servidor EMANNUEL PITA DANTAS, Policial Penal, matrícula 
+prestação  do  serviço,  designar  o  servidor  EMANNUEL  PITA  DANTAS,  Policial  Penal,  matrícula 
 163.157-8, ora lotado na Penitenciária De Recuperação Feminina Maria Julia Maranhão para prestar 
 serviço junto à PENITENCIÁRIA PADRÃO DE SANTA RITA, até ulterior deliberação.
 
@@ -926,40 +914,65 @@ CONT.
 
 CONTRATADO (A)
 
-CAMALAÚ
-CAMALAÚ
-CAMALAÚ
+VIGÊNCIA
+
+FUNÇÃO
+
 CAMALAÚ
 
 001/2021
-002/2021
-002/2021
-002/2021
 
 247/2021
-180/2020
-197/2020
-179/2020
 
 MARIA DE FÁTIMA SILVA
+
+Até 31/03/2022
+
+2.000,00
+
+Coordenadora
+
+CAMALAÚ
+
+002/2021
+
+180/2020
+
 JESSICA ARAUJO LIMA FREITAS
+
+Até 31/03/2022
+
+1.600,00
+
+Advogada
+
+CAMALAÚ
+
+002/2021
+
+197/2020
+
 ANA LUCIA PEREIRA DE ASSIS SOUZA
+
+Até 31/03/2022
+
+1.600,00
+
+Assistente Social
+
+CAMALAÚ
+
+002/2021
+
+179/2020
+
 RENATA DOS SANTOS OLIVEIRA
 
-VIGÊNCIA
-
-Até 31/03/2022
-Até 31/03/2022
-Até 31/03/2022
 Até 31/03/2022
 
-VALOR 
-MENSAL 
-(R$)
-2.000,00
 1.600,00
-1.600,00
-1.600,00
+
+Psicóloga
 
 CAMALAÚ
 
@@ -972,6 +985,10 @@ SIMONE DUARTE FREITAS
 Até 31/03/2022
 
 1.600,00
+
+VALOR 
+MENSAL 
+(R$)
 
 CAMALAÚ
 
@@ -997,169 +1014,7 @@ Até 31/03/2022
 
 1.100,00
 
-FUNÇÃO
-
-Coordenadora
-Advogada
-Assistente Social
-Psicóloga
-Educadora 
-Social
-Auxiliar 
-Administrativo
 Motorista
-
-IBIARA 
-
-IBIARA 
-IBIARA 
-
-IBIARA 
-
-IBIARA 
-
-IBIARA 
-
-IBIARA 
-
-002/2021
-
-164/2020
-
-KETLEN RODRIGUES DE ARAUJO
-
-Até 31/03/2022
-
-2.000,00
-
-Coordenadora
-
-002/2021
-002/2021
-
-165/2020
-160/2020
-
-002/2021
-
-162/2020
-
-DEBORA LEITE DE ARAUJO
-MARIA CLARA NEVES DE ALMEIDA
-YARA MONALIZA PEREIRA DE SOUSA 
-RODRIGUES
-
-Até 31/03/2022
-Até 31/03/2022
-
-1.600,00
-1.600,00
-
-Advogada
-Assistente Social
-
-Até 31/03/2022
-
-1.600,00
-
-Psicóloga
-
-001/2021
-
-392/2020
-
-MARIA DO SOCORRO FERREIRA LOPES DA SILVA
-
-Até 31/03/2022
-
-1.600,00
-
-002/2021
-
-161/2020
-
-DORGIELYSON BATISTA XAVIER
-
-Até 31/03/2022
-
-1.100,00
-
-002/2021
-
-159/2020
-
-JOÃO ERIKES ALMEIDA MARQUES
-
-Até 31/03/2022
-
-1.100,00
-
-LUCENA
-LUCENA
-
-002/2021
-001/2021
-
-088/2020
-415/2020
-
-SOLANGE PACHECO SIMÕES
-LUCAS VASCONCELOS FURTADO
-
-LUCENA
-
-002/2021
-
-086/2020
-
-PATRICIA HENRIQUE DANTAS
-
-LUCENA
-
-001/2021
-
-396/2021
-
-LUCENA
-
-001/2021
-
-348/2021
-
-THAISA MOTA DE OLIVEIRA
-ALVARO JARDEL CONCEIÇÃO SANTOS DE 
-OLIVEIRA
-
-Até 31/03/2022
-Até 31/03/2022
-
-2.000,00
-1.600,00
-
-Até 31/03/2022
-
-1.600,00
-
-Até 31/03/2022
-
-1.600,00
-
-Até 31/03/2022
-
-1.600,00
-
-Educador Social
-
-Educadora
-Socia
-Motorista
-Auxiliar 
-Administrativo
-Coordenadora 
-Advogado
-Assistente
-Social
-Psicóloga
 
 Procuradoria Geral
 do Estado da Paraíba
@@ -1181,7 +1036,7 @@ O COMANDANTE-GERAL DA POLÍCIA MILITAR DO ESTADO DA PARA-
 ÍBA, com fundamento no artigo 12, inciso XII, da Lei Complementar Estadual n° 87, de 02/12/2008, 
 publicada no Diário Oﬁ cial do Estado nº 13.970, de 03/12/2008, RESOLVE:
 
-1. Designar para as funções de Gestor e Fiscal do Contrato Administrativo N.º 
+1.  Designar  para  as  funções  de  Gestor  e  Fiscal  do  Contrato Administrativo  N.º 
 0046/2021, que tem como objeto a CONTRATAÇÃO DE SERVIÇOS DE PLANEJAMENTO, ORGA-
 NIZAÇÃO, FORMULAÇÃO E EXECUÇÃO DE PROCESSO SELETIVO INTERNO, COM A ELA-
 BORAÇÃO, IMPRESSÃO E APLICAÇÃO DE PROVAS, PARA O CURSO DE HABILITAÇÃO DE 
@@ -1192,18 +1047,107 @@ Fahad Kaﬀ a Ferraz.
 
 2. Esta Portaria entra em vigor na data de sua publicação.
 
+Educadora 
+Social
+
+Auxiliar 
+Administrativo
+
 Universidade
 Estadual da Paraíba
 
+IBIARA 
+
+002/2021
+
+164/2020
+
+KETLEN RODRIGUES DE ARAUJO
+
+Até 31/03/2022
+
+2.000,00
+
+Coordenadora
+
 PORTARIA/UEPB/GR/0846/2021
 
-A Reitora da UNIVERSIDADE ESTADUAL DA PARAÍBA – UEPB, no uso das 
+IBIARA 
+
+IBIARA 
+
+002/2021
+
+165/2020
+
+DEBORA LEITE DE ARAUJO
+
+Até 31/03/2022
+
+1.600,00
+
+Advogada
+
+002/2021
+
+160/2020
+
+MARIA CLARA NEVES DE ALMEIDA
+
+Até 31/03/2022
+
+1.600,00
+
+Assistente Social
+
+IBIARA 
+
+002/2021
+
+162/2020
+
+Até 31/03/2022
+
+1.600,00
+
+Psicóloga
+
+YARA MONALIZA PEREIRA DE SOUSA 
+RODRIGUES
+
+IBIARA 
+
+001/2021
+
+392/2020
+
+MARIA DO SOCORRO FERREIRA LOPES DA SILVA
+
+Até 31/03/2022
+
+1.600,00
+
+A  Reitora  da  UNIVERSIDADE  ESTADUAL  DA  PARAÍBA  –  UEPB,  no  uso  das 
 
 atribuições que lhe confere o artigo 47, inciso X, do Estatuto da Instituição, RESOLVE:
 
-Designar o(s) servidor(es) abaixo relacionado(s) para exercer a função de Gestor/
+Designar  o(s)  servidor(es)  abaixo  relacionado(s)  para  exercer  a  função  de  Gestor/
 
 Fiscal do(s) contrato(s) correspondente(s) pelo período de sua vigência.
+
+IBIARA 
+
+002/2021
+
+161/2020
+
+DORGIELYSON BATISTA XAVIER
+
+Até 31/03/2022
+
+1.100,00
+
+Motorista
 
 Nome
 
@@ -1212,6 +1156,46 @@ Matrícula
 CPF
 
 Nº do Contrato
+
+IBIARA 
+
+002/2021
+
+159/2020
+
+JOÃO ERIKES ALMEIDA MARQUES
+
+Até 31/03/2022
+
+1.100,00
+
+LUCENA
+
+002/2021
+
+088/2020
+
+SOLANGE PACHECO SIMÕES
+
+Até 31/03/2022
+
+2.000,00
+
+Coordenadora 
+
+LUCENA
+
+001/2021
+
+415/2020
+
+LUCAS VASCONCELOS FURTADO
+
+Até 31/03/2022
+
+1.600,00
+
+Advogado
 
 Antônio Carlos Trajano De Oliveira
 
@@ -1223,8 +1207,58 @@ Antônio Carlos Trajano De Oliveira
 0888/2021 (PE 023/2020)
 0889/2021 (PE 023/2021)
 
+Educadora
+Socia
+
+Auxiliar 
+Administrativo
+
+Assistente
+Social
+
 Esta portaria entra em vigor na data de sua publicação.
 Campina Grande - PB, 16 de dezembro de 2021.
+
+LUCENA
+
+002/2021
+
+086/2020
+
+PATRICIA HENRIQUE DANTAS
+
+Até 31/03/2022
+
+1.600,00
+
+LUCENA
+
+001/2021
+
+396/2021
+
+THAISA MOTA DE OLIVEIRA
+
+Até 31/03/2022
+
+1.600,00
+
+Psicóloga
+
+LUCENA
+
+001/2021
+
+348/2021
+
+Até 31/03/2022
+
+1.600,00
+
+Educador Social
+
+ALVARO JARDEL CONCEIÇÃO SANTOS DE 
+OLIVEIRA
 
 LUCENA
 
@@ -1247,15 +1281,7 @@ Secretário de Estado do Desenvolvimento Humano
 Secretaria de Estado do Planejamento, 
 Orçamento e  Gestão
 
-Companhia Paraibana 
-de Gás - PBGÁS
-
- PORTARIA  n º 034/2021
-
 PORTARIA GS Nº 013/2021                                                    João Pessoa, 15 de dezembro de 2021.
-
-DISPÕE SOBRE DESIGNAÇÃO DE GESTOR DE CONTRATOS 
-E DÁ OUTRAS PROVIDÊNCIAS
 
 O SECRETÁRIO DE ESTADO DO PLANEJAMENTO, ORÇAMENTO E GES-
 TÃO - SEPLAG, no uso de suas atribuições legais e conforme Lei Estadual nº 10.804/16 e, ainda, tendo 
@@ -1272,6 +1298,14 @@ Art. 2º Compete a servidora designada acompanhar a execução do Convênio, obs
 vando o disposto no Art. 61 do Decreto nº 33.884/2013.
 
 Art. 3º - Esta Portaria entra em vigor na data de sua publicação.
+
+Companhia Paraibana 
+de Gás - PBGÁS
+
+ PORTARIA  n º 034/2021
+
+DISPÕE SOBRE DESIGNAÇÃO DE GESTOR DE CONTRATOS 
+E DÁ OUTRAS PROVIDÊNCIAS
 
 O Diretor Presidente da Companhia Paraibana de Gás - PBGÁS, no uso de suas atribui-
 ções legais e estatutárias e em cumprimento às Resoluções da Controladoria Geral do Estado – CGE/PB, 
@@ -1300,19 +1334,6 @@ Diário Oﬁ cial
 
 Departamento Estadual de
 Trânsito do Estado da Paraíba
-
-RIU o(s) PROCESSO(s) DE REVISÃO DE APOSENTADORIA, abaixo relacionado(s):
-
-Processo
-001831-21
-
-01
-
-Requerente
-ALDENIR TAVARES DA SILVA
-
-Matrícula
-515.927-0
 
 PORTARIA Nº 514/2021/DS                                                    João Pessoa, 09 de Dezembro de 2021.
 
@@ -1345,23 +1366,37 @@ Janeiro de 2022, correspondente ao gozo das férias regulamentares do titular.
 
 Art. 2º – Esta portaria entra em vigor na data de sua publicação.
 
+RIU o(s) PROCESSO(s) DE REVISÃO DE APOSENTADORIA, abaixo relacionado(s):
+
+Processo
+
+Requerente
+
+01
+
+001831-21
+
+ALDENIR TAVARES DA SILVA
+
+Matrícula
+
+515.927-0
+
 João Pessoa, 16 de dezembro de 2021.
 
 JOSÉ ANTONIO COÊLHO CAVALCANTI
-
 Presidente da PBPREV 
 
 LICITAÇÕES - EXTRATOS - LICENÇAS - TERMOS - ATAS
+
 Empresa Paraibana de Abastecimento 
 e Serviços Agrícolas
 
 EDITAL DE CONVOCAÇÃO
 EMPRESA PARAIBANA DE ABASTECIMENTO E SERVIÇOS AGRÍCOLAS –
-
 EMPASA “Em Liquidação” CNPJ 40981516/0001-89
 
 EDITAL DE CONVOCAÇÃO PARA ASSEMBLEIA GERAL EXTRAORDINÁRIA
-
 Convocamos os Senhores Acionistas a comparecer a Assembleia Geral Extraordinária que se realizará 
 de forma virtual, por intermédio da plataforma do Google Meets, no dia 28 de Dezembro 2021, às 10h, 
 para deliberar sobre os seguintes assuntos: a) Nomeação do Liquidante designado por sua Excelência, o 
@@ -1372,21 +1407,12 @@ cação está de conformidade com a Lei que regula as Sociedades por Ações e o
 João Pessoa, 14 de dezembro de 2021.
 
 JOSÉ SAMARONY DE SOUSA ALVES
-
 EMPASA/Liquidante
 
 PBPrev - Paraíba
 Previdência
 
-Loteria do Estado
-da Paraíba
-
-NOTIFICAÇÃO
-
-LOTERIA DO ESTADO DA PARAÍBA 
-
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – A – Nº. 1171
 
               
@@ -1394,12 +1420,12 @@ O Presidente da PBPREV, no uso de suas atribuições, consoante o disposto no ar
 II, da Lei nº. 7.517-PBPREV, de 30 de dezembro de 2003 e de acordo com o Processo Judicial de nº. 
 0809827-47.2019.8.15.0000,
 RESOLVE
-Art. 1º Tornar sem efeito a Portaria – A – Nº. 0120/2021, publicada no DOE em 
+Art.  1º  Tornar  sem  efeito  a  Portaria  – A  –  Nº.  0120/2021,  publicada  no  DOE  em 
 
 23/04/2021, respectivamente;  
 
 Transferir para a Reserva Remunerada “a pedido” o 1º Sargento  PM, JOÃO MEN-
-DES BARBOSA, matrícula nº. 517.661-1, conforme o disposto do “art. 42, § 1º, da Constituição 
+DES  BARBOSA,  matrícula  nº.  517.661-1,  conforme  o  disposto  do  “art.  42,  §  1º,  da  Constituição 
 Federal de 1988, com redação dada pela Emenda Constitucional nº. 20/1998, c/c os art. 88, inciso 
 I e 89, caput, da Lei nº. 3909/1977; c/c com o artigo 1º § 1º da Lei nº 4.816, de 03 de junho de 1986, 
 alterada pela Lei nº 5.278, de 29 de junho de 1990, e pela Lei nº 5.331, de 19 de novembro de 1990 
@@ -1408,7 +1434,6 @@ c/c  art. 34, caput, da Lei nº. 5.701/1993”.
 João Pessoa, 16 de dezembro de 2021. 
 
 JOSÉ ANTONIO COÊLHO CAVALCANTI
-
 Presidente da PBPREV  
 
 RESENHA/PBPREV/GP/nº 0488/2021
@@ -1426,6 +1451,8 @@ Matrícula
 
 Portaria
 
+Fundamentação Legal
+
 01
 
 005660-21
@@ -1436,7 +1463,6 @@ FRANCISCA MARLENE NUNES DE CARVALHO.
 
 1156
 
-Fundamentação Legal
 Art. 40, § 1º, inciso III, alínea “a”, da 
 CF/88, c/c o artigo 1º da Lei nº 10.887/04.
 
@@ -1449,36 +1475,48 @@ conferidas pelos incisos I, II e III do art. 11 da Lei nº 7.517, de 30 de dezem
 RIU o(s) PROCESSO(s) DE SOLICITAÇÃO, abaixo relacionado(s):
 
 Processo
-11808-18
+
+Requerente
 
 01
 
-Requerente
+11808-18
+
 MARIA DO SOCORRO DE QUEIROZ
+
+Matrícula
+
+087.248-2
+
 João Pessoa, 16 de dezembro de 2021.
 
 RESENHA/PBPREV/GP/Nº. 492/2021
 
-Matrícula
-087.248-2
+Loteria do Estado
+da Paraíba
 
-O Presidente da PBPREV - Paraíba Previdência, no uso das atribuições que lhes são 
-conferidas pelos incisos I, II e III do art. 11 da Lei nº 7.517, de 30 de dezembro de 2003, INDEFE-
+NOTIFICAÇÃO
+
+LOTERIA DO ESTADO DA PARAÍBA 
 
 NOTIFICAÇÃO 012/2021
-
 NOTIFICAÇÃO - NOTA CIDADÃ 012/2021
-
 RELAÇÃO DOS VENCEDORES DO 24º SORTEIO DO PROGRAMA “NOTA CIDADÃ”
-
 CONTEMPLADOS NO CONCURSO Nº 024 – DEZEMBRO/2021
-
 O Superintendente da Loteria do Estado da Paraíba – LOTEP, no uso de suas atribuições, vem tornar 
 público a relação dos contemplados no 24º sorteio (DEZEMBRO/2021) denominado “nota cidadã” 
 com fulcro na Lei Estadual 11.519 de 25 de novembro de 2019 e publicada no Diário Oﬁ cial do Estado 
 do dia 26/11/2019, regulamentada pelo Decreto Estadual nº 39.862 de 13/12/2019, publicado no Diário 
 Oﬁ cial do dia 14/12/2019
 DADOS DO SORTEIO
+
+PRÊMIO
+
+Nº Sorteado
+
+CPF
+
+SORTEADO
 
 Nº
 
@@ -1522,16 +1560,6 @@ Nº
 
 20º
 
-21º
-
-PRÊMIO
-
-Nº Sorteado
-
-CPF
-
-SORTEADO
-
 2.000,00
 
 2.000,00
@@ -1571,8 +1599,6 @@ SORTEADO
 2.000,00
 
 2.000,00
-
-20.000,00
 
 163031
 
@@ -1614,53 +1640,51 @@ SORTEADO
 
 72530
 
-125518
-
 924.***.***.-**
-
-084 .***.***.-**
-
-073.***.***.-**
-
-092.***.***.-**
-
-713.***.***.-**
-
-086.***.***.-**
-
-005.***.***.-**
-
-086.***.***.-**
-
-093.***.***.-**
-
-107.***.***.-**
-
-075.***.***.-**
-
-010.***.***.-**
 
 Marcos Antônio Barros Correia
 
+084 .***.***.-**
+
 Kassio Lima De Farias
+
+073.***.***.-**
 
 Grace Kelly Neves Da Silva
 
+092.***.***.-**
+
 Hiago Jose Leite Cordeiro
+
+713.***.***.-**
 
 Alessandra Santos Pereira
 
+086.***.***.-**
+
 Alcilene Pereira Da Silva
+
+005.***.***.-**
 
 Cid Rafael Beserra De Queiroz
 
+086.***.***.-**
+
 Maria Eduarda De Souza Silva
+
+093.***.***.-**
 
 Elaine Guedes Paulino Carvalho
 
+107.***.***.-**
+
 Narciso Souza Dantas
 
+075.***.***.-**
+
 Irenildo Silva Souza
+
+010.***.***.-**
 
 Marcia Kelly Batista Silva
 
@@ -1670,39 +1694,47 @@ Larissa Mayara Bezerra Regis
 
 526.***.***.-**
 
-038.***.***.-**
-
-084.***.***.-**
-
-104.***.***.-**
-
-114.***.***.-**
-
-225.***.***.-**
-
-008.***.***.-**
-
-043.***.***.-**
-
 Silvio Jose Pereira
+
+038.***.***.-**
 
 Joao Firmino Cosmo Junior
 
+084.***.***.-**
+
 Kelarkiane Martins Da Silva
+
+104.***.***.-**
 
 Milena Celina Pereira Dias
 
+114.***.***.-**
+
 Amelly Elida Gomes Ribeiro
+
+225.***.***.-**
 
 Roberto Antonio Silva De Vasconcelos
 
+008.***.***.-**
+
 Juliana Pereira De Oliveira
 
-Patrícia Marcelino Do Nascimento
+O Presidente da PBPREV - Paraíba Previdência, no uso das atribuições que lhes são 
+conferidas pelos incisos I, II e III do art. 11 da Lei nº 7.517, de 30 de dezembro de 2003, INDEFE-
 
 Francisco Petrônio de Oliveira Rolim
-
 Superintendente da LOTEP
+
+21º
+
+20.000,00
+
+125518
+
+043.***.***.-**
+
+Patrícia Marcelino Do Nascimento
 
 João Pessoa, 17 de dezembro de 2021
 
@@ -1720,14 +1752,12 @@ AUDIÊNCIA PÚBLICA
 COMPANHIA PARAIBANA DE GÁS 
 
 AVISO DE AUDIÊNCIA PÚBLICA Nº 005/2021
-
-A COMPANHIA PARAIBANA DE GÁS – PBGÁS, em atendimento a Lei Estadual Nº 8.767 de 
+A  COMPANHIA  PARAIBANA  DE  GÁS  –  PBGÁS,  em  atendimento  a  Lei  Estadual  Nº  8.767  de 
 15/04/2009, comunica aos usuários e demais interessados que realizará AUDIÊNCIA PÚBLICA, com 
 o objetivo de dar conhecimento e fundamentar a proposta de reajuste das tarifas do serviço público de 
 distribuição de gás canalizado no Estado da Paraíba, a vigorar a partir de 01 de janeiro de 2022.
 A audiência será realizada de forma virtual no dia 23 de dezembro de 2021, às 09h, e qualquer interessado 
 poderá participar através do link de acesso que será disponibilizado no site da PBGÁS (www.pbgas.com.br).
-
 A DIRETORIA
 
 Fundação Paraíbana
@@ -1738,10 +1768,8 @@ EDITAL DE CONVOCAÇÃO
 FUNDAÇÃO PARAIBANA DE GESTÃO EM SAÚDE 
 
 EDITAL DE CONVOCAÇÃO
-
 DA 7ª REUNIÃO ORDINÁRIA DO CONSELHO DE ADMINISTRAÇÃO
-
-Para atendimento do que dispõe o artigo 20 do ESTATUTO DA FUNDAÇÃO PARAIBANA DE 
+Para  atendimento  do  que  dispõe  o  artigo  20  do  ESTATUTO  DA  FUNDAÇÃO  PARAIBANA  DE 
 GESTÃO EM SAÚDE – PB SAÚDE, convoca os Membros do CONSELHO DE ADMINISTRA-
 ÇÃO para REUNIÃO ORDINÁRIA no dia 21 de dezembro de 2021, terça-feira, às 10h em primeira 
 convocação e 10h e 15h em segunda convocação, que se realizará por meio eletrônico/virtual, ﬁ cando 
@@ -1752,7 +1780,7 @@ ORDEM DO DIA
 2. Discussão e aprovação do Regulamento de Pessoal da Fundação Paraibana de Gestão em Saúde – PB 
 Saúde.
 3. Discussão e aprovação da minuta da Resolução nº 005/2021 que aprova o quadro de funções de livre 
-provimento e estrutura remuneratória do Hospital Metropolitano Dom José Maria Pires e dá outras 
+provimento  e  estrutura  remuneratória  do  Hospital  Metropolitano  Dom  José  Maria  Pires  e  dá  outras 
 providências. 
 4. Assuntos Gerais 
 DOS PROCEDIMENTOS 
@@ -1777,9 +1805,24 @@ prepostos convocados a critério da Mesa do Conselho para a execução de ativid
 assim como em relação à qualidade deles, não ﬁ cando a PB SAUDE responsável por problemas técnicos 
 que impossibilitem a participação total ou parcial na reunião. 
                                                                                                                   João Pessoa, 17 de dezembro de 2021
-
 GERALDO ANTONIO DE MEDEIROS
  Presidente do Conselho de Administração
+
+Secretaria de Estado da Educação
+e da Ciência e Tecnologia
+
+EDITAL E AVISO
+
+SECRETARIA DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNOLOGIA
+
+EDITAL SEECT-PB/PARAIBATEC-PB nº  045/2021
+PROCESSO DE SELEÇÃO INTERNA SIMPLIFICADA PARA
+PROFESSOR BOLSISTA DO PARAIBATEC/SEECT-PB
+A Secretaria de Estado da Educação e da Ciência e Tecnologia da Paraíba – SEECT/PB, por meio da 
+Gerência Executiva de Educação Proﬁ ssional – GEEP, no uso de suas atribuições legais, torna público 
+que estarão abertas as inscrições para o Processo de Seleção Interna Simpliﬁ cada com vistas a selecio-
+nar proﬁ ssionais que estejam interessados em ocupar o encargo de Professor Bolsista para exercer as 
+funções docentes nos Cursos EaD de Férias para Alunos da Rede Estadual de Ensino do programa 
 
 PARAIBATEC, observadas as disposições contidas neste Edital, bem como as normas estabelecidas na 
 Lei Estadual no 10.700, de 31 de maio de 2016, e Portaria SEECT/PB nº 201, de 13 de fevereiro de 2020.
@@ -1794,7 +1837,7 @@ homologação de seu resultado ﬁ nal, podendo ser prorrogado por até igual pe
 1.3 Poderão participar do Processo de Seleção Interna Simpliﬁ cada, para exercer o encargo de Professor 
 Bolsista, proﬁ ssionais que atendam aos perﬁ s básicos de formação do curso de conhecimento, descrito 
 no item 5.1.
-1.4 O (a) professor (a) bolsista classiﬁ cado(a) e selecionado(a) irá desempenhar suas atividades na 
+1.4  O  (a)  professor  (a)  bolsista  classiﬁ cado(a)  e  selecionado(a)  irá  desempenhar  suas  atividades  na 
 modalidade EAD obedecendo os requisitos indicados no item 5.1 deste Edital.
 2. DO PROGRAMA
 2.1 O PARAIBATEC tem a ﬁ nalidade de formar jovens, adultos e proﬁ ssionais em cursos de educação 
@@ -1818,7 +1861,7 @@ efeito, ao vencimento, salário, remuneração ou proventos recebidos, conforme 
 3°, da Lei Federal no 12.513/2011.
 3.2.1 O início das atividades do professor bolsista dar-se-á mediante o fechamento de turmas (existência 
 de demanda) e de acordo com a disponibilidade orçamentária e ﬁ nanceira do Programa.
-3.2.2 O pagamento da bolsa no âmbito do PARAIBATEC não faz jus a licenças, auxilio doença ou 
+3.2.2  O  pagamento  da  bolsa  no  âmbito  do  PARAIBATEC  não  faz  jus  a  licenças,  auxilio  doença  ou 
 qualquer outro tipo de benefício.
 3.2.3 Exclusivamente nos casos de doenças que requer um tratamento superior a 14 (catorze) dias ou 
 gravidez, a concessão da bolsa será suspensa, podendo o proﬁ ssional retornar para suas atividades do 
@@ -1836,6 +1879,7 @@ e sua carga horária regular, nem comprometer a qualidade, o bom andamento e o a
 de metas da Instituição, conforme §1° do artigo 9° da Lei Federal n° 12.513, de 26 de outubro de 2011.
 3.4 O pagamento das bolsas aos proﬁ ssionais que atuarão na Bolsa-auxílio deve obedecer aos seguintes 
 valores por hora de trabalho, de acordo com a tabela abaixo:
+
 TITULAÇÃO
 
 DOUTORADO
@@ -1845,31 +1889,14 @@ MESTRADO
 ESPECIALIZAÇÃO
 
 *VALOR REFERÊNCIA DA
+
 HORA AULA
+
 R$ 42,00
 
 R$ 35,00
 
 R$ 30,00
-
-Secretaria de Estado da Educação
-e da Ciência e Tecnologia
-
-EDITAL E AVISO
-
-SECRETARIA DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNOLOGIA
-
-EDITAL SEECT-PB/PARAIBATEC-PB nº  045/2021
-
-PROCESSO DE SELEÇÃO INTERNA SIMPLIFICADA PARA
-
-PROFESSOR BOLSISTA DO PARAIBATEC/SEECT-PB
-
-A Secretaria de Estado da Educação e da Ciência e Tecnologia da Paraíba – SEECT/PB, por meio da 
-Gerência Executiva de Educação Proﬁ ssional – GEEP, no uso de suas atribuições legais, torna público 
-que estarão abertas as inscrições para o Processo de Seleção Interna Simpliﬁ cada com vistas a selecio-
-nar proﬁ ssionais que estejam interessados em ocupar o encargo de Professor Bolsista para exercer as 
-funções docentes nos Cursos EaD de Férias para Alunos da Rede Estadual de Ensino do programa 
 
 GRADUAÇÃO/LICENCIATURA/BACHARELADO/TECNÓLOGO R$ 21,00
 
@@ -1943,11 +1970,11 @@ dezembro de 2021, até às 23h59min.
 4.2.2.1 Cópias (digitalizadas) dos documentos de identiﬁ cação pessoal e CPF;
 4.2.2.1.1 Serão considerados documentos de identiﬁ cação pessoal: carteiras expedidas pelos Coman-
 dos Militares, pelas Secretarias de Segurança Pública, pelos Institutos de Identiﬁ cação, pelas Polícias 
-Militares e pelos Corpos de Bombeiros Militares; carteiras expedidas pelos órgãos ﬁ scalizadores de 
+Militares  e  pelos  Corpos  de  Bombeiros  Militares;  carteiras  expedidas  pelos  órgãos  ﬁ scalizadores  de 
 exercício proﬁ ssional (ordens, conselhos etc.) que, por lei federal, valham como identidade e possibilitem 
 a conferência da foto e da assinatura; carteira de trabalho; passaporte brasileiro; e carteira nacional de 
 habilitação (somente o modelo com foto).
-4.2.2.2 Cópia (digitalizada) dos documentos comprobatórios de graduação, de acordo com o perﬁ l 
+4.2.2.2  Cópia  (digitalizada)  dos  documentos  comprobatórios  de  graduação,  de  acordo  com  o  perﬁ l 
 exigido no item 5.1.
 4.2.2.2.1 Serão considerados documentos para comprovação de graduação apenas diploma, certiﬁ cado 
 ou certidão de conclusão dos cursos.
@@ -1977,7 +2004,7 @@ no link: https://bit.ly/320XeEE.
 4.2.2.8.1 Os itens e a formatação do arquivo devem ser mantidos, sendo portanto inseridas apenas as 
 informações pertinentes e deletadas as observações anotadas no modelo.
 4.3 A SEECT/PB não se responsabiliza por inscrições não concluídas por motivo de ordem técnica 
-dos computadores, falhas de comunicação, congestionamento das linhas de comunicação, bem 
+dos  computadores,  falhas  de  comunicação,  congestionamento  das  linhas  de  comunicação,  bem 
 como por quaisquer fatores que impossibilitem a transferência de dados.
 4.4 Todas as informações prestadas por cada candidato são de sua total responsabilidade.
 4.5 Não serão aceitas digitalizações com rasuras que impossibilitem a conferência da informação ou 
@@ -2011,7 +2038,6 @@ realizada para um mesmo candidato.
 5. DAS VAGAS
 5.1 O perﬁ l dos proﬁ ssionais a serem selecionados como professores e a quantidade de vagas a serem 
 preenchidas por este Processo de Seleção Interna Simpliﬁ cada estão discriminadas na tabela abaixo:
-CARGA HORÁRIA MÁXIMA 
 
 VAGAS
 
@@ -2019,23 +2045,26 @@ ENCARGO
 
 REQUISITOS/PERFIL BÁSICO
 
+CARGA HORÁRIA MÁXIMA 
+
+SEMANAL
+
 30
 
 PROFESSOR TUTOR EAD
 
-- Curso Superior Completo
-- Ser professor da SEECT
-
-SEMANAL
-
 20 h/s (4h/a diárias de segunda a sexta)
+
+- Curso Superior Completo
+
+- Ser professor da SEECT
 
 5.2 Poderá haver convocação de mais candidatos além do número estabelecido de acordo com a neces-
 sidade da SEECT.
 5.3 O início das atividades do professor bolsista dar-se-á mediante a existência mínima de 20 (vinte) 
 alunos inscritos para a oferta do curso.
 6. DOS CANDIDATOS COM DEFICIÊNCIA
-6.1 Consideram-se pessoas com deﬁ ciência aquelas que se enquadram nas categorias discriminadas 
+6.1  Consideram-se  pessoas  com  deﬁ ciência  aquelas  que  se  enquadram  nas  categorias  discriminadas 
 do Decreto Federal nº 9.508, de 24 de setembro de 2018, e suas alterações, bem como na Súmula n.º 
 377/2009 do Superior Tribunal de Justiça.
 6.2 As pessoas com deﬁ ciência, resguardadas as condições especiais previstas no Decreto Federal n.° 
@@ -2151,7 +2180,7 @@ deste ato condicionada à observância das disposições legais pertinentes, do 
 Coordenação Geral do PARAIBATEC na SEECT/PB, bem como da existência de demanda no Cursos 
 EaD de “Férias para Alunos da Rede Estadual de Ensino” do programa PARAIBATEC pela SEECT/
 PB e da disponibilidade orçamentária e ﬁ nanceira do Programa.
-7.9 Durante o decorrer do Cursos EaD de “Férias para Alunos da Rede Estadual de Ensino” do 
+7.9  Durante  o  decorrer  do  Cursos  EaD  de  “Férias  para Alunos  da  Rede  Estadual  de  Ensino”  do 
 programa PARAIBATEC, poderão ser feitas novas convocações obedecendo rigorosamente a lista dos 
 candidatos classiﬁ cados e o prazo de vigência deste Processo de Seleção Pública Simpliﬁ cada.
 8. DOS RECURSOS
@@ -2169,13 +2198,13 @@ lizado a partir do endereço http://bit.ly/pbtec.
 mentação ou adição daqueles enviados durante a inscrição on-line.
 8.5 Compete à Comissão Interna de Seleção aceitar o recurso impetrado e julgá-lo.
 8.6 O resultado dos recursos interpostos pelos candidatos será publicado no link: http://bit.ly/pbtec.
-8.7 Serão indeferidos os recursos interpostos fora do prazo deﬁ nido neste Edital de Seleção Interna 
+8.7  Serão  indeferidos  os  recursos  interpostos  fora  do  prazo  deﬁ nido  neste  Edital  de  Seleção  Interna 
 Simpliﬁ cada.
 8.8 O candidato poderá enviar apenas um único recurso. Caso haja mais de um envio no formulário 
 on-line, será considerado o último recurso registrado para o mesmo CPF.
 
 9. DOS CRITÉRIOS DE DESEMPATE
-9.1 Na hipótese de igualdade no total de pontos entre os candidatos habilitados, terá preferência na 
+9.1  Na  hipótese  de  igualdade  no  total  de  pontos  entre  os  candidatos  habilitados,  terá  preferência  na 
 classiﬁ cação, sucessivamente, o candidato que tiver:
 a) Maior idade, conforme o artigo 27, parágrafo único, da Lei Federal nº 10.741/03;
 b) Maior pontuação total no critério “Adequação ao Google Classroom” de acordo com o quadro 
@@ -2204,7 +2233,7 @@ Processo de Seleção Simpliﬁ cada por meio do portal da Secretaria de Estado 
 e Tecnologia da Paraíba – SEECT/PB no link http://bit.ly/pbtec. 
 12. DO ACOMPANHAMENTO E DA AVALIAÇÃO DO DESENVOLVIMENTO DAS AÇÕES 
 12.1 O acompanhamento e a avaliação do desenvolvimento das atividades do PARAIBATEC, inclusive 
-das atribuições desenvolvidas pelos Professores Bolsistas no referido Programa, ocorrerão de forma 
+das  atribuições  desenvolvidas  pelos  Professores  Bolsistas  no  referido  Programa,  ocorrerão  de  forma 
 contínua e sistemática, de acordo com critérios estabelecidos pela Coordenação Geral do Programa.
 12.2 As ações do PARAIBATEC também serão monitoradas pela Gerência Executiva do Ensino Pro-
 ﬁ ssional - GEEP, por meio do acompanhamento e análise de indicadores e/ou na forma presencial, por 
@@ -2237,9 +2266,8 @@ para o endereço de e-mail geep@see.pb.gov.br.
 14.7 Os casos omissos serão resolvidos pela Gerência Executiva da Educação Proﬁ ssional – GEEP, em 
 conjunto com a Coordenação Geral do PARAIBATEC da SEECT/PB.
 15. CRONOGRAMA
-PERÍODO
 
-ETAPA
+PERÍODO
 
 20 a 23/12/2021
 
@@ -2252,6 +2280,8 @@ ETAPA
 05/01/2022
 
 05/01/2022
+
+ETAPA
 
 Inscrições
 
@@ -2272,11 +2302,11 @@ João Pessoa - Sábado, 18 de Dezembro de 2021
 Diário Oﬁ cial
 
 O professor deverá incluir na sala com o perﬁ l PROFESSOR o e-mail: ead.paraibatec@see.pb.gov.br 
-0.3 A plataforma deve estar pronta para a entrada (login) dos alunos via código acesso e link de 
+0.3 A  plataforma  deve  estar  pronta  para  a  entrada  (login)  dos  alunos  via  código  acesso  e  link  de 
 participação  de  turma.  Estas  informações  serão  coletadas  no  formulário  de  inscrição.  Exemplo:
 L i n k :   h t t p s : / / c l a s s r o o m . g o o g l e . c o m / c / N D Q 2 M j Q z M T U 0 M D E 2 ? c j c = 2 c m p x x h
 Código: 2cmpxxh
-A sala deve estar personalizada com a imagem de capa que está disponível para download no link: 
+A  sala  deve  estar  personalizada  com  a  imagem  de  capa  que  está  disponível  para  download  no  link: 
 https://bit.ly/3e3gYdc 
 As salas criadas serão duplicadas para propriedade do PARAIBATEC e o candidato autor do curso será 
 atribuído como professor para que atue durante a oferta do curso.
@@ -2293,7 +2323,7 @@ O padrão do Plano de Curso não pode ser alterado ou desformatado, portanto adi
 delete os comentários do modelo quando necessário, sem alterar a formatação ou remover itens.
 Em caso de uso de recursos externos ao Google, será necessário adicionar todoas as orientações para o 
 uso do recurso a ﬁ m de manter-se a coerência didática esperada para o curso. 
-Tenha certeza que a capa da sala está personalizada adequadamente com a imagem disponível para 
+Tenha  certeza  que  a  capa  da  sala  está  personalizada  adequadamente  com  a  imagem  disponível  para 
 download no link: https://bit.ly/3e3gYdc 
 
 16. DA COMISSÃO INTERNA DE SELEÇÃO 
@@ -2309,22 +2339,21 @@ Presidência da Comissão
 
 Jonatas Mariz de Oliveira
 
+Membro da Comissão
+
 Ana Lucia Fernandes
 
+Membro da Comissão
+
 Antônio Nicácio da Silva
+
+Membro da Comissão
 
 Rafael Maia Muniz da Cunha
 
 Membro da Comissão
 
-Membro da Comissão
-
-Membro da Comissão
-
-Membro da Comissão
-
 Claudio Benedito Silva Furtado
-
 Secretário de Estado da Educação e da Ciência e Tecnologia
 
 João Pessoa - PB, 17 de dezembro de 2021.
@@ -2332,25 +2361,23 @@ João Pessoa - PB, 17 de dezembro de 2021.
 SECRETARIA DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNOLOGIA
 
 EDITAL SEECT-PB/PARAIBATEC-PB nº 045/2021
-
 PROCESSO DE SELEÇÃO INTERNA SIMPLIFICADA PARA
-
 PROFESSOR BOLSISTA DO PARAIBATEC/SEECT-PB
 
 ANEXO I – FORMULÁRIO DE RECURSOS
 
-RECURSO contra resultado preliminar do Processo de Seleção Interna Simpliﬁ cada para Professor 
+RECURSO  contra  resultado  preliminar  do  Processo  de  Seleção  Interna  Simpliﬁ cada  para  Professor 
 Bolsista do Programa Nacional de Acesso ao Ensino Técnico e Emprego – PARAIBATEC, regido pelo 
 Edital nº ____/ 2021, realizado pela Secretaria de Estado da Educação e da Ciência e Tecnologia da Paraíba.
 
-Eu, _____________________________________________________________________________, 
+Eu,  _____________________________________________________________________________, 
 portador (a) do RG n.º_________________________________, inscrito (a) no CPF sob o n.o _______
 _________________________, candidato (a) regularmente inscrito (a) no Processo de Seleção Interna 
 Simpliﬁ cada para Professor Bolsista no âmbito do PARAIBATEC ao encargo de Professor Bolsista, 
-conforme o Edital SEECT-PB n.° ________________, venho por meio deste, interpor RECURSO, 
+conforme  o  Edital  SEECT-PB  n.°  ________________,  venho  por  meio  deste,  interpor  RECURSO, 
 junto à Comissão de Seleção da Coordenação Geral do Programa na SEECT-PB em face ao resultado 
 preliminar divulgado, tendo por objeto de contestação a (s) seguinte (s) decisão (ões): _____________
-_______________________________________________________________ __________________
+_______________________________________________________________  __________________
 __________________________________________________________________________________
 ______________________________________________________________
 
@@ -2362,29 +2389,31 @@ Para fundamentar essa contestação, encaminho em anexo os seguintes documentos:
 __________________________________________________________________________________
 _________________________________________________________________ 
 
+ 
 ______________________, ______ de dezembro de 2021. 
 
- 
-
 _______________________________________________
-
 ASSINATURA DO CANDIDATO
 
 ANEXO II - REQUISITOS E ORIENTAÇÕES PARA 
-
 ELABORAÇÃO DA GOOGLE CLASSROOM
 
 1. DA PROPORÇÃO DA CARGA HORÁRIA DOS CURSOS
 Os cursos devem se adequar às categorias de carga horária seguindo a organização da tabela abaixo:  
-TOTAL CARGA 
-
-AULAS ASSÍN-
 
 TIPOS DE CURSO Nº DE SEMANAS
 
 INÍCIO
 
 AULAS SÍNCRONAS
+
+AULAS ASSÍN-
+
+TOTAL CARGA 
+
+CRONAS
+
+HORÁRIA
 
 CURSO A
 
@@ -2409,10 +2438,6 @@ CURSO C
 10h
 
 15h
-
-CRONAS
-
-HORÁRIA
 
 10h
 

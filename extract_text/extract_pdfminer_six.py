@@ -7,19 +7,21 @@ from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFPage
 from pdfminer.pdfparser import PDFParser
 
-from utils import write_txt
+from utils import write_txt_pb
 
-output_string = StringIO()
-with open('./pdfs_samples/page1.pdf', 'rb') as in_file:
-    parser = PDFParser(in_file)
-    doc = PDFDocument(parser)
-    rsrcmgr = PDFResourceManager()
-    device = TextConverter(rsrcmgr, output_string, laparams=LAParams())
-    interpreter = PDFPageInterpreter(rsrcmgr, device)
-    for page in PDFPage.create_pages(doc):
-        interpreter.process_page(page)
+def extract_pdfminer_six(pdf):
+    output_string = StringIO()
+    with open(pdf, 'rb') as in_file:
+        parser = PDFParser(in_file)
+        doc = PDFDocument(parser)
+        rsrcmgr = PDFResourceManager()
+        device = TextConverter(rsrcmgr, output_string, codec="utf-8", laparams=LAParams())
+        interpreter = PDFPageInterpreter(rsrcmgr, device)
+        for page in PDFPage.create_pages(doc):
+            interpreter.process_page(page)
 
-content = output_string.getvalue()
-content = content.replace("�", '.')
-print(content)
-write_txt(content, filename='output_pdfminer_six.txt')
+    content = output_string.getvalue()
+    device.close()
+    output_string.close()
+    content = content.replace("�", '.')
+    write_txt_pb(content, filename='output_{}.txt'.format(pdf.split("/")[3]))

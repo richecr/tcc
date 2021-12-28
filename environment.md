@@ -20,9 +20,9 @@ E então, basta instalar as dependencias e executar.
 
 Deve ser instalado o [tesseract](https://github.com/UB-Mannheim/tesseract/wiki), baixar e instalar.
 
-E também deve instalar o poppler: https://stackoverflow.com/questions/18381713/how-to-install-poppler-on-windows/54852804
+E também deve instalar o poppler: https://stackoverflow.com/questions/18381713/how-to-install-poppler-on-windows
 
-Other answers have linked to the correct download page for Windows users but do not specify how to install them for the uninitiated.
+Other answers have linked to the correct download page for Windows users but do not specify how to install them for the uninitiated: https://blog.alivate.com.au/poppler-windows/
 
 - Go to this page and download the binary of your choice. In this example we will download and use poppler-0.68.0_x86.
 

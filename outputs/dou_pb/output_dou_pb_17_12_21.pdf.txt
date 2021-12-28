@@ -9,15 +9,16 @@ João Pessoa - Sexta-feira, 17 de Dezembro de 2021
 R$ 2,00
 
 ATO DO PODER LEGISLATIVO
+
 EMENDA CONSTITUCIONAL Nº 51, DE 16 DE DEZEMBRO DE 2021.
 
 Modiﬁ ca o inciso X, do art. 33, da Constituição do Estado da Paraíba. 
 
-A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DA PARAÍBA, nos 
-
 termos do § 3º do art. 62, da Constituição Estadual, promulga a seguinte Emenda Constitucional:
 
-Art. 1º O inciso X do art. 33 da Constituição do Estado da Paraíba alterado pelas 
+A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DA PARAÍBA, nos 
+
+Art.  1º  O  inciso  X  do  art.  33  da  Constituição  do  Estado  da  Paraíba  alterado  pelas 
 
 Emendas Constitucionais nºs 22/2006 e 28/2012, passa a vigorar com a seguinte redação:
 
@@ -32,6 +33,7 @@ Paço da Assembleia Legislativa do Estado da Paraíba, “Casa de Epitácio Pess
 João Pessoa, 16 de dezembro de 2021.
 
 ATOS DO PODER EXECUTIVO
+
 Decreto nº 42.071 de 16 de dezembro de 2021
 
 ABRE CRÉDITO SUPLEMENTAR PARA REFORÇO DE DOTAÇÃO
@@ -39,13 +41,14 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/010001.00020.
 
 D  E  C  R  E  T  A:
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 29.600,00  (vinte e nove mil,
 
 Natureza Fonte
@@ -58,12 +61,13 @@ seiscentos reais), para reforço de dotação orçamentária na forma abaixo dis
 01.101  - ASSEMBLEIA LEGISLATIVA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 01.122.5046.4221.0287- VALE REFEIÇÃO/ALIMENTAÇÃO E
 __________________________________________________________________________
-29.600,00
 __________________________________________________________________________
+
+29.600,00
 29.600,00
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
 conta de anulação de dotação orçamentária, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -72,11 +76,11 @@ conta de anulação de dotação orçamentária, de acordo com o Art. 43, parág
 01.101  - ASSEMBLEIA LEGISLATIVA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 __________________________________________________________________________
-01.122.5046.4220.0287- VALE E AUXÍLIO TRANSPORTE
 29.600,00
+01.122.5046.4220.0287- VALE E AUXÍLIO TRANSPORTE
 __________________________________________________________________________
 29.600,00
 
@@ -107,15 +111,16 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
-. 
-
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/010001.00030.
 
 D  E  C  R  E  T  A:
+
+. 
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 1.160.597,00  (um milhão,
 cento e sessenta mil, quinhentos e noventa e sete reais), para reforço de dotação orçamentária na forma
 abaixo discriminada:
@@ -123,11 +128,11 @@ abaixo discriminada:
 01.101  - ASSEMBLEIA LEGISLATIVA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 __________________________________________________________________________
-01.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
 1.160.597,00
+01.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
 __________________________________________________________________________
 1.160.597,00
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
@@ -137,8 +142,8 @@ conta de anulação de dotações orçamentárias, de acordo com o Art. 43, par�
 01.101  - ASSEMBLEIA LEGISLATIVA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 01.122.5046.4194.0287- CONSERVAÇÃO, REFORMA E
 
 Natureza Fonte
@@ -168,8 +173,6 @@ TELEFONE
 . 
 01.122.5046.4205.0287- ADMINISTRAÇÃO E MANUTENÇÃO DA
 
-FROTA DE VEÍCULOS
-
 . 
 01.122.5046.4211.0287- SEGUROS E TAXAS DE VEÍCULOS
 . 
@@ -183,17 +186,13 @@ ADMINISTRATIVOS
 
 3390.39  100 
 
-3390.47  100 
-
-3390.39  100 
-
-3390.39  100 
-
 83.377,00
+
+3390.47  100 
 
 38.894,00
 
-10.000,00
+3390.39  100 
 
 43.773,00
 
@@ -205,23 +204,30 @@ ADMINISTRATIVOS
 291.860,00
 19.820,00
 
+FROTA DE VEÍCULOS
+
+3390.39  100 
+
+10.000,00
+
 . 
 __________________________________________________________________________
-271.630,00
 01.122.5046.4220.0287- VALE E AUXÍLIO TRANSPORTE
 __________________________________________________________________________
+
+271.630,00
 1.160.597,00
 
 3390.39  100 
 
 TOTAL
 
+. 
+
+. 
+
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
-
-. 
-
-. 
 
 dezembro  de  2021;  133º  da Proclamação da República.
 
@@ -232,7 +238,7 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 
@@ -246,22 +252,22 @@ Diário Oﬁ cial
 
 j
 
-,
-
-g
-
 , §
-
-,
-
-,
-
-,
-
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/010001.00031.
 
+g
+
+,
+
+,
+
+,
+
+,
+
 D  E  C  R  E  T  A:
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 10.000,00  (dez mil reais),
 
 . 
@@ -273,8 +279,8 @@ para reforço de dotação orçamentária na forma abaixo discriminada:
 01.101  - ASSEMBLEIA LEGISLATIVA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 __________________________________________________________________________
 10.000,00
 01.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
@@ -287,11 +293,11 @@ conta de anulação de dotação orçamentária, de acordo com o Art. 43, parág
 01.101  - ASSEMBLEIA LEGISLATIVA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 __________________________________________________________________________
-01.122.5046.4211.0287- SEGUROS E TAXAS DE VEÍCULOS
 10.000,00
+01.122.5046.4211.0287- SEGUROS E TAXAS DE VEÍCULOS
 __________________________________________________________________________
 10.000,00
 
@@ -314,6 +320,84 @@ TOTAL
 
 dezembro  de  2021;  133º  da Proclamação da República.
 
+Decreto nº 42.074 de 16 de dezembro de 2021
+
+ABRE CRÉDITO SUPLEMENTAR PARA REFORÇO DE DOTAÇÃO
+CONSIGNADA NO VIGENTE ORÇAMENTO.
+
+. 
+
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
+confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
+11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
+2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
+consta da Solicitação 2021/020001.00042.
+
+D  E  C  R  E  T  A:
+
+. 
+
+ Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 20.000,00  (vinte mil reais),
+
+para reforço de dotação orçamentária na forma abaixo discriminada:
+02.000  - TRIBUNAL DE CONTAS DO ESTADO
+02.101  - TRIBUNAL DE CONTAS DO ESTADO
+_________________________________________________________________________
+_________________________________________________________________________
+Valor
+Especificação
+01.122.5046.2733.0287- AUXÍLIOS E OUTROS BENEFÍCIOS -
+__________________________________________________________________________
+__________________________________________________________________________
+
+20.000,00
+20.000,00
+
+TCE
+TOTAL
+
+Natureza Fonte
+
+3390.46  100 
+
+GOVERNO DO ESTADO
+Governador João Azevêdo Lins Filho
+SECRETARIA DE ESTADO DA COMUNICAÇÃO INSTITUCIONAL
+EMPRESA PARAIBANA DE COMUNICAÇÃO S.A.
+BR 101 - Km 03 - Distrito Industrial - João Pessoa-PB - CEP 58082-010
+
+Naná Garcez de Castro Dória
+DIRETORA PRESIDENTE
+
+William Costa
+DIRETOR DE MÍDIA IMPRESSA
+
+Rui Leitão
+DIRETOR DE RÁDIO E TV
+
+Lúcio Falcão
+GERENTE OPERACIONAL DE EDITORAÇÃO
+GOVERNO DO ESTADO
+
+PUBLICAÇÕES: www. sispublicações.pb.gov.br
+DIÁRIO OFICIAL - Fone: (83) 3218-6533 - E-mail: wdesdiario@epc.pb.gov.br
+COMERCIAL - Fone; (83) 3218-6526 -  E-mail: comercialauniaopb@yahoo.com.br
+CIRCULAÇÃO - Fone: (83) 3218-6518 - E-mail: circulacaoauniaopb@gmail.com
+OUVIDORIA: 99143-6762
+Assinatura Digital Anual...................................................................................R$ 300,00
+Assinatura Digital Semestral...........................................................................R$ 150,00
+Assinatura Impressa Anual ............................................................................. R$ 400,00
+Assinatura Impressa Semestral ..................................................................... R$ 200,00
+Número Atrasado ............................................................................................. R$      3,00
+
+. 
+
+. 
+
+. 
+
+. 
+
 . 
 
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
@@ -323,27 +407,28 @@ conta de anulação de dotação orçamentária, de acordo com o Art. 43, parág
 02.101  - TRIBUNAL DE CONTAS DO ESTADO
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 01.122.5046.4216.0287- MANUTENÇÃO DE SERVIÇOS
 __________________________________________________________________________
-20.000,00
 __________________________________________________________________________
-20.000,00
 
 ADMINISTRATIVOS
 TOTAL
+
+20.000,00
+20.000,00
 
 Natureza Fonte
 
 3390.35  100 
 
+. 
+
+. 
+
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
-
-. 
-
-. 
 
 dezembro  de  2021;  133º  da Proclamação da República.
 
@@ -352,95 +437,16 @@ Decreto nº 42.075 de 16 de dezembro de 2021
 ABRE CRÉDITO SUPLEMENTAR PARA REFORÇO DE DOTAÇÃO
 CONSIGNADA NO VIGENTE ORÇAMENTO.
 
-Decreto nº 42.074 de 16 de dezembro de 2021
-
-ABRE CRÉDITO SUPLEMENTAR PARA REFORÇO DE DOTAÇÃO
-CONSIGNADA NO VIGENTE ORÇAMENTO.
-
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
-confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
-11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
-2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
-consta da Solicitação 2021/020001.00042.
-
-D  E  C  R  E  T  A:
- Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 20.000,00  (vinte mil reais),
-
-. 
-
-para reforço de dotação orçamentária na forma abaixo discriminada:
-02.000  - TRIBUNAL DE CONTAS DO ESTADO
-02.101  - TRIBUNAL DE CONTAS DO ESTADO
-_________________________________________________________________________
-_________________________________________________________________________
-Especificação
-Valor
-01.122.5046.2733.0287- AUXÍLIOS E OUTROS BENEFÍCIOS -
-__________________________________________________________________________
-20.000,00
-__________________________________________________________________________
-20.000,00
-
-Natureza Fonte
-
-3390.46  100 
-
-TCE
-TOTAL
-GOVERNO DO ESTADO
-
-Governador João Azevêdo Lins Filho
-
-SECRETARIA DE ESTADO DA COMUNICAÇÃO INSTITUCIONAL
-
-EMPRESA PARAIBANA DE COMUNICAÇÃO S.A.
-
-BR 101 - Km 03 - Distrito Industrial - João Pessoa-PB - CEP 58082-010
-
-Naná Garcez de Castro Dória
-
-DIRETORA PRESIDENTE
-
-William Costa
-
-DIRETOR DE MÍDIA IMPRESSA
-
-Rui Leitão
-
-DIRETOR DE RÁDIO E TV
-
-Lúcio Falcão
-
-GERENTE OPERACIONAL DE EDITORAÇÃO
-
-GOVERNO DO ESTADO
-
-PUBLICAÇÕES: www. sispublicações.pb.gov.br
-
-DIÁRIO OFICIAL - Fone: (83) 3218-6533 - E-mail: wdesdiario@epc.pb.gov.br
-
-COMERCIAL - Fone; (83) 3218-6526 -  E-mail: comercialauniaopb@yahoo.com.br
-CIRCULAÇÃO - Fone: (83) 3218-6518 - E-mail: circulacaoauniaopb@gmail.com
-
-OUVIDORIA: 99143-6762
-
-Assinatura Digital Anual...................................................................................R$ 300,00
-Assinatura Digital Semestral...........................................................................R$ 150,00
-Assinatura Impressa Anual ............................................................................. R$ 400,00
-Assinatura Impressa Semestral ..................................................................... R$ 200,00
-Número Atrasado ............................................................................................. R$      3,00
-
-. 
-
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/020001.00043.
 
 D  E  C  R  E  T  A:
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 13.000,00  (treze mil reais),
 
 . 
@@ -455,12 +461,13 @@ para reforço de dotação orçamentária na forma abaixo discriminada:
 02.101  - TRIBUNAL DE CONTAS DO ESTADO
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 01.122.5046.2733.0287- AUXÍLIOS E OUTROS BENEFÍCIOS -
 __________________________________________________________________________
-13.000,00
 __________________________________________________________________________
+
+13.000,00
 13.000,00
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
 conta de anulação de dotação orçamentária, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -469,16 +476,17 @@ conta de anulação de dotação orçamentária, de acordo com o Art. 43, parág
 02.101  - TRIBUNAL DE CONTAS DO ESTADO
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 01.122.5046.4216.0287- MANUTENÇÃO DE SERVIÇOS
 __________________________________________________________________________
-13.000,00
 __________________________________________________________________________
-13.000,00
 
 ADMINISTRATIVOS
 TOTAL
+
+13.000,00
+13.000,00
 
 Natureza Fonte
 
@@ -488,12 +496,6 @@ Natureza Fonte
 
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
-
-. 
-
-. 
-
-. 
 
 dezembro  de  2021;  133º  da Proclamação da República.
 
@@ -513,8 +515,6 @@ consta da Solicitação 2021/050001.00037.
 D  E  C  R  E  T  A:
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 25.000,00  (vinte e cinco mil
 
-. 
-
 reais), para reforço de dotação orçamentária na forma abaixo discriminada:
 
 Diário Oﬁ cial
@@ -522,8 +522,6 @@ reais), para reforço de dotação orçamentária na forma abaixo discriminada:
 João Pessoa - Sexta-feira, 17 de Dezembro de 2021
 
 3
-
-. 
 
 Natureza Fonte
 
@@ -534,12 +532,13 @@ TOTAL
 05.101  - JUSTIÇA COMUM
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 02.122.5046.4109.0287- VALE E AUXÍLIO TRANSPORTE (JC)
 __________________________________________________________________________
-25.000,00
 __________________________________________________________________________
+
+25.000,00
 25.000,00
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
 conta de anulação de dotação orçamentária, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -548,30 +547,32 @@ conta de anulação de dotação orçamentária, de acordo com o Art. 43, parág
 05.101  - JUSTIÇA COMUM
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 02.122.5046.4113.0287- VALE REFEIÇÃO/ALIMENTAÇÃO E
-__________________________________________________________________________
-25.000,00
-__________________________________________________________________________
-25.000,00
-
-AUXÍLIO ALIMENTAÇÃO (JC) - 1º
-GRAU
-TOTAL
 
 Natureza Fonte
 
 3390.49  100 
 
+. 
+
+__________________________________________________________________________
+__________________________________________________________________________
+
+25.000,00
+25.000,00
+
 3390.46  100 
+
+AUXÍLIO ALIMENTAÇÃO (JC) - 1º
+GRAU
+TOTAL
 
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
 
 dezembro  de  2021;  133º  da Proclamação da República.
-
-. 
 
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso II, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
@@ -579,6 +580,9 @@ confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo a
 consta da Solicitação 2021/140001.00047.
 
 D  E  C  R  E  T  A:
+
+. 
+
  Art. 1º - Fica aberto o crédito  Suplementar  no valor de  R$ 338.358,82  (trezentos e trinta
 e oito mil, trezentos e cinquenta e oito reais e oitenta e dois centavos), para reforço de dotação orçamentária
 na forma abaixo discriminada:
@@ -586,20 +590,14 @@ na forma abaixo discriminada:
 14.101  - DEFENSORIA PÚBLICA DO ESTADO DA PARAÍBA
 __________________________________________________________________________
 __________________________________________________________________________
-Valor
 Especificação
 __________________________________________________________________________
 02.062.5158.4630.0287- ASSISTÊNCIA JURÍDICA CRIMINIAL
-338.358,82
 __________________________________________________________________________
+
+Valor
 338.358,82
- Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
-conta do Excesso de Arrecadação da Receita 24181091 - Outras Transferências de Convênios da União
-- Principal, recursos oriundos do Convênio DEPEN-MJSP Plataforma +Brasil nº 891353/2019, celebrado
-entre a União Federal, por intermédio do Ministério da Justiça e Segurança Pública, através do Departamento
-Penitenciário Nacional - DEPEN, e a Defensoria Pública do Estado da Paraíba, registro CGE nº 21-70032-0,
-destinados a Propiciar a realização de Visita por Videoconferência entre os Privados de Liberdade e Seus
-Familiares, de acordo com o artigo 43, parágrafo 1º, inciso II, da Lei Federal nº 4.320/64.
+338.358,82
 
 Natureza Fonte
 4490.52  158 
@@ -608,12 +606,20 @@ TOTAL
 
 . 
 
+ Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
+conta do Excesso de Arrecadação da Receita 24181091 - Outras Transferências de Convênios da União
+- Principal, recursos oriundos do Convênio DEPEN-MJSP Plataforma +Brasil nº 891353/2019, celebrado
+entre a União Federal, por intermédio do Ministério da Justiça e Segurança Pública, através do Departamento
+Penitenciário Nacional - DEPEN, e a Defensoria Pública do Estado da Paraíba, registro CGE nº 21-70032-0,
+destinados a Propiciar a realização de Visita por Videoconferência entre os Privados de Liberdade e Seus
+Familiares, de acordo com o artigo 43, parágrafo 1º, inciso II, da Lei Federal nº 4.320/64.
+
+. 
+
+. 
+
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
-
-. 
-
-. 
 
 dezembro  de  2021;  133º  da Proclamação da República.
 
@@ -626,15 +632,16 @@ Decreto nº 42.079 de 16 de dezembro de 2021
 
 . 
 
-. 
-
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/140001.00045.
 
 D  E  C  R  E  T  A:
+
+. 
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 45.591,18  (quarenta e cinco
 mil, quinhentos e noventa e um reais e dezoito centavos), para reforço de dotação orçamentária na forma
 abaixo discriminada:
@@ -642,11 +649,11 @@ abaixo discriminada:
 14.101  - DEFENSORIA PÚBLICA DO ESTADO DA PARAÍBA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 __________________________________________________________________________
-02.062.5158.4630.0287- ASSISTÊNCIA JURÍDICA CRIMINIAL
 45.591,18
+02.062.5158.4630.0287- ASSISTÊNCIA JURÍDICA CRIMINIAL
 __________________________________________________________________________
 45.591,18
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
@@ -656,28 +663,30 @@ conta de anulação de dotação orçamentária, de acordo com o Art. 43, parág
 14.101  - DEFENSORIA PÚBLICA DO ESTADO DA PARAÍBA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 03.122.5158.1849.0287- CONSTRUÇÃO DE SEDES E
-__________________________________________________________________________
-45.591,18
-__________________________________________________________________________
-45.591,18
-
-IMPLANTAÇÃO DE NÚCLEOS PARA A
-DEFENSORIA PÚBLICA
-TOTAL
 
 Natureza Fonte
 4490.52  100 
 
 Natureza Fonte
 
-4490.51  100 
-
 TOTAL
 
 . 
+
+__________________________________________________________________________
+__________________________________________________________________________
+
+IMPLANTAÇÃO DE NÚCLEOS PARA A
+DEFENSORIA PÚBLICA
+TOTAL
+
+45.591,18
+45.591,18
+
+4490.51  100 
 
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
@@ -698,13 +707,13 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
-. 
-
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+ O GOVERNADOR DO ESTADO DA PARAÍBA,   no uso das atribuições que lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/140001.00048.
+
+. 
 
 D  E  C  R  E  T  A:
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 88.983,46  (oitenta e oito
@@ -714,12 +723,13 @@ forma abaixo discriminada:
 14.101  - DEFENSORIA PÚBLICA DO ESTADO DA PARAÍBA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 03.122.5046.4216.0287- MANUTENÇÃO DE SERVIÇOS
 __________________________________________________________________________
-88.983,46
 __________________________________________________________________________
+
+88.983,46
 88.983,46
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
 conta de anulação de dotações orçamentárias, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -728,8 +738,8 @@ conta de anulação de dotações orçamentárias, de acordo com o Art. 43, par�
 14.101  - DEFENSORIA PÚBLICA DO ESTADO DA PARAÍBA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 1.377,37
 03.122.5046.4199.0287- ALUGUEL DE IMÓVEIS
 55,12
@@ -747,23 +757,6 @@ Natureza Fonte
 
 . 
 
-. 
-03.122.5046.4209.0287- REPAROS E CONSERVAÇÃO DE
-
-VEÍCULOS
-
-. 
-03.122.5046.4211.0287- SEGUROS E TAXAS DE VEÍCULOS
-. 
-03.122.5046.4212.0287- AQUISIÇÃO DE PEÇAS E
-
-ACESSÓRIOS
-
-. 
-03.122.5046.4216.0287- MANUTENÇÃO DE SERVIÇOS
-
-ADMINISTRATIVOS
-
 3390.39  100 
 
 3390.39  100 
@@ -772,9 +765,25 @@ ADMINISTRATIVOS
 
 5.000,00
 
+. 
+03.122.5046.4209.0287- REPAROS E CONSERVAÇÃO DE
+VEÍCULOS
+
+. 
+03.122.5046.4211.0287- SEGUROS E TAXAS DE VEÍCULOS
+. 
+03.122.5046.4212.0287- AQUISIÇÃO DE PEÇAS E
+
+. 
+03.122.5046.4216.0287- MANUTENÇÃO DE SERVIÇOS
+
+ACESSÓRIOS
+
 3390.30  100 
 
 2.516,06
+
+ADMINISTRATIVOS
 
 4490.52  100 
 
@@ -783,12 +792,13 @@ ADMINISTRATIVOS
 . 
 03.302.5046.4222.0287- ASSISTÊNCIA MÉDICA E
 __________________________________________________________________________
-40.000,00
 __________________________________________________________________________
-88.983,46
 
 ODONTOLÓGICA
 TOTAL
+
+40.000,00
+88.983,46
 
 3390.93  100 
 
@@ -808,19 +818,17 @@ TOTAL
 
 4
 
-. 
+João Pessoa - Sexta-feira, 17 de Dezembro de 2021
+
+Diário Oﬁ cial
 
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
-
-dezembro  de  2021;  133º  da Proclamação da República.
 
 g
 
 p
 
-João Pessoa - Sexta-feira, 17 de Dezembro de 2021
-
-Diário Oﬁ cial
+dezembro  de  2021;  133º  da Proclamação da República.
 
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
 conta de anulação de dotações orçamentárias, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -830,8 +838,8 @@ conta de anulação de dotações orçamentárias, de acordo com o Art. 43, par�
 
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 04.122.5046.4216.0287- MANUTENÇÃO DE SERVIÇOS
 
 Natureza Fonte
@@ -851,10 +859,11 @@ AUXÍLIO ALIMENTAÇÃO
 20.000,00
 
 04.126.5046.4219.0287- SERVIÇOS DE INFORMATIZAÇÃO
+__________________________________________________________________________
+__________________________________________________________________________
+
 23.319,30
-__________________________________________________________________________
 6.069,50
-__________________________________________________________________________
 80.000,00
 
 3390.30  100 
@@ -874,13 +883,14 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 9º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/190401.00006.
 
 D  E  C  R  E  T  A:
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 950.000,00  (novecentos e
 
 cinquenta mil reais), para reforço de dotação orçamentária na forma abaixo discriminada:
@@ -889,12 +899,13 @@ cinquenta mil reais), para reforço de dotação orçamentária na forma abaixo 
 
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 19.122.5046.4216.0287- MANUTENÇÃO DE SERVIÇOS
 __________________________________________________________________________
-950.000,00
 __________________________________________________________________________
+
+950.000,00
 950.000,00
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
 conta de anulação de dotação orçamentária, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -913,11 +924,11 @@ Natureza Fonte
 
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 __________________________________________________________________________
-19.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
 950.000,00
+19.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
 __________________________________________________________________________
 950.000,00
 
@@ -937,6 +948,14 @@ dezembro  de  2021;  133º  da Proclamação da República.
 
 . 
 
+. 
+
+. 
+
+. 
+
+. 
+
 Decreto nº 42.080 de 16 de dezembro de 2021
 
 ABRE  CRÉDITO  SUPLEMENTAR  PARA  REFORÇO  DE
@@ -944,13 +963,14 @@ DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/140001.00049.
 
 D  E  C  R  E  T  A:
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 20.005,00  (vinte mil, cinco
 
 reais), para reforço de dotações orçamentárias na forma abaixo discriminadas:
@@ -958,11 +978,13 @@ reais), para reforço de dotações orçamentárias na forma abaixo discriminada
 14.101  - DEFENSORIA PÚBLICA DO ESTADO DA PARAÍBA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 02.062.5158.2373.0287- ASSISTÊNCIA JURÍDICA E
 
 Natureza Fonte
+
+. 
 
 TOTAL
 
@@ -971,10 +993,11 @@ PSICO-SOCIAL
 3390.14  100 
 3390.93  100 
 
+__________________________________________________________________________
+__________________________________________________________________________
+
 5,00
-__________________________________________________________________________
 20.000,00
-__________________________________________________________________________
 20.005,00
  Art. 2º - As despesas com o crédito suplementar aberto pelo artigo anterior correrão por
 conta de anulação de dotações orçamentárias, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -983,13 +1006,11 @@ conta de anulação de dotações orçamentárias, de acordo com o Art. 43, par�
 14.101  - DEFENSORIA PÚBLICA DO ESTADO DA PARAÍBA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 03.121.5158.1863.0287- REALIZAÇÃO DE CONCURSO PÚBLICO
 
 Natureza Fonte
-
-. 
 
 DA DEFENSORIA PÚBLICA
 
@@ -999,25 +1020,21 @@ DA DEFENSORIA PÚBLICA
 
 . 
 03.122.5158.1849.0287- CONSTRUÇÃO DE SEDES E
+
 __________________________________________________________________________
-5,00
 __________________________________________________________________________
-20.005,00
 
 IMPLANTAÇÃO DE NÚCLEOS PARA A
 DEFENSORIA PÚBLICA
 TOTAL
 
+5,00
+20.005,00
+
 4490.51  100 
 
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
-
-. 
-
-. 
-
-. 
 
 dezembro  de  2021;  133º  da Proclamação da República.
 
@@ -1026,13 +1043,14 @@ Decreto nº 42.081 de 16 de dezembro de 2021
 ABRE CRÉDITO SUPLEMENTAR PARA REFORÇO DE DOTAÇÃO
 CONSIGNADA NO VIGENTE ORÇAMENTO.
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/190001.00026.
 
 D  E  C  R  E  T  A:
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 80.000,00  (oitenta mil reais),
 
 para reforço de dotação orçamentária na forma abaixo discriminada:
@@ -1040,16 +1058,17 @@ para reforço de dotação orçamentária na forma abaixo discriminada:
 19.101  - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 04.122.5046.4216.0287- MANUTENÇÃO DE SERVIÇOS
 __________________________________________________________________________
-80.000,00
 __________________________________________________________________________
-80.000,00
 
 ADMINISTRATIVOS
 TOTAL
+
+80.000,00
+80.000,00
 
 Natureza Fonte
 
@@ -1059,15 +1078,15 @@ Natureza Fonte
 
 João Pessoa - Sexta-feira, 17 de Dezembro de 2021
 
+5
+
+,
+
 (
 
 )
 
-5
-
 3390.39  110 
-
-,
 
 150.000,00
 
@@ -1079,18 +1098,19 @@ GUARABIRA
 TOTAL
 
 __________________________________________________________________________
-500.000,00
 __________________________________________________________________________
+
+500.000,00
 6.085.000,00
 
 3390.30  272 
 
+. 
+
+. 
+
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
-
-. 
-
-. 
 
 dezembro  de  2021;  133º  da Proclamação da República.
 
@@ -1101,24 +1121,25 @@ DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/250001.00278.
 
 D  E  C  R  E  T  A:
- Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 6.085.000,00  (seis milhões,
 
 . 
+
+ Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 6.085.000,00  (seis milhões,
 
 oitenta e cinco mil reais), para reforço de dotações orçamentárias na forma abaixo discriminadas:
 25.000  - SECRETARIA DE ESTADO DA SAÚDE
 25.101  - SECRETARIA DE ESTADO DA SAÚDE
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 10.302.5007.2950.0287- IMPLEMENTAÇÃO DA ESTRUTURAÇÃO
 
 Natureza Fonte
@@ -1126,10 +1147,20 @@ Natureza Fonte
 ORGANIZACIONAL DA REDE
 ESTADUAL DE SAÚDE
 
+3390.39  110 
+3390.39  272 
+
+3.300.000,00
+1.600.000,00
+
 . 
 10.302.5007.4055.0287- MANUTENÇÃO DO COMPLEXO DE
 
 SAÚDE DE GUARABIRA
+
+3390.30  272 
+
+500.000,00
 
 . 
 10.302.5007.4059.0287- MANUTENÇÃO DO HOSPITAL
@@ -1145,27 +1176,117 @@ REGIONAL WESCESLAU LOPES
 . 
 10.302.5007.4766.0287- MANUTENÇÃO DO HOSPITAL
 
-REGIONAL DR. AMÉRICO MAIA DE
-VASCONCELOS (CATOLÉ DO ROCHA)
-
 . 
 10.302.5007.4771.0287- MANUTENÇÃO DO HOSPITAL E
 
 MATERNIDADE SINHÁ CARNEIRO
 (SANTA LUZIA)
 
+3390.30  272 
+
+35.000,00
+
 . 
 10.302.5007.4772.0287- MANUTENÇÃO DO HOSPITAL GERAL
 
-3390.39  110 
-3390.39  272 
+. 
 
-3.300.000,00
-1.600.000,00
+ANTÔNIO HILÁRIO DE GOUVEIA
+(TAPEROÁ)
+TOTAL
 
 3390.30  272 
 
+__________________________________________________________________________
+__________________________________________________________________________
+
+50.000,00
+6.085.000,00
+ Art. 2º - As despesas com o crédito suplementar aberto pelo artigo anterior correrão por
+conta de anulação de dotações orçamentárias, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
+4.320/64, conforme discriminação a seguir:
+25.000  - SECRETARIA DE ESTADO DA SAÚDE
+25.101  - SECRETARIA DE ESTADO DA SAÚDE
+_________________________________________________________________________
+_________________________________________________________________________
+Valor
+Especificação
+10.121.5007.4723.0287- ESTRUTURAÇÃO DA POLÍTICA DE
+
+Natureza Fonte
+
+. 
+10.302.5007.4052.0287- MANUTENÇÃO DO COMPLEXO DE
+
+SAÚDE CLEMENTINO FRAGA
+
+. 
+10.302.5007.4057.0287- MANUTENÇÃO DO HOSPITAL
+
+REGIONAL DR. FELIPE THIAGO
+GOMES (PICUÍ)
+
+. 
+10.302.5007.4062.0287- MANUTENÇÃO DO HOSPITAL
+
+. 
+10.302.5007.4063.0287- MANUTENÇÃO DO HOSPITAL
+
+REGIONAL DE CAJAZEIRAS
+
+. 
+10.302.5007.4721.0287- ESTRUTURAÇÃO DA REDE DE
+
+3390.30  110 
+3390.39  110 
+
+510.000,00
+490.000,00
+
+3390.39  110 
+3390.39  110 
+
+260.000,00
+240.000,00
+
+TRANSPLANTES NO ESTADO
+
+3390.39  272 
+
+1.600.000,00
+
+. 
+10.302.5007.4734.0287- REESTRUTURAÇÃO ORGANIZACIONAL
+
+DA REDE DE ASSISTÊNCIA
+HEMOTERÁPICA E HEMATOLÓGICA NO
+ESTADO
+
+4490.52  272 
+
+645.000,00
+
+. 
+10.302.5007.4767.0287- MANUTENÇÃO DO HOSPITAL E
+
+MATERNIDADE ESTEVAM MARINHO
+(COREMAS)
+
+. 
+10.302.5007.4769.0287- MANUTENÇÃO DO HOSPITAL
+
+3390.30  110 
+3390.39  110 
+
 500.000,00
+100.000,00
+
+ESTADUAL DR. FRANCISCO ASSIS
+DE FREITAS (SOLÂNEA)
+
+3390.30  110 
+
+250.000,00
 
 3390.30  272 
 
@@ -1177,44 +1298,38 @@ MATERNIDADE SINHÁ CARNEIRO
 430.000,00
 120.000,00
 
+D  E  C  R  E  T  A:
+
+REGIONAL DR. AMÉRICO MAIA DE
+VASCONCELOS (CATOLÉ DO ROCHA)
+
 3390.30  110 
 
 40.000,00
 
-3390.30  272 
-
-35.000,00
-
-. 
-
-3390.30  272 
-
-ANTÔNIO HILÁRIO DE GOUVEIA
-(TAPEROÁ)
-TOTAL
-
-__________________________________________________________________________
-50.000,00
-__________________________________________________________________________
-6.085.000,00
- Art. 2º - As despesas com o crédito suplementar aberto pelo artigo anterior correrão por
-conta de anulação de dotações orçamentárias, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
-4.320/64, conforme discriminação a seguir:
-25.000  - SECRETARIA DE ESTADO DA SAÚDE
-25.101  - SECRETARIA DE ESTADO DA SAÚDE
-_________________________________________________________________________
-_________________________________________________________________________
-Especificação
-Valor
-10.121.5007.4723.0287- ESTRUTURAÇÃO DA POLÍTICA DE
-
-Natureza Fonte
+ALMEIDA"
 
 REGULAÇÃO EM SAÚDE
 
 3390.14  110 
 
 40.000,00
+
+dezembro  de  2021;  133º  da Proclamação da República.
+
+INFANTIL NOALDO LEITE (PATOS)
+
+3390.30  110 
+
+500.000,00
+
+3390.14  110 
+3390.39  110 
+
+20.000,00
+280.000,00
+
+Decreto nº 42.085 de 16 de dezembro de 2021
 
 Decreto nº 42.084 de 16 de dezembro de 2021
 
@@ -1223,29 +1338,27 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/270101.00033.
 
-D  E  C  R  E  T  A:
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 15.000,00  (quinze mil reais),
 
 para reforço de dotação orçamentária na forma abaixo discriminada:
 27.000  - SECRETARIA DE ESTADO DO DESENVOLVIMENTO HUMANO
 27.201  - FUNDAÇÃO DE DESENVOLVIMENTO DA CRIANÇA E DO ADOLESCENTE "ALICE DE
 
-ALMEIDA"
-
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 08.122.5046.4218.0287- FORMAÇÃO DO PATRIMÔNIO DO
 __________________________________________________________________________
-15.000,00
 __________________________________________________________________________
+
+15.000,00
 15.000,00
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
 conta de anulação de dotação orçamentária, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -1266,11 +1379,11 @@ ALMEIDA"
 
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 __________________________________________________________________________
-08.122.5046.4220.0287- VALE E AUXÍLIO TRANSPORTE
 15.000,00
+08.122.5046.4220.0287- VALE E AUXÍLIO TRANSPORTE
 __________________________________________________________________________
 15.000,00
 
@@ -1282,104 +1395,16 @@ TOTAL
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
 
-dezembro  de  2021;  133º  da Proclamação da República.
-
 . 
 
 . 
 
 . 
-
-. 
-10.302.5007.4052.0287- MANUTENÇÃO DO COMPLEXO DE
-
-SAÚDE CLEMENTINO FRAGA
-
-. 
-10.302.5007.4057.0287- MANUTENÇÃO DO HOSPITAL
-
-REGIONAL DR. FELIPE THIAGO
-GOMES (PICUÍ)
-
-. 
-10.302.5007.4062.0287- MANUTENÇÃO DO HOSPITAL
-
-INFANTIL NOALDO LEITE (PATOS)
-
-. 
-10.302.5007.4063.0287- MANUTENÇÃO DO HOSPITAL
-
-REGIONAL DE CAJAZEIRAS
-
-. 
-10.302.5007.4721.0287- ESTRUTURAÇÃO DA REDE DE
-TRANSPLANTES NO ESTADO
-
-. 
-10.302.5007.4734.0287- REESTRUTURAÇÃO ORGANIZACIONAL
-
-DA REDE DE ASSISTÊNCIA
-HEMOTERÁPICA E HEMATOLÓGICA NO
-ESTADO
-
-. 
-10.302.5007.4767.0287- MANUTENÇÃO DO HOSPITAL E
-
-MATERNIDADE ESTEVAM MARINHO
-(COREMAS)
-
-. 
-10.302.5007.4769.0287- MANUTENÇÃO DO HOSPITAL
-
-ESTADUAL DR. FRANCISCO ASSIS
-DE FREITAS (SOLÂNEA)
-
-3390.30  110 
-3390.39  110 
-
-510.000,00
-490.000,00
-
-3390.39  110 
-3390.39  110 
-
-260.000,00
-240.000,00
-
-3390.30  110 
-
-500.000,00
-
-3390.14  110 
-3390.39  110 
-
-20.000,00
-280.000,00
-
-3390.39  272 
-
-1.600.000,00
-
-4490.52  272 
-
-645.000,00
-
-3390.30  110 
-3390.39  110 
-
-500.000,00
-100.000,00
-
-3390.30  110 
-
-250.000,00
-
-Decreto nº 42.085 de 16 de dezembro de 2021
 
 ABRE CRÉDITO SUPLEMENTAR PARA REFORÇO DE DOTAÇÃO
 CONSIGNADA NO VIGENTE ORÇAMENTO.
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, c/c o artigo 1º, inciso III,
@@ -1387,6 +1412,7 @@ confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo a
 tendo em vista o que consta da Solicitação 2021/270101.00034.
 
 D  E  C  R  E  T  A:
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 10.000,00  (dez mil reais),
 
 para reforço de dotação orçamentária na forma abaixo discriminada:
@@ -1397,8 +1423,8 @@ ALMEIDA"
 
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 02.846.0003.0701.0287- EXECUÇÃO DE SENTENÇAS
 
 Natureza Fonte
@@ -1419,8 +1445,9 @@ JUDICIÁRIAS
 TOTAL
 
 __________________________________________________________________________
-10.000,00
 __________________________________________________________________________
+
+10.000,00
 10.000,00
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
 conta de anulação de dotação orçamentária, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -1434,8 +1461,8 @@ ALMEIDA"
 
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 08.421.5008.2185.0287- ASSISTÊNCIA AOS/AS
 
 Natureza Fonte
@@ -1447,11 +1474,58 @@ SOCIOEDUCATIVAS DA FUNDAC
 TOTAL
 
 __________________________________________________________________________
-10.000,00
 __________________________________________________________________________
+
+10.000,00
 10.000,00
 
 3390.39  100 
+
+ Art. 3º - Este Decreto entra em vigor na data de sua publicação.
+ PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
+
+dezembro  de  2021;  133º  da Proclamação da República.
+
+Decreto nº 42.087 de 16 de dezembro de 2021
+
+ABRE CRÉDITO SUPLEMENTAR PARA REFORÇO DE DOTAÇÃO
+CONSIGNADA NO VIGENTE ORÇAMENTO.
+
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
+confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso II, da Lei nº
+11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
+2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
+consta da Solicitação 2021/330001.00033.
+
+D  E  C  R  E  T  A:
+
+ Art. 1º - Fica aberto o crédito  Suplementar  no valor de  R$ 375.402,91  (trezentos e
+setenta e cinco mil, quatrocentos e dois reais e noventa e um centavos), para reforço de dotação orçamentária
+na forma abaixo discriminada:
+33.000  - SECRETARIA DE ESTADO DA CULTURA
+33.101  - SECRETARIA DE ESTADO DA CULTURA
+__________________________________________________________________________
+__________________________________________________________________________
+Especificação
+__________________________________________________________________________
+13.392.5009.4920.0287- TRANSVERSALIDADE DA CULTURA
+__________________________________________________________________________
+
+Valor
+375.402,91
+375.402,91
+
+Natureza Fonte
+3390.31  193 
+
+TOTAL
+
+ Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
+conta do Excesso de Arrecadação da Receita 13280191 - Remuneração de Outros Depósitos Bancários,
+recursos oriundos do Repasse da Lei nº 14.017, de 29 de junho de 2020 - Lei Aldir Blanc, para atender as
+Ações Emergenciais destinadas ao Setor Cultural, adotadas durante o Estado de Calamidade Pública, em
+virtude da Pandemia ocasionada pelo COVID-19, e regulamentada pelo Decreto nº 10.464, de 17 de agosto
+de 2020, de acordo com o artigo 43, parágrafo 1º, inciso II, da Lei Federal nº 4.320/64.
 
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
@@ -1465,7 +1539,7 @@ DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, c/c o artigo 1º, incisos I e
@@ -1473,6 +1547,13 @@ III, §§ 1º e 2º, incisos I e II, e § 3º, e artigos 2º e 3º, § Único, d
 e tendo em vista o que consta da Solicitação 2021/320501.00078.
 
 D  E  C  R  E  T  A:
+
+. 
+
+. 
+
+. 
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 14.000,00  (quatorze mil
 
 reais), para reforço de dotações orçamentárias na forma abaixo discriminadas:
@@ -1483,8 +1564,8 @@ FUNDIÁRIA - EMPAER
 
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 02.846.0003.0701.0287- EXECUÇÃO DE SENTENÇAS
 
 Natureza Fonte
@@ -1501,8 +1582,9 @@ TOTAL
 . 
 28.846.0000.0713.0287- ENCARGOS COM INDENIZAÇÕES
 __________________________________________________________________________
-4.000,00
 __________________________________________________________________________
+
+4.000,00
 14.000,00
  Art. 2º - As despesas com o crédito suplementar aberto pelo artigo anterior correrão por
 conta de anulação de dotações orçamentárias, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -1518,72 +1600,25 @@ FUNDIÁRIA - EMPAER
 
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 20.122.5046.4216.0287- MANUTENÇÃO DE SERVIÇOS
-10.000,00
+
+Natureza Fonte
+
 __________________________________________________________________________
-4.000,00
 __________________________________________________________________________
-14.000,00
+
+TOTAL
 
 3390.30  100 
 3390.39  100 
 
+10.000,00
+4.000,00
+14.000,00
+
 ADMINISTRATIVOS
-
-Natureza Fonte
-
-TOTAL
-
- Art. 3º - Este Decreto entra em vigor na data de sua publicação.
- PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
-
-dezembro  de  2021;  133º  da Proclamação da República.
-
-. 
-
-. 
-
-. 
-
-Decreto nº 42.087 de 16 de dezembro de 2021
-
-ABRE CRÉDITO SUPLEMENTAR PARA REFORÇO DE DOTAÇÃO
-CONSIGNADA NO VIGENTE ORÇAMENTO.
-
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
-confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso II, da Lei nº
-11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
-2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
-consta da Solicitação 2021/330001.00033.
-
-D  E  C  R  E  T  A:
- Art. 1º - Fica aberto o crédito  Suplementar  no valor de  R$ 375.402,91  (trezentos e
-setenta e cinco mil, quatrocentos e dois reais e noventa e um centavos), para reforço de dotação orçamentária
-na forma abaixo discriminada:
-33.000  - SECRETARIA DE ESTADO DA CULTURA
-33.101  - SECRETARIA DE ESTADO DA CULTURA
-__________________________________________________________________________
-__________________________________________________________________________
-Valor
-Especificação
-__________________________________________________________________________
-13.392.5009.4920.0287- TRANSVERSALIDADE DA CULTURA
-375.402,91
-__________________________________________________________________________
-375.402,91
- Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
-conta do Excesso de Arrecadação da Receita 13280191 - Remuneração de Outros Depósitos Bancários,
-recursos oriundos do Repasse da Lei nº 14.017, de 29 de junho de 2020 - Lei Aldir Blanc, para atender as
-Ações Emergenciais destinadas ao Setor Cultural, adotadas durante o Estado de Calamidade Pública, em
-virtude da Pandemia ocasionada pelo COVID-19, e regulamentada pelo Decreto nº 10.464, de 17 de agosto
-de 2020, de acordo com o artigo 43, parágrafo 1º, inciso II, da Lei Federal nº 4.320/64.
-
-Natureza Fonte
-3390.31  193 
-
-TOTAL
 
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  16  de
@@ -1591,6 +1626,7 @@ TOTAL
 dezembro  de  2021;  133º  da Proclamação da República.
 
 SECRETARIAS DE ESTADO
+
 Secretaria de Estado
 da Administração
 
@@ -1607,13 +1643,13 @@ trícula nº 175.521-8, lotado na Secretaria de Estado do Desenvolvimento Humano
 
 PORTARIA Nº 500/2021/SEAD                                               João Pessoa, 16 de dezembro de 2021.                
 
-A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando as atribuições 
+A  SECRETÁRIA  DE  ESTADO  DA ADMINISTRAÇÃO,  usando  as  atribuições 
 que lhe confere o art. 2º, inciso V, do Decreto n º 7.767, de 18 de setembro de 1978, alterado pelo art. 1º 
 do Decreto nº 10.735/1985, c/c Art. 78 Inciso II, do decreto 41.415/2021, e tendo em vista o que consta 
 do Processo n º 21.018.138-9/SEAD;
 
 RESOLVE de acordo com o art. 32, da Lei Complementar nº 58, de 30 de dezembro 
-de 2003, exonerar, a pedido, ANTONIO DE PADUA FARIAS DE SOUZA FILHO, do cargo de 
+de  2003,  exonerar,  a  pedido, ANTONIO  DE  PADUA  FARIAS  DE  SOUZA  FILHO,  do  cargo  de 
 Professor de Educação Básica 3, matrícula nº 189.910-4, lotado na Secretaria de Estado da Educação, 
 Ciências e Tecnologia.
 
@@ -1643,7 +1679,7 @@ João Pessoa - Sexta-feira, 17 de Dezembro de 2021
 do Processo n º 21.017.923-6/SEAD;
 
 RESOLVE de acordo com os artigos 31 e 32, da Lei Complementar nº 58, de 30 de 
-dezembro de 2003, exonerar ex-ofício, CAMILA AMBLARD, do cargo de Procurador do Estado, 
+dezembro  de  2003,  exonerar  ex-ofício,  CAMILA AMBLARD,  do  cargo  de  Procurador  do  Estado, 
 matrícula nº 161.184-4, lotada na Procuradoria Geral do Estado.
 
 PORTARIA Nº 504/2021/SEAD                                                João Pessoa, 16 de dezembro de 2021.                
@@ -1658,6 +1694,87 @@ RESOLVE de acordo com os artigos 31 e 32, da Lei Complementar nº 58, de 30 de
 dezembro de 2003, exonerar ex-ofício, LEONARDO AVELAR DA FONTE, do cargo de Procurador 
 do Estado, matrícula nº 155.860-9, lotado na Procuradoria Geral do Estado.
 
+PORTARIA Nº 503/2021/SEAD                                              João Pessoa, 16 de dezembro de 2021.                
+
+ 
+A SECRETÁRIA DE  ESTADO  DA ADMINISTRAÇÃO, usando das atribuições 
+que lhe confere o Art. 78, inciso II do decreto 41.415/2021, c/c art. 2º, inciso V, do Decreto n º 7.767, de 
+18 de setembro de 1978, alterado pelo art. 1º do Decreto nº 10.735/1985, e tendo em vista o que consta 
+do Processo n º 21.017.916-3/SEAD;
+
+RESOLVE de acordo com os artigos 31 e 32, da Lei Complementar nº 58, de 30 de 
+dezembro de 2003, exonerar ex-ofício, NUHARA VIANA VENTURA, do cargo de Técnico Adminis-
+trativo, matrícula nº 176.528-1, lotada na Procuradoria Geral do Estado.
+
+PORTARIA Nº 505/2021/SEAD                                               João Pessoa, 16 de dezembro de 2021.                
+
+ 
+A SECRETÁRIA DE  ESTADO  DA ADMINISTRAÇÃO, usando das atribuições 
+que lhe confere o Art. 78, inciso II do decreto 41.415/2021, c/c art. 2º, inciso V, do Decreto n º 7.767, de 
+18 de setembro de 1978, alterado pelo art. 1º do Decreto nº 10.735/1985, e tendo em vista o que consta 
+do Processo n º 21.017.921-0/SEAD;
+
+RESOLVE  de  acordo  com  os  artigos  31  e  32,  da  Lei  Complementar  nº  58,  de  30 
+de dezembro de 2003, exonerar ex-ofício, PAULO BARBOSA DE ALMEIDA FILHO, do cargo de 
+Procurador do Estado, matrícula nº 163.125-0, lotado na Procuradoria Geral do Estado.
+
+PORTARIA Nº 506/2021/SEAD                                               João Pessoa, 16 de dezembro de 2021.                
+
+A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando das atribuições 
+que lhe confere o Art. 78, inciso II do decreto 41.415/2021, c/c art. 2º, inciso V, do Decreto n º 7.767, de 
+18 de setembro de 1978, alterado pelo art. 1º do Decreto nº 10.735/1985, e tendo em vista o que consta 
+do Processo n º 21.017.299-1/SEAD;
+
+RESOLVE de acordo com o art. 32, da Lei Complementar nº 58, de 30 de dezembro de 
+2003, exonerar, a pedido, HERMANN JORGE TARGINO, do cargo de Técnico de Nível Médio, matrícula 
+nº 93.218-3, lotado na Secretaria de Estado da Administração, com efeito retroativo a 30 de novembro de 2021.
+
+PORTARIA Nº 507/2021/SEAD                                               João Pessoa, 16 de dezembro de 2021.                
+
+A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO,  usando as Atribuições 
+que lhe confere o Art. 78, inciso II do decreto 41.415/2021, c/c art. 2º, inciso V, do Decreto n º 7.767, de 
+18 de setembro de 1978, alterado pelo art. 1º do Decreto nº 10.735/1985, e tendo em vista o que consta 
+do Processo n º 21.017.820-5/SEAD;
+
+RESOLVE de acordo com o art. 32, da Lei Complementar nº 58, de 30 de dezembro 
+de  2003,  exonerar,  a  pedido,  TAMIRES  DE ALBUQUERQUE  ROCHA,  do  cargo  de Técnico  de 
+Enfermagem, matrícula nº 161.001-5, lotada na Secretaria de Estado da Saúde.
+
+PORTARIA Nº 508/2021/SEAD                                               João Pessoa, 16 de dezembro de 2021.                
+
+ 
+A  SECRETÁRIA  DE  ESTADO  DA ADMINISTRAÇÃO,  usando  as  atribuições 
+que lhe confere o art. 2º, inciso V, do Decreto n º 7.767, de 18 de setembro de 1978, alterado pelo art. 1º 
+do Decreto nº 10.735/1985, c/c Art. 78 Inciso II, do decreto 41.415/2021, e tendo em vista o que consta 
+do Processo n º 21.018.178-8/SEAD;
+
+RESOLVE de acordo com o art. 32, da Lei Complementar nº 58, de 30 de dezembro 
+de 2003, exonerar, a pedido, HERLANE MARTINS ARAUJO, do cargo de Professor de Educação 
+Básica 3, matrícula nº 189.568-1, lotada na Secretaria de Estado da Educação, Ciências e Tecnologia.
+
+PORTARIA Nº 509/2021/SEAD                                               João Pessoa, 16 de dezembro de 2021.                
+
+ 
+A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando das 
+atribuições que lhe confere o Art. 78, inciso II do decreto 41.415/2021, c/c art. 2º, inci-
+so V, do Decreto n º 7.767, de 18 de setembro de 1978, alterado pelo art. 1º do Decreto nº 10.735/1985, 
+e tendo em vista o que consta do Processo n º 21.018.219-9/SEAD;
+
+RESOLVE de acordo com o art. 32, da Lei Complementar nº 58, de 30 de dezembro de 
+2003, exonerar, a pedido, BRUNO AQUINO DO NASCIMENTO PALMEIRA, do cargo de Técnico 
+Administrativo, matrícula nº 176.406-3, lotado na Secretaria de Estado da Educação, Ciência e Tecnologia.
+
+PORTARIA Nº 510/2021/SEAD.                                               João Pessoa,16 de dezembro de 2021.
+
+A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, no uso das atribuições que 
+lhe confere o artigo 78º, inciso I e XXII,  do Decreto 41.415, de 12 de julho de 2021, c/c art. 1º, do Decreto 
+37.242, de 17 de fevereiro de 2017, e tendo em vista o que consta no Processo 21018053-6/SEAD,
+
+R  E  S  O  L V  E  autorizar  a  cessão  para  a  Universidade  Federal  da  Paraíba/Hospi-
+tal  Universitário  Lauro Wanderley  -  UFPB,  do  servidor WAGNER  DA  SILVA  LEAL,  matrícula  nº 
+160.140-7, lotado na Secretaria de Estado da Saúde, pelo prazo de (01) um ano, sem ônus para o Órgão 
+de origem, na forma do art. 90, da Lei Complementar nº 58 de dezembro de 2003.
+
 SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
 DIRETORIA EXECUTIVA DE RECURSOS HUMANOS
 GERÊNCIA EXECUTIVA DE CONCESSÃO DE DIREITOS E VANTAGENS
@@ -1666,7 +1783,7 @@ RESENHA Nº : 652/2021
 EXPEDIENTE DO DIA : 15-12-2021
 
 O SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO usando das atribuições que lhe confere o artigo 78, inciso II, do Decreto nº 41.415, de 12 de julho
-de   2021  e   nos   termos   do  §   19,   do   Art.   40,   da   Constituição   Federal  e   de   acordo   com   a   redação  conferida   pela   Emenda   Constitucional  nº   41/03  e   pela  Emenda
+de   2021   e   nos   termos   do   §   19,   do   Art.   40,   da   Constituição   Federal   e   de   acordo   com   a   redação   conferida   pela   Emenda   Constitucional   nº   41/03   e   pela   Emenda
 Constitucional Federal 103/2019 respaldado pela ECE 46/2020, DEFERIU os Processos de ABONO DE PERMANÊNCIA abaixo relacionados:
 
 Nº Processo
@@ -1781,110 +1898,40 @@ Parecer
 
 RESENHA Nº 655/2021/DEREH/GS/SEAD                             EXPEDIENTE DO DIA: 14/12/2021
 
-PORTARIA Nº 503/2021/SEAD                                              João Pessoa, 16 de dezembro de 2021.                
-
- 
-A SECRETÁRIA DE  ESTADO  DA ADMINISTRAÇÃO, usando das atribuições 
-que lhe confere o Art. 78, inciso II do decreto 41.415/2021, c/c art. 2º, inciso V, do Decreto n º 7.767, de 
-18 de setembro de 1978, alterado pelo art. 1º do Decreto nº 10.735/1985, e tendo em vista o que consta 
-do Processo n º 21.017.916-3/SEAD;
-
-RESOLVE de acordo com os artigos 31 e 32, da Lei Complementar nº 58, de 30 de 
-dezembro de 2003, exonerar ex-ofício, NUHARA VIANA VENTURA, do cargo de Técnico Adminis-
-trativo, matrícula nº 176.528-1, lotada na Procuradoria Geral do Estado.
-
-PORTARIA Nº 505/2021/SEAD                                               João Pessoa, 16 de dezembro de 2021.                
-
- 
-A SECRETÁRIA DE  ESTADO  DA ADMINISTRAÇÃO, usando das atribuições 
-que lhe confere o Art. 78, inciso II do decreto 41.415/2021, c/c art. 2º, inciso V, do Decreto n º 7.767, de 
-18 de setembro de 1978, alterado pelo art. 1º do Decreto nº 10.735/1985, e tendo em vista o que consta 
-do Processo n º 21.017.921-0/SEAD;
-
-RESOLVE de acordo com os artigos 31 e 32, da Lei Complementar nº 58, de 30 
-de dezembro de 2003, exonerar ex-ofício, PAULO BARBOSA DE ALMEIDA FILHO, do cargo de 
-Procurador do Estado, matrícula nº 163.125-0, lotado na Procuradoria Geral do Estado.
-
-PORTARIA Nº 506/2021/SEAD                                               João Pessoa, 16 de dezembro de 2021.                
-
-A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando das atribuições 
-que lhe confere o Art. 78, inciso II do decreto 41.415/2021, c/c art. 2º, inciso V, do Decreto n º 7.767, de 
-18 de setembro de 1978, alterado pelo art. 1º do Decreto nº 10.735/1985, e tendo em vista o que consta 
-do Processo n º 21.017.299-1/SEAD;
-
-RESOLVE de acordo com o art. 32, da Lei Complementar nº 58, de 30 de dezembro de 
-2003, exonerar, a pedido, HERMANN JORGE TARGINO, do cargo de Técnico de Nível Médio, matrícula 
-nº 93.218-3, lotado na Secretaria de Estado da Administração, com efeito retroativo a 30 de novembro de 2021.
-
-PORTARIA Nº 507/2021/SEAD                                               João Pessoa, 16 de dezembro de 2021.                
-
-A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando as Atribuições 
-que lhe confere o Art. 78, inciso II do decreto 41.415/2021, c/c art. 2º, inciso V, do Decreto n º 7.767, de 
-18 de setembro de 1978, alterado pelo art. 1º do Decreto nº 10.735/1985, e tendo em vista o que consta 
-do Processo n º 21.017.820-5/SEAD;
-
-RESOLVE de acordo com o art. 32, da Lei Complementar nº 58, de 30 de dezembro 
-de 2003, exonerar, a pedido, TAMIRES DE ALBUQUERQUE ROCHA, do cargo de Técnico de 
-Enfermagem, matrícula nº 161.001-5, lotada na Secretaria de Estado da Saúde.
-
-PORTARIA Nº 508/2021/SEAD                                               João Pessoa, 16 de dezembro de 2021.                
-
- 
-A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando as atribuições 
-que lhe confere o art. 2º, inciso V, do Decreto n º 7.767, de 18 de setembro de 1978, alterado pelo art. 1º 
-do Decreto nº 10.735/1985, c/c Art. 78 Inciso II, do decreto 41.415/2021, e tendo em vista o que consta 
-do Processo n º 21.018.178-8/SEAD;
-
-RESOLVE de acordo com o art. 32, da Lei Complementar nº 58, de 30 de dezembro 
-de 2003, exonerar, a pedido, HERLANE MARTINS ARAUJO, do cargo de Professor de Educação 
-Básica 3, matrícula nº 189.568-1, lotada na Secretaria de Estado da Educação, Ciências e Tecnologia.
-
-PORTARIA Nº 509/2021/SEAD                                               João Pessoa, 16 de dezembro de 2021.                
-
- 
-A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando das 
-atribuições que lhe confere o Art. 78, inciso II do decreto 41.415/2021, c/c art. 2º, inci-
-so V, do Decreto n º 7.767, de 18 de setembro de 1978, alterado pelo art. 1º do Decreto nº 10.735/1985, 
-e tendo em vista o que consta do Processo n º 21.018.219-9/SEAD;
-
-RESOLVE de acordo com o art. 32, da Lei Complementar nº 58, de 30 de dezembro de 
-2003, exonerar, a pedido, BRUNO AQUINO DO NASCIMENTO PALMEIRA, do cargo de Técnico 
-Administrativo, matrícula nº 176.406-3, lotado na Secretaria de Estado da Educação, Ciência e Tecnologia.
-
-PORTARIA Nº 510/2021/SEAD.                                               João Pessoa,16 de dezembro de 2021.
-
-A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, no uso das atribuições que 
-lhe confere o artigo 78º, inciso I e XXII,  do Decreto 41.415, de 12 de julho de 2021, c/c art. 1º, do Decreto 
-37.242, de 17 de fevereiro de 2017, e tendo em vista o que consta no Processo 21018053-6/SEAD,
-
-R E S O L V E autorizar a cessão para a Universidade Federal da Paraíba/Hospi-
-tal Universitário Lauro Wanderley - UFPB, do servidor WAGNER DA SILVA LEAL, matrícula nº 
-160.140-7, lotado na Secretaria de Estado da Saúde, pelo prazo de (01) um ano, sem ônus para o Órgão 
-de origem, na forma do art. 90, da Lei Complementar nº 58 de dezembro de 2003.
-
 A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando das atribuições 
 que lhe confere o artigo 78, inciso XII, do Decreto nº 41.415, de 12 de julho de 2021, e tendo em vista 
 Parecer da ASSESSORIA JURÍDICA desta Secretaria, despachou os Processos de VACÂNCIA DE 
 CARGO, abaixo relacionados:
+
 PROCESSO
-21.017.684-9
-21.018.139-7
 
 N O M E
-FRANCISCO DAVID GOMES DE OLIVEIRA
-AMANDA DE CASSIA FERREIRA GOMES
+
+MAT.
 
 PARECER Nº
+
+21.017.684-9
+
+FRANCISCO DAVID GOMES DE OLIVEIRA
+
+175.827-6
+
 1919/2021/ASJUR-SEAD
+
+21.018.139-7
+
+AMANDA DE CASSIA FERREIRA GOMES
+
+167.414-5
+
 1962/2021/ASJUR-SEAD
 
 DESPACHO
-DEFERIDO
+
 DEFERIDO
 
-MAT.
-175.827-6
-167.414-5
+DEFERIDO
 
 RESENHA Nº 656/2021/DEREH/GS/SEAD                             EXPEDIENTE DO DIA:  14/12/2021
 
@@ -1892,61 +1939,84 @@ A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando das atribuições que
 lhe confere o artigo 78, inciso XII, do Decreto nº 41.415, de 12 de julho de 2021, e tendo em vista Parecer da 
 ASSESSORIA JURÍDICA desta Secretaria, e em conformidade com a Lei n.º 8.996, de 22 de dezembro 
 de 2009, despachou os Processos de REDUÇÃO DE CARGA HORÁRIA abaixo relacionados:
+
 PROCESSO
-21.017.576-1
-21.006.856-6
-21.006.857-4
-21.012.644-2
 
 N O M E
+
+21.017.576-1
+
 ANA MARIA CARNEIRO ALMEIDA DINIZ
+
+21.006.856-6
+
 DONATO MOREIRA DE LIMA FILHO
+
+21.006.857-4
+
 DONATO MOREIRA DE LIMA FILHO
+
+21.012.644-2
+
 MARCELO DE MEDEIROS XAVIER BION
 
+MAT
+
+176.161-7
+
+158.707-2
+
+179.486-8
+
+133.213-9
+
 PARECER
+
 1946/2021/ASJUR-SEAD
+
 1932/2021/ASJUR-SEAD
+
 1933/2021/ASJUR-SEAD
+
 1948/2021/ASJUR-SEAD
 
 DESPACHO
-DEFERIDO
-DEFERIDO
-DEFERIDO
+
 DEFERIDO
 
-MAT
-176.161-7
-158.707-2
-179.486-8
-133.213-9
+DEFERIDO
+
+DEFERIDO
+
+DEFERIDO
 
 RESENHA Nº 657/2021/DEREH/GS/SEAD                           EXPEDIENTE DO DIA: 14/ 12/ 2021
 
 A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando das atribuições 
 que lhe confere o artigo 78, inciso XII, do Decreto nº 41.415, de 12 de julho de 2021, e tendo em vista 
-Parecer da ASSESSORIA JURÍDICA desta Secretaria, despachou o Processo de REGULARIZA-
+Parecer  da  ASSESSORIA  JURÍDICA  desta  Secretaria,  despachou  o  Processo  de  REGULARIZA-
 ÇÃO FUNCIONAL, abaixo relacionado:
+
 PROCESSO
 
-DESPACHO
-
-PARECER
+N O M E
 
 MAT.
 
+PARECER
+
+DESPACHO
+
 21.013.132-2
+
+JOSE ARNOBIO 
+ALMEIDA LEITE
 
 160.089-3
 
 1836/2021/ASJUR – SEAD
 
 DEFERIDO
-
-N O M E
-JOSE ARNOBIO 
-ALMEIDA LEITE
 
 RESENHA Nº 658/2021/DEREH/GS/SEAD                            EXPEDIENTE DO DIA: 14/12/ 2021
 
@@ -1959,17 +2029,18 @@ PROCESSO
 
 NOME
 
-21.017.971-6
-
-JOÃO CARLOS DE FARIAS CAVALCANTE
-
 DATA LIMITE P/ POSSE 
 ART. 13 § 2º e 3º DA LC 58/03
-03.01.2022
 
 PARECER
 
 DESPACHO
+
+21.017.971-6
+
+JOÃO CARLOS DE FARIAS CAVALCANTE
+
+03.01.2022
 
 034/GOPOS/2021
 
@@ -1980,123 +2051,217 @@ RESENHA Nº 564/2021/DEREH/GS/SEADEXPEDIENTE DO DIA: 13/10/2021
 A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando das atribuições 
 que lhe confere o artigo 78, inciso XII, do Decreto nº 41.415, de 12 de julho de 2021 e tendo em vista 
 Parecer da ASSESSORIA JURÍDICA desta Secretaria,despachou os Processosbaixo relacionados:
-DESPACHO
+
 PROCESSO
-DEFERIDO
-18.005.858-4
-DEFERIDO
-18.005.859-2
-18.003.802-8
-DEFERIDO
-DEFERIDO
-18.004.251-3
-DEFERIDO
-18.003.016-7
-DEFERIDO
-18.001.159-6
-DEFERIDO
-18.001.147-2
-DEFERIDO
-18.001.194-4
-18.005.360-4
-DEFERIDO
-DEFERIDO
-18.007.200-5
-DEFERIDO
-18.009.903-5
-DEFERIDO
-18.024.848-1
-DEFERIDO
-18.017.346-4
-DEFERIDO
-17.027.633-3
-18.023.084-1
-DEFERIDO
-DEFERIDO
-18.004.834-1
-18.004.822-8
-DEFERIDO
 
 N O M E
+
+18.005.858-4
+
 ALDA MARIA BELO DA SILVA 
+
+18.005.859-2
+
 ANTONIO GILMAR FERNANDES
+
+18.003.802-8
+
 DAVID EFRAIM NIGRI
-EURINETE MARIA DE JESUS BARBOSA
-FABRICIO DE CALDAS BATISTA
-FRANCISCA PAULA ARAUJO RODRIGUES
-GETULIO LIRA MACHADO
-GRACE ANNE FERREIRA LEITE 
-HELLADYO FELINTO SAMPAIO
-JOÃO FERREIRA BARBOSA
-JOÃO PAULO II FERNANDES FIGUEIREDO
-JOSÉ ROBERTO ALVES
-KAROL WOJTYLA DA SILVA RAMOS
-MARCOS PAULO DOS ANJOS VILELA
-MARIA DA CONCEIÇÃO CASADO DA SILVA 
-PEDRO QUINCA DE SÁ FILHO 
-PIRAGIBE ROBERTO DE ALMEIDA
-POLLYANNA SONALLY DA CUNHA 
-PEDROSA
-RENATA GUIMARÃES DA SILVA
-SEBASTIÃO JOSÉ DA SILVA
 
 PARECER
+
+DESPACHO
+
 1125/2021/ASJUR-SEAD
+
+DEFERIDO
+
 1229/2021/ASJUR-SEAD
+
+DEFERIDO
+
 1264/2021/ASJUR-SEAD
+
+DEFERIDO
+
+18.004.251-3
+
+EURINETE MARIA DE JESUS BARBOSA
+
 1265/2021/ASJUR-SEAD
+
+DEFERIDO
+
+18.003.016-7
+
+FABRICIO DE CALDAS BATISTA
+
 1356/2021/ASJUR-SEAD
+
+DEFERIDO
+
+18.001.159-6
+
+FRANCISCA PAULA ARAUJO RODRIGUES
+
 1196/2021/ASJUR-SEAD
-1352/2021/ASJUR-SEAD
-1339/2021/ASJUR-SEAD
-1126/2021/ASJUR-SEAD
-1176/2021/ASJUR-SEAD
+
+DEFERIDO
+
+18.009.903-5
+
+JOÃO PAULO II FERNANDES FIGUEIREDO
+
 1174/2021/ASJUR-SEAD
+
+DEFERIDO
+
+18.001.147-2
+
+GETULIO LIRA MACHADO
+
+18.001.194-4
+
+GRACE ANNE FERREIRA LEITE 
+
+18.005.360-4
+
+HELLADYO FELINTO SAMPAIO
+
+18.007.200-5
+
+JOÃO FERREIRA BARBOSA
+
+18.024.848-1
+
+JOSÉ ROBERTO ALVES
+
+18.017.346-4
+
+KAROL WOJTYLA DA SILVA RAMOS
+
+17.027.633-3
+
+MARCOS PAULO DOS ANJOS VILELA
+
+18.004.834-1
+
+PEDRO QUINCA DE SÁ FILHO 
+
+18.004.822-8
+
+PIRAGIBE ROBERTO DE ALMEIDA
+
+18.024.283-1
+
+POLLYANNA SONALLY DA CUNHA 
+PEDROSA
+
+18.015.922-4
+
+RENATA GUIMARÃES DA SILVA
+
+18.007.552-7
+
+SEBASTIÃO JOSÉ DA SILVA
+
+1352/2021/ASJUR-SEAD
+
+DEFERIDO
+
+1339/2021/ASJUR-SEAD
+
+DEFERIDO
+
+1126/2021/ASJUR-SEAD
+
+DEFERIDO
+
+1176/2021/ASJUR-SEAD
+
+DEFERIDO
+
 1154/2021/ASJUR-SEAD
+
+DEFERIDO
+
 1123/2021/ASJUR-SEAD
+
+DEFERIDO
+
 1310/2021/ASJUR-SEAD
-1166/2021/ASJUR-SEAD
+
+DEFERIDO
+
 1187/2021/ASJUR-SEAD
+
+DEFERIDO
+
 1363/2021/ASJUR-SEAD
 
-155.370-4
+DEFERIDO
 
-163.591-3
-154.910-3
+155.370-4
 
 1165/2021/ASJUR-SEAD
 
 DEFERIDO
 
+163.591-3
+
+154.910-3
+
 1346/2021/ASJUR-SEAD
+
+DEFERIDO
+
 1351/2021/ASJUR-SEAD
 
 DEFERIDO
+
+18.023.084-1
+
+MARIA DA CONCEIÇÃO CASADO DA SILVA 
+
+1166/2021/ASJUR-SEAD
+
 DEFERIDO
 
 MAT.
+
 135.578-3
+
 135.609-7
+
 164.236-7
+
 086.205-3
+
 182.254-3
+
 135.716-6
+
 064.299-1
+
 156.493-5
+
 155.084-5
+
 111.930-3
+
 168.563-5
+
 173.159-9
+
 163.497-6
+
 156.891-4
+
 101.860-4
+
 155.680-1
+
 091.047-3
-
-18.024.283-1
-
-18.015.922-4
-18.007.552-7
 
 8
 
@@ -2104,17 +2269,23 @@ João Pessoa - Sexta-feira, 17 de Dezembro de 2021
 
 Diário Oﬁ cial
 
-O Diretor Executivo de Recursos Humanos por delegação de competência que lhe foi outorgada pela Portaria nº 2374/GS,
-datada de 18.07.88, e de acordo com Laudo da Perícia Médica Oficial, DEFERIU os seguintes pedidos:
-
-Tipo de Licença => Prorrogação de Licença Saúde
-
 GOVERNO DO ESTADO DA PARAÍBA
 SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
 DIRETORIA EXECUTIVA DE RECURSOS HUMANOS / GERÊNCIA EXECUTIVA CONC. DE DIREITOS E VANTAGENS
 
 Nº da Resenha : 637/2021
 15/12/2021
+
+SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
+DIRETORIA EXECUTIVA DE RECURSOS HUMANOS
+GERÊNCIA EXECUTIVA DE CONCESSÃO DE DIREITOS E VANTAGENS
+
+RESENHA Nº :616/2021
+EXPEDIENTE DO DIA : 07-12-2021
+
+resolve DEFERIR os Processos de Anotação de Tempo de Serviço dos servidores abaixo:
+
+O DIRETOR EXECUTIVO DE RECURSOS HUMANOS, por delegação de competência constante na Portaria nº 2374/GS, datada de 18/07/88,
 
 O Diretor Executivo de Recursos Humanos por delegação de competência que lhe foi outorgada pela Portaria nº 2374/GS,
 datada de 18.07.88, e de acordo com Laudo da Perícia Médica Oficial, DEFERIU os seguintes pedidos:
@@ -2137,59 +2308,161 @@ SEC.EST.SAUDE
 
 ADRIANA MARTINS NUNES
 
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
-
-CASSYA LAYS ALVES DANTAS
-
-SEC.EST.SAUDE
-
-JULIANA DE OLIVEIRA SANTOS
-
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
-
-POLIANE FERREIRA GONCALVES
-
-Tipo de Licença => Licença Maternidade (Prorrogação Covid19)
-
 904.076-5
 
 COMISSIONADO
-
-174.786-0
-
-COMISSIONADO
-
-941.092-9
-
-COMISSIONADO
-
-604.240-6
-
-COMISSIONADO
-
-180
-
-180
-
-180
-
-180
 
 10/12/2021
 
 07/06/2022
 
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+CASSYA LAYS ALVES DANTAS
+
+174.786-0
+
+COMISSIONADO
+
 08/12/2021
 
 05/06/2022
+
+SEC.EST.SAUDE
+
+JULIANA DE OLIVEIRA SANTOS
+
+941.092-9
+
+COMISSIONADO
 
 04/10/2021
 
 01/04/2022
 
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+POLIANE FERREIRA GONCALVES
+
+604.240-6
+
+COMISSIONADO
+
 28/11/2021
 
 26/05/2022
+
+Lotação
+
+Nº Processo
+
+Matricula
+
+Nome
+
+Privado
+
+Federal
+
+Estadual Municipal
+
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+21018087-1
+
+895938
+
+CARLOS ROMULO DE FREITAS OLIVEIRA
+
+SEC.EST.DESENVOLVIMENTO HUMANO
+
+21017231-2
+
+1363948
+
+JOSE SANTIAGO
+
+SEC.EST.SEGUR E DEFESA SOCIAL
+
+21014441-6
+
+1683438
+
+MARCIA ADRIANA DE ARAUJO
+
+SEC.EST.ADM. PENITENCIARIA
+
+21017652-1
+
+1815865
+
+ORLANILDO GOMES DA SILVA
+
+SEC.EST.SEGUR E DEFESA SOCIAL
+
+21013307-4
+
+1683730
+
+VICENTE JOSE DA CRUZ JUNIOR
+
+2.440
+
+1.407
+
+2.094
+
+4.409
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+4.528
+
+2.000
+
+0
+
+0
+
+0
+
+0
+
+SEC.EST.SAUDE
+
+SEC.EST.SAUDE
+
+SEC.EST.SAUDE
+
+SEC.EST.SAUDE
+
+SEC.EST.SAUDE
+
+SEC.EST.SAUDE
+
+Tipo de Licença => Licença Paternidade
+
+Tipo de Licença => Licença Maternidade (Prorrogação Covid19)
+
+PUBLIQUE-SE
 
 SEC.EST.SAUDE
 
@@ -2203,11 +2476,19 @@ ALINE LIRA XAVIER
 
 ESTATUTARIO
 
+15/12/2021
+
+13/01/2022
+
 JOANA DARC DOS SANTOS LOURENCO
 
 915.857-0
 
 COMISSIONADO
+
+07/12/2021
+
+04/02/2022
 
 ROSILENE BARBOSA DA SILVA
 
@@ -2215,7 +2496,18 @@ ROSILENE BARBOSA DA SILVA
 
 COMISSIONADO
 
+04/12/2021
+
+01/02/2022
+
 Tipo de Licença => Licença para Tratamento de Saúde
+
+GOVERNO DO ESTADO DA PARAÍBA
+SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
+DIRETORIA EXECUTIVA DE RECURSOS HUMANOS / GERÊNCIA EXECUTIVA CONC. DE DIREITOS E VANTAGENS
+
+Nº da Resenha : 636/2021
+14/12/2021
 
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
@@ -2225,6 +2517,10 @@ FERNANDO ANTONIO ARAUJO DE OLIVEIRA
 
 ESTATUTARIO
 
+15/12/2021
+
+13/01/2022
+
 SEC.EST.SAUDE
 
 FRANCISCA GONCALVES DE ARAUJO
@@ -2232,6 +2528,13 @@ FRANCISCA GONCALVES DE ARAUJO
 941.302-2
 
 COMISSIONADO
+
+06/12/2021
+
+20/12/2021
+
+O Diretor Executivo de Recursos Humanos por delegação de competência que lhe foi outorgada pela Portaria nº 2374/GS,
+datada de 18.07.88, e de acordo com Laudo da Perícia Médica Oficial, DEFERIU os seguintes pedidos:
 
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
@@ -2241,23 +2544,53 @@ GERALDO MOISES DE ANDRADE
 
 ESTATUTARIO
 
-SEC.EST.SAUDE
+04/12/2021
 
-SEC.EST.SAUDE
-
-SEC.EST.SAUDE
+02/01/2022
 
 GIVANILDO DA SILVA ALMEIDA
-
-JOSENALDO VIEIRA DE SOUSA
 
 943.480-1
 
 COMISSIONADO
 
+29/11/2021
+
+13/12/2021
+
+Secretaria
+
+Nome
+
+Matricula Regime
+
+Dias
+
+Inicio
+
+Termino
+
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+MARCOS ANTONIO CARNEIRO
+
+695.638-6
+
+COMISSIONADO
+
+29/11/2021
+
+13/12/2021
+
+JOSENALDO VIEIRA DE SOUSA
+
 943.512-3
 
 COMISSIONADO
+
+10/12/2021
+
+24/12/2021
 
 MADELAYNE DOS ANJOS AGRA FABRICIO
 
@@ -2265,19 +2598,21 @@ MADELAYNE DOS ANJOS AGRA FABRICIO
 
 COMISSIONADO
 
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
+22/11/2021
 
-MARCOS ANTONIO CARNEIRO
+06/12/2021
+
+Tipo de Licença => Licença Maternidade
 
 MARIA ALICE LIMA DE MIRANDA
-
-695.638-6
-
-COMISSIONADO
 
 999.707-5
 
 COMISSIONADO
+
+25/11/2021
+
+09/12/2021
 
 MARIO OVERTON DOS SANTOS MOURA
 
@@ -2285,97 +2620,69 @@ MARIO OVERTON DOS SANTOS MOURA
 
 ESTATUTARIO
 
+05/12/2021
+
+03/01/2022
+
 ROSANGELA DE FATIMA LIMA DE ARAUJO M DIAS
 
 76.141-9
 
 ESTATUTARIO
 
-SEC.EST.SAUDE
-
-SEC.EST.SAUDE
-
-SEC.EST.SAUDE
-
-30
-
-60
-
-60
-
-30
-
-15
-
-30
-
-15
-
-15
-
-15
-
-15
-
-15
-
-30
-
-15
-
-15/12/2021
-
-13/01/2022
-
-07/12/2021
-
-04/02/2022
-
-04/12/2021
-
-01/02/2022
-
-15/12/2021
-
-13/01/2022
-
-06/12/2021
-
-20/12/2021
-
-04/12/2021
-
-02/01/2022
-
-29/11/2021
-
-13/12/2021
-
-10/12/2021
-
-24/12/2021
-
-22/11/2021
-
-06/12/2021
-
-29/11/2021
-
-13/12/2021
-
-25/11/2021
-
-09/12/2021
-
-05/12/2021
-
-03/01/2022
-
 09/12/2021
 
 23/12/2021
 
-Tipo de Licença => Licença Paternidade
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+ANA MARIA DANTAS DO NASCIMENTO
+
+180.010-8
+
+COMISSIONADO
+
+04/12/2021
+
+01/06/2022
+
+SEC.EST.SAUDE
+
+RAYSSA OLIVEIRA FEITOSA DUDA
+
+913.748-3
+
+COMISSIONADO
+
+06/12/2021
+
+03/06/2022
+
+Tipo de Licença => Licença Maternidade (Prorrogação Covid19)
+
+SEC.EST.SAUDE
+
+SEC.EST.SAUDE
+
+JULIA MARTA GONCALVES DA SILVA
+
+914.471-4
+
+COMISSIONADO
+
+13/10/2021
+
+11/12/2021
+
+LISSANDRA SOBREIRA ROCHA
+
+916.003-5
+
+COMISSIONADO
+
+09/12/2021
+
+07/01/2022
 
 SEC.EST.SAUDE
 
@@ -2393,6 +2700,8 @@ ESTATUTARIO
 
 Tipo de Licença => Licença por Motivo de Doença em Pessoa da Família
 
+Tipo de Licença => Licença para Tratamento de Saúde
+
 SEC.EST.SEGUR E DEFESA SOCIAL
 
 THYARA DEYS DE LACERDA RAMALHO
@@ -2407,39 +2716,67 @@ ESTATUTARIO
 
 23/12/2021
 
+SEC.EST.ADM. PENITENCIARIA
+
+ANTONIO SALES SOARES FERREIRA
+
+90.407-4
+
+ESTATUTARIO
+
+04/12/2021
+
+03/03/2022
+
 Tipo de Licença => Prorrogação de Licença Saúde
 
 SEC.EST.SAUDE
 
 BRUNO RIBEIRO CAMPELO
 
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
-
-HELOISA HELENA MACIEL FORMIGA
-
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
-
-JOAO FURTADO DE ARAUJO
-
-SEC.EST.SAUDE
-
-KALINY MONTEIRO SIMOES
-
 161.718-4
 
 ESTATUTARIO
+
+29/10/2021
+
+27/12/2021
+
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+HELOISA HELENA MACIEL FORMIGA
 
 135.305-5
 
 ESTATUTARIO
 
+04/12/2021
+
+03/03/2022
+
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+JOAO FURTADO DE ARAUJO
+
 144.221-0
 
 ESTATUTARIO
 
+05/12/2021
+
+04/03/2022
+
+SEC.EST.SAUDE
+
+KALINY MONTEIRO SIMOES
+
 161.428-2
 
 ESTATUTARIO
+
+07/12/2021
+
+16/12/2021
 
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
@@ -2449,6 +2786,82 @@ MARIA CLEIDE CAVALCANTE LACERDA
 
 ESTATUTARIO
 
+12/12/2021
+
+11/03/2022
+
+SEC.EST.SAUDE
+
+CLAUDIA PATRICIA GOMES DE SOUZA MARQUES
+
+161.701-0
+
+ESTATUTARIO
+
+09/12/2021
+
+06/02/2022
+
+SEC.EST.SEGUR E DEFESA SOCIAL
+
+EDILSON PEREIRA DE ALMEIDA
+
+137.258-1
+
+ESTATUTARIO
+
+29/11/2021
+
+12/01/2022
+
+SEC.EST. ADMINISTRACAO
+
+FABIANE DE FATIMA FERNANDES DA CUNHA LIMA
+
+109.606-1
+
+ESTATUTARIO
+
+08/12/2021
+
+05/02/2022
+
+SEC.EST.SAUDE
+
+GILMARA MARIA DE SOUSA
+
+168.746-8
+
+ESTATUTARIO
+
+01/12/2021
+
+28/02/2022
+
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+MARIA BEZERRA DE LIMA
+
+141.160-8
+
+ESTATUTARIO
+
+14/11/2021
+
+12/01/2022
+
+SEC.EST.SAUDE
+
+MARIA DE LOURDES VALENTIM
+
+136.483-9
+
+ESTATUTARIO
+
+23/08/2021
+
+20/11/2021
+
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
 MARIA DO CARMO DUDA AZEVEDO
@@ -2456,6 +2869,22 @@ MARIA DO CARMO DUDA AZEVEDO
 131.449-1
 
 ESTATUTARIO
+
+03/12/2021
+
+31/01/2022
+
+SEC.EST.ADM. PENITENCIARIA
+
+MURILO GOMES DE MEDEIROS
+
+168.756-5
+
+ESTATUTARIO
+
+07/12/2021
+
+05/01/2022
 
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
@@ -2465,6 +2894,22 @@ MARIA TEREZA RODRIGUES DE SOUZA
 
 ESTATUTARIO
 
+02/12/2021
+
+31/12/2021
+
+SEC.EST.SAUDE
+
+THAYSE DE LUCENA E MOURA
+
+168.755-7
+
+ESTATUTARIO
+
+08/12/2021
+
+20/12/2021
+
 SEC.EST.SEGUR E DEFESA SOCIAL
 
 RODOLFO VIEIRA DE SOUZA DUARTE MELLO
@@ -2473,53 +2918,21 @@ RODOLFO VIEIRA DE SOUZA DUARTE MELLO
 
 ESTATUTARIO
 
-60
-
-90
-
-90
-
-10
-
-90
-
-60
-
-30
-
-30
-
-29/10/2021
-
-27/12/2021
-
-04/12/2021
-
-03/03/2022
-
-05/12/2021
-
-04/03/2022
-
-07/12/2021
-
-16/12/2021
-
-12/12/2021
-
-11/03/2022
-
-03/12/2021
-
-31/01/2022
-
-02/12/2021
-
-31/12/2021
-
 03/12/2021
 
 01/01/2022
+
+SEC.EST.ADM. PENITENCIARIA
+
+VANDERLY DOS SANTOS SILVA
+
+79.825-8
+
+ESTATUTARIO
+
+09/12/2021
+
+08/03/2022
 
 GOVERNO DO ESTADO DA PARAÍBA
 SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
@@ -2527,6 +2940,11 @@ DIRETORIA EXECUTIVA DE RECURSOS HUMANOS / GERÊNCIA EXECUTIVA CONC. DE DIREITOS 
 
 Nº da Resenha : 635/2021
 13/12/2021
+
+O Diretor Executivo de Recursos Humanos por delegação de competência que lhe foi outorgada pela Portaria nº 2374/GS,
+datada de 18.07.88, e de acordo com Laudo da Perícia Médica Oficial, DEFERIU os seguintes pedidos:
+
+Tipo de Licença => Prorrogação de Licença Saúde
 
 Secretaria
 
@@ -2562,43 +2980,63 @@ SEC.EST.SEGUR E DEFESA SOCIAL
 
 JONILMA SILVA ESPINOLA
 
-SEC.EST.SAUDE
-
-SEC.EST.SAUDE
-
-SEC.EST.SAUDE
-
-MORGANA KELLY ALVES DA SILVA
-
-MORGANA KELLY ALVES DA SILVA
-
-RENATA FIGUEIREDO RAMALHO
-
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
-
-SANDRA MARIA DINIZ SILVA
-
-Tipo de Licença => Licença para Tratamento de Saúde
-
 182.435-0
 
 ESTATUTARIO
+
+06/12/2021
+
+04/01/2022
+
+SEC.EST.SAUDE
+
+SEC.EST.SAUDE
+
+SEC.EST.SAUDE
+
+MORGANA KELLY ALVES DA SILVA
 
 913.743-2
 
 COMISSIONADO
 
+09/12/2021
+
+07/01/2022
+
+MORGANA KELLY ALVES DA SILVA
+
 162.673-6
 
 ESTATUTARIO
+
+09/12/2021
+
+07/01/2022
+
+RENATA FIGUEIREDO RAMALHO
 
 162.321-4
 
 ESTATUTARIO
 
+11/12/2021
+
+09/01/2022
+
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+SANDRA MARIA DINIZ SILVA
+
 189.081-6
 
 ESTATUTARIO
+
+11/12/2021
+
+09/01/2022
+
+Tipo de Licença => Licença para Tratamento de Saúde
 
 SEC.EST.DESENVOLVIMENTO HUMANO
 
@@ -2607,6 +3045,10 @@ ADRIANA ANDRE DOS SANTOS
 186.371-1
 
 COMISSIONADO
+
+04/12/2021
+
+18/12/2021
 
 SEC.EST.SAUDE
 
@@ -2618,11 +3060,19 @@ ALBANEIDY BERNARDINO DOS SANTOS
 
 COMISSIONADO
 
+02/12/2021
+
+16/12/2021
+
 ANGELLA LOUISE FIGUEIREDO DE MORAES
 
 76.208-3
 
 ESTATUTARIO
+
+07/12/2021
+
+06/03/2022
 
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
@@ -2632,6 +3082,10 @@ IRANY RAIMUNDO DE SOUSA
 
 ESTATUTARIO
 
+13/10/2021
+
+11/11/2021
+
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
 JOSE MARCOS RODRIGUES DO NASCIMENTO
@@ -2639,6 +3093,10 @@ JOSE MARCOS RODRIGUES DO NASCIMENTO
 146.552-0
 
 ESTATUTARIO
+
+05/10/2021
+
+02/01/2022
 
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
@@ -2648,6 +3106,10 @@ LETICIA ALVES DE FREITAS
 
 ESTATUTARIO
 
+06/11/2021
+
+04/01/2022
+
 SEC.EST.SAUDE
 
 POLLYANNA RAISSA DE OLIVEIRA FARIAS
@@ -2656,135 +3118,59 @@ POLLYANNA RAISSA DE OLIVEIRA FARIAS
 
 ESTATUTARIO
 
+18/11/2021
+
+17/12/2021
+
 SEC.EST.SEGUR E DEFESA SOCIAL
 
 RONALDO RAMALHO ROSAS
 
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
-
-SUZANEIDE REGO DE LIMA AZEVEDO
-
-SEC.EST.SAUDE
-
-SEC.EST.SAUDE
-
-TALITA COSTA FALCAO
-
-TALITA COSTA FALCAO
-
 61.251-1
 
-86.247-9
-
 ESTATUTARIO
-
-ESTATUTARIO
-
-916.032-9
-
-COMISSIONADO
-
-160.843-6
-
-ESTATUTARIO
-
-Tipo de Licença => Licença por Motivo de Doença em Pessoa da Família
-
-30
-
-30
-
-30
-
-30
-
-30
-
-15
-
-15
-
-90
-
-30
-
-90
-
-60
-
-30
-
-60
-
-90
-
-10
-
-10
-
-06/12/2021
-
-04/01/2022
-
-09/12/2021
-
-07/01/2022
-
-09/12/2021
-
-07/01/2022
-
-11/12/2021
-
-09/01/2022
-
-11/12/2021
-
-09/01/2022
-
-04/12/2021
-
-18/12/2021
-
-02/12/2021
-
-16/12/2021
-
-07/12/2021
-
-06/03/2022
-
-13/10/2021
-
-11/11/2021
-
-05/10/2021
-
-02/01/2022
-
-06/11/2021
-
-04/01/2022
-
-18/11/2021
-
-17/12/2021
 
 06/12/2021
 
 03/02/2022
 
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+SUZANEIDE REGO DE LIMA AZEVEDO
+
+86.247-9
+
+ESTATUTARIO
+
 09/12/2021
 
 08/03/2022
 
+SEC.EST.SAUDE
+
+SEC.EST.SAUDE
+
+TALITA COSTA FALCAO
+
+TALITA COSTA FALCAO
+
+916.032-9
+
+COMISSIONADO
+
 06/12/2021
 
 15/12/2021
 
+160.843-6
+
+ESTATUTARIO
+
 06/12/2021
 
 15/12/2021
+
+Tipo de Licença => Licença por Motivo de Doença em Pessoa da Família
 
 SEC.EST.SEGUR E DEFESA SOCIAL
 
@@ -2806,17 +3192,25 @@ SEC.EST.ADM. PENITENCIARIA
 
 ALLY NAPY CHARARA
 
-SEC.EST.SAUDE
-
-APIO CLAUDIO DE LIMA ASSIS
-
 163.141-1
 
 ESTATUTARIO
 
+29/11/2021
+
+26/02/2022
+
+SEC.EST.SAUDE
+
+APIO CLAUDIO DE LIMA ASSIS
+
 162.167-0
 
 ESTATUTARIO
+
+10/12/2021
+
+08/01/2022
 
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
@@ -2826,19 +3220,23 @@ AUDICLEIDE BATISTA SOUSA DE OLIVEIRA
 
 ESTATUTARIO
 
+03/12/2021
+
+01/01/2022
+
+SEC.EST.FAZENDA
+
+SEC.EST.FAZENDA
+
 CLAUDIO EMMANUEL MELO NOGUEIRA DE MORAES
 
 92.476-8
 
 ESTATUTARIO
 
-SEC.EST.FAZENDA
+09/12/2021
 
-SEC.EST.FAZENDA
-
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
-
-IRANY RAIMUNDO DE SOUSA
+07/01/2022
 
 FRANCISCA MARIA DE JESUS
 
@@ -2846,9 +3244,9 @@ FRANCISCA MARIA DE JESUS
 
 ESTATUTARIO
 
-141.440-2
+10/12/2021
 
-ESTATUTARIO
+08/01/2022
 
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
@@ -2858,107 +3256,49 @@ MARIA DE FATIMA PEREIRA DE MEDEIROS
 
 ESTATUTARIO
 
+13/12/2021
+
+10/02/2022
+
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
 MARIA JOSE CAVALCANTI DE BRITO
-
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
-
-MARIA JOSE GUEDES
-
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
-
-MARLENE MACARIO DE OLIVEIRA
-
-SEC.EST.SAUDE
-
-RUI ARAUJO
 
 158.806-1
 
 ESTATUTARIO
 
-122.417-4
-
-ESTATUTARIO
-
-159.705-1
-
-ESTATUTARIO
-
-150.788-5
-
-ESTATUTARIO
-
-SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
-DIRETORIA EXECUTIVA DE RECURSOS HUMANOS
-GERÊNCIA EXECUTIVA DE CONCESSÃO DE DIREITOS E VANTAGENS
-
-90
-
-30
-
-30
-
-30
-
-30
-
-30
-
-60
-
-90
-
-90
-
-90
-
-90
-
-29/11/2021
-
-26/02/2022
-
-10/12/2021
-
-08/01/2022
-
-03/12/2021
-
-01/01/2022
-
-09/12/2021
-
-07/01/2022
-
-10/12/2021
-
-08/01/2022
-
-23/11/2021
-
-22/12/2021
-
-13/12/2021
-
-10/02/2022
-
 09/12/2021
 
 08/03/2022
+
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+MARIA JOSE GUEDES
+
+122.417-4
+
+ESTATUTARIO
 
 05/12/2021
 
 04/03/2022
 
-06/06/2021
+SEC.EST.SAUDE
 
-03/09/2021
+RUI ARAUJO
+
+150.788-5
+
+ESTATUTARIO
 
 30/11/2021
 
 27/02/2022
+
+SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
+DIRETORIA EXECUTIVA DE RECURSOS HUMANOS
+GERÊNCIA EXECUTIVA DE CONCESSÃO DE DIREITOS E VANTAGENS
 
 RESENHA Nº : 623/2021
 EXPEDIENTE DO DIA : 16-12-2021
@@ -2987,11 +3327,11 @@ SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
 21017517-6
 
-1304291
-
 MARIA CICERA FIDELIS DE SOUZA
 
 Tempo Público Municipal
+
+1304291
 
 22/02/1983
 
@@ -3001,240 +3341,17 @@ Tempo Público Municipal
 
 PUBLIQUE-SE
 
-SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
-DIRETORIA EXECUTIVA DE RECURSOS HUMANOS
-GERÊNCIA EXECUTIVA DE CONCESSÃO DE DIREITOS E VANTAGENS
-
-RESENHA Nº :616/2021
-EXPEDIENTE DO DIA : 07-12-2021
-
-resolve DEFERIR os Processos de Anotação de Tempo de Serviço dos servidores abaixo:
-
-O DIRETOR EXECUTIVO DE RECURSOS HUMANOS, por delegação de competência constante na Portaria nº 2374/GS, datada de 18/07/88,
-
-Lotação
-
-Nº Processo
-
-Matricula
-
-Nome
-
-Privado
-
-Federal
-
-Estadual Municipal
-
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
-SEC.EST.DESENVOLVIMENTO HUMANO
-SEC.EST.SEGUR E DEFESA SOCIAL
-SEC.EST.ADM. PENITENCIARIA
-SEC.EST.SEGUR E DEFESA SOCIAL
-
-21018087-1
-21017231-2
-21014441-6
-21017652-1
-21013307-4
-
-895938
-1363948
-1683438
-1815865
-1683730
-
-CARLOS ROMULO DE FREITAS OLIVEIRA
-JOSE SANTIAGO
-MARCIA ADRIANA DE ARAUJO
-ORLANILDO GOMES DA SILVA
-VICENTE JOSE DA CRUZ JUNIOR
-
-2.440
-1.407
-2.094
-4.409
-0
-
-0
-0
-0
-0
-0
-
-0
-0
-0
-0
-4.528
-
-0
-0
-2.000
-0
-0
-
-PUBLIQUE-SE
-
-GOVERNO DO ESTADO DA PARAÍBA
-SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
-DIRETORIA EXECUTIVA DE RECURSOS HUMANOS / GERÊNCIA EXECUTIVA CONC. DE DIREITOS E VANTAGENS
-
-Nº da Resenha : 636/2021
-14/12/2021
-
-O Diretor Executivo de Recursos Humanos por delegação de competência que lhe foi outorgada pela Portaria nº 2374/GS,
-datada de 18.07.88, e de acordo com Laudo da Perícia Médica Oficial, DEFERIU os seguintes pedidos:
-
-Secretaria
-
-Nome
-
-Matricula Regime
-
-Dias
-
-Inicio
-
-Termino
-
-Tipo de Licença => Licença Maternidade
-
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
-
-ANA MARIA DANTAS DO NASCIMENTO
-
-180.010-8
-
-COMISSIONADO
-
-SEC.EST.SAUDE
-
-RAYSSA OLIVEIRA FEITOSA DUDA
-
-913.748-3
-
-COMISSIONADO
-
-180
-
-180
-
-04/12/2021
-
-01/06/2022
-
-06/12/2021
-
-03/06/2022
-
-Tipo de Licença => Licença Maternidade (Prorrogação Covid19)
-
-SEC.EST.SAUDE
-
-SEC.EST.SAUDE
-
-JULIA MARTA GONCALVES DA SILVA
-
-914.471-4
-
-COMISSIONADO
-
-LISSANDRA SOBREIRA ROCHA
-
-916.003-5
-
-COMISSIONADO
-
-Tipo de Licença => Licença para Tratamento de Saúde
-
-SEC.EST.ADM. PENITENCIARIA
-
-ANTONIO SALES SOARES FERREIRA
-
-90.407-4
-
-ESTATUTARIO
-
-SEC.EST.SAUDE
-
-CLAUDIA PATRICIA GOMES DE SOUZA MARQUES
-
-161.701-0
-
-ESTATUTARIO
-
-SEC.EST.SEGUR E DEFESA SOCIAL
-
-EDILSON PEREIRA DE ALMEIDA
-
-137.258-1
-
-ESTATUTARIO
-
-SEC.EST. ADMINISTRACAO
-
-FABIANE DE FATIMA FERNANDES DA CUNHA LIMA
-
-109.606-1
-
-ESTATUTARIO
-
-SEC.EST.SAUDE
-
-GILMARA MARIA DE SOUSA
-
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
-
-MARIA BEZERRA DE LIMA
-
-SEC.EST.SAUDE
-
-MARIA DE LOURDES VALENTIM
-
-SEC.EST.ADM. PENITENCIARIA
-
-MURILO GOMES DE MEDEIROS
-
-SEC.EST.SAUDE
-
-THAYSE DE LUCENA E MOURA
-
-SEC.EST.ADM. PENITENCIARIA
-
-VANDERLY DOS SANTOS SILVA
-
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
 VERA LUCIA DA SILVA ANDRADE
 
-168.746-8
-
-ESTATUTARIO
-
-141.160-8
-
-ESTATUTARIO
-
-136.483-9
-
-ESTATUTARIO
-
-168.756-5
-
-ESTATUTARIO
-
-168.755-7
-
-ESTATUTARIO
-
-79.825-8
-
-ESTATUTARIO
-
 145.392-1
 
 ESTATUTARIO
+
+30/11/2021
+
+29/12/2021
 
 Tipo de Licença => Prorrogação da Licença por Motivo de Doença em Pessoa da Família
 
@@ -3250,17 +3367,29 @@ ANNE KARINE DE ASSUNCAO ALMEIDA
 
 ESTATUTARIO
 
-MANUELLE DOS SANTOS ISIDRO
+11/12/2021
 
-MARILIA GABRIELA PEDROZA
+09/01/2022
+
+MANUELLE DOS SANTOS ISIDRO
 
 157.695-0
 
 ESTATUTARIO
 
+13/12/2021
+
+11/01/2022
+
+MARILIA GABRIELA PEDROZA
+
 167.683-1
 
 ESTATUTARIO
+
+06/12/2021
+
+04/01/2022
 
 SEC.EST.SEGUR E DEFESA SOCIAL
 
@@ -3270,6 +3399,10 @@ ALVARES DE SOUZA AMORIM
 
 ESTATUTARIO
 
+10/12/2021
+
+09/03/2022
+
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
 FAUSTO NASCIMENTO DE ALBUQUERQUE
@@ -3277,6 +3410,10 @@ FAUSTO NASCIMENTO DE ALBUQUERQUE
 146.006-4
 
 ESTATUTARIO
+
+02/12/2021
+
+01/03/2022
 
 SEC.EST.SAUDE
 
@@ -3286,37 +3423,57 @@ FRANCISCO DE ASSIS DINIZ DE LIMA
 
 ESTATUTARIO
 
+30/11/2021
+
+28/01/2022
+
 SEC.EST.ADM. PENITENCIARIA
 
 FRANK CHARLES FONTES MAIA
-
-SEC.EST.PLAN.ORC.GESTAO
-
-JOSENALDO DA SILVA LIMA
-
-SEC.EST.SAUDE
-
-LILIANA XIMENES IZIDRO COSTA
-
-SEC.EST.EDUCAC.CIENC.TECNOLOG.
-
-MARLENE MACARIO DE OLIVEIRA
 
 172.153-4
 
 ESTATUTARIO
 
+10/12/2021
+
+24/12/2021
+
+SEC.EST.PLAN.ORC.GESTAO
+
+JOSENALDO DA SILVA LIMA
+
 127.736-7
 
 ESTATUTARIO
+
+11/12/2021
+
+10/03/2022
+
+SEC.EST.SAUDE
+
+LILIANA XIMENES IZIDRO COSTA
 
 90.097-4
 
 ESTATUTARIO
 
+02/12/2021
+
+31/12/2021
+
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+MARLENE MACARIO DE OLIVEIRA
+
 159.705-1
 
 ESTATUTARIO
+
+04/09/2021
+
+02/12/2021
 
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
@@ -3326,6 +3483,10 @@ MARLUCE BATISTA DOS PRAZERES MELO
 
 ESTATUTARIO
 
+08/11/2021
+
+05/02/2022
+
 SEC.EST.SAUDE
 
 POLIANA KATIUSCIA ANCELMO DINIZ
@@ -3334,6 +3495,10 @@ POLIANA KATIUSCIA ANCELMO DINIZ
 
 ESTATUTARIO
 
+07/12/2021
+
+21/12/2021
+
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
 YOLANDA ANGELICA DEL CARMEN OLIVA
@@ -3341,6 +3506,323 @@ YOLANDA ANGELICA DEL CARMEN OLIVA
 158.878-8
 
 ESTATUTARIO
+
+09/12/2021
+
+08/03/2022
+
+Secretaria de Estado
+do Desenvolvimento Humano
+
+PORTARIA N° 0230/2021/GS/SEDH                                      João Pessoa, 15 de dezembro de 2021.
+
+                                               
+O SECRETÁRIO DE ESTADO DO DESENVOLVIMENTO HUMANO, no uso 
+das atribuições que lhe confere a Constituição Federal de 1988 c/c a Lei nº. 5.391/1991 e a alínea “a” 
+do inciso XIII do Art. 3º, da Lei 8.186/2007, com objetivo de prorrogar as vigências dos contratos de 
+PRESTAÇÃO DE SERVIÇOS POR TEMPO DETERMINADO, nos termos da Constituição Fede-
+ral de 1988 c/c Lei 8.745/93, advindos do Processo Seletivo Simpliﬁ cado realizado em 2019 através 
+do Edital n.º 09/SEDH//PSS/CREAS/2019 e vacância, em face da necessidade de continuidade do 
+serviço sócio-assistencial promovido pelos Centros de Referência Especializados da Assistência 
+Social/CREAS no âmbito de todo o Estado da Paraíba, conforme abaixo:
+
+VALOR 
+MENSAL 
+(R$)
+
+BARRA DE SANTA ROSA
+
+001/2021
+
+280/2021
+
+ANA PAULA DE OLIVEIRA SILVA Até 31/03/2022
+
+2.000,00
+
+Coordenadora
+
+PAULA WANESSA PEREIRA DE 
+OLIVEIRA
+
+VANDILMA OLIVEIRA 
+CAVALCANTI ALMEIDA
+
+BARRA DE SANTA ROSA
+
+002/2021
+
+153/2020
+
+FLÁVIA DANTAS DE SOUSA
+
+Até 31/03/2022
+
+1.600,00
+
+Assistente Social
+
+BARRA DE SANTA ROSA
+
+002/2021
+
+152/2020
+
+Até 31/03/2022
+
+1.600,00
+
+Psicóloga
+
+BARRA DE SANTA ROSA
+
+002/2021
+
+158/2020
+
+MARIA JOSE SOUSA SILVA
+
+Até 31/03/2022
+
+1.600,00
+
+Educadora Social
+
+BARRA DE SANTA ROSA
+
+002/2021
+
+154/2020
+
+VITORIA SILVA PEREIRA
+
+Até 31/03/2022
+
+1.100,00
+
+Auxiliar Administrativo
+
+BARRA DE SANTA ROSA
+
+002/2021
+
+156/2020
+
+ANTONIO LEITE SOARES FILHO Até 31/03/2022
+
+1.100,00
+
+Motorista
+
+BARRA DE SÃO MIGUEL
+
+002/2021
+
+129/2020
+
+SOLANIA MARIA DAS CHAGAS
+
+Até 31/03/2022
+
+2.000,00
+
+Coordenadora
+
+BARRA DE SÃO MIGUEL
+
+002/2021
+
+133/2020
+
+MELISSA MORAIS DOS SANTOS Até 31/03/2022
+
+2.000,00
+
+Advogada
+
+BARRA DE SÃO MIGUEL
+
+002/2021
+
+128/2020
+
+JEANE URSULINO GOMES
+
+Até 31/03/2022
+
+1.600,00
+
+Assistente Social
+
+BARRA DE SÃO MIGUEL
+
+002/2021
+
+130/2020
+
+LUCIANA CUNHA CAVALCANTI
+
+Até 31/03/2022
+
+1.600,00
+
+Psicóloga
+
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+IRANY RAIMUNDO DE SOUSA
+
+141.440-2
+
+ESTATUTARIO
+
+23/11/2021
+
+22/12/2021
+
+PÓLO
+
+ADITIVO
+
+CONT.
+
+CONTRATADO (A)
+
+VIGÊNCIA
+
+FUNÇÃO
+
+SEC.EST.EDUCAC.CIENC.TECNOLOG.
+
+MARLENE MACARIO DE OLIVEIRA
+
+159.705-1
+
+ESTATUTARIO
+
+06/06/2021
+
+03/09/2021
+
+BARRA DE SANTA ROSA
+
+002/2021
+
+157/2020
+
+Até 31/03/2022
+
+1.600,00
+
+Advogada
+
+180
+
+180
+
+180
+
+180
+
+30
+
+60
+
+60
+
+30
+
+15
+
+30
+
+15
+
+15
+
+15
+
+15
+
+15
+
+30
+
+15
+
+60
+
+90
+
+90
+
+10
+
+90
+
+60
+
+30
+
+30
+
+30
+
+30
+
+30
+
+30
+
+30
+
+15
+
+15
+
+90
+
+30
+
+90
+
+60
+
+30
+
+60
+
+90
+
+10
+
+10
+
+90
+
+30
+
+30
+
+30
+
+30
+
+30
+
+60
+
+90
+
+90
+
+90
+
+90
+
+180
+
+180
 
 60
 
@@ -3394,245 +3876,6 @@ ESTATUTARIO
 
 90
 
-13/10/2021
-
-11/12/2021
-
-09/12/2021
-
-07/01/2022
-
-04/12/2021
-
-03/03/2022
-
-09/12/2021
-
-06/02/2022
-
-29/11/2021
-
-12/01/2022
-
-08/12/2021
-
-05/02/2022
-
-01/12/2021
-
-28/02/2022
-
-14/11/2021
-
-12/01/2022
-
-23/08/2021
-
-20/11/2021
-
-07/12/2021
-
-05/01/2022
-
-08/12/2021
-
-20/12/2021
-
-09/12/2021
-
-08/03/2022
-
-30/11/2021
-
-29/12/2021
-
-11/12/2021
-
-09/01/2022
-
-13/12/2021
-
-11/01/2022
-
-06/12/2021
-
-04/01/2022
-
-10/12/2021
-
-09/03/2022
-
-02/12/2021
-
-01/03/2022
-
-30/11/2021
-
-28/01/2022
-
-10/12/2021
-
-24/12/2021
-
-11/12/2021
-
-10/03/2022
-
-02/12/2021
-
-31/12/2021
-
-04/09/2021
-
-02/12/2021
-
-08/11/2021
-
-05/02/2022
-
-07/12/2021
-
-21/12/2021
-
-09/12/2021
-
-08/03/2022
-
-Secretaria de Estado
-do Desenvolvimento Humano
-
-PORTARIA N° 0230/2021/GS/SEDH                                      João Pessoa, 15 de dezembro de 2021.
-
-                                               
-O SECRETÁRIO DE ESTADO DO DESENVOLVIMENTO HUMANO, no uso 
-das atribuições que lhe confere a Constituição Federal de 1988 c/c a Lei nº. 5.391/1991 e a alínea “a” 
-do inciso XIII do Art. 3º, da Lei 8.186/2007, com objetivo de prorrogar as vigências dos contratos de 
-PRESTAÇÃO DE SERVIÇOS POR TEMPO DETERMINADO, nos termos da Constituição Fede-
-ral de 1988 c/c Lei 8.745/93, advindos do Processo Seletivo Simpliﬁ cado realizado em 2019 através 
-do Edital n.º 09/SEDH//PSS/CREAS/2019 e vacância, em face da necessidade de continuidade do 
-serviço sócio-assistencial promovido pelos Centros de Referência Especializados da Assistência 
-Social/CREAS no âmbito de todo o Estado da Paraíba, conforme abaixo:
-
-PÓLO
-
-ADITIVO
-
-CONT.
-
-CONTRATADO (A)
-
-VIGÊNCIA
-
-BARRA DE SANTA ROSA
-
-001/2021
-
-280/2021
-
-BARRA DE SANTA ROSA
-
-002/2021
-
-157/2020
-
-BARRA DE SANTA ROSA
-
-002/2021
-
-153/2020
-
-BARRA DE SANTA ROSA
-
-002/2021
-
-152/2020
-
-BARRA DE SANTA ROSA
-BARRA DE SANTA ROSA
-BARRA DE SANTA ROSA
-BARRA DE SÃO MIGUEL
-BARRA DE SÃO MIGUEL
-BARRA DE SÃO MIGUEL
-BARRA DE SÃO MIGUEL
-
-002/2021
-002/2021
-002/2021
-002/2021
-002/2021
-002/2021
-002/2021
-
-158/2020
-154/2020
-156/2020
-129/2020
-133/2020
-128/2020
-130/2020
-
-Até 31/03/2022
-
-Até 31/03/2022
-
-Até 31/03/2022
-
-ANA PAULA DE OLIVEIRA SILVA Até 31/03/2022
-PAULA WANESSA PEREIRA DE 
-OLIVEIRA
-FLÁVIA DANTAS DE SOUSA
-VANDILMA OLIVEIRA 
-CAVALCANTI ALMEIDA
-Até 31/03/2022
-MARIA JOSE SOUSA SILVA
-VITORIA SILVA PEREIRA
-Até 31/03/2022
-ANTONIO LEITE SOARES FILHO Até 31/03/2022
-SOLANIA MARIA DAS CHAGAS
-Até 31/03/2022
-MELISSA MORAIS DOS SANTOS Até 31/03/2022
-Até 31/03/2022
-JEANE URSULINO GOMES
-LUCIANA CUNHA CAVALCANTI
-Até 31/03/2022
-
-VALOR 
-MENSAL 
-(R$)
-2.000,00
-
-FUNÇÃO
-
-Coordenadora
-
-1.600,00
-
-Advogada
-
-1.600,00
-
-Assistente Social
-
-1.600,00
-
-Psicóloga
-
-1.600,00
-1.100,00
-1.100,00
-2.000,00
-2.000,00
-1.600,00
-1.600,00
-
-Educadora Social
-Auxiliar Administrativo
-Motorista
-Coordenadora
-Advogada
-Assistente Social
-Psicóloga
-
 Diário Oﬁ cial
 
 João Pessoa - Sexta-feira, 17 de Dezembro de 2021
@@ -3645,11 +3888,27 @@ BARRA DE SÃO MIGUEL
 
 181/2020
 
+Até 31/03/2022
+
+1.600,00
+
+HELIANE DO NASCIMENTO 
+DINIZ NÓBREGA
+
+Educadora
+Social
+
 BARRA DE SÃO MIGUEL
 
 002/2021
 
 131/2020
+
+MARCELO PINTO CAVALCANTE Até 31/03/2022
+
+1.100,00
+
+Motorista
 
 CACIMBA DE DENTRO
 
@@ -3657,17 +3916,54 @@ CACIMBA DE DENTRO
 
 127/2020
 
-CACIMBA DE DENTRO
-CACIMBA DE DENTRO
+Até 31/03/2022
+
+1.600,00
+
+Advogada 
+
+MARLLA EMANUELLA 
+BARRETO PINTO
+
 CACIMBA DE DENTRO
 
-002/2021
-002/2021
 002/2021
 
 123/2020
+
+MAYANE FADJA SILVA BRITO
+
+Até 31/03/2022
+
+1.600,00
+
+Assistente Social
+
+CACIMBA DE DENTRO
+
+002/2021
+
 125/2020
+
+IVANEIDE DOS SANTOS BRAGA Até 31/03/2022
+
+1.600,00
+
+Psicóloga
+
+CACIMBA DE DENTRO
+
+002/2021
+
 166/2020
+
+ELINEIDE SOARES DE LIMA
+
+Até 31/03/2022
+
+1.600,00
+
+Educadora Social
 
 CACIMBA DE DENTRO
 
@@ -3675,68 +3971,52 @@ CACIMBA DE DENTRO
 
 412/2020
 
+Até 31/03/2022
+
+1.100,00
+
+Auxiliar Administrativo
+
+ERIELEM ARAUJO DO 
+NASCIMENTO
+
 CACIMBA DE DENTRO
 
 002/2021
 
 124/2020
 
-PUBLIQUE – SE.
-
-Até 31/03/2022
-
-Até 31/03/2022
-
-HELIANE DO NASCIMENTO 
-DINIZ NÓBREGA
-MARCELO PINTO CAVALCANTE Até 31/03/2022
-MARLLA EMANUELLA 
-BARRETO PINTO
-MAYANE FADJA SILVA BRITO
-Até 31/03/2022
-IVANEIDE DOS SANTOS BRAGA Até 31/03/2022
-ELINEIDE SOARES DE LIMA
-Até 31/03/2022
-ERIELEM ARAUJO DO 
-NASCIMENTO
 ALEX DA COSTA NASCIMENTO
 
 Até 31/03/2022
 
-Até 31/03/2022
-
-1.600,00
-
-1.100,00
-
-Educadora
-Social
-Motorista
-
-1.600,00
-
-Advogada 
-
-1.600,00
-1.600,00
-1.600,00
-
-Assistente Social
-Psicóloga
-Educadora Social
-
-1.100,00
-
-Auxiliar Administrativo
-
 1.100,00
 
 Motorista
+
+DESIGNAR, HÉLIO ARAÚJO ALMEIDA JÚNIOR, Engenheiro Civil, Gerente Seto-
+rial, símbolo CAS-3 matrícula nº 770.479-8, CPF 030.575.404-14, para responder cumulativamente, pela 
+Gerência  da  Obra  de  Reforma, Ampliação  e  Construção  de  Ginásio  da  E.E.E.F.M. Antônio  Camelo  em 
+Alhandra/PB, sem nenhum acréscimo em sua remuneração, com vigência a partir da data de sua  publicação. 
+
+Secretaria de Estado do Desenvolvimento 
+da Agropecuária e da Pesca
+
+PUBLIQUE – SE.
+
+PEDIDO DE CANCELAMENTO
 
 Secretário de Estado do Desenvolvimento Humano
 
 Secretaria de Estado de Planejamento, 
 Orçamento e Gestão 
+
+A Portaria nº 65/2021 publicada no DOE de 30.06.2021, foi publicada em duplicida-
+de no DOE de 15.12.2021, Portaria nº 110/2021, com o mesmo conteúdo: "Art. 1º - Descredenciar para 
+efeitos de emissão de GTA, no EAC do município de Curral de Lima - PB, a funcionária da Prefeitura 
+Alessandra Soares do Nascimento."
+
+João Pessoa, 15 de dezembro de 2021.
 
 PORTARIA GS Nº 012/2021                                                     João Pessoa, 14 de dezembro de 2021.
 
@@ -3797,7 +4077,7 @@ A DIRETORA SUPERINTENDENTE DA SUPLAN, no uso de suas atribuições
 que lhe confere o Art. 7º, Inciso VIII, letra b do Decreto nº 13.587 de 27 de março de 1990,
 
 RESOLVE:
-DISPENSAR, VIRNA IAYANE MONTENEGRO DE CARVALHO, Engenhei-
+DISPENSAR,  VIRNA  IAYANE  MONTENEGRO  DE  CARVALHO,  Engenhei-
 ra Civil, Gerente Setorial, Símbolo CAS-3, matrícula nº 770.614-6, CPF 06550651484, da  Gerência 
 Setorial da Obra de Reforma, Ampliação e Construção de Ginásio da E.E.E.F.M. Antônio Camelo em 
 Alhandra/PB, com vigência a partir desta data. 
@@ -3809,23 +4089,6 @@ que lhe confere o Art. 7º, Inciso VIII, letra b do Decreto nº 13.587 de 27 de 
 A DIRETORA SUPERINTENDENTE DA SUPLAN, no uso de suas atribuições 
 
 RESOLVE:
-
-DESIGNAR, HÉLIO ARAÚJO ALMEIDA JÚNIOR, Engenheiro Civil, Gerente Seto-
-rial, símbolo CAS-3 matrícula nº 770.479-8, CPF 030.575.404-14, para responder cumulativamente, pela 
-Gerência da Obra de Reforma, Ampliação e Construção de Ginásio da E.E.E.F.M. Antônio Camelo em 
-Alhandra/PB, sem nenhum acréscimo em sua remuneração, com vigência a partir da data de sua  publicação. 
-
-Secretaria de Estado do Desenvolvimento 
-da Agropecuária e da Pesca
-
-PEDIDO DE CANCELAMENTO
-
-A Portaria nº 65/2021 publicada no DOE de 30.06.2021, foi publicada em duplicida-
-de no DOE de 15.12.2021, Portaria nº 110/2021, com o mesmo conteúdo: "Art. 1º - Descredenciar para 
-efeitos de emissão de GTA, no EAC do município de Curral de Lima - PB, a funcionária da Prefeitura 
-Alessandra Soares do Nascimento."
-
-João Pessoa, 15 de dezembro de 2021.
 
 Polícia Militar
 da Paraíba
@@ -3851,7 +4114,7 @@ sobremaneira à honra pessoal, o pundonor e a ética policiais militares, o deco
 -se no que preceitua o art. 31, § 1º, item 1 do RDPM, vez que agiu propositadamente em desacordo com 
 os princípios morais, éticos e disciplinares da Corporação, pelo que, RESOLVE: 
 
-Art. 1º  LICENCIAR,  ex-oﬃ  cio, a bem da disciplina, das ﬁ leiras desta Polícia 
+Art.  1º    LICENCIAR,    ex-oﬃ  cio,  a  bem  da  disciplina,  das  ﬁ leiras  desta  Polícia 
 Militar, o CADETE 3º ANO, matr. 530.378-8 JOSÉ DE SOUSA COSTA JÚNIOR, com base no art. 
 109, § 2º, alínea "c" da Lei nº 3.909/77, em razão do disposto no art. 13, inc. IV, alínea "a", da Lei nº 
 4.024/78 c/c art. 31, § 1°, item "1", do Decreto Estadual nº 8.962 (Regulamento Disciplinar da Polícia 
@@ -3863,19 +4126,20 @@ Art. 2º Em decorrência, determino aos escalões subordinados, abaixo discrimin
 dos, que adotem as providências seguintes:
 
 I -  Diretoria de Gestão de Pessoas-DGP, através de suas respectiva Seções:
-a) Expedir o Certiﬁ cado de Isenção, de acordo com o artigo 165, §3°, item 3, do 
+a)  Expedir  o  Certiﬁ cado  de  Isenção,  de  acordo  com  o  artigo  165,  §3°,  item  3,  do 
 Decreto n° 57.654, de 20 de janeiro de 1966, que regulamenta a Lei do Serviço Militar (LSM), c/c o 
 Parágrafo Único, do artigo 114, da Lei n° 3.909, de 14 de julho de 1977; 
 
 b) Arquivar a via original desta Portaria na Divisão de Cadastro e Avaliação-DGP/2;
-c) Informar ao Juízo da Vara da Justiça Militar do Estado, acerca do presente 
+c)  Informar  ao  Juízo  da Vara  da  Justiça  Militar  do  Estado,  acerca  do  presente 
 
 licenciamento, encaminhando cópia desta Portaria, com respectiva publicação em D.O.E. 
+
 II - Sistema de Cadastramento de Armas Militares-SICAMI/DAL/PMPB
 a) Adotar as providências pertinentes, inclusive, quando couber, encaminhar imedia-
-tamente ao Comandante da última Unidade de lotação do militar em tela, através de documentação 
+tamente  ao  Comandante  da  última  Unidade  de  lotação  do  militar  em  tela,  através  de  documentação 
 própria, a relação das armas de fogo registradas na PMPB, bem como CRAF/PAF, em nome do militar 
-referenciado no item 1 desta, conforme Resolução nº GCG/0006/2012-CG de 20 de julho de 2012, 
+referenciado  no  item  1  desta,  conforme  Resolução  nº  GCG/0006/2012-CG  de  20  de  julho  de  2012, 
 publicada no Bol nº 0143 de 26 de julho de 2012, com modiﬁ cações conferidas na Resolução nº GC-
 G/0005/2013-CG de 16 de maio de 2013, publicada no Bol nº 0094 de 21 de maio de 2013.
 
@@ -3890,7 +4154,7 @@ a) Adotar as providências de sua competência.
 Art. 3º   Esta Portaria entra em vigor na data de sua publicação.
 Art. 4º  Publique-se, registre-se e cumpra-se.
 
-PORTARIA Nº 0278 /2021/GCG-CG                                 João Pessoa-PB, 15 de dezembro de 2021
+PORTARIA Nº 0278 /2021/GCG-CG                                  João Pessoa-PB, 15 de dezembro de 2021
 
 Licenciamento a pedido de Militar Estadual das ﬁ leiras da Polícia 
 Militar do Estado da Paraíba.
@@ -3940,54 +4204,9 @@ Considerando o que preceitua o artigo 280, § 4º, da Lei nº 9.503, de 23 de se
 de 1997, Código de Trânsito Brasileiro,
 
 RESOLVE:
-Art. 1º - Designar o Policial Militar abaixo relacionado, para exercer a função de 
+Art.  1º  -  Designar  o  Policial  Militar  abaixo  relacionado,  para  exercer  a  função  de 
 
 Agente de Autoridade de Trânsito, com jurisdição sobre o Estado da Paraíba:
-
-Secretaria de Estado
-da Saúde
-
-COMISSÃO INTERGESTORES BIPARTITE
-
-RESOLUÇÃO CIB-PB Nº 223, DE 07 DE DEZEMBRO DE 2021
-
-Aprova o projeto técnico para aquisição de transporte sanitário eletivo para o muni-
-
-cípio de Emas/PB.
-
- A Comissão Intergestores Bipartite, no uso de suas atribuições legais, e considerando:
- A Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as condições para a 
-promoção, a proteção e a recuperação da saúde, a organização e o funcionamento dos serviços corres-
-pondentes e dá outras providências;
-
-O Decreto nº 7.508, de 28 de junho de 2011, que regulamenta a Lei nº 8.080, de 1990, 
-para dispor sobre a organização do Sistema Único de Saúde - SUS, o planejamento da saúde, a assistên-
-cia à saúde e a articulação interfederativa;
-
-A Portaria nº 2.500, de 28 de setembro de 2017, que dispõe sobre a elaboração, à pro-
-
-posição, a tramitação e a consolidação de atos normativos no âmbito do Ministério da Saúde;
-
-A Resolução CIT nº 13, de 23 de fevereiro de 2017, que dispõe sobre as diretrizes para 
-o Transporte Sanitário Eletivo destinado ao deslocamento de usuários para realizar procedimentos de 
-caráter eletivo no âmbito SUS;
-
-A Portaria nº 1.263, de 18 de junho de 2021, que dispõe sobre a aplicação de emendas 
-parlamentares que adicionarem recursos ao Sistema Único de Saúde (SUS), para a realização de trans-
-ferências do Fundo Nacional de Saúde aos fundos de saúde dos Estados, Distrito Federal e Municípios, 
-no exercício de 2021; e,
-
-A decisão da plenária da CIB-PB, na 11ª Reunião Ordinária, realizada em 07 de dezem-
-bro de 2021, por videoconferência, presidida pela secretaria Executiva da SES/PB, Renata Valéria Nóbre-
-ga, eleita pelas bancadas da SES/PB e COSEMS mediante ausência do Presidente e da Vice-Presidente 
-da CIB, conforme regimento interno, aprovado pela Resolução CIB-PB nº 14, de 2 de fevereiro de 2021.
-
-RESOLVE:
-Art. 1º - Aprovar o projeto técnico para aquisição de Transporte Sanitário Eletivo do 
-
-município de Emas/PB, com proposta no FNS nº 11655.0260001/21-006.
-
-Art. 2º Esta Resolução entrará em vigor na data de sua publicação.
 
 MATRÍCULA
 
@@ -4022,10 +4241,10 @@ SERVIDOR
 
 00016.015921/2021-1
 
- 
- 
-
 RICARDO LUIZ BELMONT CAVALCANTE
+
+ 
+ 
 
 Art. 2º - Esta Portaria entra em vigor na data de sua publicação.
 
@@ -4047,13 +4266,13 @@ ZONTAL, do servidor abaixo relacionado:
 
 Nº
 
-01
-
 NOME
 
 MATRICULA
 
 Nº PROCESSO
+
+01
 
 MARCIO CORDEIRO FREITAS DE ANDRADE
 
@@ -4062,13 +4281,61 @@ MARCIO CORDEIRO FREITAS DE ANDRADE
 2021.3025
 
 SITUAÇÃO
+
 ANTERIOR
+
 GRUPO -TNM
 NIVEL -V
 
 ATUAL
+
 GRUPO -TNM
 NIVEL -V II
+
+Secretaria de Estado
+da Saúde
+
+COMISSÃO INTERGESTORES BIPARTITE
+
+RESOLUÇÃO CIB-PB Nº 223, DE 07 DE DEZEMBRO DE 2021
+
+Aprova o projeto técnico para aquisição de transporte sanitário eletivo para o muni-
+
+cípio de Emas/PB.
+
+ A Comissão Intergestores Bipartite, no uso de suas atribuições legais, e considerando:
+ A  Lei  nº  8.080,  de  19  de  setembro  de  1990,  que  dispõe  sobre  as  condições  para  a 
+promoção, a proteção e a recuperação da saúde, a organização e o funcionamento dos serviços corres-
+pondentes e dá outras providências;
+
+O Decreto nº 7.508, de 28 de junho de 2011, que regulamenta a Lei nº 8.080, de 1990, 
+para dispor sobre a organização do Sistema Único de Saúde - SUS, o planejamento da saúde, a assistên-
+cia à saúde e a articulação interfederativa;
+
+A Portaria nº 2.500, de 28 de setembro de 2017, que dispõe sobre a elaboração, à pro-
+
+posição, a tramitação e a consolidação de atos normativos no âmbito do Ministério da Saúde;
+
+A Resolução CIT nº 13, de 23 de fevereiro de 2017, que dispõe sobre as diretrizes para 
+o Transporte Sanitário Eletivo destinado ao deslocamento de usuários para realizar procedimentos de 
+caráter eletivo no âmbito SUS;
+
+A Portaria nº 1.263, de 18 de junho de 2021, que dispõe sobre a aplicação de emendas 
+parlamentares que adicionarem recursos ao Sistema Único de Saúde (SUS), para a realização de trans-
+ferências do Fundo Nacional de Saúde aos fundos de saúde dos Estados, Distrito Federal e Municípios, 
+no exercício de 2021; e,
+
+A decisão da plenária da CIB-PB, na 11ª Reunião Ordinária, realizada em 07 de dezem-
+bro de 2021, por videoconferência, presidida pela secretaria Executiva da SES/PB, Renata Valéria Nóbre-
+ga, eleita pelas bancadas da SES/PB e COSEMS mediante ausência do Presidente e da Vice-Presidente 
+da CIB, conforme regimento interno, aprovado pela Resolução CIB-PB nº 14, de 2 de fevereiro de 2021.
+
+RESOLVE:
+Art. 1º - Aprovar o projeto técnico para aquisição de Transporte Sanitário Eletivo do 
+
+município de Emas/PB, com proposta no FNS nº 11655.0260001/21-006.
+
+Art. 2º Esta Resolução entrará em vigor na data de sua publicação.
 
 RESOLUÇÃO CIB-PB Nº 215, DE 07 DE DEZEMBRO DE 2021
 
@@ -4155,7 +4422,7 @@ O CONSELHO DE PROTEÇÃO AMBIENTAL DO ESTADO DA PARAÍBA - CO-
 PAM, em sua 721ª Reunião Ordinária, realizada em 07 de dezembro de 2021, no uso de suas atribuições 
 conferidas pela Constituição Estadual de 1989, pela Lei Estadual nº 4.335, de 16 de dezembro de 1981, 
 modiﬁ cada pela Lei Estadual nº 6.757, de 08 de julho de 1999, regulamentada pelo Decreto Estadual 
-nº 21.120, de 20 de junho de 2000, tendo em vista o disposto em seu Regimento Interno, de 12 de 
+nº  21.120,  de  20  de  junho  de  2000,  tendo  em  vista  o  disposto  em  seu  Regimento  Interno,  de  12  de 
 novembro de 1981. Processo SUDEMA nº 2021-003577/TEC/AIMU-0480 - LUCIANO ARAUJO 
 DOS SANTOS – Auto de Infração N°18872 = Local da Infração: Rua Luiz Ivo Nepomuceno, S/N, Bela 
 Vista, Tenório/PB = NURECG =. DELIBERA:
@@ -4214,7 +4481,7 @@ O CONSELHO DE PROTEÇÃO AMBIENTAL DO ESTADO DA PARAÍBA - CO-
 PAM, em sua 722ª Reunião Ordinária, realizada em 14 de dezembro de 2021, no uso de suas atribuições 
 conferidas pela Constituição Estadual de 1989, pela Lei Estadual nº 4.335, de 16 de dezembro de 1981, 
 modiﬁ cada pela Lei Estadual nº 6.757, de 08 de julho de 1999, regulamentada pelo Decreto Estadual 
-nº 21.120, de 20 de junho de 2000, tendo em vista o disposto em seu Regimento Interno, de 12 de 
+nº  21.120,  de  20  de  junho  de  2000,  tendo  em  vista  o  disposto  em  seu  Regimento  Interno,  de  12  de 
 novembro de 1981.
 
 ASSUNTO: Dispensas de Licenças concedidas durante o mês de novembro/2021.
@@ -4277,7 +4544,7 @@ Nº  1134/2021–  PROCESSO  Nº  2021-008415;  DECLARAÇÃO  Nº  1135/2021– 
 Nº  1137/2021–  PROCESSO  Nº  2021-008509;  DECLARAÇÃO  Nº  1138/2021–  PROCESSO  Nº 
 2021-008510;  DECLARAÇÃO  Nº  1139/2021–  PROCESSO  Nº  2021-008511;  DECLARAÇÃO 
 Nº  1140/2021–  PROCESSO  Nº  2021-008514;  DECLARAÇÃO  Nº  1141/2021–  PROCESSO  Nº 
-2021-0088515;  DECLARAÇÃO  Nº 1142/2021– PROCESSO Nº 2021-008517; DECLARAÇÃO 
+2021-0088515;  DECLARAÇÃO  Nº  1142/2021–  PROCESSO  Nº  2021-008517;  DECLARAÇÃO 
 Nº 1147/2021– PROCESSO Nº 2021-009000.
 
 3 - Item 7 - N.A. nº 125 - COPAM - “Reformas em equipamentos públicos, desde 
@@ -4302,6 +4569,8 @@ Nº 1108/2021– PROCESSO Nº 2021-008979; DECLARAÇÃO Nº 1109/2021– PROCESS
 008978; DECLARAÇÃO Nº 1110/2021– PROCESSO Nº 2021-008994.
 
 5 - Item 3 - N.A. nº 126 - COPAM - “A reforma de prédio público e suas amplia-
+
+ções”:
 
 DECLARAÇÃO  Nº  1070/2021–  PROCESSO  Nº  2021-008604;  DECLARAÇÃO 
 Nº 1078/2021– PROCESSO Nº 2021-008670; DECLARAÇÃO Nº 1084/2021– PROCESSO Nº 2021-
@@ -4336,8 +4605,6 @@ Nº 1146/2021– PROCESSO Nº 2021-008713
 Roanny Viana de Barros                                 Marcelo Antônio Carreira Cavalcanti de Albuquerque            
 Secretária Executiva do COPAM                                     Presidente Substituto do COPAM
 
-ções”:
-
 12
 
 João Pessoa - Sexta-feira, 17 de Dezembro de 2021
@@ -4348,7 +4615,6 @@ PBPrev - Paraíba
 Previdência
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – P – N° 081
 
 O Presidente da PBPREV - Paraíba Previdência, no uso de suas atribuições, con-
@@ -4367,7 +4633,6 @@ Publicado em 12/02/2021
 João Pessoa, 14 de dezembro de 2021.
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – P – N° 254
 
 O Presidente da PBPREV - Paraíba Previdência, no uso de suas atribuições, con-
@@ -4386,7 +4651,6 @@ Publicado em 10/06/2020
 João Pessoa, 15 de dezembro de 2021.
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – A – Nº. 1152
 
               
@@ -4396,7 +4660,7 @@ II, da Lei nº. 7.517-PBPREV, de 30 de dezembro de 2003 e de acordo com o Proces
 
 RESOLVE
 Transferir  para  a  Reserva  Remunerada  “a  pedido”  o  Major  PM,  TANCREDO 
-FRANCISCO DOS SANTOS, matrícula nº. 516.011-1, conforme o disposto do “art. 42, § 1º, da 
+FRANCISCO  DOS  SANTOS,  matrícula  nº.  516.011-1,  conforme  o  disposto  do  “art.  42,  §  1º,  da 
 Constituição Federal de 1988, com redação dada pela Emenda Constitucional nº. 20/1998, c/c os 
 art. 88, inciso I e 89, caput, da Lei nº. 3909/1977; combinado com o artigo 1º, § 1º da Lei nº 4.816, 
 de 03 de junho de 1986, alterada pela Lei nº 5.278, de 29 de junho de 1990, e pela Lei nº 5.331, de 
@@ -4405,7 +4669,6 @@ de 03 de junho de 1986, alterada pela Lei nº 5.278, de 29 de junho de 1990, e p
 João Pessoa, 14 de dezembro de 2021.
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – A – Nº. 1151
 
  
@@ -4423,7 +4686,6 @@ deral de 1988, com redação dada pela Emenda Constitucional nº. 20/1998, c/c o
 João Pessoa, 14 de dezembro de 2021.
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – A – Nº. 1153
 
  
@@ -4432,7 +4694,7 @@ O Presidente da PBPREV, no uso de suas atribuições, consoante o disposto no ar
 
 RESOLVE
 Transferir para a Reserva Remunerada “a pedido” o 2º Sargento da PM, JOSÉ SO-
-ARES DE ANDRADE FILHO, matrícula nº. 518.532-7 conforme o disposto do “art. 42, § 1º, da 
+ARES  DE ANDRADE  FILHO,  matrícula  nº.  518.532-7  conforme  o  disposto  do  “art.  42,  §  1º,  da 
 Constituição Federal de 1988, com redação dada pela Emenda Constitucional nº. 20/1998, c/c os 
 art. 88, inciso I e 89, caput, da Lei nº. 3909/1977; combinado com o artigo 1º § 1º da Lei nº 4.816, 
 de 03 de junho de 1986, alterada pela Lei nº 5.278, de 29 de junho de 1990, e pela Lei nº 5.331, de 
@@ -4441,7 +4703,6 @@ de 03 de junho de 1986, alterada pela Lei nº 5.278, de 29 de junho de 1990, e p
 João Pessoa, 14 de dezembro de 2021.
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – A – Nº. 1126
 
 O Presidente da PBPREV, no uso de suas atribuições, consoante o disposto no art. 11, 
@@ -4457,15 +4718,15 @@ da ECE nº 46/2020.
 João Pessoa, 14 de dezembro de 2021.
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – A – Nº. 2234
 
 O Presidente da PBPREV, no uso de suas atribuições, consoante o disposto no art. 11, 
+
 II, da Lei nº. 7.517-PBPREV, de 30 de dezembro de 2003, de acordo com o Processo de nº. 09686-19,
 
 RESOLVE
-CONCEDER APOSENTADORIA POR INVALIDEZ COM PROVENTOS IN-
-TEGRAIS ao servidor MANOEL MOUZINHO DA SILVA, no cargo de Advogado, matrícula nº 
+CONCEDER  APOSENTADORIA  POR  INVALIDEZ  COM  PROVENTOS  IN-
+TEGRAIS  ao  servidor  MANOEL  MOUZINHO  DA  SILVA,  no  cargo  de Advogado,  matrícula  nº 
 003.548-3, lotado (a) no Departamento Estadual de Trânsito - DETRAN, com base no Art. 40, § 1°, 
 inciso I, in ﬁ ne da Constituição Federal/88, c/c o Art. 6º- A da EC nº 41/2003.
 
@@ -4474,7 +4735,6 @@ PUBLICADO EM 17/12/2019
 João Pessoa, 03 de Dezembro de 2019.
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – P – N° 1039
 
 O Presidente da PBPREV - Paraíba Previdência, no uso de suas atribuições, con-
@@ -4495,7 +4755,6 @@ c/c o art. 24-B, inciso I, do Decreto Lei 667/1969, com redação dada pela Lei 
 João Pessoa, 15 de dezembro de 2021.
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – P – N° 1040
 
 O Presidente da PBPREV - Paraíba Previdência, no uso de suas atribuições, con-
@@ -4517,7 +4776,6 @@ Lei Federal nº 13.954/2019.
 João Pessoa, 15 de dezembro de 2021.
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – A – Nº. 1154
 
 O Presidente da PBPREV, no uso de suas atribuições, consoante o disposto no art. 11, 
@@ -4532,7 +4790,6 @@ Art. 3º, incisos I, II e III da Emenda Constitucional nº 47/05.
 João Pessoa, 13 de dezembro de 2021.
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – A – Nº. 1156
 
 O Presidente da PBPREV, no uso de suas atribuições, consoante o disposto no art. 11, 
@@ -4547,7 +4804,6 @@ lotado (a) na UEPB – Universidade Estadual da Paraíba, com base no Art. 10º,
 João Pessoa, 14 de dezembro de 2021.
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – A – Nº. 1088
 
 O Presidente da PBPREV, no uso de suas atribuições, consoante o disposto no art. 11, 
@@ -4562,7 +4818,6 @@ III da Emenda Constitucional nº 47/05.
 João Pessoa, 01 de dezembro de 2021.
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – A – Nº. 01047
 
 O Presidente da PBPREV, no uso de suas atribuições, consoante o disposto no art. 11, 
@@ -4583,10 +4838,10 @@ inciso III, alínea “a” da Constituição Federal nº 88, c/c art. 1º da Le
 
 João Pessoa, 13 de dezembro de 2021.
 
-PORTARIA Nº 20/2021/PRESI/PBPREV                              João Pessoa, 15 de dezembro de 2021.
-
 Secretaria de Estado
 da Administração Penitenciária
+
+PORTARIA Nº 20/2021/PRESI/PBPREV                              João Pessoa, 15 de dezembro de 2021.
 
 O PRESIDENTE DA PARAÍBA PREVIDÊNCIA - PBPREV, no uso das atribui-
 ções legais que lhes são conferidas, em cumprimento ao disposto no artigo 67 da Lei Federal n.º. 8.666, 
@@ -4622,12 +4877,12 @@ Art. 3.º Esta portaria entra em vigor na data de sua publicação, revogadas as
 sições em contrário.
 
 JOSÉ ANTONIO COÊLHO CAVALCANTI
-
 Presidente da PBPREV 
 
 Resenha/PBprev/GP/ Nº484 / 2021   
 
 NOTIFICAÇÃO
+
 SECRETARIA DA AMINISTRAÇÃO PENITENCIÁRIA 
 
 NOTIFICAÇÃO/PAD/001
@@ -4637,7 +4892,7 @@ JOSÉ EVÂNIO LEMOS ALENCAR
 Policial Penal
 O Presidente da Comissão Permanente de Processo Administrativo Disciplinar da SEAP, no uso 
 de suas atribuições legais, RESOLVE:
-NOTIFICAR, o Sr. JOSÉ EVÂNIO LEMOS ALENCAR, mat. 187.593-1, para comparecer na 
+NOTIFICAR,  o  Sr.  JOSÉ  EVÂNIO  LEMOS ALENCAR,  mat.  187.593-1,  para  comparecer  na 
 sede desta Comissão, instalada na Av.: João da Mata – s/nº - Bloco II – 5º Andar, Centro Administrativo 
 Estadual – Jaguaribe, CEP 58.015–900, João Pessoa–PB, no próximo dia 22.12.2021, às 10h00, para 
 ser ouvido nos autos do Processo Administrativo Disciplinar nº SAP-PRC-2021/03268), que trata, em 
@@ -4646,7 +4901,6 @@ tese de acumulo de cargos públicos.
 João Pessoa, 16.12.2021.
 
 Bruno Alexandre da Silva Gurgel
-
 Presidente da CPPAD
 
 Secretaria de Estado da Educação
@@ -4656,14 +4910,17 @@ O Presidente da PBprev-Paraíba Previdência, no uso das atribuições que lhes 
 incisos I, II e III  do art.11 da Lei 7.517,  de 30 de dezembro de 2003
 DEFERIU A ISENÇÃO DE IMPOSTO DE RENDA(s) processo (s) abaixo relacionado (s):  
 
-MANDADO DE CITAÇÃO
-SECRETARIA DE ESTADO DA EDUCAÇAO E DA CIÊNCIA E TECNOLOGIA
-
 PROCESSO
 
 INTERESSADO(A)
 
 C.P.F.
+
+FUNDAMENTAÇÃO LEGAL DA CF.
+
+MANDADO DE CITAÇÃO
+
+SECRETARIA DE ESTADO DA EDUCAÇAO E DA CIÊNCIA E TECNOLOGIA
 
 01
 
@@ -4707,76 +4964,27 @@ RUTH DANTAS PESSOA ALBUQUERQUE DE OLIVEIRA
 
 468.074.464-20
 
-FUNDAMENTAÇÃO LEGAL DA CF.
-Art.6º, incisos XIV e XXI da Lei nº 
-7.713/1988 c/c art. 3º e 4º, § 6º do art. 19 
-da Lei nº 7.517/2003.
-Art.6º, incisos XIV e XXI da Lei nº 
-7.713/1988 c/c art. 3º e 4º, § 6º do art. 19 
-da Lei nº 7.517/2003.
-Art.6º, incisos XIV e XXI da Lei nº 
-7.713/1988 c/c art. 3º e 4º, § 6º do art. 19 
-da Lei nº 7.517/2003.
-Art.6º, incisos XIV e XXI da Lei nº 
-7.713/1988 c/c art. 3º e 4º, § 6º do art. 19 
-da Lei nº 7.517/2003.
-Art.6º, incisos XIV e XXI da Lei nº 
-7.713/1988 c/c art. 3º e 4º, § 6º do art. 19 
-da Lei nº 7.517/2003.
-
 Resenha/PBprev/GP/ Nº486 / 2021   
 
-O Presidente da PBprev-Paraíba Previdência, no uso das atribuições que lhes são conferidas pelos 
-incisos I, II e III  do art.11 da Lei 7.517,  de 30 de dezembro de 2003
-INDEFERIU A ISENÇÃO DE IMPOSTO DE RENDA (s) processo (s) abaixo relacionado (s):  
+Art.6º, incisos XIV e XXI da Lei nº 
+7.713/1988 c/c art. 3º e 4º, § 6º do art. 19 
+da Lei nº 7.517/2003.
 
-PROCESSO
+Art.6º, incisos XIV e XXI da Lei nº 
+7.713/1988 c/c art. 3º e 4º, § 6º do art. 19 
+da Lei nº 7.517/2003.
 
-INTERESSADO(A)
+Art.6º, incisos XIV e XXI da Lei nº 
+7.713/1988 c/c art. 3º e 4º, § 6º do art. 19 
+da Lei nº 7.517/2003.
 
-C.P.F.
+Art.6º, incisos XIV e XXI da Lei nº 
+7.713/1988 c/c art. 3º e 4º, § 6º do art. 19 
+da Lei nº 7.517/2003.
 
-3537.21
-
-01
-                                         
-                                         João Pessoa, 16 dezembro de 2021
-
-PAULO ROBERTO ANTAS FERRAZ
-
-067.537.284-49
-
-FUNDAMENTAÇÃO LEGAL DA CF.
-Art.6º, incisos XIV e XXI da Lei nº 7.713/1988 c/c art. 3º 
-e 4º, § 6º do art. 19 da Lei nº 7.517/2003.
-
-JOSÉ ANTONIO COÊLHO CAVALCANTI
-
-Presidente da PBprev
-
-LICITAÇÕES - EXTRATOS - LICENÇAS - TERMOS - ATAS
-Empresa Paraibana de Abastecimento 
-e Serviços Agrícolas
-
-EDITAL DE CONVOCAÇÃO
-EMPRESA PARAIBANA DE ABASTECIMENTO E SERVIÇOS AGRÍCOLAS –
-
-EMPASA “Em Liquidação” CNPJ 40981516/0001-89
-
-EDITAL DE CONVOCAÇÃO PARA ASSEMBLEIA GERAL EXTRAORDINÁRIA
-
-Convocamos os Senhores Acionistas a comparecer a Assembleia Geral Extraordinária que se realizará 
-de forma virtual, por intermédio da plataforma do Google Meets, no dia 28 de Dezembro 2021, às 10h, 
-para deliberar sobre os seguintes assuntos: a) Nomeação do Liquidante designado por sua Excelência, o 
-Governador da Paraíba no ato nº 3.220, do dia 18 de novembro de 2021, publicado no Diário Oﬁ cial 
-do Estado do dia 19/11/2021; b) Nomear os membros do Conselho Fiscal da liquidação; c) Fixação do 
-prazo do processos e liquidação; d) Outros assuntos da "Empresa em Liquidação". A presente convo-
-cação está de conformidade com a Lei que regula as Sociedades por Ações e o Estatuto Social da Empresa
-João Pessoa, 14 de dezembro de 2021.
-
-JOSÉ SAMARONY DE SOUSA ALVES
-
-EMPASA/Liquidante
+Art.6º, incisos XIV e XXI da Lei nº 
+7.713/1988 c/c art. 3º e 4º, § 6º do art. 19 
+da Lei nº 7.517/2003.
 
 MANDADO DE CITAÇÃO 32/2021
 
@@ -4795,21 +5003,67 @@ acordo com o que preconiza o Art. 152, parágrafo único da Lei Complementar 58/
 João Pessoa, 03 de dezembro de 2021.
 
 Bel. Cláudio Roberto Tolêdo de Santana
-
 PRESIDENTE DA CPI/SEECT-PB
+
+O Presidente da PBprev-Paraíba Previdência, no uso das atribuições que lhes são conferidas pelos 
+incisos I, II e III  do art.11 da Lei 7.517,  de 30 de dezembro de 2003
+INDEFERIU A ISENÇÃO DE IMPOSTO DE RENDA (s) processo (s) abaixo relacionado (s):  
+
+PROCESSO
+
+INTERESSADO(A)
+
+C.P.F.
+
+FUNDAMENTAÇÃO LEGAL DA CF.
 
 Secretaria de Estado
 do Desenvolvimento Humano
+
+3537.21
+
+01
+                                         
+                                         João Pessoa, 16 dezembro de 2021
+
+PAULO ROBERTO ANTAS FERRAZ
+
+067.537.284-49
+
+Art.6º, incisos XIV e XXI da Lei nº 7.713/1988 c/c art. 3º 
+e 4º, § 6º do art. 19 da Lei nº 7.517/2003.
+
+JOSÉ ANTONIO COÊLHO CAVALCANTI
+Presidente da PBprev
+
+LICITAÇÕES - EXTRATOS - LICENÇAS - TERMOS - ATAS
+
+Empresa Paraibana de Abastecimento 
+e Serviços Agrícolas
+
+EDITAL DE CONVOCAÇÃO
+EMPRESA PARAIBANA DE ABASTECIMENTO E SERVIÇOS AGRÍCOLAS –
+EMPASA “Em Liquidação” CNPJ 40981516/0001-89
+
+EDITAL DE CONVOCAÇÃO PARA ASSEMBLEIA GERAL EXTRAORDINÁRIA
+Convocamos os Senhores Acionistas a comparecer a Assembleia Geral Extraordinária que se realizará 
+de forma virtual, por intermédio da plataforma do Google Meets, no dia 28 de Dezembro 2021, às 10h, 
+para deliberar sobre os seguintes assuntos: a) Nomeação do Liquidante designado por sua Excelência, o 
+Governador da Paraíba no ato nº 3.220, do dia 18 de novembro de 2021, publicado no Diário Oﬁ cial 
+do Estado do dia 19/11/2021; b) Nomear os membros do Conselho Fiscal da liquidação; c) Fixação do 
+prazo do processos e liquidação; d) Outros assuntos da "Empresa em Liquidação". A presente convo-
+cação está de conformidade com a Lei que regula as Sociedades por Ações e o Estatuto Social da Empresa
+João Pessoa, 14 de dezembro de 2021.
+
+JOSÉ SAMARONY DE SOUSA ALVES
+EMPASA/Liquidante
 
 EDITAL E AVISO
 SECRETARIA DE ESTADO DO DESENVOLVIMENTO HUMANO
 
 AVISO 
-
 RESULTADO CREDENCIAMENTO OSC’S Nº 13
-
 PROCESSO 1155/2021-0
-
 A Secretaria de Estado do Desenvolvimento Humano - SEDH, torna público as Organizações da So-
 ciedade Civil (OSC’s) credenciadas que se submeteram ao Edital de Credenciamento publicado no 
 DOE/PB de 31/03/2021.
@@ -4838,7 +5092,6 @@ no setor Jurídico e setor de Licitação, das 13h às 17h de segunda a sexta-fe
 João Pessoa – PB, 16 de dezembro de 2021
 
 CARLOS TIBÉRIO LIMEIRA SANTOS FERNANDES
-
 Secretário de Estado do Desenvolvimento Humano
 
 14
@@ -4847,19 +5100,23 @@ João Pessoa - Sexta-feira, 17 de Dezembro de 2021
 
 Diário Oﬁ cial
 
+FUNDAÇÃO PARAIBANA DE GESTÃO EM SAÚDE – PB SAÚDE
+
+01458507
+
+JOAO CARLOS DE PONTES MACIEL JUNIOR
+
+Técnico em Radiologia
+
 Fundação Paraíbana
 de gestão em Saúde
 
 EDITAL E AVISO
-FUNDAÇÃO PARAIBANA DE GESTÃO EM SAÚDE – PB SAÚDE
-
-EDITAL DE DIVULGAÇÃO DE CONVOCAÇÃO PARA REALIZAÇÃO DA PERÍCIA 
 
 CONCURSO PÚBLICO Nº 001/2021 
-
+EDITAL DE DIVULGAÇÃO DE CONVOCAÇÃO PARA REALIZAÇÃO DA PERÍCIA 
 MÉDICA
-
-A Fundação Paraibana de Gestão em Saúde – PB Saúde, no uso de suas atribuições legais que 
+A  Fundação  Paraibana  de  Gestão  em  Saúde  –  PB  Saúde,  no  uso  de  suas  atribuições  legais  que 
 lhe são conferidas pela legislação vigente CONVOCA os candidatos aprovados na prova objetiva e 
 títulos, que se inscreveram na condição de Pessoa com  Deﬁ ciência no Concurso Público de Provas 
 e Títulos para provimento de emprego público, divulgado no dia 25/08/2021 e regido pelo Edital de 
@@ -4880,97 +5137,303 @@ CONVOCAÇÃO PARA A PERÍCIA MÉDICA:
 Para ciência dos interessados, o local, endereço, data e horário da perícia constam a 
 
 inscrição
-01418998
-02994801
-01679562
-01235460
-01216350
-01347535
-01235362
-01217089
-01934104
-01233122
-01219430
-01516108
-01772724
-01923234
-01287621
-01477676
-01449540
-01731041
-01872036
-02795540
-01273337
-01264354
-01857592
-01848852
-01267752
-01246194
-01883399
-01818449
-01792229
-01414534
-01234242
-01237675
-01251236
-01837940
-02470055
-01868225
-01812254
-01276433
 
 Nome
+
+opção
+
+Emprego
+
+Tipo de deﬁ ciência Data
+
+Horário
+
+01418998
+
 ALBERTO FERNANDES GOMES
+
+02994801
+
 ANDRE DE OLIVEIRA VERISSIMO
+
+01679562
+
 ANTONIO BRITO DA SILVA
+
+Assistente Administrativo
+
+Assistente Administrativo
+
+Assistente Administrativo
+
+Física
+
+Física
+
+Física
+
+01235460
+
 ERICK GONCALVES DA SILVA
+
+Assistente Administrativo
+
+Auditiva
+
+01216350
+
 JAILDA SARAIVA DE MAGALHAES
+
+Assistente Administrativo
+
+Auditiva
+
+01347535
+
 JESSICA SOUZA JACOME
+
+Assistente Administrativo
+
+Auditiva
+
+01235362
+
 MARCELA CAVALCANTE NASCIMENTO
+
+Assistente Administrativo
+
+01217089
+
 MOISES BEZERRA DA COSTA
+
+Assistente Administrativo
+
+01934104
+
 RAFAELA EVARISTO RODRIGUES DA SILVA
-SANDRO DE OLIVEIRA CUNHA
-YURI BARBOSA SOARES DA SILVA
-ZILZETTE NUNES DA SILVA
+
+Assistente Administrativo
+
+Auditiva
+
+01772724
+
 BARBARA ELIZA PEREIRA DE OLIVEIRA
+
+Auxiliar Administrativo
+
+01233122
+
+SANDRO DE OLIVEIRA CUNHA
+
+01219430
+
+YURI BARBOSA SOARES DA SILVA
+
+01516108
+
+ZILZETTE NUNES DA SILVA
+
+01923234
+
 ELISANGELA LUCENA DA SILVA
+
+01287621
+
 JACKSON GUEDES FIXINA
+
+01477676
+
 LILIANE DE BARROS BENTO
+
+01449540
+
 PETRONILO NAURI LIMA DE SOUZA
+
+01731041
+
 IEDY LOPES FERNANDES
+
+01872036
+
 FERNANDA BERNARDO DE OLIVEIRA
-EWERTON DA SILVA MENDES
+
+01273337
+
 AUZENI VIEIRA DE ARAUJO
+
+01264354
+
 DANUSA MOREIRA DE AZEVEDO
+
+01857592
+
 ELIANE ARAUJO DOS SANTOS
-ELIZABETE HORACIO SILVA DE SOUZA
-GEYCE KELLY GONCALVES DOS SANTOS
+
+01246194
+
 GILMARA DE LIMA CABRAL
+
+01883399
+
 IVANIA GESSE DE SOUZA TAVARES
+
+01818449
+
 JESSICA DE ALMEIDA SOUZA
+
+01792229
+
 JOELMA MARIA DA SILVA
+
+01414534
+
 JOSE JARISMA DE OLIVEIRA
+
+01234242
+
 KARL MARX VERISSIMO DE SOUZA
+
+01237675
+
 MARIA JOSE ALEXANDRE DE ARAUJO
+
+01251236
+
 MARIA SUZIELE FERREIRA CORREIA
+
+01837940
+
 MARTA DO NASCIMENTO ARAUJO
+
+Assistente Administrativo
+
+Assistente Administrativo
+
+Assistente Administrativo
+
+Auxiliar Administrativo
+
+Auxiliar Administrativo
+
+Auxiliar Administrativo
+
+Auxiliar Administrativo
+
+Auxiliar de Cozinha
+
+Auxiliar de Farmácia
+
+Técnico de Enfermagem
+
+Técnico de Enfermagem
+
+Técnico de Enfermagem
+
+Técnico de Enfermagem
+
+Técnico de Enfermagem
+
+Técnico de Enfermagem
+
+Técnico de Enfermagem
+
+Técnico de Enfermagem
+
+Técnico de Enfermagem
+
+Técnico de Enfermagem
+
+Técnico de Enfermagem
+
+Técnico de Enfermagem
+
+02795540
+
+EWERTON DA SILVA MENDES
+
+Maqueiro
+
+01848852
+
+ELIZABETE HORACIO SILVA DE SOUZA
+
+Técnico de Enfermagem
+
+01267752
+
+GEYCE KELLY GONCALVES DOS SANTOS
+
+Técnico de Enfermagem
+
+02470055
+
 MICHELY AMYLINE DE ASSIS
+
+Técnico de Enfermagem
+
+Auditiva
+
+01868225
+
 NAYSA LICIA SILVA DOS SANTOS
+
+Técnico de Enfermagem
+
+Visual
+
+01812254
+
 PATRICIA MORAIS DE MEDEIROS
+
+Técnico de Enfermagem
+
+Auditiva
+
+01276433
+
 PAULA RENATA DA SILVA
+
+Técnico de Enfermagem
 
 01826000
 
 RAWLINSON FARLEY ALMEIDA COSTA
 
+Técnico de Enfermagem
+
+05/01/2022
+
+15:10
+
 01755242
 
 REGILVAN DE OLIVEIRA MARIANO
+
+016
+
+Técnico de Enfermagem
+
+Física
+
+05/01/2022
+
+15:20
 
 01935127
 
 SAYONARA ITABARACITA NASCIMENTO DE 
 MEDEIROS
+
+016
+
+Técnico de Enfermagem
+
+Auditiva
+
+05/01/2022
+
+15:30
 
 01844121
 
@@ -4998,6 +5461,8 @@ LUCILENE GOMES DO NASCIMENTO
 
 MARIA DAS GRACAS MACIEL DE SOUTO
 
+020
+
 01865978
 
 MARIZEUDA LIMA DA CUNHA
@@ -5006,44 +5471,358 @@ MARIZEUDA LIMA DA CUNHA
 
 GILVANIA DE LIMA CABRAL
 
-opção
+Técnico de Enfermagem em 
+Centro Cirúrgico
+
+Técnico de Enfermagem em 
+Centro Cirúrgico
+
+Técnico de Enfermagem em 
+Centro Cirúrgico
+
+Técnico de Enfermagem em 
+Terapia Intensiva Adulto
+
+Técnico de Enfermagem em 
+Terapia Intensiva Adulto
+
+Técnico de Enfermagem em 
+Terapia Intensiva Adulto
+
+Técnico de Enfermagem em 
+Terapia Intensiva Adulto
+
+Técnico de Enfermagem em 
+Terapia Intensiva Pediátrica
+
+Auditiva
+
+05/01/2022
+
+16:10
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+04/01/2022
+
+05/01/2022
+
+05/01/2022
+
+05/01/2022
+
+05/01/2022
+
+05/01/2022
+
+05/01/2022
+
+05/01/2022
+
+05/01/2022
+
+05/01/2022
+
+05/01/2022
+
+05/01/2022
+
+05/01/2022
+
+05/01/2022
+
+13:00
+
+13:10
+
+13:20
+
+13:30
+
+13:40
+
+13:50
+
+14:00
+
+14:10
+
+14:20
+
+14:30
+
+14:40
+
+14:50
+
+15:00
+
+15:10
+
+15:20
+
+15:30
+
+15:40
+
+15:50
+
+16:00
+
+16:10
+
+16:20
+
+16:30
+
+16:40
+
+16:50
+
+17:00
+
+13:00
+
+13:10
+
+13:20
+
+13:30
+
+13:40
+
+13:50
+
+14:00
+
+14:10
+
+14:20
+
+14:30
+
+14:40
+
+14:50
+
+15:00
+
+05/01/2022
+
+15:40
+
+05/01/2022
+
+15:50
+
+05/01/2022
+
+16:00
+
+05/01/2022
+
+16:20
+
+05/01/2022
+
+16:30
+
+05/01/2022
+
+16:40
+
+05/01/2022
+
+16:50
+
+Física
+
+Visual
+
+Visual
+
+Mental
+
+Física
+
+Visual
+
+Física
+
+Visual
+
+Visual
+
+Visual
+
+Física
+
+Física
+
+Física
+
+Visual
+
+Física
+
+Física
+
+Física
+
+Visual
+
+Física
+
+Física
+
+Física
+
+Física
+
+Física
+
+Física
+
+Física
+
+Física
+
+Física
+
+Visual
+
+Visual
+
+Visual
+
+Visual
+
+Física
+
+Física
+
+Física
+
+Física
+
+Física
+
 001
+
 001
+
 001
+
 001
+
 001
+
 001
+
 001
+
 001
+
 001
+
 001
+
 001
+
 001
+
 002
+
 002
+
 002
+
 002
+
 002
+
 003
+
 004
+
 014
+
 016
+
 016
+
 016
+
 016
+
 016
+
 016
+
 016
+
 016
+
 016
+
 016
+
 016
+
 016
+
 016
+
 016
+
 016
-016
-016
+
 016
 
 016
@@ -5057,8 +5836,6 @@ opção
 017
 
 017
-
-020
 
 020
 
@@ -5068,433 +5845,310 @@ opção
 
 021
 
-Emprego
-Assistente Administrativo
-Assistente Administrativo
-Assistente Administrativo
-Assistente Administrativo
-Assistente Administrativo
-Assistente Administrativo
-Assistente Administrativo
-Assistente Administrativo
-Assistente Administrativo
-Assistente Administrativo
-Assistente Administrativo
-Assistente Administrativo
-Auxiliar Administrativo
-Auxiliar Administrativo
-Auxiliar Administrativo
-Auxiliar Administrativo
-Auxiliar Administrativo
-Auxiliar de Cozinha
-Auxiliar de Farmácia
-Maqueiro
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-Técnico de Enfermagem
-
-Técnico de Enfermagem
-
-Técnico de Enfermagem
-
-Tipo de deﬁ ciência Data
-Física
-Física
-Física
-Auditiva
-Auditiva
-Auditiva
-Física
-Visual
-Auditiva
-Visual
-Mental
-Física
-Visual
-Física
-Visual
-Visual
-Visual
-Física
-Física
-Física
-Visual
-Física
-Física
-Física
-Visual
-Física
-Física
-Física
-Física
-Física
-Física
-Física
-Física
-Física
-Auditiva
-Visual
-Auditiva
-Visual
-
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-04/01/2022
-05/01/2022
-05/01/2022
-05/01/2022
-05/01/2022
-05/01/2022
-05/01/2022
-05/01/2022
-05/01/2022
-05/01/2022
-05/01/2022
-05/01/2022
-05/01/2022
-05/01/2022
-
-Visual
-
-Física
-
-05/01/2022
-
-05/01/2022
-
-Horário
-13:00
-13:10
-13:20
-13:30
-13:40
-13:50
-14:00
-14:10
-14:20
-14:30
-14:40
-14:50
-15:00
-15:10
-15:20
-15:30
-15:40
-15:50
-16:00
-16:10
-16:20
-16:30
-16:40
-16:50
-17:00
-13:00
-13:10
-13:20
-13:30
-13:40
-13:50
-14:00
-14:10
-14:20
-14:30
-14:40
-14:50
-15:00
-
-15:10
-
-15:20
-
-Técnico de Enfermagem
-
-Auditiva
-
-05/01/2022
-
-15:30
-
-Técnico de Enfermagem em 
-Centro Cirúrgico
-Técnico de Enfermagem em 
-Centro Cirúrgico
-Técnico de Enfermagem em 
-Centro Cirúrgico
-Técnico de Enfermagem em 
-Terapia Intensiva Adulto
-Técnico de Enfermagem em 
-Terapia Intensiva Adulto
-Técnico de Enfermagem em 
-Terapia Intensiva Adulto
-Técnico de Enfermagem em 
-Terapia Intensiva Adulto
-
-Técnico de Enfermagem em 
-Terapia Intensiva Pediátrica
-
-Visual
-
-Visual
-
-Física
-
-05/01/2022
-
-15:40
-
-05/01/2022
-
-15:50
-
-05/01/2022
-
-16:00
-
-Auditiva
-
-05/01/2022
-
-16:10
-
-Física
-
-Física
-
-Física
-
-Física
-
-05/01/2022
-
-16:20
-
-05/01/2022
-
-16:30
-
-05/01/2022
-
-16:40
-
-05/01/2022
-
-16:50
-
 01242520
-
-01550250
-02486482
-01389963
-01599500
-01911520
-01778129
-01458507
-01212117
-01253948
-01830406
-01497510
 
 BARBARA HELEODORA CAVALCANTI DE 
 MOURA
+
+Técnico em Radiologia
+
+Física
+
+05/01/2022
+
+17:00
+
+01550250
+
 CARLOS ALBERTO MENDES DE OLIVEIRA
-CELIO ANTONIO BARBOSA DA SILVA
-GESSYKA LOPES VARELA
-GLAYDSON DA SILVA TEIXEIRA
-JOANA DARC BEZERRA RIBEIRO
-JOAO ANTONIO DA SILVA JUNIOR
-JOAO CARLOS DE PONTES MACIEL JUNIOR
-JONAS BONIFACIO JUNIOR
-JOSEILSON GONCALVES DA CUNHA
-LARISSA DA SILVA MARQUES
+
+Técnico em Radiologia
+
+01497510
+
 MARIA DAIANA DE SOUSA GUEDES GOMES
+
+Técnico em Radiologia
 
 01631004
 
 VALBI DE FARIAS SOUZA
 
+06/01/2022
+
+14:50
+
 01383329
+
+ALICE ALMEIDA NOBREGA
+
 01208411
+
+IZAURA RAYSSA DE ARAUJO LEITAO
+
 01383620
+
+MARIA DO SOCORRO DE MEDEIROS MORAIS
+
+034
+
+Assistente Social
+
+Auditiva
+
 01782533
+
+PRISCILA OLIVEIRA BARBOSA DO MONTE
+
+Assistente Social
+
+02486482
+
+CELIO ANTONIO BARBOSA DA SILVA
+
+01389963
+
+GESSYKA LOPES VARELA
+
+01599500
+
+GLAYDSON DA SILVA TEIXEIRA
+
+01911520
+
+JOANA DARC BEZERRA RIBEIRO
+
+01778129
+
+JOAO ANTONIO DA SILVA JUNIOR
+
+01212117
+
+JONAS BONIFACIO JUNIOR
+
+01253948
+
+JOSEILSON GONCALVES DA CUNHA
+
+01830406
+
+LARISSA DA SILVA MARQUES
+
 01915886
+
+ADRIANA RAMALHO NASCIMENTO
+
 01850741
+
+ALINE LUCIANE DA SILVA PEQUENO
+
 01811134
+
+CLARANY ALVINO LEITE RAMOS
+
 01354191
+
+DEBORAH SABRINA MACEDO ARAUJO
+
 01933140
+
+ELAINE CRISTINA DE AZEVEDO CRUZ
 
 01265040
 
-01921320
-01898647
-01795821
-01266101
-01928171
-01649809
-01632680
-02930250
-01858858
-
-ALICE ALMEIDA NOBREGA
-IZAURA RAYSSA DE ARAUJO LEITAO
-MARIA DO SOCORRO DE MEDEIROS MORAIS
-PRISCILA OLIVEIRA BARBOSA DO MONTE
-ADRIANA RAMALHO NASCIMENTO
-ALINE LUCIANE DA SILVA PEQUENO
-CLARANY ALVINO LEITE RAMOS
-DEBORAH SABRINA MACEDO ARAUJO
-ELAINE CRISTINA DE AZEVEDO CRUZ
 ELIZABETH CAVALCANTE DE ARAUJO 
 VILAR
+
+01921320
+
 ERICA NASCIMENTO DE OLIVEIRA
+
+01898647
+
 FERNANDA DE MEDEIROS LEONIDAS
+
+01795821
+
 GERSON CANDIDO DE FARIAS FILHO
+
+01266101
+
 JAIRO CORTEZ
+
+01928171
+
 MARIA DO ROSARIO SANTOS
+
+01649809
+
 MARILIA QUEIROZ DA SILVA
+
+01632680
+
 VICTOR DIEGO SIQUEIRA LYRA BARRETO
+
+02930250
+
 YARA SILVA TIGRE CHAVES
-ALYNE DA SILVA SOUZA
-
-01715410
-
-JOSIVAN FERREIRA DA ROCHA
-
-MARTA DE FREITAS SILVA
-CAMILA TAVARES MAURICIO DE OLIVEIRA
-DIEDJA CLEIDE DA SILVA SOUZA
-FILIPE GUSTAVO DE QUEIROGA ALMEIDA
-GABRIELA LOPES GAMA
-MARILIA SIMONE DE OLIVEIRA
-SAFIRA BIANCA CASTRO LINS
-THIAGO JOSE QUEIROGA DA SILVA
 
 01900790
+
+MARTA DE FREITAS SILVA
+
 01836714
+
+CAMILA TAVARES MAURICIO DE OLIVEIRA
+
 01815369
+
+DIEDJA CLEIDE DA SILVA SOUZA
+
 01944371
+
+FILIPE GUSTAVO DE QUEIROGA ALMEIDA
+
 01361341
+
+GABRIELA LOPES GAMA
+
 01696017
+
+MARILIA SIMONE DE OLIVEIRA
+
 01424246
+
+SAFIRA BIANCA CASTRO LINS
+
 01862820
+
+THIAGO JOSE QUEIROGA DA SILVA
+
 01823256 WALESKA RAYSSA DE OLIVEIRA MARTNS
-01761714
+
 01873067
+
+ADRIANO PEREIRA ROCHA
+
 01769685
+
+HENRY WALLACE SOARES LEITE
+
 01648004
 
-IRIANNE OLIVEIRA DE SANTANA
-ADRIANO PEREIRA ROCHA
-HENRY WALLACE SOARES LEITE
 MARCELO DE MORAIS ROSENDO
-TAUANNY STEPHANE FRAZAO FRAZAO 
-E SILVA
 
 01508300
 
-01862448
+TAUANNY STEPHANE FRAZAO FRAZAO 
+E SILVA
 
-LUIS FERREIRA DE SOUSA FILHO
+01616676
 
-01766023
+VICTOR HUGO PAIVA SIMOES
 
-JOSE MESQUITA DE ANDRADE NETO
+01822004
 
-01207970
+01833650
 
-FRANCISCO EDWARD AGUIAR FILHO
+GIANA CARLA LINS DE ALBUQUERQUE 
+MEIRELES
+
+KADYDJA LARYSSA RIBEIRO BEZERRA 
+COSTA
+
+01397877
+
+DEBORA DA SILVA FIRINO FELISMINO
 
 027
 
 027
+
 027
+
 027
+
 027
+
 027
+
 027
+
 027
+
 027
+
 027
+
 027
+
 027
 
 028
 
 029
+
 034
+
 034
-034
+
 038
-038
-038
-038
+
 038
 
 038
 
 038
+
 038
+
 038
+
 038
+
 038
+
 038
+
 038
+
 038
+
+038
+
+038
+
+038
+
 041
 
 044
 
 049
+
 050
+
 050
+
 050
+
 050
+
 050
+
 050
+
 050
+
 050
+
 053
-054
-054
+
 054
 
-056
+054
+
+054
 
 058
 
@@ -5502,219 +6156,399 @@ FRANCISCO EDWARD AGUIAR FILHO
 
 062
 
+066
+
+067
+
+069
+
+070
+
+074
+
 Técnico em Radiologia
 
 Técnico em Radiologia
+
 Técnico em Radiologia
+
 Técnico em Radiologia
+
 Técnico em Radiologia
+
 Técnico em Radiologia
+
 Técnico em Radiologia
+
 Técnico em Radiologia
-Técnico em Radiologia
-Técnico em Radiologia
-Técnico em Radiologia
-Técnico em Radiologia
+
 Técnico em Segurança do 
 Trabalho
+
 Advogado
+
 Assistente Social
-Assistente Social
-Assistente Social
+
 Enfermeiro
-Enfermeiro
-Enfermeiro
-Enfermeiro
+
 Enfermeiro
 
 Enfermeiro
 
 Enfermeiro
+
 Enfermeiro
+
 Enfermeiro
+
 Enfermeiro
+
 Enfermeiro
+
 Enfermeiro
+
 Enfermeiro
+
 Enfermeiro
-Enfermeiro em Hemoterapia
-Enfermeiro Intensivista 
-Adulto
+
+Enfermeiro
+
+Enfermeiro
+
+Enfermeiro
+
 Farmacêutico
+
 Fisioterapeuta
+
 Fisioterapeuta
+
 Fisioterapeuta
+
 Fisioterapeuta
+
 Fisioterapeuta
+
 Fisioterapeuta
+
 Fisioterapeuta
+
 Fisioterapeuta
-Fonoaudiologia
+
 Médico
+
 Médico
+
 Médico
 
+Médico Clínico Geral/
+Hospitalista
+
+Médico Intensivista 
+Pediátrico
+
+Médico Pediatra
+
+Nutricionista
+
+Odontologia (Cirurgião 
+Dentista)
+
+Terapeuta Ocupacional
+
+Física
+
+Visual
+
+Física
+
+Visual
+
 Física
 
 Física
+
+Física
+
 Visual
-Física
+
 Visual
+
 Física
-Física
-Física
-Visual
-Visual
-Física
+
 Física
 
 Física
 
 Física
+
 Física
+
+Física
+
+Visual
+
+Física
+
+Visual
+
+Física
+
+Física
+
+Física
+
 Auditiva
-Física
+
 Visual
-Física
+
 Visual
-Física
-Física
 
 Física
 
 Auditiva
-Visual
-Visual
-Física
-Auditiva
-Física
-Física
-Auditiva
-Visual
 
 Física
 
 Física
-Física
-Visual
+
 Auditiva
+
+Física
+
+Física
+
+Física
+
 Visual
+
 Auditiva
+
+Visual
+
+Auditiva
+
 Física
+
 Física
+
 Física
+
 Física
+
 Múltipla
+
 Física
+
 Física
 
-05/01/2022
+Física
+
+Física
+
+Física
+
+Visual
+
+01761714
+
+IRIANNE OLIVEIRA DE SANTANA
+
+Fonoaudiologia
 
 06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-
-06/01/2022
-
-06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-06/01/2022
-
-06/01/2022
-
-06/01/2022
-06/01/2022
-06/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-
-07/01/2022
-
-07/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-07/01/2022
-
-17:00
-
-13:00
-13:10
-13:20
-13:30
-13:40
-13:50
-14:00
-14:10
-14:20
-14:30
-14:40
-
-14:50
-
-15:00
-15:10
-15:20
-15:30
-15:40
-15:50
-16:00
-16:10
-16:20
 
 16:30
 
-16:40
-16:50
-17:00
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+06/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
+07/01/2022
+
 13:00
+
 13:10
+
 13:20
+
 13:30
+
 13:40
+
 13:50
 
 14:00
 
 14:10
+
 14:20
+
 14:30
+
 14:40
-14:50
+
 15:00
+
 15:10
+
 15:20
+
 15:30
+
 15:40
+
 15:50
+
 16:00
+
 16:10
+
+16:20
+
+16:40
+
+16:50
+
+17:00
+
+13:00
+
+13:10
+
+13:20
+
+13:30
+
+13:40
+
+13:50
+
+14:10
+
+14:20
+
+14:30
+
+14:40
+
+14:50
+
+15:00
+
+15:10
+
+15:20
+
+15:30
+
+15:40
+
+15:50
+
+16:00
+
+16:10
+
+07/01/2022
+
+07/01/2022
+
+17:00
+
+17:10
+
+07/01/2022
+
+17:20
+
+07/01/2022
+
+17:30
+
+07/01/2022
+
+17:40
+
+056
 
 Médico Cardiologista Adulto
 
@@ -5724,93 +6558,69 @@ Física
 
 16:20
 
-Médico Clínico Geral/
-Hospitalista
-Médico Intensivista Adulto
-Médico Intensivista 
-Pediátrico
-Médico Obstetra/Ginecologia
-Médico Pediatra
+01862448
+
+LUIS FERREIRA DE SOUSA FILHO
 
 Física
-
-Física
-
-Visual
-
-07/01/2022
-
-07/01/2022
 
 07/01/2022
 
 16:30
 
+01766023
+
+JOSE MESQUITA DE ANDRADE NETO
+
+Médico Intensivista Adulto
+
+Física
+
+07/01/2022
+
 16:40
 
-16:50
+01207970
 
-070
-
-069
-
-074
-
-17:30
-
-17:20
-
-17:40
-
-Física
-
-Física
+FRANCISCO EDWARD AGUIAR FILHO
 
 Visual
 
-066
-067
-
-01833650
-
-01822004
-
 07/01/2022
 
-07/01/2022
-
-07/01/2022
-
-17:00
-17:10
-
-Nutricionista
-
-Física
-Física
+16:50
 
 02865262
-01616676
+
+KEOMA POLYENNE MARIZ RODRIGUES
+
+Médico Obstetra/Ginecologia
+
+Física
+
+01858858
+
+ALYNE DA SILVA SOUZA
+
+Enfermeiro em Hemoterapia
+
+Visual
+
+01715410
+
+JOSIVAN FERREIRA DA ROCHA
 
 07/01/2022
-07/01/2022
 
-Odontologia (Cirurgião 
-Dentista)
-Terapeuta Ocupacional
+14:00
+
+Enfermeiro Intensivista 
+Adulto
 
 Instruções  gerais,  com  base  no  item  7.  Da  Participação/Inscrição  de  Pessoa  com 
 
-KEOMA POLYENNE MARIZ RODRIGUES
-VICTOR HUGO PAIVA SIMOES
-GIANA CARLA LINS DE ALBUQUERQUE 
-MEIRELES
-KADYDJA LARYSSA RIBEIRO BEZERRA 
-COSTA
-DEBORA DA SILVA FIRINO FELISMINO
-01397877
 1.2. 
-Ficam convocados para a realização da perícia médica os candidatos aprovados no 
+Ficam  convocados  para  a  realização  da  perícia  médica  os  candidatos  aprovados  no 
 concurso público que se declararam no momento da inscrição para cumprimento do item 7.13 do 
 Edital de Abertura de Inscrição.
 1.3. 
@@ -5838,7 +6648,6 @@ presente Edital.
 João Pessoa, 16 de dezembro de 2021.
 
 Daniel Beltrammi
-
 Diretor Superintendente
 
 Diário Oﬁ cial
@@ -5872,19 +6681,18 @@ no Edital nº 1 – PGE/PB, de 8 de junho de 2021, e suas alterações, e neste 
 da data e dos horários predeterminados no subitem 3.2 deste edital.
 4 DAS DISPOSIÇÕES FINAIS
 4.1 As justiﬁ cativas da banca para o deferimento ou indeferimento dos recursos interpostos contra o 
-resultado provisório na avaliação biopsicossocial dos candidatos que se declararam com deﬁ ciência 
+resultado  provisório  na  avaliação  biopsicossocial  dos  candidatos  que  se  declararam  com  deﬁ ciência 
 estarão à disposição dos candidatos a partir da data provável de 23 de dezembro de 2021, no endereço 
 eletrônico http://www.cebraspe.org.br/concursos/pge_pb_21_procurador.
 4.2 O Cebraspe não arcará com prejuízos advindos de problemas de ordem técnica dos computadores, 
-de falhas de comunicação, de congestionamento das linhas de comunicação e de outros fatores, de 
-responsabilidade do candidato, que impossibilitem a visualização das justiﬁ cativas da banca para o 
+de  falhas  de  comunicação,  de  congestionamento  das  linhas  de  comunicação  e  de  outros  fatores,  de 
+responsabilidade  do  candidato,  que  impossibilitem  a  visualização  das  justiﬁ cativas  da  banca  para  o 
 deferimento ou indeferimento.
 4.3 O edital de resultado provisório na avaliação de títulos será publicado no Diário Oﬁ cial do Estado 
-da Paraíba e divulgado na internet, no endereço eletrônico http://www.cebraspe.org.br/concursos/
+da  Paraíba  e  divulgado  na  internet,  no  endereço  eletrônico  http://www.cebraspe.org.br/concursos/
 pge_pb_21_procurador, na data provável de 7 de janeiro de 2022.
 
 FÁBIO ANDRADE MEDEIROS
-
 Procurador-Geral do Estado da Paraíba
 
 Procuradoria
@@ -5892,14 +6700,11 @@ Geral do Estado
 
 EDITAL E AVISO
 
+PROCURADORIA-GERAL DO ESTADO
 CONCURSO PÚBLICO PARA O PROVIMENTO DE VAGAS E A FORMAÇÃO 
-
 DE CADASTRO DE RESERVA NO CARGO DE PROCURADOR DO ESTADO DA PARAÍBA
 
-PROCURADORIA-GERAL DO ESTADO
-
 EDITAL Nº 10 – PGE/PB, DE 16 DE DEZEMBRO DE 2021
-
 O PROCURADOR-GERAL DO ESTADO DA PARAÍBA torna públicos o resultado ﬁ nal na avaliação 
 biopsicossocial dos candidatos que se declararam com deﬁ ciência e a convocação para a avaliação 
 de títulos, referentes ao concurso público para o provimento de vagas e a formação de cadastro de reserva 
@@ -5908,25 +6713,25 @@ no cargo de Procurador do Estado da Paraíba.
 SE DECLARARAM PESSOAS COM DEFICIÊNCIA 
 1.1 Relação ﬁ nal dos candidatos considerados pessoas com deﬁ ciência na avaliação biopsicossocial, na 
 seguinte ordem: número de inscrição e nome do candidato em ordem alfabética.
-10006042, Alana Martins Mota / 10006039, Analecia Hanel Rorato / 10008585, Carlos Felipe de 
+10006042, Alana  Martins  Mota  /  10006039, Analecia  Hanel  Rorato  /  10008585,  Carlos  Felipe  de 
 Mendonca Alves Junior / 10007112, Daline Paula Barros / 10000153, Manoel Simiao Cavalcante Neto 
 / 10004865, Persio Martins Chaves da Rocha / 10000489, Rossana Karla Marinho Alves / 10004645, 
 Said Boutros Yaghi Neto.
 2 DA CONVOCAÇÃO PARA A AVALIAÇÃO DE TÍTULOS
 2.1 Convocação para a avaliação de títulos, na seguinte ordem: número de inscrição e nome do candidato 
 em ordem alfabética.
-10003236, Adriano Ferreira Rodrigues de Carvalho / 10003823, Adriano Silva Dantas / 10002910, 
+10003236, Adriano  Ferreira  Rodrigues  de  Carvalho  /  10003823, Adriano  Silva  Dantas  /  10002910, 
 Agenor Gabriel Chaves Miranda / 10000384, Ana Beatriz Fernandes Coelho Chagas / 10006605, Ana 
 Carolina Silva Monteiro / 10002887, Ana Caroline Gouveia Valadares / 10003405, Ananda Oliveira 
-dos Santos / 10001407, Andre Canuto Bezerra / 10006853, Andre Lima Bezerra / 10003748, Andre 
+dos  Santos  /  10001407, Andre  Canuto  Bezerra  /  10006853, Andre  Lima  Bezerra  /  10003748, Andre 
 Matheus de Assis Morais / 10004833, Antonio Carlos Piantino Neto / 10006576, Antonio Vital Alves da 
 Silva / 10004315, Arthur Dias Freire / 10001382, Bernardo Soares Santos / 10001093, Blendel da Silva 
-Oliveira / 10000611, Bruna Souza Azevedo / 10000303, Caio Henrique Alcantara / 10006914, Caio 
+Oliveira  /  10000611,  Bruna  Souza Azevedo  /  10000303,  Caio  Henrique Alcantara  /  10006914,  Caio 
 Laroca Domingues Carvalho / 10009023, Caio Tiberio de Almeida Caiaﬀ o / 10008163, Camila Pinheiro 
 / 10002201, Camila Santos Cavalcanti Melo / 10002186, Carlos Frederico de Araujo Leite / 10002207, 
 Caroline Polastrini Claro / 10008184, Cassio Severo Rodrigues / 10006643, Cesar Augusto Dias Rosa / 
 10005783, Christiane Marques Montenegro de Cerqueira / 10001223, Cristina Elis Dillmann / 10002144, 
-Daniel Luz / 10005363, Daniele Paulina Martins Nunes / 10001465, Daniella Kallynne de Oliveira 
+Daniel  Luz  /  10005363,  Daniele  Paulina  Martins  Nunes  /  10001465,  Daniella  Kallynne  de  Oliveira 
 Garcia / 10007128, Danilo Roberto Camargo de Almeida / 10005147, Dayvisson Cristiano Moreira / 
 10007040, Diego de Albuquerque Mendonca / 10002139, Edilson Pereira de Oliveira Filho / 10006115, 
 Elias Jakson de Oliveira Sousa / 10000916, Eliphas Neto Palitot Toscano / 10008636, Emanuela dos 
@@ -5934,8 +6739,8 @@ Santos Silva / 10000022, Felipe de Paula Lyra / 10007623, Felipe Fernandes Batis
 Rocha Drummond / 10001815, Flavia Mensitieri Miranda / 10001358, Francisco Ivo Dantas Cavalcanti 
 Filho / 10006481, Gabriel de Jesus Ruivo da Cruz / 10007499, Gabriel Villar de Albuquerque Araujo 
 / 10002508, Gean Wagner Oliveira Braga / 10000657, Gilberto Matheus Paz de Barros / 10001436, 
-Giovani Fonseca de Miranda Junior / 10004211, Guilherme Anacleto Lourenco Coelho / 10008330, 
-Guilherme Lelis Picinini / 10004959, Guilherme Ribeiro Valadares do Amaral / 10002169, Gustavo 
+Giovani  Fonseca  de  Miranda  Junior  /  10004211,  Guilherme Anacleto  Lourenco  Coelho  /  10008330, 
+Guilherme  Lelis  Picinini  /  10004959,  Guilherme  Ribeiro Valadares  do Amaral  /  10002169,  Gustavo 
 Carneiro de Oliveira / 10002533, Gustavo Lelis Souza Silva / 10002920, Gustavo Troccoli Carvalho de 
 Negreiros / 10005835, Hector Cavalcanti Chamberlain / 10002478, Iago Dias Porto / 10002057, Ihago 
 Bruno Rodrigues Gabriel / 10001728, Isaac Messias dos Santos Montenegro / 10004107, Italo Goncalves 
@@ -5978,6 +6783,6 @@ Wesley Bandeira Pinheiro / 10008395, William de Souza Pimentel Ferrari Santana /
 Fernandes de Albuquerque / 10001656, Yuri Mendes Oliveira.
 2.1.1 Convocação dos candidatos com deﬁ ciência para a avaliação de títulos, na seguinte ordem: número 
 de inscrição e nome do candidato em ordem alfabética.
-10006042, Alana Martins Mota / 10006039, Analecia Hanel Rorato / 10008585, Carlos Felipe de 
+10006042, Alana  Martins  Mota  /  10006039, Analecia  Hanel  Rorato  /  10008585,  Carlos  Felipe  de 
 
 

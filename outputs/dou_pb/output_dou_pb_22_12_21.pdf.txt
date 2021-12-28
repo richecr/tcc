@@ -9,6 +9,7 @@ João Pessoa - Quarta-feira, 22 de Dezembro de 2021
 R$ 2,00
 
 ATOS DO PODER EXECUTIVO
+
 Decreto nº 42.109 de 21 de dezembro de 2021
 
 ABRE CRÉDITO SUPLEMENTAR PARA REFORÇO DE DOTAÇÃO
@@ -16,33 +17,37 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
-. 
-
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, c/c o artigo 1º, inciso I,
 §§ 1º e 2º, incisos I e II, e § 3º, e artigos 2º e 3º, § Único, da Lei nº 12.066, de 28 de setembro de 2021, e
 tendo em vista o que consta da Solicitação 2021/020001.00046.
 
+D  E  C  R  E  T  A:
+
+. 
+
+. 
+
 Natureza Fonte
 
 ANTERIORES
 TOTAL
 
-D  E  C  R  E  T  A:
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 408.560,00  (quatrocentos e
 oito mil, quinhentos e sessenta reais), para reforço de dotação orçamentária na forma abaixo discriminada:
 02.000  - TRIBUNAL DE CONTAS DO ESTADO
 02.101  - TRIBUNAL DE CONTAS DO ESTADO
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 28.846.0000.0703.0287- DESPESAS DE EXERCÍCIOS
 __________________________________________________________________________
-408.560,00
 __________________________________________________________________________
+
+408.560,00
 408.560,00
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
 conta de anulação de dotações orçamentárias, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -51,15 +56,16 @@ conta de anulação de dotações orçamentárias, de acordo com o Art. 43, par�
 02.101  - TRIBUNAL DE CONTAS DO ESTADO
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
-01.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
+Especificação
 420,00
+01.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
 59.360,00
-__________________________________________________________________________
 348.780,00
-__________________________________________________________________________
 408.560,00
+
+__________________________________________________________________________
+__________________________________________________________________________
 
 Natureza Fonte
 3190.11  101 
@@ -72,12 +78,10 @@ TOTAL
 
 . 
 
+. 
+
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
-
-. 
-
-. 
 
 dezembro  de  2021;  133º  da Proclamação da República.
 
@@ -88,9 +92,7 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
-. 
-
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, c/c o artigo 1º, inciso I,
@@ -98,6 +100,9 @@ confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo a
 tendo em vista o que consta da Solicitação 2021/020001.00047.
 
 D  E  C  R  E  T  A:
+
+. 
+
   Art.  1º  -  Fica  aberto  o  crédito    suplementar    no  valor  de    R$  139.440,00    (cento  e
 trinta e nove mil, quatrocentos e quarenta reais), para reforço de dotação orçamentária na forma abaixo
 discriminada:
@@ -105,19 +110,20 @@ discriminada:
 02.101  - TRIBUNAL DE CONTAS DO ESTADO
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 28.846.0000.0703.0287- DESPESAS DE EXERCÍCIOS
 __________________________________________________________________________
-139.440,00
-139.440,00
-
-ANTERIORES
-TOTAL
 
 Natureza Fonte
 
 3190.92  100 
+
+ANTERIORES
+TOTAL
+
+139.440,00
+139.440,00
 
 . 
 
@@ -128,35 +134,36 @@ conta de anulação de dotações orçamentárias, de acordo com o Art. 43, par�
 02.101  - TRIBUNAL DE CONTAS DO ESTADO
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 01.128.5072.2870.0287- FORMAÇÃO E CAPACITAÇÃO DE
 
 Natureza Fonte
 
 AGENTES PÚBLICOS
 
-70.330,00
-50.000,00
 __________________________________________________________________________
-19.110,00
 __________________________________________________________________________
-139.440,00
+
+TOTAL
+
+. 
+
+. 
+
+ Art. 3º - Este Decreto entra em vigor na data de sua publicação.
+ PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
+
+dezembro  de  2021;  133º  da Proclamação da República.
 
 3390.14  100 
 3390.33  100 
 3390.39  100 
 
-TOTAL
-
- Art. 3º - Este Decreto entra em vigor na data de sua publicação.
- PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
-
-. 
-
-. 
-
-dezembro  de  2021;  133º  da Proclamação da República.
+70.330,00
+50.000,00
+19.110,00
+139.440,00
 
 Decreto nº 42.111 de 21 de dezembro de 2021
 
@@ -165,13 +172,14 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/050001.00040.
 
 D  E  C  R  E  T  A:
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 2.000,00  (dois mil reais),
 
 . 
@@ -186,12 +194,13 @@ para reforço de dotação orçamentária na forma abaixo discriminada:
 05.101  - JUSTIÇA COMUM
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 02.122.5046.4991.0287- ENCARGOS COM PESSOAL ATIVO -
 __________________________________________________________________________
-2.000,00
 __________________________________________________________________________
+
+2.000,00
 2.000,00
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
 conta de anulação de dotação orçamentária, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -200,16 +209,17 @@ conta de anulação de dotação orçamentária, de acordo com o Art. 43, parág
 05.101  - JUSTIÇA COMUM
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 02.122.5046.4109.0287- VALE E AUXÍLIO TRANSPORTE (JC)
 __________________________________________________________________________
-2.000,00
 __________________________________________________________________________
-2.000,00
 
 - 1º GRAU
 TOTAL
+
+2.000,00
+2.000,00
 
 Natureza Fonte
 
@@ -239,13 +249,14 @@ Decreto nº 42.112 de 21 de dezembro de 2021
 ABRE  CRÉDITO  SUPLEMENTAR  PARA  REFORÇO  DE
 DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso II, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/210001.00021.
 
 D  E  C  R  E  T  A:
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 149.000,00  (cento e quarenta
 
 e nove mil reais), para reforço de dotações orçamentárias na forma abaixo discriminadas:
@@ -253,23 +264,24 @@ e nove mil reais), para reforço de dotações orçamentárias na forma abaixo d
 21.101  - SECRETARIA DE ESTADO DO TURISMO E DO DESENVOLVIMENTO ECONÔMICO
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 94.000,00
 23.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
 _________________________________________________________________________
 55.000,00
 _________________________________________________________________________
 149.000,00
- Art. 2º - As despesas com o crédito suplementar aberto pelo artigo anterior correrão por
-conta do Excesso de Arrecadação da Receita da Cota-Parte do Fundo de Participação dos Estados e do
-Distrito Federal - FPE, de acordo com o parágrafo 1º, inciso II, da Lei Federal nº 4.320/64.
 
 Natureza Fonte
 3190.11  101 
 3190.13  101 
 
 TOTAL
+
+ Art. 2º - As despesas com o crédito suplementar aberto pelo artigo anterior correrão por
+conta do Excesso de Arrecadação da Receita da Cota-Parte do Fundo de Participação dos Estados e do
+Distrito Federal - FPE, de acordo com o parágrafo 1º, inciso II, da Lei Federal nº 4.320/64.
 
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
@@ -283,16 +295,17 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso I, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/210401.00010.
 
 D  E  C  R  E  T  A:
- Art. 1º - Fica aberto o crédito  Suplementar  no valor de  R$ 131.500,00  (cento e trinta
 
 . 
+
+ Art. 1º - Fica aberto o crédito  Suplementar  no valor de  R$ 131.500,00  (cento e trinta
 
 e um mil, quinhentos reais), para reforço de dotação orçamentária na forma abaixo discriminada:
 21.000  - SECRETARIA DE ESTADO DO TURISMO E DO DESENVOLVIMENTO ECONÔMICO
@@ -300,78 +313,65 @@ e um mil, quinhentos reais), para reforço de dotação orçamentária na forma 
 __________________________________________________________________________
 __________________________________________________________________________
 Especificação
-Valor
 22.665.5002.2464.0287- EXECUÇÃO DE ATIVIDADES
 
 Natureza Fonte
 
+Valor
+
 GOVERNO DO ESTADO
-
 Governador João Azevêdo Lins Filho
-
 SECRETARIA DE ESTADO DA COMUNICAÇÃO INSTITUCIONAL
-
 EMPRESA PARAIBANA DE COMUNICAÇÃO S.A.
-
 BR 101 - Km 03 - Distrito Industrial - João Pessoa-PB - CEP 58082-010
 
 Naná Garcez de Castro Dória
-
 DIRETORA PRESIDENTE
 
 William Costa
-
 DIRETOR DE MÍDIA IMPRESSA
 
 Rui Leitão
-
 DIRETOR DE RÁDIO E TV
 
 Lúcio Falcão
-
 GERENTE OPERACIONAL DE EDITORAÇÃO
-
 GOVERNO DO ESTADO
 
 PUBLICAÇÕES: www. sispublicações.pb.gov.br
-
 DIÁRIO OFICIAL - Fone: (83) 3218-6533 - E-mail: wdesdiario@epc.pb.gov.br
-
 COMERCIAL - Fone; (83) 3218-6526 -  E-mail: comercialauniaopb@yahoo.com.br
 CIRCULAÇÃO - Fone: (83) 3218-6518 - E-mail: circulacaoauniaopb@gmail.com
-
 OUVIDORIA: 99143-6762
-
 Assinatura Digital Anual...................................................................................R$ 300,00
 Assinatura Digital Semestral...........................................................................R$ 150,00
 Assinatura Impressa Anual ............................................................................. R$ 400,00
 Assinatura Impressa Semestral ..................................................................... R$ 200,00
 Número Atrasado ............................................................................................. R$      3,00
 
-. 
+__________________________________________________________________________
+__________________________________________________________________________
 
-. 
+131.500,00
+131.500,00
 
-. 
+4490.52  283 
 
 Ç
-
-. 
-
 METROLÓGICAS
 TOTAL
 
-__________________________________________________________________________
-131.500,00
-__________________________________________________________________________
-131.500,00
+. 
+
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
 conta de Superávit Financeiro apurado no Balanço Patrimonial de 31/12/2020 do Instituto de Metrologia e
 Qualidade Industrial da Paraíba - IMEQ/PB, em relação aos recursos oriundos do Convênio de Cooperação
 Técnica e Administrativa nº 20/2013, registro CGE nº 13-70072-3, creditados na Conta nº 12.612-8, do
 Banco do Brasil S.A, de acordo com o artigo 43, § 1º, inciso I, da Lei Federal nº 4.320/64.
 
-4490.52  283 
+. 
+
+. 
 
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
@@ -385,15 +385,16 @@ DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.
 
 . 
 
-. 
-
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/210501.00026.
 
 D  E  C  R  E  T  A:
+
+. 
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 145.257,22  (cento e quarenta
 e cinco mil, duzentos e cinquenta e sete reais e vinte e dois centavos), para reforço de dotações orçamentárias
 na forma abaixo discriminadas:
@@ -401,8 +402,8 @@ na forma abaixo discriminadas:
 21.205  - JUNTA COMERCIAL DO ESTADO DA PARAÍBA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 23.122.5046.4216.0287- MANUTENÇÃO DE SERVIÇOS
 
 Natureza Fonte
@@ -427,8 +428,9 @@ TOTAL
 . 
 28.846.0000.0703.0287- DESPESAS DE EXERCÍCIOS
 __________________________________________________________________________
-257,22
 __________________________________________________________________________
+
+257,22
 145.257,22
  Art. 2º - As despesas com o crédito suplementar aberto pelo artigo anterior correrão por
 conta de anulação de dotações orçamentárias, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -437,8 +439,8 @@ conta de anulação de dotações orçamentárias, de acordo com o Art. 43, par�
 21.205  - JUNTA COMERCIAL DO ESTADO DA PARAÍBA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 23.122.5046.4194.0287- CONSERVAÇÃO, REFORMA E
 
 Natureza Fonte
@@ -478,16 +480,17 @@ ADMINISTRATIVOS
 . 
 28.846.0000.0703.0287- DESPESAS DE EXERCÍCIOS
 __________________________________________________________________________
-257,22
 __________________________________________________________________________
-145.257,22
 
 ANTERIORES
 TOTAL
 
-3191.13  270 
+257,22
+145.257,22
 
 4490.52  270 
+
+3191.13  270 
 
 3190.92  270 
 
@@ -495,10 +498,13 @@ TOTAL
 
 40.000,00
 
+. 
+
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
- PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
 
 dezembro  de  2021;  133º  da Proclamação da República.
+
+ PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
 
 Diário Oﬁ cial
 
@@ -508,24 +514,24 @@ João Pessoa - Quarta-feira, 22 de Dezembro de 2021
 
 Decreto nº 42.115 de 21 de dezembro de 2021
 
-Ç
-
-PROFISSIONAIS DA EDUCAÇÃO
-
 ABRE  CRÉDITO  SUPLEMENTAR  PARA  REFORÇO  DE
 DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.
 
 . 
+12.361.5006.4789.0287- ACELERAÇÃO DA APRENDIZAGEM E
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso II, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/220001.00440.
 
 D  E  C  R  E  T  A:
+
+. 
+
  Art. 1º - Fica aberto o crédito  Suplementar  no valor de  R$ 50.450.019,69  (cinquenta
 milhões, quatrocentos e cinquenta mil, dezenove reais e sessenta e nove centavos), para reforço de dotações
 orçamentárias na forma abaixo discriminadas:
@@ -534,20 +540,13 @@ orçamentárias na forma abaixo discriminadas:
 __________________________________________________________________________
 __________________________________________________________________________
 Especificação
-Valor
 12.122.5046.4216.0287- MANUTENÇÃO DE SERVIÇOS
 
 Natureza Fonte
 
+Valor
+
 ADMINISTRATIVOS
-
-. 
-12.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
-. 
-12.361.5046.4974.0287- ENCARGOS COM PESSOAL ATIVO DO
-
-MAGISTÉRIO DO ENSINO
-FUNDAMENTAL
 
 3390.08  103 
 
@@ -557,46 +556,63 @@ FUNDAMENTAL
 
 8.668.063,72
 
+. 
+12.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
+. 
+12.361.5046.4974.0287- ENCARGOS COM PESSOAL ATIVO DO
+
+MAGISTÉRIO DO ENSINO
+FUNDAMENTAL
+
+. 
+12.362.5046.4976.0287- ENCARGOS COM PESSOAL ATIVO DO
+
+__________________________________________________________________________
+__________________________________________________________________________
+
+TOTAL
+
 3190.11  103 
 3191.13  103 
 
-23.358.386,29
-408.930,22
-
-TOTAL
+16.977.639,31
+952.644,70
+50.450.019,69
 
 MAGISTÉRIO DO ENSINO MÉDIO
 
 . 
-12.362.5046.4976.0287- ENCARGOS COM PESSOAL ATIVO DO
-16.977.639,31
-__________________________________________________________________________
-952.644,70
-__________________________________________________________________________
-50.450.019,69
- Art. 2º - As despesas com o crédito suplementar aberto pelo artigo anterior correrão
-por conta do Excesso de Arrecadação da Receita 17580111 - Transferências de Recursos do Fundo de
-Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação -
+
+  Art.  2º  -  As  despesas  com  o  crédito  suplementar  aberto  pelo  artigo  anterior  correrão
+por  conta  do  Excesso  de  Arrecadação  da  Receita  17580111  -  Transferências  de  Recursos  do  Fundo  de
+Manutenção  e  Desenvolvimento  da  Educação  Básica  e  de  Valorização  dos  Profissionais  da  Educação  -
 FUNDEB, de acordo com o artigo 43, § 1º, inciso II, da Lei Federal nº 4.320/64.
+
+. 
+
+. 
+
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
 
-3190.11  103 
-3191.13  103 
-
-. 
-
-. 
-
-. 
-
 dezembro  de  2021;  133º  da Proclamação da República.
 
-. 
-12.361.5006.4789.0287- ACELERAÇÃO DA APRENDIZAGEM E
+Ç
+
+PROFISSIONAIS DA EDUCAÇÃO
+
+3190.11  103 
+3390.39  103 
+
+2.000.000,00
+180.000,00
 
 CORREÇÃO DA DISTORÇÃO
 IDADE-SÉRIE
+
+3390.39  103 
+
+200.000,00
 
 . 
 12.361.5006.4870.0287- PACTO PELO DESENVOLVIMENTO
@@ -613,48 +629,16 @@ UNIDADES ESCOLARES ESTADUAIS
 
 . 
 12.362.5006.2146.0287- DESENVOLVIMENTO E MANUTENÇÃO
-
 DO ENSINO MÉDIO
-
-. 
-12.362.5006.2747.0287- PROMOÇÃO DA EDUCAÇÃO EM
-
-DIREITOS HUMANOS E DIVERSIDADE
-
-. 
-12.365.5006.1440.0287- DESENVOLVIMENTO E MANUTENÇÃO
-
-DO ENSINO INFANTIL
-
-. 
-12.366.5006.2770.0287- DESENVOLVIMENTO E MANUTENÇÃO
-
-DA EDUCAÇÃO DE JOVENS E
-ADULTOS
-
-. 
-12.367.5006.1441.0287- DESENVOLVIMENTO E MANUTENÇÃO
-
-DA EDUCAÇÃO ESPECIAL
-
-3190.11  103 
-3390.39  103 
-
-2.000.000,00
-180.000,00
-
-3390.39  103 
-
-200.000,00
 
 3340.39  103 
 4440.51  103 
 
-3340.39  103 
-3350.39  103 
-
 330.000,00
 500.000,00
+
+3340.39  103 
+3350.39  103 
 
 1.000.000,00
 800.000,00
@@ -677,17 +661,26 @@ DA EDUCAÇÃO ESPECIAL
 200.000,00
 780.000,00
 
-3390.39  103 
-
-370.000,00
+DO ENSINO INFANTIL
 
 3390.30  103 
 
 50.000,00
 
+. 
+12.366.5006.2770.0287- DESENVOLVIMENTO E MANUTENÇÃO
+
+DA EDUCAÇÃO DE JOVENS E
+ADULTOS
+
 3390.39  103 
 
 280.000,00
+
+. 
+12.367.5006.1441.0287- DESENVOLVIMENTO E MANUTENÇÃO
+
+DA EDUCAÇÃO ESPECIAL
 
 3390.30  103 
 
@@ -712,14 +705,32 @@ _________________________________________________________________________
 
 TOTAL
 
+. 
+
+. 
+
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
 
-. 
-
-. 
-
 dezembro  de  2021;  133º  da Proclamação da República.
+
+3190.11  103 
+3191.13  103 
+
+23.358.386,29
+408.930,22
+
+. 
+12.365.5006.1440.0287- DESENVOLVIMENTO E MANUTENÇÃO
+
+. 
+12.362.5006.2747.0287- PROMOÇÃO DA EDUCAÇÃO EM
+
+DIREITOS HUMANOS E DIVERSIDADE
+
+3390.39  103 
+
+370.000,00
 
 Decreto nº 42.116 de 21 de dezembro de 2021
 
@@ -728,24 +739,25 @@ DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/220001.00445.
 
 D  E  C  R  E  T  A:
- Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 10.880.000,00  (dez milhões,
 
 . 
+
+ Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 10.880.000,00  (dez milhões,
 
 oitocentos e oitenta mil reais), para reforço de dotações orçamentárias na forma abaixo discriminadas:
 22.000  - SECRETARIA DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNOLOGIA
 22.101  - SECRETARIA DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNOLOGIA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 12.361.5006.2769.0287- APOIO TÉCNICO, FINANCEIRO E
 
 Natureza Fonte
@@ -760,10 +772,11 @@ TOTAL
 3340.39  103 
 4440.52  103 
 
+__________________________________________________________________________
+__________________________________________________________________________
+
 9.410.000,00
-__________________________________________________________________________
 1.470.000,00
-__________________________________________________________________________
 10.880.000,00
  Art. 2º - As despesas com o crédito suplementar aberto pelo artigo anterior correrão por
 conta de anulação de dotações orçamentárias, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -772,8 +785,8 @@ conta de anulação de dotações orçamentárias, de acordo com o Art. 43, par�
 22.101  - SECRETARIA DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNOLOGIA
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 12.361.5006.2297.0287- DESENVOLVIMENTO E MANUTENÇÃO
 
 Natureza Fonte
@@ -800,9 +813,7 @@ DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.
 
 . 
 
-. 
-
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, c/c o artigo 1º, inciso I,
@@ -810,6 +821,9 @@ confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo a
 tendo em vista o que consta da Solicitação 2021/230001.00015.
 
 D  E  C  R  E  T  A:
+
+. 
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 8.772.454,97  (oito milhões,
 setecentos e setenta e dois mil, quatrocentos e cinquenta e quatro reais e noventa e sete centavos), para
 reforço de dotações orçamentárias na forma abaixo discriminadas:
@@ -817,8 +831,8 @@ reforço de dotações orçamentárias na forma abaixo discriminadas:
 23.101  - COMANDO GERAL DO CORPO DE BOMBEIROS MILITAR
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 37.946,24
 06.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
 _________________________________________________________________________
@@ -846,23 +860,17 @@ MEIO AMBIENTE
 
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 28.846.5003.0719.0287- PARTICIPAÇÃO DO ESTADO NO
 
 Natureza Fonte
 
-4
-
-João Pessoa - Quarta-feira, 22 de Dezembro de 2021
+João Pessoa - Quarta-feira, 22 de Dezembro de 2021
 
 Diário Oﬁ cial
 
-. 
-
-. 
-
-. 
+4
 
 . 
 
@@ -882,9 +890,35 @@ TOTAL
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
 
-. 
+dezembro  de  2021;  133º  da Proclamação da República.
 
-. 
+31.000  - SECRETARIA DE ESTADO DA INFRAESTRUTURA, DOS RECURSOS HÍDRICOS E DO
+
+MEIO AMBIENTE
+
+31.201  - DEPARTAMENTO DE ESTRADAS DE RODAGEM
+_________________________________________________________________________
+_________________________________________________________________________
+Valor
+Especificação
+26.782.5004.4603.0287- AQUISIÇÃO E MANUTENÇÃO DE
+
+Natureza Fonte
+
+__________________________________________________________________________
+__________________________________________________________________________
+
+324.782,00
+324.782,00
+
+4490.52  102 
+
+MÁQUINAS, EQUIPAMENTOS E
+VEÍCULOS
+TOTAL
+
+ Art. 3º - Este Decreto entra em vigor na data de sua publicação.
+ PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
 
 dezembro  de  2021;  133º  da Proclamação da República.
 
@@ -895,15 +929,16 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
-. 
-
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso II, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/230001.00016.
 
 D  E  C  R  E  T  A:
+
+. 
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 609.037,82  (seiscentos e
 nove mil, trinta e sete reais e oitenta e dois centavos), para reforço de dotação orçamentária na forma abaixo
 discriminada:
@@ -911,18 +946,13 @@ discriminada:
 23.101  - COMANDO GERAL DO CORPO DE BOMBEIROS MILITAR
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 _________________________________________________________________________
+609.037,82
 06.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
-609.037,82
 _________________________________________________________________________
 609.037,82
- Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por conta
-do Excesso de Arrecadação da Receita da Cota-Parte do Fundo de Participação dos Estados e do Distrito
-Federal - FPE, de acordo com o parágrafo 1º, inciso II, da Lei Federal nº 4.320/64.
- Art. 3º - Este Decreto entra em vigor na data de sua publicação.
- PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
 
 Natureza Fonte
 3191.13  101 
@@ -930,6 +960,12 @@ Natureza Fonte
 TOTAL
 
 . 
+
+ Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por conta
+do Excesso de Arrecadação da Receita da Cota-Parte do Fundo de Participação dos Estados e do Distrito
+Federal - FPE, de acordo com o parágrafo 1º, inciso II, da Lei Federal nº 4.320/64.
+ Art. 3º - Este Decreto entra em vigor na data de sua publicação.
+ PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
 
 . 
 
@@ -944,11 +980,13 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+ O GOVERNADOR DO ESTADO DA PARAÍBA,   no uso das atribuições que lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/310101.00069.
+
+. 
 
 D  E  C  R  E  T  A:
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 324.782,00  (trezentos e
@@ -956,15 +994,13 @@ vinte e quatro mil, setecentos e oitenta e dois reais), para reforço de dotaç�
 discriminada:
 31.000  - SECRETARIA DE ESTADO DA INFRAESTRUTURA, DOS RECURSOS HÍDRICOS E DO
 
-. 
-
 MEIO AMBIENTE
 
 31.201  - DEPARTAMENTO DE ESTRADAS DE RODAGEM
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 26.782.5004.4410.0287- RESTAURAÇÃO, PAVIMENTAÇÃO,
 
 Natureza Fonte
@@ -974,8 +1010,9 @@ RODOVIAS
 TOTAL
 
 __________________________________________________________________________
-324.782,00
 __________________________________________________________________________
+
+324.782,00
 324.782,00
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
 conta de anulação de dotação orçamentária, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -985,34 +1022,6 @@ conta de anulação de dotação orçamentária, de acordo com o Art. 43, parág
 
 . 
 
-31.000  - SECRETARIA DE ESTADO DA INFRAESTRUTURA, DOS RECURSOS HÍDRICOS E DO
-
-MEIO AMBIENTE
-
-31.201  - DEPARTAMENTO DE ESTRADAS DE RODAGEM
-_________________________________________________________________________
-_________________________________________________________________________
-Especificação
-Valor
-26.782.5004.4603.0287- AQUISIÇÃO E MANUTENÇÃO DE
-__________________________________________________________________________
-324.782,00
-__________________________________________________________________________
-324.782,00
-
-MÁQUINAS, EQUIPAMENTOS E
-VEÍCULOS
-TOTAL
-
-Natureza Fonte
-
-4490.52  102 
-
- Art. 3º - Este Decreto entra em vigor na data de sua publicação.
- PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
-
-dezembro  de  2021;  133º  da Proclamação da República.
-
 Decreto nº 42.120 de 21 de dezembro de 2021
 
 ABRE CRÉDITO SUPLEMENTAR PARA REFORÇO DE DOTAÇÃO
@@ -1020,13 +1029,14 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/310101.00070.
 
 D  E  C  R  E  T  A:
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 300.000,00  (trezentos mil
 
 reais), para reforço de dotação orçamentária na forma abaixo discriminada:
@@ -1037,8 +1047,8 @@ MEIO AMBIENTE
 31.201  - DEPARTAMENTO DE ESTRADAS DE RODAGEM
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 26.782.5004.4468.0287- IMPLANTAÇÃO, MANUTENÇÃO E
 
 Natureza Fonte
@@ -1047,9 +1057,12 @@ MELHORIA DA SEGURANÇA
 RODOVIARIA
 TOTAL
 
+. 
+
 __________________________________________________________________________
+__________________________________________________________________________
+
 300.000,00
-__________________________________________________________________________
 300.000,00
  Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por
 conta de anulação de dotação orçamentária, de acordo com o Art. 43, parágrafo 1°, inciso III, da Lei n°
@@ -1058,28 +1071,28 @@ conta de anulação de dotação orçamentária, de acordo com o Art. 43, parág
 
 4490.51  102 
 
-. 
-
 MEIO AMBIENTE
 
 31.201  - DEPARTAMENTO DE ESTRADAS DE RODAGEM
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 26.782.5004.4603.0287- AQUISIÇÃO E MANUTENÇÃO DE
+
+Natureza Fonte
+
 __________________________________________________________________________
-300.000,00
 __________________________________________________________________________
+
 300.000,00
+300.000,00
+
+4490.52  102 
 
 MÁQUINAS, EQUIPAMENTOS E
 VEÍCULOS
 TOTAL
-
-Natureza Fonte
-
-4490.52  102 
 
  Art. 3º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
@@ -1093,33 +1106,54 @@ DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso III, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, c/c o artigo 1º, inciso I,
 §§ 1º e 2º, incisos I e II, e § 3º, e artigos 2º e 3º, § Único, da Lei nº 12.066, de 28 de setembro de 2021, e
 tendo em vista o que consta da Solicitação 2021/310401.00036.
 
-Diário Oﬁ cial
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+. 
+
+Diário Oﬁ cial
 
 João Pessoa - Quarta-feira, 22 de Dezembro de 2021
 
 5
 
-. 
+D  E  C  R  E  T  A:
 
-. 
+c, e 2º, da Lei nº 12.146, de 07 de dezembro de 2021,
 
-. 
-
-. 
-
-. 
-
-. 
+ Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 380.000,00  (trezentos e
 
 D  E  C  R  E  T  A:
- Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 380.000,00  (trezentos e
 
 oitenta mil reais), para reforço de dotações orçamentárias na forma abaixo discriminadas:
 31.000  - SECRETARIA DE ESTADO DA INFRAESTRUTURA, DOS RECURSOS HÍDRICOS E DO
@@ -1129,10 +1163,10 @@ MEIO AMBIENTE
 31.204  - COMPANHIA ESTADUAL DE HABITAÇÃO POPULAR
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
-16.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
+Especificação
 80.000,00
+16.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
 __________________________________________________________________________
 300.000,00
 __________________________________________________________________________
@@ -1155,19 +1189,21 @@ MEIO AMBIENTE
 31.204  - COMPANHIA ESTADUAL DE HABITAÇÃO POPULAR
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 16.482.5004.4269.0287- CONSTRUÇÃO, REFORMA E
+
+Natureza Fonte
+
 __________________________________________________________________________
-380.000,00
 __________________________________________________________________________
-380.000,00
 
 RECUPERAÇÃO DE CASAS POPULARES
 NAS ÁREAS URBANA E RURAL
 TOTAL
 
-Natureza Fonte
+380.000,00
+380.000,00
 
 4440.41  100 
 
@@ -1176,75 +1212,8 @@ Natureza Fonte
 
 dezembro  de  2021;  133º  da Proclamação da República.
 
-Decreto nº 42.122 de 21 de dezembro de 2021
-
-ABRE  CRÉDITO  SUPLEMENTAR  PARA  REFORÇO  DE
-DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.
-
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
-confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso II, da Lei nº
-11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
-2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
-consta da Solicitação 2021/330001.00034.
-
-D  E  C  R  E  T  A:
- Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 12.000,00  (doze mil reais),
-
-para reforço de dotações orçamentárias na forma abaixo discriminadas:
-33.000  - SECRETARIA DE ESTADO DA CULTURA
-33.101  - SECRETARIA DE ESTADO DA CULTURA
-_________________________________________________________________________
-_________________________________________________________________________
-Especificação
-Valor
-5.000,00
-13.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
-_________________________________________________________________________
-7.000,00
-_________________________________________________________________________
-12.000,00
- Art. 2º - As despesas com o crédito suplementar aberto pelo artigo anterior correrão por
-conta do Excesso de Arrecadação da Receita da Cota-Parte do Fundo de Participação dos Estados e do
-Distrito Federal - FPE, de acordo com o parágrafo 1º, inciso II, da Lei Federal nº 4.320/64.
-
-Natureza Fonte
-3190.11  101 
-3190.13  101 
-
-TOTAL
-
-. 
-
- Art. 3º - Este Decreto entra em vigor na data de sua publicação.
- PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
-
-dezembro  de  2021;  133º  da Proclamação da República.
-
-Decreto nº 42.123 de 21 de dezembro de 2021
-
-FUNCIONAL-PROGRAMÁTICA
-ALTERA  CLASSIFICAÇÃO 
-ALOCADA NO ORÇAMENTO VIGENTE DE ACORDO COM A LEI
-Nº 12.146, DE 07 DE DEZEMBRO DE 2021.
-
-. 
-
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
-confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelos s artigos 1º, §§ 1º e 2º, alínea
-
-. 
-
-. 
-
-. 
-
-c, e 2º, da Lei nº 12.146, de 07 de dezembro de 2021,
-
-. 
-
-D  E  C  R  E  T  A:
   Art.  1º  -    Fica  alterada  a  Classificação  Funcional-Programática,  alocada  no  vigente
 Orçamento  dos  Encargos  Gerais  do  Estado  -  Recursos  Sob  a  Supervisão  da  Secretaria  de  Estado  da
 Administração, no valor de R$ 3.734.905,86 (três milhões, setecentos e trinta e quatro mil, novecentos e
@@ -1258,28 +1227,23 @@ dezembro  de  2021;  133º  da Proclamação da República.
 ANEXO AO DECRETO Nº 42.123 DE 21 DE DEZEMBRO DE 2021
 
 DE:
+
+PARA:
+
 30.101  - RECURSOS SOB A SUPERVISÃO DA SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
 30.000  - ENCARGOS GERAIS DO ESTADO
 _____________________________________________________________________________________
 _____________________________________________________________________________________
-Especificação
 Valor
+Especificação
 04.126.5046.4994.0287- ENCARGOS COM TRANSMISSÃO DE
 _____________________________________________________________________________________
 3.734.905,86
 _____________________________________________________________________________________
 3.734.905,86
 _____________________________________________________________________________________
-_____________________________________________________________________________________
 3.734.905,86
-PARA:
-30.000  - ENCARGOS GERAIS DO ESTADO
-30.101  - RECURSOS SOB A SUPERVISÃO DA SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
 _____________________________________________________________________________________
-_____________________________________________________________________________________
-Especificação
-Valor
-06.126.5046.4994.0287- ENCARGOS COM TRANSMISSÃO DE
 
 DADOS E SISTEMAS
 SUBTOTAL DO ÓRGÃO
@@ -1288,9 +1252,17 @@ TOTAL GERAL DO ÓRGÃO
 
 Natureza Fonte
 
-Natureza Fonte
-
 3390.40  100 
+
+30.000  - ENCARGOS GERAIS DO ESTADO
+30.101  - RECURSOS SOB A SUPERVISÃO DA SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
+_____________________________________________________________________________________
+Valor
+Especificação
+_____________________________________________________________________________________
+06.126.5046.4994.0287- ENCARGOS COM TRANSMISSÃO DE
+
+Natureza Fonte
 
 DADOS E SISTEMAS
 
@@ -1314,8 +1286,8 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 3.734.905,86
 _____________________________________________________________________________________
-_____________________________________________________________________________________
 3.734.905,86
+_____________________________________________________________________________________
 
 DADOS E SISTEMAS
 SUBTOTAL DO ÓRGÃO
@@ -1324,6 +1296,66 @@ TOTAL GERAL DO ÓRGÃO
 
 3390.40  112 
 
+Decreto nº 42.122 de 21 de dezembro de 2021
+
+ABRE  CRÉDITO  SUPLEMENTAR  PARA  REFORÇO  DE
+DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.
+
+. 
+
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
+confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso II, da Lei nº
+11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
+2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
+consta da Solicitação 2021/330001.00034.
+
+D  E  C  R  E  T  A:
+
+ Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 12.000,00  (doze mil reais),
+
+para reforço de dotações orçamentárias na forma abaixo discriminadas:
+33.000  - SECRETARIA DE ESTADO DA CULTURA
+33.101  - SECRETARIA DE ESTADO DA CULTURA
+_________________________________________________________________________
+_________________________________________________________________________
+Valor
+Especificação
+5.000,00
+13.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
+_________________________________________________________________________
+7.000,00
+_________________________________________________________________________
+12.000,00
+
+Natureza Fonte
+3190.11  101 
+3190.13  101 
+
+TOTAL
+
+. 
+
+ Art. 2º - As despesas com o crédito suplementar aberto pelo artigo anterior correrão por
+conta do Excesso de Arrecadação da Receita da Cota-Parte do Fundo de Participação dos Estados e do
+Distrito Federal - FPE, de acordo com o parágrafo 1º, inciso II, da Lei Federal nº 4.320/64.
+
+ Art. 3º - Este Decreto entra em vigor na data de sua publicação.
+ PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
+
+dezembro  de  2021;  133º  da Proclamação da República.
+
+Decreto nº 42.123 de 21 de dezembro de 2021
+
+FUNCIONAL-PROGRAMÁTICA
+ALTERA  CLASSIFICAÇÃO 
+ALOCADA NO ORÇAMENTO VIGENTE DE ACORDO COM A LEI
+Nº 12.146, DE 07 DE DEZEMBRO DE 2021.
+
+. 
+
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
+confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelos s artigos 1º, §§ 1º e 2º, alínea
+
 Decreto nº 42.124 de 21 de dezembro de 2021
 
 ABRE CRÉDITO SUPLEMENTAR PARA REFORÇO DE DOTAÇÃO
@@ -1331,13 +1363,14 @@ CONSIGNADA NO VIGENTE ORÇAMENTO.
 
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelo artigo 5º, inciso II, da Lei nº
 11.831, de 07 de janeiro de 2021, c/c os artigos 1º, § Único, e 2º, da Lei nº 12.065, de 28 de setembro de
 2021, e com o artigo 1º, § Único, da Lei nº 12.145, de 07 de dezembro de 2021, e tendo em vista o que
 consta da Solicitação 2021/370001.00007.
 
 D  E  C  R  E  T  A:
+
  Art. 1º - Fica aberto o crédito  suplementar  no valor de  R$ 146.000,00  (cento e quarenta
 
 e seis mil reais), para reforço de dotação orçamentária na forma abaixo discriminada:
@@ -1345,18 +1378,13 @@ e seis mil reais), para reforço de dotação orçamentária na forma abaixo dis
 37.101  - SECRETARIA DE ESTADO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO
 _________________________________________________________________________
 _________________________________________________________________________
-Especificação
 Valor
+Especificação
 _________________________________________________________________________
+146.000,00
 04.122.5046.4217.0287- ENCARGOS COM PESSOAL ATIVO
-146.000,00
 _________________________________________________________________________
 146.000,00
- Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por conta
-do Excesso de Arrecadação da Receita da Cota-Parte do Fundo de Participação dos Estados e do Distrito
-Federal - FPE, de acordo com o parágrafo 1º, inciso II, da Lei Federal nº 4.320/64.
- Art. 3º - Este Decreto entra em vigor na data de sua publicação.
- PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
 
 Natureza Fonte
 3190.11  101 
@@ -1364,6 +1392,12 @@ Natureza Fonte
 TOTAL
 
 . 
+
+ Art. 2º - A despesa com o crédito suplementar aberto pelo artigo anterior correrá por conta
+do Excesso de Arrecadação da Receita da Cota-Parte do Fundo de Participação dos Estados e do Distrito
+Federal - FPE, de acordo com o parágrafo 1º, inciso II, da Lei Federal nº 4.320/64.
+ Art. 3º - Este Decreto entra em vigor na data de sua publicação.
+ PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
 
 . 
 
@@ -1377,6 +1411,11 @@ João Pessoa - Quarta-feira, 22 de Dezembro de 2021
 
 Diário Oﬁ cial
 
+Art. 3º  Este Decreto entra em vigor na data de sua publicação.
+PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA, em João Pessoa, 21 de 
+
+dezembro de 2021; 133º da Proclamação da República.
+
 Decreto nº 42.125 de 21 de dezembro de 2021
 
 ALTERA  CLASSIFICAÇÃO 
@@ -1384,43 +1423,40 @@ FUNCIONAL-PROGRAMÁTICA
 ALOCADA NO ORÇAMENTO VIGENTE DE ACORDO COM A LEI
 Nº 12.146, DE 07 DE DEZEMBRO DE 2021.
 
-Art. 3º  Este Decreto entra em vigor na data de sua publicação.
-PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA, em João Pessoa, 21 de 
-
-dezembro de 2021; 133º da Proclamação da República.
-
 . 
 
- O GOVERNADOR DO ESTADO DA PARAÍBA,  no uso das atribuições que lhe
+  O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,    no  uso  das  atribuições  que  lhe
 confere o artigo 86, inciso IV, da Constituição do Estado e, autorizado pelos s artigos 1º,§§ 1º e 2º, alínea
 b e 2º, da Lei nº 12.146, de 07 de dezembro de 2021,
 
 D  E  C  R  E  T  A:
+
+. 
+
   Art.  1º  -    Fica  alterada  a  Classificação  Funcional-Programática,  alocada  no  vigente
 Orçamento da Fundação de Apoio à Pesquisa do Estado da Paraíba - FAPESQ , no valor de R$ 5.855.113,95
 (cinco milhões, oitocentos e cinquenta e cinco mil, cento e treze reais, noventa e cinco centavos), na forma
 do Anexo a este Decreto.
 
-. 
-
  Art. 2º - Este Decreto entra em vigor na data de sua publicação.
  PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA,  em João Pessoa,  21  de
-
-. 
-
-. 
 
 dezembro  de  2021;  133º  da Proclamação da República.
 
 ANEXO AO DECRETO Nº 42.125 DE 21 DE DEZEMBRO DE 2021
 
+. 
+
+. 
+
 DE:
+
 22.210  - FUNDAÇÃO DE APOIO À PESQUISA DO ESTADO DA PARAÍBA
 22.000  - SECRETARIA DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNOLOGIA
 _____________________________________________________________________________________
 _____________________________________________________________________________________
-Especificação
 Valor
+Especificação
 19.573.5011.1680.0287- FORMAÇÃO DE RECURSOS HUMANOS
 
 Natureza Fonte
@@ -1437,10 +1473,6 @@ E INOVAÇÃO
 . 
 19.573.5011.4516.0287- APOIO À PESQUISA,
 
-3390.20  112 
-
-TOTAL GERAL DO ÓRGÃO
-
 DESENVOLVIMENTO E INOVAÇÃO EM
 CIÊNCIA E TECNOLOGIA
 SUBTOTAL DO ÓRGÃO
@@ -1450,15 +1482,21 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 5.855.113,95
 _____________________________________________________________________________________
-_____________________________________________________________________________________
 5.855.113,95
+_____________________________________________________________________________________
+
+TOTAL GERAL DO ÓRGÃO
+
+3390.20  112 
+
 PARA:
+
 22.000  - SECRETARIA DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNOLOGIA
 22.210  - FUNDAÇÃO DE APOIO À PESQUISA DO ESTADO DA PARAÍBA
 _____________________________________________________________________________________
 _____________________________________________________________________________________
-Especificação
 Valor
+Especificação
 12.573.5011.1680.0287- FORMAÇÃO DE RECURSOS HUMANOS
 
 Natureza Fonte
@@ -1481,17 +1519,18 @@ SUBTOTAL DO ÓRGÃO
 
 _____________________________________________________________________________________
 3.227.832,26
-_____________________________________________________________________________________
 5.855.113,95
 _____________________________________________________________________________________
 _____________________________________________________________________________________
 5.855.113,95
+_____________________________________________________________________________________
 
 TOTAL GERAL DO ÓRGÃO
 
 3390.20  112 
 
 SECRETARIAS DE ESTADO
+
 Secretaria de Estado
 da Administração
 
@@ -1501,36 +1540,60 @@ A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando das atribuições
 que lhe são conferidas pelo art. 78º, do Decreto nº 41.415 de 12 de julho de 2021, DESPACHOU os 
 processos abaixo relacionados que faz retornar ao respectivo órgão de origem, os seguintes servi-
 dores.
-PROCESSO MATRÍCULA
-21018267-9
-21019251-8
-21018798-1
-21018803-1
-21018913-4
-21018809-0
 
-                  ÓRGÃO DE RETORNO
-Secretaria de Estado da Saúde
-Secretaria de Estado da Comunicação Institucional
-Secretaria de Estado da Educação e da Ciência e Tecnologia 
-Secretaria de Estado da Educação e da Ciência e Tecnologia 
-Secretaria de Estado de Infraestrutura,Recursos Hídricos e do Meio Ambiente
-Secretaria de Estado de Infraestrutura,Recursos Hídricos e do Meio Ambiente
+PROCESSO MATRÍCULA
 
 SERVIDOR
-LUZIA MARIA MARINHO LEITE PINTO
-CAMILA ALVES NASCIMENTO
-RICHELLE BEZERRA DA SILVA
-FERNANDA FERREIRA LOBO
-CLAUDIO SILVESTRE DA SILVA
-KARL MARX NOBRE MARCONE
+
+                  ÓRGÃO DE RETORNO
+
+21018267-9
 
 149.473-2
+
+LUZIA MARIA MARINHO LEITE PINTO
+
+Secretaria de Estado da Saúde
+
+21019251-8
+
 178.849-3
+
+CAMILA ALVES NASCIMENTO
+
+Secretaria de Estado da Comunicação Institucional
+
+21018798-1
+
 179.817-1
+
+RICHELLE BEZERRA DA SILVA
+
+Secretaria de Estado da Educação e da Ciência e Tecnologia 
+
+21018803-1
+
 176.820-4
+
+FERNANDA FERREIRA LOBO
+
+Secretaria de Estado da Educação e da Ciência e Tecnologia 
+
+21018913-4
+
 95.238-9
+
+CLAUDIO SILVESTRE DA SILVA
+
+Secretaria de Estado de Infraestrutura,Recursos Hídricos e do Meio Ambiente
+
+21018809-0
+
 177.624-0
+
+KARL MARX NOBRE MARCONE
+
+Secretaria de Estado de Infraestrutura,Recursos Hídricos e do Meio Ambiente
 
 RESENHA Nº 128/2021.                                 
 
@@ -1540,37 +1603,55 @@ A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando das atribuições
 que lhe são conferidas pelo artigo 78, incisos I e XXII do Decreto 41.415, de 12 de julho de 2021, c/c 
 o art. 6º,§ 2º, do Decreto nº 37.242, de 17 de fevereiro de 2017, DEFERIU os pedidos de cessão dos 
 servidores abaixo:
-PROCESSO
 
- MATRÍCULA LOTAÇÃO INSTITUIÇÃO OU ÓRGÃO
+PROCESSO
 
 NOME
 
+ MATRÍCULA LOTAÇÃO INSTITUIÇÃO OU ÓRGÃO
+
 21018901-1
-21019295-0
-21018808-1
-21018975-4
 
 CLAUDIO SILVESTRE DA SILVA
-RAFAELA CRISTIANE DO O
-WALDEMAR BEZERRA DE CARVALHO
-KARL MARX NOBRE MARCONE
 
 95.238-9
+
+SEIRHMA
+
+Departamento Estadual de Trânsito - DETRAN
+
+21019295-0
+
+RAFAELA CRISTIANE DO O
+
 177.948-6
+
+SEAP
+
+Superintendência  de  Administração  do  Meio  Ambiente  - 
+
+21018808-1
+
+WALDEMAR BEZERRA DE CARVALHO
+
 109.611-7
+
+SETDE
+
+SUDEMA
+
+21018975-4
+
+KARL MARX NOBRE MARCONE
+
 177.624-0
 
 SEIRHMA
-SEAP
-SETDE
-SEIRHMA
+
+Autarquia de Proteção e Defesa do Consumidor do Estado da 
 
 Departamento Estadual de Trânsito - DETRAN
-Departamento Estadual de Trânsito - DETRAN
-Superintendência  de Administração  do  Meio Ambiente  - 
-SUDEMA
-Autarquia de Proteção e Defesa do Consumidor do Estado da 
+
 Paraíba - PROCON
 
 RESENHA Nº 129/2021.                                                                   EXPEDIENTE DO DIA : 21/12/2021
@@ -1578,20 +1659,37 @@ RESENHA Nº 129/2021.                                                           
 A SECRETÁRIA DE ESTADO DA ADMINISTRAÇÃO, usando das atribuições 
 que lhe confere o art. 35, da Lei Complementar nº 58 de 30/12/2003, resolve Redistribuir (Relotar) o 
 servidor abaixo relacionado:
-PROCESSO
-21016395-0
 
-LOTAÇÃO ATUAL
-Secretaria de Estado da Administração
+PROCESSO
 
 NOME
-JOSEALDO RODRIGUES LEITE
-
-LOTAÇÃO ANTERIOR
-SEECT
 
 MATRÍCULA
+
+LOTAÇÃO ANTERIOR
+
+LOTAÇÃO ATUAL
+
+21016395-0
+
+JOSEALDO RODRIGUES LEITE
+
 187.770-4
+
+SEECT
+
+Secretaria de Estado da Administração
+
+SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
+DIRETORIA EXECUTIVA DE RECURSOS HUMANOS
+GERÊNCIA EXECUTIVA DE CONCESSÃO DE DIREITOS E VANTAGENS
+
+Expediente : 21-12-2021
+Resenha nº : 643/2021
+
+O Diretor Executivo de Recursos Humanos, por delegação de competência que lhe foi outorgada pela Portaria nº 2374/GS, datada de 18.07.88 e de
+acordo com a Lei Complementar nº 58, de 30 de Dezembro de 2003, no artigo 89, DEFERIU o(s) seguinte(s) processo(s) de DESISTÊNCIA DE LICENÇA PARA TRATAR DE
+INTERESSES PARTICULARES:
 
 DECRETO Nº 42.126 DE  21  DE  DEZEMBRO  DE  2021.
 
@@ -1614,18 +1712,7 @@ HERONIDES TAVARES DE LIRA NETO
 
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
-SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
-DIRETORIA EXECUTIVA DE RECURSOS HUMANOS
-GERÊNCIA EXECUTIVA DE CONCESSÃO DE DIREITOS E VANTAGENS
-
-Expediente : 21-12-2021
-Resenha nº : 643/2021
-
-O Diretor Executivo de Recursos Humanos, por delegação de competência que lhe foi outorgada pela Portaria nº 2374/GS, datada de 18.07.88 e de
-acordo com a Lei Complementar nº 58, de 30 de Dezembro de 2003, no artigo 89, DEFERIU o(s) seguinte(s) processo(s) de DESISTÊNCIA DE LICENÇA PARA TRATAR DE
-INTERESSES PARTICULARES:
-
-O GOVERNADOR DO ESTADO DA PARAÍBA,  no  uso  da  atribuição  que  lhe 
+O  GOVERNADOR  DO  ESTADO  DA  PARAÍBA,  no  uso  da  atribuição  que  lhe 
 confere o art. 86, inciso IV, da Constituição do Estado, e tendo em vista as republicações de decretos 
 idênticos, 
 
@@ -1638,25 +1725,9 @@ I - 42.092, de 20 de dezembro de 2021, por ser idêntico ao Decreto nº 42.089, 
 
 de dezembro de 2021, publicado no DOE de 18 de dezembro de 2021;
 
+de novembro de 2021, publicado no DOE de 19 de novembro de 2021;
+
 II – 42.096, de 20 de dezembro de 2021, por ser idêntico ao Decreto nº 41.879, de 18 
-
-de novembro de 2021, publicado no DOE de 19 de novembro de 2021;
-
-III – 42.097, de 20 de dezembro de 2021, por ser idêntico ao Decreto nº 41.882, de 18 
-
-de novembro de 2021, publicado no DOE de 19 de novembro de 2021;
-
-IV – 42.098, de 20 de dezembro de 2021, por ser idêntico ao Decreto nº 41.883, de 18 
-
-de novembro de 2021, publicado no DOE de 19 de novembro de 2021;
-
-V - 42.099, de 20 de dezembro de 2021, por ser idêntico ao Decreto nº 41.884, de 18 
-de novembro de 2021, publicado no DOE de 19 de novembro de 2021 e republicado no DOE de 23 de 
-novembro de 2021.
-
-Art. 2º Todas  as  relações  jurídicas  e  administrativas  dos  Decretos  cancelados  nos 
-
-termos dos incisos do art. 1º permanecem regidas pelos respectivos decretos originários.
 
 PUBLIQUE-SE
 
@@ -1671,11 +1742,15 @@ O Diretor Executivo de Recursos Humanos, por delegação de competência que lhe
 acordo com a Lei Complementar nº 58, de 30 de Dezembro de 2003, no artigo 89, INDEFERIU o(s) seguinte(s) processo(s) de LICENÇA PARA TRATAR DE INTERESSES
 PARTICULARES pelo prazo de até 03 (três) anos.
 
+PROCESSO
+
 MATRICULA
 
 NOME
 
 LOTAÇÃO
+
+21011770-2
 
 1856022
 
@@ -1683,65 +1758,77 @@ FRANCOISE DANTAS DE LIMA
 
 SEC.EST.EDUCAC.CIENC.TECNOLOG.
 
-PROCESSO
+de novembro de 2021, publicado no DOE de 19 de novembro de 2021;
 
-21011770-2
+III – 42.097, de 20 de dezembro de 2021, por ser idêntico ao Decreto nº 41.882, de 18 
 
 PUBLIQUE-SE
 
-#+ % +&ÿ/*0%+&ÿ#ÿ *0 $$ÿ10,&!$
- :!*+&ÿ/*0%+&ÿ#ÿ*!*$$.ÿ#ÿ#+ +%$ÿÿ&!%&!$
+IV – 42.098, de 20 de dezembro de 2021, por ser idêntico ao Decreto nº 41.883, de 18 
 
-ÿÿÿ ÿÿÿ
+#+! %(cid:30)!+&(cid:5) / *0%+(cid:31)&(cid:5)# (cid:5)! *0!$(cid:30)$(cid:5)10,&"(cid:30)$
+(cid:29) !:"*+&(cid:5) / *0%+(cid:31)&(cid:5)# (cid:5)*(cid:30)"* $$.(cid:30)(cid:5)# (cid:5)#+! +%(cid:30)$(cid:5) (cid:5)(cid:31)&"%&(cid:29) "$
 
-ÿÿÿ ÿÿÿ
+(cid:5)(cid:5)(cid:5) (cid:5)(cid:5)(cid:5)
 
- $!1&ÿ!2ÿ3ÿ45675859
-/'#+!%ÿ#ÿ#+&ÿ3ÿ59;95;5859
+(cid:5)(cid:5)(cid:5) (cid:5)(cid:5)(cid:5)
 
-9ST8RTSSÿ#U +0ÿ>VÿVACNLKIAVÿ=?>GAVV>Vÿ@AÿW+*!-&ÿ$'*+&Wÿ3
+! $ "1&(cid:5)"2(cid:5)3(cid:5)45675859
+ /’ #+ "% (cid:5)#(cid:30)(cid:5)#+&(cid:5)3(cid:5)59;95;5859
 
-ÿ#+ % ÿ/*0%+ÿ#ÿ *0 $$ÿ10,&!$ÿ<ÿ=>?ÿ@ABACDEF>ÿ@AÿG>H=AIJKGLDÿMNAÿBOAÿP>Lÿ>NI>?CD@Dÿ=ABDÿ'>?ID?LDÿK2ÿ5QR67$<ÿ@DID@Dÿ@A
+de novembro de 2021, publicado no DOE de 19 de novembro de 2021;
+
+V - 42.099, de 20 de dezembro de 2021, por ser idêntico ao Decreto nº 41.884, de 18 
+de novembro de 2021, publicado no DOE de 19 de novembro de 2021 e republicado no DOE de 23 de 
+novembro de 2021.
+
+Art.  2º  Todas  as  relações  jurídicas  e  administrativas  dos  Decretos  cancelados  nos 
+
+termos dos incisos do art. 1º permanecem regidas pelos respectivos decretos originários.
+
+9ST8RTSS(cid:5)# U !+0(cid:5)>V(cid:5)VACNLKIAV(cid:5)=?>GAVV>V(cid:5)@A(cid:5)W+* "-&(cid:5) $’ *+&W(cid:5)3
+
+(cid:30)(cid:5)#+! %(cid:30)!(cid:5) / *0%+(cid:31)(cid:30)(cid:5)# (cid:5)! *0!$(cid:30)$(cid:5)10,&"(cid:30)$(cid:5)<(cid:5)=>?(cid:5)@ABACDEF>(cid:5)@A(cid:5)G>H=AIJKGLD(cid:5)MNA(cid:5)BOA(cid:5)P>L(cid:5)>NI>?CD@D(cid:5)=ABD(cid:5)’>?ID?LD(cid:5)K2(cid:5)5QR67(cid:29)$<(cid:5)@DID@D(cid:5)@A
 
 W>IDGD>
 
-!2ÿ'?>GAVV>
+"2(cid:5)’?>GAVV>
 
 ,DI?LGNBD
 
-!>HA
+">HA
 
-#LDV 'A?L>@>ÿ+KLGLDB
+#LDV ’A?L>@>(cid:5)+KLGLDB
 
-'A?L>@>ÿULKDB
+’A?L>@>(cid:5)ULKDB
 
-XYZYX[X\]^Y
+XYZ(cid:16)YX[(cid:16)X\]^Y
 
-XYZYX[X\]^Y
+XYZ(cid:16)YX[(cid:16)X\]^Y
 
- _	
+(cid:0)(cid:2)(cid:4)(cid:2)_(cid:4)(cid:9)(cid:8)(cid:10)(cid:2)
 
- _a	a
+(cid:2)(cid:8)‘a(cid:8)(cid:4)(cid:4)
 
-`a
+b\[c\(cid:5)X]Yde(cid:5)Zf][cghf(cid:5)i]jk\f(cid:5)^Y(cid:5)ljc[f
 
-_ma 
+(cid:0)(cid:2)(cid:4)(cid:2)_(cid:2)(cid:2)a(cid:10)a
 
-b\[c\ÿX]YdeÿZf][cghfÿi]jk\fÿ^Yÿljc[f
+_ma(cid:8)(cid:9)(cid:0)
 
-jfn]dfÿ\g[fgcfÿocjYXÿdYc[Y
+jfn]df(cid:5)\g[fgcf(cid:5)ocjYX(cid:5)dYc[Y
 
-`
+‘(cid:4)
 
-`
+‘(cid:4)
 
- ``_
+(cid:4)(cid:2)(cid:3)(cid:4)(cid:0)(cid:3)(cid:2)‘‘_
 
-_`_
+(cid:4)(cid:2)(cid:3)(cid:4)_(cid:3)(cid:2)‘_(cid:8)
 
-  a
+(cid:4)(cid:2)(cid:3)(cid:4)(cid:0)(cid:3)(cid:0)(cid:4)(cid:4)a
 
-_``
+(cid:4)(cid:2)(cid:3)(cid:4)_(cid:3)(cid:2)‘‘(cid:8)
 
 Diário Oﬁ cial
 
@@ -1749,50 +1836,50 @@ João Pessoa - Quarta-feira, 22 de Dezembro de 2021
 
 7
 
-"*$*%ÿ.)/$*%ÿ"ÿ)/##ÿ0/+% #
-# 0%ÿ 1ÿ2ÿ34564748
-9 )*%ÿ.)/$*%ÿ"ÿ) )##-ÿ"ÿ"**$#ÿÿ% $% # ÿÿÿ ÿÿÿ .&"* $ÿ"ÿ"*%ÿ2ÿ48:84:4748
+"* (cid:31)$(cid:29) *%(cid:5)(cid:31).(cid:31))/$*(cid:30)%(cid:5)"(cid:31)(cid:5) (cid:31))/ #(cid:29)#(cid:5)0/+%!(cid:29)#
+ (cid:31)#(cid:31)!0%(cid:5)!1(cid:5)2(cid:5)34564748
+(cid:28)(cid:31) 9!)*%(cid:5)(cid:31).(cid:31))/$*(cid:30)%(cid:5)"(cid:31)(cid:5))(cid:29)!)(cid:31)##-(cid:29)(cid:5)"(cid:31)(cid:5)"* (cid:31)*$(cid:29)#(cid:5)(cid:31)(cid:5)(cid:30)%!$%(cid:28)(cid:31)!# (cid:5)(cid:5)(cid:5) (cid:5)(cid:5)(cid:5) (cid:31).&(cid:31)"*(cid:31)!$(cid:31)(cid:5)"(cid:29)(cid:5)"*%(cid:5)2(cid:5)48:84:4748
 ;
 
-ÿÿÿ ÿÿÿ
+(cid:5)(cid:5)(cid:5) (cid:5)(cid:5)(cid:5)
 
-ÿ"*$ÿ.)/$*ÿ"ÿ)/##ÿ0/+% #ÿ<ÿ=>?ÿ@ABACDEF>ÿ@AÿG>H=AIJKGLDÿMNA
-BOAÿP>Lÿ>NI>?CD@Dÿ=ABDÿ&>?ID?LDÿK1ÿ45QR6#<ÿ@DID@Dÿ@Aÿ8S;7Q;SSÿ* "T*/ÿ>UÿUACNLKIAUÿ=?>GAUU>Uÿ@A
-) )##Vÿ"ÿW*) ,%ÿ#&)*%Wÿ2
+(cid:29)(cid:5)"* (cid:31)$(cid:29) (cid:5)(cid:31).(cid:31))/$*(cid:30)(cid:29)(cid:5)"(cid:31)(cid:5) (cid:31))/ #(cid:29)#(cid:5)0/+%!(cid:29)#(cid:5)<(cid:5)=>?(cid:5)@ABACDEF>(cid:5)@A(cid:5)G>H=AIJKGLD(cid:5)MNA
+BOA(cid:5)P>L(cid:5)>NI>?CD@D(cid:5)=ABD(cid:5)&>?ID?LD(cid:5)K1(cid:5)45QR6(cid:28)#<(cid:5)@DID@D(cid:5)@A(cid:5)8S;7Q;SS(cid:5)*!"(cid:31)T(cid:31) */(cid:5)>U(cid:5)UACNLKIAU(cid:5)=?>GAUU>U(cid:5)@A
+)(cid:29)!)(cid:31)##V(cid:29)(cid:5)"(cid:31)(cid:5)W*)(cid:31)!,%(cid:5)(cid:31)#&(cid:31))*%W(cid:5)2
 
 W>IDGD>
 
-XYZYX[X\]^Y
+XYZ(cid:15)YX[(cid:15)X\]^Y
 
-XYZYX[Y^]Z\ZZfYhZ[YZhgcgi
+XYZ(cid:15)YX[(cid:15)Y^]Z\Z(cid:15)ZfYhZ(cid:15)[YZhgcgi(cid:15)
 
-XYZYX[^YXYhogcofdYh[gÿn]d\hg
+XYZ(cid:15)YX[(cid:15)^YXYhogcofdYh[g(cid:5)n]d\hg
 
-&/(W*r/:#
+&/(W*r/(cid:31):#(cid:31)
 
-ÿÿÿ
+(cid:5)(cid:5)(cid:5)
 
- 1ÿ&?>GAUU> +DI?LGNBD  >HA
+!1(cid:5)&?>GAUU> +DI?LGNBD !>HA
 
- _`
+(cid:0)(cid:2)(cid:4)(cid:2)_‘(cid:2)(cid:4)(cid:9)(cid:6)
 
- a
+(cid:0)(cid:2)(cid:4)(cid:2)a(cid:4)(cid:6)(cid:8)(cid:9)(cid:8)
 
- b 
+(cid:0)(cid:2)(cid:4)(cid:2)b(cid:0)(cid:6)(cid:4)(cid:9)(cid:4)
 
-abb
+(cid:2)(cid:8)a(cid:4)(cid:8)bb
 
-ja _b
+(cid:2)ja(cid:0)(cid:2)_b
 
- _ `b
+(cid:2)(cid:0)(cid:6)_(cid:0)‘b
 
-\c^\ÿd\ef\ÿ^Yÿdge\fX
+\c^\(cid:5)d\ef\(cid:5)^Y(cid:5)dge\fX
 
-ke\hlcfhXÿm\hnf\ÿ^Yÿd\ZY^g
+ke\hlcfhX(cid:5)m\hnf\(cid:5)^Y(cid:5)d\ZY^g
 
-c]Zf\ÿ^Yÿk\[fd\ÿpgeiYXÿ^YÿXg]q\
+c]Zf\(cid:5)^Y(cid:5)k\[fd\(cid:5)pgeiYX(cid:5)^Y(cid:5)Xg]q\
 
-ÿÿÿ
+(cid:5)(cid:5)(cid:5)
 
 Secretaria de Estado da Educação
 e da Ciência e Tecnologia
@@ -1808,7 +1895,7 @@ LOGIA, no uso das atribuições legais, em cumprimento ao disposto no artigo 67 
 R E S O L V E designar o(a) servidor(a) ADRIANA DE ARAÚJO PEREIRA, matrí-
 cula n.º 605.717-9 e CPF n.º 036.587.234-24, como gestora e o(a) servidor(a) LUIZ FELIPE FORMIGA 
 LEITE, matricula nº 617.494-9 e CPF nº 058.539.414-88, como ﬁ scal, ambos dos Contratos de n.º 060, 
-061 e 062/2021, ﬁ rmados respectivamente com as empresas TELEFÔNICA BRASIL S.A. CLARO 
+061  e  062/2021,  ﬁ rmados  respectivamente  com  as  empresas  TELEFÔNICA  BRASIL  S.A.  CLARO 
 S.A. e OI S.A., no processo administrativo n.º SEE-PRC-2021/15922, que tramita nesta Secretaria.
 
 Portaria nº   949 
@@ -1823,7 +1910,7 @@ Designar  os  servidores  JOSÉ  FELIPE  DOS  SANTOS  PEREIRA,  matrícula  nº
 618.407-3, CAROLINE DE MEDEIROS FERNANDES MAIA, matrícula nº 617.909-6, WLÁDIA 
 MARQUES ARANHA, matrícula nº 618.495-2, para, sob a Presidência do primeiro, apurar em Pro-
 cesso de Sindicância, os fatos constantes no Processo SEE-PRC-2021/15863, que tem por objetivo 
-apurar suposta responsabilidade diante da prestação de serviços sem cobertura contratual, e demais 
+apurar  suposta  responsabilidade  diante  da  prestação  de  serviços  sem  cobertura  contratual,  e  demais 
 documentos.
 
 Portaria nº   950 
@@ -1868,7 +1955,7 @@ Designar  os  servidores  FELIPP  WANDREWS  COSTA  HENRIQUE,  matricula
 nº 618.517-7 NATHALYA KLEIDY LUCIANO RODRIGUES, matrícula nº 615.503-1, WLÁDIA 
 MARQUES ARANHA, matrícula nº 618.495-2, para, sob a Presidência do primeiro, apurar em Pro-
 cesso de Sindicância, os fatos constantes no Processo SEE-PRC-2021/18126, que tem por objetivo 
-apurar suposta responsabilidade diante da prestação de serviços sem cobertura contratual, e demais 
+apurar  suposta  responsabilidade  diante  da  prestação  de  serviços  sem  cobertura  contratual,  e  demais 
 documentos.
 
 Portaria nº   953 
@@ -1881,8 +1968,8 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/07072 e Processo Apenso nº SEE-PRC-2021/11320, resolve:
 
-1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  em 
-face da INOCÊNCIA da servidora Almira Lima Saldanha – matricula n° 186.798-9, nos termos 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo  Administrativo  Disciplinar,  em 
+face  da  INOCÊNCIA  da  servidora Almira  Lima  Saldanha  –  matricula  n°  186.798-9,  nos  termos 
 do Art. 153, §1º, da LC 58/2003, tendo em vista que não foi veriﬁ cada conduta inadequada passível de 
 punição, ademais, os objetos furtados foram devidamente restituídos ao patrimônio do Estado.
 
@@ -1896,9 +1983,9 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo de Sindicância nº SEE-
 -PRC-2021/06846, resolve:
 
-1. Pelo ARQUIVAMENTO do presente Processo de Sindicância, nos termos do Art. 
-
 133, I, da LC 58/2003, tendo em vista a perda do objeto, face ao falecimento do servidor denunciado;
+
+1. Pelo ARQUIVAMENTO do presente Processo de Sindicância, nos termos do Art. 
 
 Portaria nº  955 
 
@@ -1942,7 +2029,7 @@ mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo de S
 1. Pelo ARQUIVAMENTO da presente Sindicância, no que diz respeito ao objeto 
 do presente feito, nos termos do Art. 133, inciso I da LC 58/2003, em face da ausência do conjunto 
 probatório que comprove a autoria dos fatos delituosos, qual seja, o suposto arrombamento e furto 
-ocorridos na E.E.E.F.M. Profª Rita de Miranda Henrique, pertencente à 01ª GRE-SEECT/PB, 
+ocorridos  na  E.E.E.F.M.  Profª  Rita  de  Miranda  Henrique,  pertencente  à  01ª  GRE-SEECT/PB, 
 localizada em João Pessoa;
 
 2. Pelo ARQUIVAMENTO da presente Sindicância, em face da INOCÊNCIA da 
@@ -1960,7 +2047,7 @@ nº SEE-PRC-2020/00046, resolve:
 
 1. Pelo ARQUIVAMENTO da presente Sindicância, em face da inocência do servi-
 dor Antônio Wallace Santos Fragoso - matricula n° 187.435-7, nos termos do Art. 153, §1º, da LC 
-58/2003, haja vista que não foram encontrados indícios de suposta conduta irregular, praticada pelo 
+58/2003,  haja  vista  que  não  foram  encontrados  indícios  de  suposta  conduta  irregular,  praticada  pelo 
 servidor que ensejassem aplicação de penalidade.
 
 Portaria nº  959 
@@ -1973,13 +2060,13 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/09342, resolve:
 
-1. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base no art. 153, §1º, por perda do objeto, em razão de ter sido entregue a documentação com-
 probatória ao setor competente, referente às prestações de contas dos Programas PDDE/Básico, 
 PDDE/Qualidade e PDDE/Mais Educação, todos exercício 2019, da ENE Dom Expedito Eduardo 
 de Oliveira, com parecer opinando pela APROVAÇÃO;
 
-2. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+2.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base no art. 153, §1º, em face da INOCÊNCIA dos servidores Maxwell Pereira Vieira Silva – matrí-
 cula nº 183.803-2 e Luzinete de Oliveira Pereira – matrícula nº 143.410-1, tendo em vista que não 
 foram encontrados indícios de suposta conduta irregular, praticada pelos servidores em óbice.
@@ -2044,7 +2131,7 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/09284, resolve:
 
-1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  em 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo  Administrativo  Disciplinar,  em 
 face da inocência da servidora Karinelly Mendes Leite Antunes – matrícula n° 630.143-6, nos ter-
 mos do Art. 153, §1º, da LC 58/2003, tendo em vista que conforme vislumbrado, em que pese as au-
 sências da supracitada servidora no exercício de suas funções, tais ausências se deram por problemas 
@@ -2059,13 +2146,13 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/10397, resolve:
 
-1. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base no art. 153, §1º, por perda do objeto, em razão de ter sido entregue a documentação com-
-probatória ao setor competente, referente às prestações de contas do Programa PDDE Básico, 
+probatória  ao  setor  competente,  referente  às  prestações  de  contas  do  Programa  PDDE  Básico, 
 exercício 2019, da E.E.E.F.M. José Luiz Neto, com parecer opinando pela APROVAÇÃO;
 
-2. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
-base no art. 153, §1º, em face da inocência das servidoras Iraci Martins da Silva – matrícula nº 
+2.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
+base  no  art.  153,  §1º,  em  face  da  inocência  das  servidoras  Iraci  Martins  da  Silva  –  matrícula  nº 
 159.559-8 e Antônia Vieira de Souza – matrícula: 144.283-0, tendo em vista que não foram encon-
 trados  indícios  de  suposta  conduta  irregular,  praticadas  pelas  servidoras  em  óbice  que  pressuponha 
 aplicação de penalidade.
@@ -2079,12 +2166,12 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/10656, resolve:
 
-1. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base no art. 153, §1º, por perda do objeto, em razão de ter sido entregue a documentação compro-
 batória ao setor competente, referente à prestação de contas do Programa Estadual PDDE/MAIS 
 EDUCAÇÃO, exercício 2019, com o parecer de APROVAÇÃO;
 
-2. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+2.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base no art. 153, §1º, em face da INOCÊNCIA dos servidores Severino Gomes da Silva – matrícula 
 nº.  167.653-9  e  Iranilda  Damásio  da  Silva  –  matrícula  nº.  601.005-9,  tendo  em  vista  a  certidão 
 emitida pela GPROFESC-SEECT/PB informando que a prestação de contas objeto desse processo foi 
@@ -2099,12 +2186,12 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/09455, resolve:
 
-1. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base no art. 153, §1º, por perda do objeto, em razão de terem sido entregues documentação com-
 probatória ao setor competente, referente às prestações de contas do Programa Federal PDDE/ 
 BÁSICO, exercício de 2019, com parecer opinando pela APROVAÇÃO;
 
-2. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+2.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base  no  art.  153,  §1º,  em  face  da  INOCÊNCIA  das  servidoras  Gilza  dos  Santos  –  matrícula  n° 
 185.696-1  e  Cleide Araújo  –  matrícula  n°  187.267-2,  tendo  em  vista  que  não  foram  encontrados 
 indícios de suposta conduta irregular, praticadas pelas servidoras em óbice que pressuponha aplicação 
@@ -2119,13 +2206,13 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/09425, resolve:
 
-1. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base no art. 153, §1º, por perda do objeto, em razão de certidão com o parecer de “APROVAÇÃO” 
-certiﬁ cando a regularidade da E.E.E.F. Pedro Pascoal de Oliveira, localizada no município de 
+certiﬁ cando  a  regularidade  da  E.E.E.F.  Pedro  Pascoal  de  Oliveira,  localizada  no  município  de 
 Juazeirinho/PB – 3ª GRE, referente à prestação de contas dos Programas Federais PDDE/EDU-
 CAÇÃO BÁSICO e ESTRUTURA, ambos referentes ao exercício de 2019;
 
-2. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+2.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base no art. 153, §1º, em face da INOCÊNCIA do servidor José Geraldo Vieira de Andrade – ma-
 trícula n° 186.882-9 e da servidora Julia rita Gomes – matrícula n° 142.742-3, tendo em vista as 
 certidões emitidas pela GPROFESC-SEECT/PB informando que as prestações de contas objeto desse 
@@ -2134,8 +2221,6 @@ processo foram aprovadas.
 Portaria nº  967 
 
                                                           João Pessoa,   21   de    dezembro   de 2021.
-
-O SECRETÁRIO DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNO-
 
 O SECRETARIO DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNO-
 LOGIA,  no  uso  de  suas  atribuições,  e  tendo  em  vista  o  que  disciplina  o Art.  133,  inciso  I  da  Lei 
@@ -2157,7 +2242,7 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/14261, resolve:
 
-1. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base no art. 153, §1º, por perda do objeto, em razão de ter sido entregue a documentação compro-
 batória ao setor competente, referente às prestações de contas do Programa Estadual PDDE/ PB, 
 exercício 2018, que obteve parecer de APROVAÇÃO.
@@ -2171,7 +2256,7 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/14262, resolve:
 
-1. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base no art. 153, §1º, por perda do objeto, em razão de terem sido entregues a documentação com-
 probatória ao setor competente, referente às prestações de contas do Programa Estadual PDDE/
 PB, exercício 2013 e 2018, que obteve parecer de APROVAÇÃO em ambas.
@@ -2185,7 +2270,7 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/14968, resolve:
 
-1. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base no art. 153, §1º, por perda do objeto, em razão da APROVAÇÃO das prestações de contas do 
 Programa Estadual PDDE/PB, exercício 2013, e Programa PDDE/MAIS EDUCAÇÃO, exercício 
 2019, da E.E.E.F. Maria de Fatima Souto, do município de João Pessoa – 1ª GRE-SEECT/PB.
@@ -2200,12 +2285,12 @@ LOGIA, no uso de suas atribuições, e tendo em vista o que disciplina o Art. 15
 mentar nº 58, de 30 de dezembro de 2003, em face da apuração no Processo Administrativo Disciplinar 
 nº SEE-PRC-2021/14974, resolve:
 
-1. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+1.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base no art. 153, §1º, por perda do objeto, em razão da APROVAÇÃO da prestação de conta dos 
 Programas PDDE/EDUCAÇÃO BÁSICO exercício 2019 e PDDE/PB, exercício 2020, da ECIT Ereni-
 ce Cavalcante Fidelis, localizada no município de Bayeux/PB;
 
-2. Pelo ARQUIVAMENTO do presente Processo Administrativo Disciplinar, com 
+2.  Pelo  ARQUIVAMENTO  do  presente  Processo Administrativo  Disciplinar,  com 
 base no art. 153, §1º, em face da INOCÊNCIA dos servidores Iêda Cristina Freire da Silva – mat. nº 
 180.224-4 e Josemar Medeiros da Silva – mat. nº 173.675-2, tendo em vista a certidão emitida pela 
 GPROFESC-SEECT/PB informando que a prestação de contas objeto desse processo foi aprovada.
@@ -2216,9 +2301,9 @@ O SECRETARIO DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNO-
 
 LOGIA, no uso de suas atribuições legais, e 
 
-CONSIDERANDO a necessidade de normatizar os processos de municipaliza-
-
 ção de escolas
+
+CONSIDERANDO a necessidade de normatizar os processos de municipaliza-
 
 RESOLVE:
 Art.  1º   Constituir,     com servidores de distintas Gerências, uma Comissão de Ana-
@@ -2228,6 +2313,8 @@ lise e Avaliação dos Processos de Municipalização de Escolas.
 Parágrafo único. Será da responsabilidade da comissão de que   trata o caput deste 
 
 artigo, a elaboração de normas atinentes à matéria, a análise e a emissão de parecer ﬁ nal.
+
+O SECRETÁRIO DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNO-
 
 Art.  2º.  Ficam nomeados, como membros da Comissão de Análise e Avaliação 
 
@@ -2240,7 +2327,8 @@ João Pessoa - Quarta-feira, 22 de Dezembro de 2021
 dos Processos de Municipalização de Escolas, sob a presidência da primeira, os servidores a seguir 
 delineados:
 
-Data de Apro-
+Data  de Apro-
+
 vação
 
 Processo
@@ -2248,6 +2336,82 @@ Processo
 Resolução
 
 Ementa
+
+Setor
+
+CG
+
+ATN
+
+PROFESC
+
+GEPOF
+
+GAD
+
+RH
+
+GEEIF
+
+GEAGE
+
+Matrícula
+
+187.447-1
+
+1887637
+
+1293141
+
+1267337
+
+1873920
+
+1892096
+
+1867121
+
+1849611
+
+Servidor(a)
+
+JOSILDA HERMINIO RAMALHO
+
+EBENEZER PERNAMBUCO DE LIMOEIRO SILVA
+
+EDINALVA ALVES AGUIAR CARVALHO DE MELO
+
+LUDMILLA DANTAS SILVA
+
+LUISMAR CANDIDO NASCIMENTO
+
+NEILZE CORREIA DE MELO CRUZ
+
+SILVANIA DA SILVA SANTOS
+
+16/12/2021
+
+SEE-PRC-2021/16133
+
+431/2021
+
+Data  de Apro-
+
+vação
+
+Processo
+
+Resolução
+
+Ementa
+
+ERIKA OLIVEIRA DOS SANTOS LIMA
+
+16/12/2021
+
+SEE-PRC-2021/16679
+
+432/2021
 
 Art.  3º   Esta portaria entra em vigor na data de sua publicação
 
@@ -2257,66 +2421,88 @@ SEE-PRC-2021/16133
 
 431/2021
 
+RECONHECE O CURSO TÉCNICO EM PODOLOGIA MINISTRADO PELA FACULDADE 
+
+PAULISTA DE ESTÉTICA E BELEZA, LOCALIZADA NA RUA DEPUTADO ODON BEZER-
+
+RA, 333, TAMBIÁ, NA CIDADE DE JOÃO PESSOA–PB, MANTIDA PELA FACULDADE 
+
+PAULISTA DE ESTÉTICA E BELEZA EIRELI – CNPJ 26.774.607/0001-12.
+
+RECONHECE  O  CURSO  TÉCNICO  EM  ESTÉTICA  MINISTRADO  PELA  FACULDADE 
+
+PAULISTA DE ESTÉTICA E BELEZA, LOCALIZADA NA RUA DEPUTADO ODON BEZER-
+
+RA, 333, TAMBIÁ, NA CIDADE DE JOÃO PESSOA–PB, MANTIDA PELA FACULDADE 
+
+PAULISTA DE ESTÉTICA E BELEZA EIRELI – CNPJ 26.774.607/0001-12.
+
+RECONHECE O CURSO TÉCNICO EM PODOLOGIA MINISTRADO PELA FACULDADE 
+
+PAULISTA DE ESTÉTICA E BELEZA, LOCALIZADA NA RUA DEPUTADO ODON BEZER-
+
+RA, 333, TAMBIÁ, NA CIDADE DE JOÃO PESSOA–PB, MANTIDA PELA FACULDADE 
+
+PAULISTA DE ESTÉTICA E BELEZA EIRELI – CNPJ 26.774.607/0001-12.
+
+RECONHECE  O  CURSO  TÉCNICO  EM  ESTÉTICA  MINISTRADO  PELA  FACULDADE 
+
+PAULISTA DE ESTÉTICA E BELEZA, LOCALIZADA NA RUA DEPUTADO ODON BEZER-
+
+RA, 333, TAMBIÁ, NA CIDADE DE JOÃO PESSOA–PB, MANTIDA PELA FACULDADE 
+
+PAULISTA DE ESTÉTICA E BELEZA EIRELI – CNPJ 26.774.607/0001-12.
+
 16/12/2021
 
 SEE-PRC-2021/16679
 
 432/2021
 
-Setor
-CG
-ATN
+Secretaria de Estado
+da Saúde
 
-PROFESC
-GEPOF
-GAD
-RH
+Resolução nº 0167/2021                                                                    João Pessoa, 15 de dezembro de 2021.
 
-GEEIF
-GEAGE
+O Plenário do Conselho Estadual de Saúde reunida em sua 285ª (Ducentésima Octa-
+gésima Quinta) reunião ordinária de 14 de dezembro de 2021, no uso de suas competências regimentais 
+e atribuições conferidas pela Lei 8.080 de 19 de novembro de 1990 e pela Lei 8.142 de 28 de dezembro 
+de 1990 e pelo Decreto nº 12.228 de 19 de novembro de 1987, reformulado pela Lei nº 8.234 de 31 de 
+maio de 2007 e Lei Complementar nº 141 de 13 de janeiro de 2012.
 
-Matrícula
-187.447-1
-1887637
-1293141
-1267337
-1873920
-1892096
-1867121
-1849611
-
-Servidor(a)
-
-JOSILDA HERMINIO RAMALHO
-
-EBENEZER PERNAMBUCO DE LIMOEIRO SILVA
-EDINALVA ALVES AGUIAR CARVALHO DE MELO
-
-ERIKA OLIVEIRA DOS SANTOS LIMA
-
-LUDMILLA DANTAS SILVA
-
-LUISMAR CANDIDO NASCIMENTO
-NEILZE CORREIA DE MELO CRUZ
-
-SILVANIA DA SILVA SANTOS
-
-CONSELHO ESTADUAL DE EDUCAÇÃO DA PARAÍBA
-
-EMENTAS DAS RESOLUÇÕES DO CEE
-Ementa
-
-Resolução
-
-Data de Aprovação
-
-Processo
+RESOLVE: Aprovar o PAS – PROGRAMAÇÃO ANUAL DE SAÚDE 2022.
+• Esta resolução entra em vigor na data de sua publicação.
 
 15/07/2021
 
 0020841-6/2019
 
 121/2021
+
+ESTADUAL DE ENSINO FUNDAMENTAL FREI MARTINHO, LOCALIZADA NA RUA DE-
+
+RECONHECE O ENSINO FUNDAMENTAL DO 1º AO 9º ANO MINISTRADO PELA ESCOLA 
+
+Secretário Executivo - CEE/PB
+
+CONSELHO ESTADUAL DE EDUCAÇÃO DA PARAÍBA
+EMENTAS DAS RESOLUÇÕES DO CEE
+
+Data de Aprovação
+
+Processo
+
+Resolução
+
+Ementa
+
+25/11/2021
+
+0019324-1/2020
+
+392/2021
+
+NA  CIDADE  DE  CAMPINA  GRANDE–PB,  DE  EUCLIDENORA  JERÔNIMO  LEITE  PAIVA 
 
 18/11/2021
 
@@ -2353,12 +2539,6 @@ Processo
 0019324-1/2020
 
 391/2021
-
-25/11/2021
-
-0019324-1/2020
-
-392/2021
 
 25/11/2021
 
@@ -2408,128 +2588,131 @@ SEE-PRC-2021/12337
 
 415/2021
 
-RECONHECE O ENSINO FUNDAMENTAL DO 1º AO 9º ANO MINISTRADO PELA ESCOLA 
-ESTADUAL DE ENSINO FUNDAMENTAL FREI MARTINHO, LOCALIZADA NA RUA DE-
 SEMBARGADOR NOVAES, S/N, CRUZ DAS ARMAS, NA CIDADE DE JOÃO PESSOA–PB.
+
 AUTORIZA  O  FUNCIONAMENTO  DA  EDUCAÇÃO  INFANTIL  NO  COLÉGIO  MUNDO 
-KIDS, LOCALIZADO NA RUA JOÃO DE BRITO LIMA MOURA, 97, MANDACARU, NA 
-CIDADE DE JOÃO PESSOA–PB, MANTIDO POR JOERTON CAVALCANTE FONSECA – 
+
+KIDS,  LOCALIZADO  NA  RUA  JOÃO  DE  BRITO  LIMA  MOURA,  97,  MANDACARU,  NA 
+
+CIDADE  DE  JOÃO  PESSOA–PB,  MANTIDO  POR  JOERTON  CAVALCANTE  FONSECA  – 
+
 CNPJ 32.100.929/0001-89.
+
 AUTORIZA O FUNCIONAMENTO DO ENSINO FUNDAMENTAL DO 1º AO 5º ANO GRADA-
+
 TIVAMENTE NO COLÉGIO MUNDO KIDS, LOCALIZADO NA RUA JOÃO DE BRITO LIMA 
+
 MOURA, 97, MANDACARU, NA CIDADE DE JOÃO PESSOA–PB, MANTIDO POR JOERTON 
+
 CAVALCANTE FONSECA – CNPJ 32.100.929/0001-89.
+
 RENOVA A AUTORIZAÇÃO PARA FUNCIONAMENTO DA EDUCAÇÃO INFANTIL MINIS-
+
 TRADA PELO COSMO EDUCACIONAL, LOCALIZADO NA RUA FRANCISCO ROSA DE 
+
 FARIAS, 36, MONTE SANTO, NA CIDADE DE CAMPINA GRANDE–PB, MANTIDO PELO 
+
 INSTITUTO SILVA MACIEL DE EDUCAÇÃO LTDA. – CNPJ 24.107.393/0001-03.
+
 RENOVA O RECONHECIMENTO DO ENSINO FUNDAMENTAL DO 1º AO 9º ANO MINIS-
+
 TRADO PELO COSMO EDUCACIONAL, LOCALIZADO NA RUA FRANCISCO ROSA DE 
+
 FARIAS, 36, MONTE SANTO, NA CIDADE DE CAMPINA GRANDE–PB, MANTIDO PELO 
+
 INSTITUTO SILVA MACIEL DE EDUCAÇÃO LTDA. – CNPJ 24.107.393/0001-03.
+
 APROVA A ALTERAÇÃO NO REGIMENTO ESCOLAR DO COSMO EDUCACIONAL, LO-
+
 CALIZADO NA RUA FRANCISCO ROSA DE FARIAS, 36, MONTE SANTO, NA CIDADE DE 
-CAMPINA GRANDE–PB, MANTIDO PELO INSTITUTO SILVA MACIEL DE EDUCAÇÃO 
+
+CAMPINA  GRANDE–PB,  MANTIDO  PELO  INSTITUTO  SILVA  MACIEL  DE  EDUCAÇÃO 
+
 LTDA. – CNPJ 24.107.393/0001-03.
+
 HOMOLOGA A  MUDANÇA  DE  DENOMINAÇÃO  DO  INSTITUTO  MODERNO  SANTA 
-MÔNICA, LOCALIZADO NA RUA FRANCISCO ROSA DE FARIAS, 36, MONTE SANTO, 
-NA CIDADE DE CAMPINA GRANDE–PB, MANTIDO POR EUCLIDENORA JERÔNIMO 
+
+MÔNICA,  LOCALIZADO  NA  RUA  FRANCISCO  ROSA  DE  FARIAS,  36,  MONTE  SANTO, 
+
+NA  CIDADE  DE  CAMPINA  GRANDE–PB,  MANTIDO  POR  EUCLIDENORA  JERÔNIMO 
+
 LEITE PAIVA CAVALCANTE, CNPJ 24.107.393/0001-03, PARA COSMO EDUCACIONAL.
+
 HOMOLOGA A TRANSFERÊNCIA DE ENTIDADE MANTENEDORA DO COSMO EDUCA-
-CIONAL, LOCALIZADO NA RUA FRANCISCO ROSA DE FARIAS, 36, MONTE SANTO, 
-NA CIDADE DE CAMPINA GRANDE–PB, DE EUCLIDENORA JERÔNIMO LEITE PAIVA 
+
+CIONAL,  LOCALIZADO  NA  RUA  FRANCISCO  ROSA  DE  FARIAS,  36,  MONTE  SANTO, 
+
 CAVALCANTE, CNPJ 24.107.393/0001-03, PARA INSTITUTO SILVA MACIEL DE EDUCAÇÃO 
+
 LTDA., CNPJ 24.107.393/0001-03.
+
 RENOVA A AUTORIZAÇÃO PARA FUNCIONAMENTO DA EDUCAÇÃO INFANTIL MINIS-
+
 TRADA PELO CENTRO EDUCACIONAL TALENTUS, LOCALIZADO NA RUA ARMANDO 
+
 SEVERINO DA SILVA, 244, GRAMAME, NA CIDADE DE JOÃO PESSOA–PB, MANTIDO POR 
+
 KELY CRISTINA SILVA RODRIGUES - ME – CNPJ 05.483.290/0001-95
+
 RENOVA O RECONHECIMENTO DO ENSINO FUNDAMENTAL DO 1º AO 5º ANO MINIS-
+
 TRADO PELO CENTRO EDUCACIONAL TALENTUS, LOCALIZADO NA RUA ARMANDO 
+
 SEVERINO DA SILVA, 244, GRAMAME, NA CIDADE DE JOÃO PESSOA–PB, MANTIDO POR 
+
 KELY CRISTINA SILVA RODRIGUES - ME - CNPJ 05.483.290/0001-95.
+
 RENOVA A AUTORIZAÇÃO PARA FUNCIONAMENTO DA EDUCAÇÃO INFANTIL MINIS-
+
 TRADA PELO COLÉGIO MODELO E TRADIÇÃO, LOCALIZADO NA RUA AMAZONAS, 
+
 811, LIBERDADE, NA CIDADE DE CAMPINA GRANDE–PB, MANTIDO PELO COLÉGIO 
+
 MODELO E TRADIÇÃO LTDA. – CNPJ 24.513.699/0001-51.
+
 RECONHECE O ENSINO FUNDAMENTAL DO 1º AO 9º ANO MINISTRADO PELO COLÉGIO 
-MODELO E TRADIÇÃO, LOCALIZADO NA RUA AMAZONAS, 811 - LIBERDADE, NA 
+
+MODELO  E  TRADIÇÃO,  LOCALIZADO  NA  RUA AMAZONAS,  811  -  LIBERDADE,  NA 
+
 CIDADE DE CAMPINA GRANDE–PB, MANTIDO PELO COLÉGIO MODELO E TRADIÇÃO 
+
 LTDA. – CNPJ 24.513.699/0001-51.
+
 RENOVA O RECONHECIMENTO DO CURSO TÉCNICO EM ENFERMAGEM MINISTRADO 
-PELA ROSA MÍSTICA EDUCAÇÃO, LOCALIZADA NA RUA DUQUE DE CAXIAS,  110, 
-CENTRO, NA CIDADE DE MAMANGUAPE–PB, MANTIDA PELA ESCOLA TÉCNICA E 
+
+PELA  ROSA  MÍSTICA  EDUCAÇÃO,  LOCALIZADA  NA  RUA  DUQUE  DE  CAXIAS,  110, 
+
+CENTRO,  NA  CIDADE  DE  MAMANGUAPE–PB,  MANTIDA  PELA  ESCOLA  TÉCNICA  E 
+
 COLÉGIO ROSA MÍSTICA LTDA. – CNPJ 07.587.882/0001-82.
-AUTORIZA O FUNCIONAMENTO DO ENSINO FUNDAMENTAL DO 1º AO 9º ANO  NA 
+
+AUTORIZA  O  FUNCIONAMENTO  DO  ENSINO  FUNDAMENTAL  DO  1º AO  9º ANO  NA 
+
 ESCOLA ROSA MÍSTICA EDUCAÇÃO, LOCALIZADA NA RUA DUQUE DE CAXIAS, 110, 
-CENTRO, NA CIDADE DE MAMANGUAPE–PB, MANTIDA PELA ESCOLA TÉCNICA E 
+
+CENTRO,  NA  CIDADE  DE  MAMANGUAPE–PB,  MANTIDA  PELA  ESCOLA  TÉCNICA  E 
+
 COLÉGIO ROSA MÍSTICA LTDA. – CNPJ 07.587.882/0001-82.
+
 AUTORIZA  O  FUNCIONAMENTO  DO  ENSINO  MÉDIO  NA  ESCOLA  ROSA  MÍSTICA 
-EDUCAÇÃO, LOCALIZADA NA RUA DUQUE DE CAXIAS, 110, CENTRO, NA CIDADE 
+
+EDUCAÇÃO,  LOCALIZADA  NA  RUA  DUQUE  DE  CAXIAS,  110,  CENTRO,  NA  CIDADE 
+
 DE MAMANGUAPE–PB, MANTIDA PELA ESCOLA TÉCNICA E COLÉGIO ROSA MÍSTICA 
+
 LTDA. – CNPJ 07.587.882/0001-82.
 
 RENOVA O RECONHECIMENTO DO CURSO TÉCNICO EM SAÚDE BUCAL MINISTRADO 
+
 PELA ESCOLA ROSA MÍSTICA EDUCAÇÃO, LOCALIZADA NA RUA DUQUE DE CAXIAS, 
+
 110, CENTRO, NA CIDADE DE MAMANGUAPE–PB, MANTIDA PELA ESCOLA TÉCNICA 
+
 E COLÉGIO ROSA MÍSTICA LTDA. – CNPJ 07.587.882/0001-82.
-
-16/12/2021
-
-SEE-PRC-2021/16133
-
-431/2021
-
-16/12/2021
-
-SEE-PRC-2021/16679
-
-432/2021
-
-RECONHECE O CURSO TÉCNICO EM PODOLOGIA MINISTRADO PELA FACULDADE 
-PAULISTA DE ESTÉTICA E BELEZA, LOCALIZADA NA RUA DEPUTADO ODON BEZER-
-RA, 333, TAMBIÁ, NA CIDADE DE JOÃO PESSOA–PB, MANTIDA PELA FACULDADE 
-PAULISTA DE ESTÉTICA E BELEZA EIRELI – CNPJ 26.774.607/0001-12.
-RECONHECE O CURSO TÉCNICO EM ESTÉTICA MINISTRADO PELA FACULDADE 
-PAULISTA DE ESTÉTICA E BELEZA, LOCALIZADA NA RUA DEPUTADO ODON BEZER-
-RA, 333, TAMBIÁ, NA CIDADE DE JOÃO PESSOA–PB, MANTIDA PELA FACULDADE 
-PAULISTA DE ESTÉTICA E BELEZA EIRELI – CNPJ 26.774.607/0001-12.
-
-Data de Apro-
-vação
-
-Processo
-
-Resolução
-
-Ementa
-
-RECONHECE O CURSO TÉCNICO EM PODOLOGIA MINISTRADO PELA FACULDADE 
-PAULISTA DE ESTÉTICA E BELEZA, LOCALIZADA NA RUA DEPUTADO ODON BEZER-
-RA, 333, TAMBIÁ, NA CIDADE DE JOÃO PESSOA–PB, MANTIDA PELA FACULDADE 
-PAULISTA DE ESTÉTICA E BELEZA EIRELI – CNPJ 26.774.607/0001-12.
-RECONHECE O CURSO TÉCNICO EM ESTÉTICA MINISTRADO PELA FACULDADE 
-PAULISTA DE ESTÉTICA E BELEZA, LOCALIZADA NA RUA DEPUTADO ODON BEZER-
-RA, 333, TAMBIÁ, NA CIDADE DE JOÃO PESSOA–PB, MANTIDA PELA FACULDADE 
-PAULISTA DE ESTÉTICA E BELEZA EIRELI – CNPJ 26.774.607/0001-12.
-
-Secretário Executivo - CEE/PB
-
-Secretaria de Estado
-da Saúde
-Resolução nº 0167/2021                                                                    João Pessoa, 15 de dezembro de 2021.
-
-O Plenário do Conselho Estadual de Saúde reunida em sua 285ª (Ducentésima Octa-
-gésima Quinta) reunião ordinária de 14 de dezembro de 2021, no uso de suas competências regimentais 
-e atribuições conferidas pela Lei 8.080 de 19 de novembro de 1990 e pela Lei 8.142 de 28 de dezembro 
-de 1990 e pelo Decreto nº 12.228 de 19 de novembro de 1987, reformulado pela Lei nº 8.234 de 31 de 
-maio de 2007 e Lei Complementar nº 141 de 13 de janeiro de 2012.
-
-RESOLVE: Aprovar o PAS – PROGRAMAÇÃO ANUAL DE SAÚDE 2022.
-• Esta resolução entra em vigor na data de sua publicação.
 
 Secretaria de Estado
 do Desenvolvimento Humano
+
 PORTARIA Nº 228/2021/SEDH/GS                                            João Pessoa, 14 de dezembro de 2021.
 
  
@@ -2539,15 +2722,18 @@ a Lei 8.186/2007, Art. 1º, “e”, com o objetivo de formalizar os CONTRATOS D
 SERVIÇOS POR TEMPO DETERMINADO dos aprovados no Processo Seletivo para o Escritó-
 rio Social, por excepcional interesse público, nos termos da Lei 8.745/93, bem como respeitando as 
 disposições do Edital n.º 012/2020/SEDH/SEAD/ESPEP, conforme abaixo:
-TERMO ADITIVO 
 
-VALOR MENSAL
+TERMO ADITIVO 
 
 CONTRATO Nº
 
-VIGÊNCIA 
+CONTRATADO(A) 
 
 FUNÇÃO
+
+VALOR MENSAL
+
+VIGÊNCIA 
 
 001/2021
 
@@ -2559,8 +2745,8 @@ R$ 3.318,10
 
 30/12/2022
 
-CONTRATADO(A) 
 WENDEL ALVES SALES 
+
 MACEDO
 
 PORTARIA Nº 235/2021/SEDH/GS                                          João Pessoa, 16 de dezembro de 2021.
@@ -2568,56 +2754,97 @@ PORTARIA Nº 235/2021/SEDH/GS                                          João Pes
 O SECRETÁRIO DE ESTADO DO DESENVOLVIMENTO HUMANO, no uso 
 de suas atribuições legais que lhe conferem a Lei nº. 5.391/1991 c/c a Constituição Federal de 1988, c/c 
 a Lei 8.186/2007, Art. 1º, “e”, com o objetivo de formalizar o TERMO ADITIVO AO CONTRATO 
-DE PRESTAÇÃO DE SERVIÇOS POR TEMPO DETERMINADO, por excepcional interesse 
+DE  PRESTAÇÃO  DE  SERVIÇOS  POR  TEMPO  DETERMINADO,  por  excepcional  interesse 
 público, nos termos da Lei 8.745/93, conforme abaixo:
+
   CONTRATO Nº
-          006/2018
-          040/2019
-          204/2018
-          092/2021
-235/2021
-            384/2021
-          385/2021
-         112/2019
-
-CONTRATADO (A)
-ADALVACI DE MEDEIROS BARRETO
-GILVANEIDE VIEIRA GARCIA
-GLAUCIA CRISTIANE VIEIRA DE ALMEIDA 
-MARIA GORETE DA SILVA 
-FRANCISCA CLENILDA DE OLIVEIRA CARDOSO          
-KARINE DA SILVA MARQUES 
-LORENA MARIA DE SOUSA MONTEIRO
- JOELMA DOS SANTOS SOUSA DANTAS 
-
-VALOR MENSAL
-R$ 2.000,00
-R$ 1.500,00
-R$ 1.600,00
-R$ 2.000,00
-R$ 1.500,00
-R$ 2.000,00
-R$ 2.000,00
-R$ 1.100,00
 
 TERMO ADITIVO
-003/2021
-002/2021
-003/2021
-002/2021
-001/2021
-001/2021
-001/2021
-002/2021
+
+CONTRATADO (A)
+
+VALOR MENSAL
 
   VIGÊNCIA
+
+          006/2018
+
+          040/2019
+
+          204/2018
+
+003/2021
+
+002/2021
+
+003/2021
+
+ADALVACI DE MEDEIROS BARRETO
+
+GILVANEIDE VIEIRA GARCIA
+
+GLAUCIA CRISTIANE VIEIRA DE ALMEIDA 
+
+          092/2021
+
+002/2021
+
+MARIA GORETE DA SILVA 
+
+235/2021
+
+001/2021
+
+FRANCISCA CLENILDA DE OLIVEIRA CARDOSO          
+
+R$ 1.500,00
+
+            384/2021
+
+001/2021
+
+KARINE DA SILVA MARQUES 
+
+          385/2021
+
+001/2021
+
+LORENA MARIA DE SOUSA MONTEIRO
+
+         112/2019
+
+002/2021
+
+ JOELMA DOS SANTOS SOUSA DANTAS 
+
+R$ 1.100,00
+
 31/12/2021
+
+R$ 2.000,00
+
+R$ 1.500,00
+
+R$ 1.600,00
+
+R$ 2.000,00
+
+R$ 2.000,00
+
+R$ 2.000,00
+
 31/12/2021
+
 31/12/2021
+
 31/12/2021
+
+31/12/2021
+
 1/12/2021
+
 31/12/2021
-31/12/2021
+
 31/12/2021
 
 10
@@ -2627,6 +2854,24 @@ João Pessoa - Quarta-feira, 22 de Dezembro de 2021
 Diário Oﬁ cial
 
 PORTARIA N° 237/2021/GS/SEDH                                              João Pessoa, 21 de dezembro de 2021.
+
+ÇÕES EIRELI – (Processo Administrativo SUPLAN nº 1471/2020).
+
+REMÍGIO
+
+001/2021
+
+408/2020
+
+ROMÊNIA MOURA SOUSA
+
+Até 31/03/2022
+
+2.000,00
+
+Coordenadora
+
+PORTARIA Nº 325/2021/GS                                                       João Pessoa, 21 de dezembro de 2021.
 
 O SECRETÁRIO DE ESTADO DO DESENVOLVIMENTO HUMANO, no uso 
 das atribuições que lhe confere a Constituição Federal de 1988 c/c a Lei nº. 5.391/1991 e a alínea “a” 
@@ -2645,17 +2890,35 @@ CONTRATADO (A)
 
 VIGÊNCIA
 
-REMÍGIO
+FUNÇÃO
+
+VA L O R 
+M E N -
+SAL (R$)
+
 REMÍGIO 
+
+002/2021
+
+151/2020
+
+ JIMMY MATIAS NUNES 
+
+Até 31/03/2022
+
+1.600,00 Advogado
+
 REMÍGIO
 
-001/2021
-002/2021
 002/2021
 
-408/2020
-151/2020
 393/2020
+
+LUCIENE PAES DE LIMA  
+
+Até 31/03/2022
+
+1.600,00 Assistente Social
 
 REMÍGIO 
 
@@ -2663,45 +2926,17 @@ REMÍGIO
 
 177/2020
 
-REMÍGIO 
-
-002/2021
-
-142/2020
-
-001/2021
-
-011/2021
-
-ROMÊNIA MOURA SOUSA
- JIMMY MATIAS NUNES 
-LUCIENE PAES DE LIMA  
-JOSÉ  GABRIEL  FERREIRA  DE 
-ARAUJO
-FLAVIO  QUARESMA  DE  LIMA 
-SILVA 
-JOSÉ APRÍGIO DA SILVA NETO 
-
-FUNÇÃO
-
-VALOR 
-M E N -
-SAL (R$)
-2.000,00
-1.600,00 Advogado
-1.600,00 Assistente Social
-
-Coordenadora
-
-Até 31/03/2022
-Até 31/03/2022
-Até 31/03/2022
-
 Até 31/03/2022
 
 1.600,00
 
 Psicólogo 
+
+REMÍGIO 
+
+002/2021
+
+142/2020
 
 Até 31/03/2022
 
@@ -2714,53 +2949,23 @@ l
 
 i a r 
 
+REMÍGIO
+
+001/2021
+
+011/2021
+
+JOSÉ APRÍGIO DA SILVA NETO 
+
 Até 31/03/2022
 
 1.100,00 Motorista
 
-REMÍGIO
-RIACHO 
-DOS 
-CAVALOS
-RIACHO 
-DOS 
-CAVALOS
-RIACHO 
-DOS 
-CAVALOS
-RIACHO 
-DOS 
-CAVALOS
-RIACHO 
-DOS 
-CAVALOS
-RIACHO 
-DOS 
-CAVALOS 
-RIACHO 
-DOS 
-CAVALOS
-SALGADO 
-DE SÃO 
-FELIX
-SALGADO 
-DE SÃO 
-FELIX
-SALGADO 
-DE SÃO 
-FELIX
-SALGADO 
-DE SÃO 
-FELIX
-SALGADO 
-DE SÃO 
-FELIX
-SALGADO 
-DE SÃO 
-FELIX
-SALGADO 
-DE SÃO 
-FELIX
+JOSÉ  GABRIEL  FERREIRA  DE 
+ARAUJO
+
+FLAVIO  QUARESMA  DE  LIMA 
+SILVA 
 
 002/2021
 
@@ -2773,6 +2978,62 @@ Até 31/03/2022
 2.000,00
 
 Coordenadora
+
+RIACHO 
+DOS 
+CAVALOS
+
+RIACHO 
+DOS 
+CAVALOS
+
+RIACHO 
+DOS 
+CAVALOS
+
+RIACHO 
+DOS 
+CAVALOS
+
+RIACHO 
+DOS 
+CAVALOS
+
+RIACHO 
+DOS 
+CAVALOS 
+
+RIACHO 
+DOS 
+CAVALOS
+
+SALGADO 
+DE SÃO 
+FELIX
+
+SALGADO 
+DE SÃO 
+FELIX
+
+SALGADO 
+DE SÃO 
+FELIX
+
+SALGADO 
+DE SÃO 
+FELIX
+
+SALGADO 
+DE SÃO 
+FELIX
+
+SALGADO 
+DE SÃO 
+FELIX
+
+SALGADO 
+DE SÃO 
+FELIX
 
 002/2021
 
@@ -2794,15 +3055,15 @@ Até 31/03/2022
 
 033/2020
 
-THALLYSSA  THANNAKA  DA 
-SILVA 
-GUIMARÃES 
-
 Até 31/03/2022
 
 1.600,00
 
 Psicóloga
+
+THALLYSSA  THANNAKA  DA 
+SILVA 
+GUIMARÃES 
 
 002/2021
 
@@ -2822,12 +3083,6 @@ FRANÇA
 Até 31/03/2022
 
 1.100,00
-
-Educador
-Social
-
-Auxiliar
-Administrativa
 
 002/2021
 
@@ -2856,7 +3111,7 @@ Coordenadora
 
 22/2020
 
-LYBIA MARIA RODRIGUES DOS 
+LYBIA  MARIA  RODRIGUES  DOS 
 SANTOS MARINHO
 
 Até 31/03/2022
@@ -2904,20 +3159,26 @@ JO JUNIOR
 Até 
 31/03/2022
 
+1.100,00
+
 002/2021
 
 18/2020
 
 JOZIAS UMBELINO LEITE 
 
+1.100,00
+
 Até 
 31/03/2022
 
-1.100,00
-
-1.100,00
-
 PUBLIQUE – SE.  
+
+Educador
+Social
+
+Auxiliar
+Administrativa
 
 Assistente
 Social
@@ -2925,11 +3186,9 @@ Social
 Psicóloga
 
 Educadora
-
 Social
 
 Auxiliar
-
 Administrativo
 
 Motorista
@@ -2957,9 +3216,7 @@ primeiro, comporem a Comissão de Recebimento Deﬁ nitivo da Obra de CONSTRUÇ�
 RATÓRIO NA EEEFM PREFEITO WILLIANS DE SOUSA ARRUDA (MOD. 2), EM CAMPI-
 NA GRANDE/PB, objeto do Contrato PJU nº 08/2021, ﬁ rmado com a CONCRETIZA CONSTRU-
 
-ÇÕES EIRELI – (Processo Administrativo SUPLAN nº 1471/2020).
-
-Art. 2º - A Comissão ora constituída deverá vistoriar as obras para veriﬁ car se os 
+Art.  2º  - A  Comissão  ora  constituída  deverá  vistoriar  as  obras  para  veriﬁ car  se  os 
 serviços foram executados em conformidade com o contrato, em especial quanto à perfeita execução do 
 projeto. Havendo desconformidades, o fato deverá ser imediatamente informado ao Chefe de Divisão 
 ou Gerente, para adoção das medidas necessárias à correção das falhas.
@@ -2968,13 +3225,11 @@ Art. 3º - Deverá ainda, apresentar termo de recebimento deﬁ nitivo, acompanh
 relatório escrito e fotográﬁ co realizado por ocasião da vistoria, das referidas obras e/ou serviços execu-
 tados no prazo máximo de 15 dias.
 
-PARÁGRAFO  ÚNICO  –  O Termo  de  recebimento  deﬁ nitivo  da  obra  deverá  ser 
+PARÁGRAFO  ÚNICO  –  O  Termo  de  recebimento  deﬁ nitivo  da  obra  deverá  ser 
 anexado ao processo relativo à obra, com cópia para a Pasta de Pagamento, para efeito de contagem dos 
 prazos e levantamentos das quantias caucionadas.
 
 Art. 4º - A presente Portaria entrará em vigor a partir data de publicação.
-
-PORTARIA Nº 325/2021/GS                                                       João Pessoa, 21 de dezembro de 2021.
 
 A DIRETORA SUPERINTENDENTE DA SUPERINTENDÊNCIA DE OBRAS 
 DO PLANO DE DESENVOLVIMENTO DA PARAÍBA - SUPLAN, no uso de suas atribuições legais, 
@@ -2992,7 +3247,7 @@ RATÓRIO NA ESCOLA E.C.I. ITAN PEREIRA (MOD. 2) EM CAMPINA GRANDE-PB, objeto
 do Contrato PJU nº 16/2021, ﬁ rmado com a CONCRETIZA CONSTRUÇÕES EIRELI – Processo 
 Administrativo SUPLAN nº 1472/2020.
 
-Art. 2º - A Comissão ora constituída deverá vistoriar as obras para veriﬁ car se os 
+Art.  2º  - A  Comissão  ora  constituída  deverá  vistoriar  as  obras  para  veriﬁ car  se  os 
 serviços foram executados em conformidade com o contrato, em especial quanto à perfeita execução do 
 projeto. Havendo desconformidades, o fato deverá ser imediatamente informado ao Chefe de Divisão 
 ou Gerente, para adoção das medidas necessárias à correção das falhas.
@@ -3001,7 +3256,7 @@ Art. 3º - Deverá ainda, apresentar termo de recebimento deﬁ nitivo, acompanh
 relatório escrito e fotográﬁ co realizado por ocasião da vistoria, das referidas obras e/ou serviços execu-
 tados no prazo máximo de 15 dias.
 
-PARÁGRAFO  ÚNICO  –  O Termo  de  recebimento  deﬁ nitivo  da  obra  deverá  ser 
+PARÁGRAFO  ÚNICO  –  O  Termo  de  recebimento  deﬁ nitivo  da  obra  deverá  ser 
 anexado ao processo relativo à obra, com cópia para a Pasta de Pagamento, para efeito de contagem dos 
 prazos e levantamentos das quantias caucionadas.
 
@@ -3025,7 +3280,7 @@ ACESSO AO MATADOURO PÚBLICO DE SOLÂNEA/PB, objeto do Contrato PJU nº 44/2021,
 ﬁ rmado com a CONSTRUTORA COSTA DO SOL EIRELI EPP – Processo Administrativo SU-
 PLAN nº 571/2021.
 
-Art. 2º - A Comissão ora constituída deverá vistoriar as obras para veriﬁ car se os 
+Art.  2º  - A  Comissão  ora  constituída  deverá  vistoriar  as  obras  para  veriﬁ car  se  os 
 serviços foram executados em conformidade com o contrato, em especial quanto à perfeita execução do 
 projeto. Havendo desconformidades, o fato deverá ser imediatamente informado ao Chefe de Divisão 
 ou Gerente, para adoção das medidas necessárias à correção das falhas.
@@ -3034,7 +3289,7 @@ Art. 3º - Deverá ainda, apresentar termo de recebimento deﬁ nitivo, acompanh
 relatório escrito e fotográﬁ co realizado por ocasião da vistoria, das referidas obras e/ou serviços execu-
 tados no prazo máximo de 15 dias.
 
-PARÁGRAFO  ÚNICO  –  O Termo  de  recebimento  deﬁ nitivo  da  obra  deverá  ser 
+PARÁGRAFO  ÚNICO  –  O  Termo  de  recebimento  deﬁ nitivo  da  obra  deverá  ser 
 anexado ao processo relativo à obra, com cópia para a Pasta de Pagamento, para efeito de contagem dos 
 prazos e levantamentos das quantias caucionadas.
 
@@ -3059,7 +3314,7 @@ MONTE CARMELO EM CAMPINA GRANDE/PB, objeto do Contrato PJU nº 0130/2020, ﬁ r-
 mado com a IDEIA PROJETOS E CONSTRUÇÕES LTDA – Processo Administrativo SUPLAN 
 nº 817/2020.
 
-Art. 2º - A Comissão ora constituída deverá vistoriar as obras para veriﬁ car se os 
+Art.  2º  - A  Comissão  ora  constituída  deverá  vistoriar  as  obras  para  veriﬁ car  se  os 
 
 Diário Oﬁ cial
 
@@ -3075,7 +3330,7 @@ Art. 3º - Deverá ainda, apresentar termo de recebimento deﬁ nitivo, acompanh
 relatório escrito e fotográﬁ co realizado por ocasião da vistoria, das referidas obras e/ou serviços execu-
 tados no prazo máximo de 15 dias.
 
-PARÁGRAFO  ÚNICO  –  O Termo  de  recebimento  deﬁ nitivo  da  obra  deverá  ser 
+PARÁGRAFO  ÚNICO  –  O  Termo  de  recebimento  deﬁ nitivo  da  obra  deverá  ser 
 anexado ao processo relativo à obra, com cópia para a Pasta de Pagamento, para efeito de contagem dos 
 prazos e levantamentos das quantias caucionadas.
 
@@ -3084,7 +3339,7 @@ Art. 4º - A presente Portaria entrará em vigor a partir data de publicação.
 PORTARIA Nº 333/2021/GS                                                        João Pessoa, 21 de dezembro de 2021.
 
 A DIRETORA SUPERINTENDENTE DA SUPERINTENDÊNCIA DE OBRAS 
-DO PLANO DE DESENVOLVIMENTO DA PARAÍBA - SUPLAN, no uso de suas atribuições 
+DO  PLANO  DE  DESENVOLVIMENTO  DA  PARAÍBA  -  SUPLAN,  no  uso  de  suas  atribuições 
 legais, e ainda, de conformidade com as disposições contidas nas Resoluções do Conselho Técnico CT 
 nº 04/90, CT nº 003/2009, de 08 de setembro de 2009, publicada no Diário Oﬁ cial.
 
@@ -3108,7 +3363,7 @@ expedição dos termos de recebimento provisório e deﬁ nitivo e demais atribu
 do Decreto Estadual nº. 30.610/2009.
 
 § 1° - O ﬁ scal deverá expedir as medições na forma prevista no contrato, o qual se 
-responsabilizará integralmente pelos quantitativos dos serviços que deverão vir devidamente acom-
+responsabilizará  integralmente  pelos  quantitativos  dos  serviços  que  deverão  vir  devidamente  acom-
 panhados pela memória de cálculo nela existentes e pela especiﬁ cação e qualidade dos materiais ali 
 constantes. 
 
@@ -3122,7 +3377,7 @@ doria Geral do Estado e demais normas técnicas aplicáveis à espécie. Deverá
 os procedimentos em tramitação junto às concessionárias CAGEPA, ENERGISA e demais Órgãos.
 
 Art. 5o _ Quando da necessidade de aditivos estes serão submetidos previamente aos 
-Gestores do Contrato devidamente acompanhado pela justiﬁ cativa técnica para posterior elaboração 
+Gestores  do  Contrato  devidamente  acompanhado  pela  justiﬁ cativa  técnica  para  posterior  elaboração 
 dentro das normas legais pertinentes, e serão remetidos com 30 dias de antecedência do vencimento do 
 contrato, a ﬁ m de garantir a tempestiva tramitação legal. 
 
@@ -3151,7 +3406,7 @@ Art. 11 - A presente Portaria entrará em vigor a partir da data de publicação
 PORTARIA Nº 334/2021/GS                                                      João Pessoa, 21 de dezembro de 2021.
 
 A DIRETORA SUPERINTENDENTE DA SUPERINTENDÊNCIA DE OBRAS 
-DO PLANO DE DESENVOLVIMENTO DA PARAÍBA - SUPLAN, no uso de suas atribuições 
+DO  PLANO  DE  DESENVOLVIMENTO  DA  PARAÍBA  -  SUPLAN,  no  uso  de  suas  atribuições 
 legais, e ainda, de conformidade com as disposições contidas nas Resoluções do Conselho Técnico CT 
 nº 04/90, CT nº 003/2009, de 08 de setembro de 2009, publicada no Diário Oﬁ cial.
 
@@ -3184,7 +3439,7 @@ ser elaborados com coerência e em face da necessidade da obra, não sendo admit
 que ocorrerem nos últimos 20 dias de vigência do Contrato, exceto quando houver aditivo de prazo em 
 tramitação e/ou se tratar de fato superveniente, devidamente comprovado no processo.
 
-Art. 7º - Além das obrigações previstas no edital e no contrato, o gestor deverá 
+Art.  7º  - Além  das  obrigações  previstas  no  edital  e  no  contrato,  o  gestor  deverá 
 acompanhar todos os procedimentos em tramitação junto às concessionárias CAGEPA, ENERGISA 
 e demais Órgãos.
 
@@ -3201,7 +3456,7 @@ um dos ﬁ scais da obra, as quais serão documentadas através de Ata de Reuni�
 elementos: data, nome e assinatura dos participantes, assuntos tratados, decisões e responsáveis pelas 
 providências que deverão ser adotadas ao caso em tela.
 
-Art. 11 – Comunicar de imediato a seus superiores as ocorrências contratuais que 
+Art.  11  –  Comunicar  de  imediato  a  seus  superiores  as  ocorrências  contratuais  que 
 possam acarretar a imposição de sanções ou a rescisão contratual, bem como àquelas que ultrapassem 
 suas atribuições de competência;
 
@@ -3211,7 +3466,7 @@ obrigações ﬁ scais;
 
 Art. 13 - O não cumprimento das disposições contidas nesta Portaria, acarretará ao 
 servidor designado, a aplicação das sanções previstas na Lei Complementar n° 58/2003 (Estatuto dos 
-Servidores Públicos Civis do Estado da Paraíba, sem prejuízo de outras sanções prejuízo de outras 
+Servidores  Públicos  Civis  do  Estado  da  Paraíba,  sem  prejuízo  de  outras  sanções  prejuízo  de  outras 
 sanções previstas na legislação Pátria).
 
 Art.  14  -  Mantêm-se  inalterados  os  demais  dispositivos  contidos  na  Portaria  nº 
@@ -3240,7 +3495,7 @@ I – Gerência Setorial para a obra de Conclusão da Reforma e Adequação do M
 douro Público de Uiraúna/PB, objeto da Tomada de Preços nº 65/2021 – Processo Administrativo 
 SUPLAN nº 2025/2021.
 
-II – Gerência Setorial para a obra de Construção do Novo Complexo Educacional 
+II  –  Gerência  Setorial  para  a  obra  de  Construção  do  Novo  Complexo  Educacional 
 da Escola E.E.F.M. Maria José de Miranda Burity, em Serra da Raiz/PB, objeto da Concorrência nº 
 11/2021 – Processo Administrativo SUPLAN nº 178/2021.
 
@@ -3290,15 +3545,17 @@ João Pessoa - Quarta-feira, 22 de Dezembro de 2021
 
 Diário Oﬁ cial
 
-Autarquia.
-
 a execução do Contrato, objeto da obra ﬁ scalizada, a teor do Art. 67, §1° da Lei Federal n° 8.666/93. 
+
+PORTARIA n º 036/2021                                                             João Pessoa, 21 de dezembro de 2021.
 
 X - O não cumprimento das disposições contidas nesta Portaria, acarretará ao gerente 
 
 designado, a aplicação das sanções previstas na Lei.
 
 Art. 3º - As gerências ora criadas serão subordinadas à Diretoria Técnica dessa 
+
+Autarquia.
 
 Art. 4º - Após o enceramento do Contrato e entrega das obras cessarão todas as ati-
 vidades desta gerência, devendo os respectivos engenheiros apresentar prestação de contas, através de 
@@ -3313,7 +3570,7 @@ Art. 5º - O presente Ato entrará em vigor a partir da data de publicação.
 PORTARIA Nº 336/2021/GS                                                       João Pessoa, 21 de dezembro de 2021.
 
 A DIRETORA SUPERINTENDENTE DA SUPERINTENDÊNCIA DE OBRAS 
-DO PLANO DE DESENVOLVIMENTO DA PARAÍBA - SUPLAN, no uso de suas atribuições 
+DO  PLANO  DE  DESENVOLVIMENTO  DA  PARAÍBA  -  SUPLAN,  no  uso  de  suas  atribuições 
 legais, e ainda, de conformidade com as disposições contidas nas Resoluções do Conselho Técnico CT 
 nº 04/90, CT nº 003/2009, de 08 de setembro de 2009, publicada no Diário Oﬁ cial.
 
@@ -3324,18 +3581,16 @@ NOVO COMPLEXO EDUCACIONAL DA ESCOLA E.E.F.M. JOSÉ DUARTE COM 12 SALAS
 DE AULAS, NO MUNICÍPIO DE UIRAÚNA/PB, objeto da CONCORRÊNCIA Nº 18/2021, haja 
 vista a criação de Gerência Setorial para o objeto em questão (Ato nº 051/2021), a qual foi ocupada 
 pelo Engenheiro Civil Caique Ryan Moreira de Lima através da Portaria nº 0321/2021/SUPLAN.
-
 Art. 2º - Ficam revogados os termos da Portaria nº 192/2021/GS.
 Art. 3º - A presente portaria entrará em vigor na data de sua publicação.
 
 Engº LUIZ BARRETO RABELO
-
 Diretor Superintendente em Exercício
-
 CREA nº 160.404.141-2
 
 Departamento Estadual de 
 Trânsito do Estado da Paraíba
+
 PORTARIA Nº 523/2021/DS                                                       João Pessoa, 20 de Dezembro de 2021.
 
 O DIRETOR SUPERINTENDENTE DO DEPARTAMENTO ESTADUAL DE
@@ -3345,7 +3600,7 @@ Decreto Estadual nº 7.960, de 07 de março de 1979;
 
 RESOLVE:
  Art. 1º – Designar o servidor ANTONIO BRUNO DA SILVA BITENCOURT, ma-
-trícula 1720-2, para responder pela Cheﬁ a da Seção de infrações e Penalidades da 26ª CIRETRAN 
+trícula  1720-2,  para  responder  pela  Cheﬁ a  da  Seção  de  infrações  e  Penalidades  da  26ª  CIRETRAN 
 localizada no município de Picuí/PB, pelo período de 03 de Janeiro de 2022 a 01 de Fevereiro de 2022, 
 correspondente ao gozo das férias regulamentares do titular.
 
@@ -3389,8 +3644,6 @@ pervisionar a execução do contrato e observar o cumprimento das cláusulas aju
 
 Art. 2º Esta Portaria entra em vigor a partir da data da sua publicação.
 
-PORTARIA n º 036/2021                                                             João Pessoa, 21 de dezembro de 2021.
-
 DISPÕE SOBRE DESIGNAÇÃO DE GESTOR DE CONTRATO E 
 DÁ OUTRAS PROVIDÊNCIAS
 
@@ -3408,7 +3661,6 @@ Parágrafo único. A Gestora do Contrato acima nominada deverá acompanhar e su-
 pervisionar a execução do contrato e observar o cumprimento das cláusulas ajustadas.
 
 Art. 2º Esta Portaria entra em vigor a partir da data da sua publicação.
-
 JAILSON GALVÃO 
 Diretor Presidente 
 
@@ -3416,7 +3668,6 @@ PBPrev - Paraíba
 Previdência
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – A – Nº. 01155
 
 O Presidente da PBPREV, no uso de suas atribuições, consoante o disposto no art. 11, 
@@ -3431,7 +3682,6 @@ III da ECF nº 103/2019, c/c Art. 40, § 1º, inciso II da CF/88, art. 34-A, §�
 João Pessoa, 14 de dezembro de 2021.
 
 GABINETE DA PRESIDÊNCIA
-
 PORTARIA – A – Nº. 01174
 
 O Presidente da PBPREV, no uso de suas atribuições, consoante o disposto no art. 11, 
@@ -3446,7 +3696,6 @@ inciso II da CF/88, art. 34-A, §§ 1º e 2º da ECE nº 46/2020.
 João Pessoa, 16 de dezembro de 2021.
 
 JOSÉ ANTONIO COÊLHO CAVALCANTI
-
 Presidente da PBPREV 
 
 Secretaria de Estado do Planejamento, 
@@ -3466,16 +3715,16 @@ providências.
 
 . 
 
-. 
-
 O  SECRETÁRIO  DE  ESTADO  DO  PLANEJAMENTO,  ORÇAMENTO
 E  GESTÃO  em  conjunto  com  os  Órgãos  SECRETARIA  DE  ESTADO  DA  SAÚDE  e
 SUPERINTENDÊNCIA DE OBRAS DO PLANO DE DESENVOLVIMENTO DO ESTADO
 DA PARAÍBA,  no uso das atribuições que lhe confere o § 1º, inciso II, do artigo 89, da Constituição
-do Estado, c/c as disposições do Decreto Estadual nº 33.884, de 3 de maio de 2013 e alterações
+do  Estado,  c/c  as  disposições  do  Decreto  Estadual  nº  33.884,  de  3  de  maio  de  2013  e  alterações
 posteriores dos Decretos nº 34.272/2013 e 40.549/2020, observados os limites estabelecidos na Lei
 nº 11.831, de 7 de Janeiro de 2021, e a Portaria Interministerial SOF/STN nº 163, de 04 de maio de
 2001, e
+
+. 
 
 Considerando,  ainda, que há no Orçamento Geral do Estado, consignado em
 favor da unidade gestora  SAUDE - 25.0001 - SECRETARIA DE ESTADO DA SAÚDE,  Crédito
@@ -3486,12 +3735,12 @@ PARAÍBA,  relativo à  mútua cooperação entre a SES/PB e a SUPLAN/PB, com vi
 despesas com o surgimento de novos serviços da obra de demolição da maternidade Frei Damião,
 em João Pessoa/PB,;
 
+. 
+
 R  E  S  O  L  V  E  M:
 Art. 1º - Autorizar a descentralização, em favor do (a)  SUPERINTENDÊNCIA
-DE OBRAS DO PLANO DE DESENVOLVIMENTO DO ESTADO DA PARAÍBA,  do crédito
+DE  OBRAS  DO  PLANO  DE  DESENVOLVIMENTO  DO  ESTADO  DA  PARAÍBA,  do  crédito
 orçamentário na forma abaixo discriminado(s):
-
-. 
 
 Diário Oﬁ cial
 
@@ -3509,11 +3758,15 @@ Natureza Fonte
 
 .
 
+. 
+
 25101.10.302.5007.1691.0287- CONSTRUÇÃO, AMPLIAÇÃO E
 
 REFORMA DE UNIDADES
 ADMINISTRATIVAS E DE SAÚDE
 TOTAL
+
+. 
 
 _________________________________________________________________________________________________
 264.558,73
@@ -3526,19 +3779,22 @@ do Art. 1º, desta Portaria.
 
 4490.39 110
 
-. 
-
-. 
-
 Art. 3º - Esta Portaria vigerá a partir da data de sua publicação.
 
 PROCURADORIA GERAL
-
 DO ESTADO
 
-PORTARIA Nº 175/PGE 
+ 
 
  
+
+ 
+
+ 
+
+ 
+
+PORTARIA Nº 175/PGE 
 
                              João Pessoa, 20 de dezembro de 2021.
 
@@ -3554,8 +3810,6 @@ período aquisitivo 2019/2020.
 
 PORTARIA Nº 176/PGE 
 
- 
-
                              João Pessoa, 20 de dezembro de 2021.
 
 O PROCURADOR GERAL ADJUNTO DO ESTADO, no uso das atribuições que 
@@ -3569,8 +3823,6 @@ nº 119.992-7, Procurador do Estado, lotado nesta Procuradoria Geraldo Estado, r
 aquisitivo 2019/2020.
 
 PORTARIA Nº 177/PGE 
-
- 
 
                               João Pessoa, 20 de dezembro de 2021.
 
@@ -3586,8 +3838,6 @@ cretaria de Estado da Administração, referentes ao período aquisitivo 2020/20
 
 PORTARIA Nº 178/PGE 
 
- 
-
                                João Pessoa, 20 de dezembro de 2021.
 
 O PROCURADOR GERAL ADJUNTO DO ESTADO, no uso das atribuições que 
@@ -3595,14 +3845,12 @@ lhe confere o artigo 9º, inciso XVI, da Lei Complementar nº 86, de 01 de dezem
 o artigo 23, do Regulamento da Procuradoria Geral do Estado, aprovado pelo Decreto nº 11.822, de 29 
 de janeiro de 1987,
 
-RESOLVE conceder, de 27 de janeiro a 25 de fevereiro de 2022, os 30 (trinta) 
+RESOLVE  conceder,  de  27  de  janeiro  a  25  de  fevereiro  de  2022,  os  30  (trinta) 
 dias restantes de férias regulamentares, a servidora SANNY JAPIASSÚ DOS SANTOS, matrícula 
 nº 119.972-2, Procuradora do Estado, lotada nesta Procuradoria Geral do Estado, referentes ao período 
 aquisitivo 2020/2021.
 
 PORTARIA Nº 179/PGE 
-
- 
 
                               João Pessoa, 20 de dezembro de 2021.
 
@@ -3624,22 +3872,21 @@ o artigo 23, do Regulamento da Procuradoria Geral do Estado, aprovado pelo Decre
 de janeiro de 1987,
 
 RESOLVE conceder, de 25 de janeiro a 23 de fevereiro de 2022, os 30 (trinta) dias 
-restantes de férias regulamentares, a servidora MÔNICA NÓBREGA FIGUEIREDO, matrícula 
+restantes  de  férias  regulamentares,  a  servidora  MÔNICA  NÓBREGA  FIGUEIREDO,  matrícula 
 nº 75.701-2, Procuradora do Estado, lotada nesta Procuradoria Geral do Estado, referentes ao período 
 aquisitivo 2020/2021
 
 LICITAÇÕES - EXTRATOS - LICENÇAS - TERMOS - ATAS
+
 Secretaria de Estado
 da Administração
 
 NOTIFICAÇÃO
 
 SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
-
 COMISSÃO ESTADUAL DE ACUMULAÇÃO DE CARGOS
 
 NOTIFICAÇÃO
-
 O Presidente da Comissão Estadual de Acumulação de Cargos – CEAC., no uso de suas atribuições 
 legais e em atenção ao que determina a Constituição Federal – Matéria de Acumulação de Cargos 
 Públicos, RESOLVE:
@@ -3653,24 +3900,26 @@ Av. João da Mata, s/n – bairro de Jaguaribe – João Pessoa/PB.
 Telefone: (083) 3208-9828.
 Email: acumulacaocargospb@gmail.com
 Email: ceac@sead.pb.gov.br
+
 Nº
+
 01
 
-NOME
-LEANDRO FÉLIX DA SILVA DOS SANTOS
-
 Nº PROCESSO
-21.018.927-4
 
 MATRÍCULA
+
+NOME
+
+21.018.927-4
+
 664.064-1
 
+LEANDRO FÉLIX DA SILVA DOS SANTOS
+
 Comissão Estadual de Acumulação de cargos
-
 João Pessoa, 21 de dezembro de 2021. 
-
 Thiago César Cavalcanti de Miranda Coelho
-
 Presidente
 Fundação Desenvolvimento
 da Criança e do Adolescente
@@ -3679,28 +3928,23 @@ da Criança e do Adolescente
 NOTIFICAÇÕES
 
 FUNDAÇÃO DESENVOLVIMENTO DA CRIANÇA E DO ADOLESCENTE
-
 "ALICE DE ALMEIDA
 
 NOTIFICAÇÃO Nº 01/2021/FUNDAC
-
 A Fundação Desenvolvimento da Criança e do Adolescente “Alice de Almeida” – FUNDAC, através 
-da presidente WALESKA RAMALHO RIBEIRO, notiﬁ ca o senhor GREGORY MICHEL MATIAS 
+da  presidente WALESKA  RAMALHO  RIBEIRO,  notiﬁ ca  o  senhor  GREGORY  MICHEL  MATIAS 
 GENTLE para regularizar pendências referentes ao processo nº 2434/2019
 
 João Pessoa, 20 de dezembro de 2021.
 
 Waleska Ramalho Ribeiro
 Prwesidwente FUNDAC
-
 Mat. 663.746-9
 
 FUNDAÇÃO DESENVOLVIMENTO DA CRIANÇA E DO ADOLESCENTE
-
 "ALICE DE ALMEIDA
 
 NOTIFICAÇÃO Nº 02/2021/FUNDAC
-
 A Fundação Desenvolvimento da Criança e do Adolescente “Alice de Almeida” – FUNDAC, através 
 da presidente WALESKA RAMALHO RIBEIRO, notiﬁ ca o senhor NOALDO BELO DE MEIRELES 
 para regularizar pendências referentes ao processo nº 2434/2019. 
@@ -3708,22 +3952,19 @@ para regularizar pendências referentes ao processo nº 2434/2019.
 João Pessoa, 20 de dezembro de 2021.
 
 Waleska Ramalho Ribeiro
-
 Presidente FUNDAC
-
 Mat. 663.746-9
 
 Departamento Estadual de 
 Trânsito do Estado da Paraíba
 
 EDITAL DE NOTIFICAÇÃO
-DEPARTAMENTO ESTADUAL DE TRÂNSITO DO ESTADO DA PARAÍBA
 
+DEPARTAMENTO ESTADUAL DE TRÂNSITO DO ESTADO DA PARAÍBA
 GABINETE DA SUPERINTENDÊNCIA
 
 AVISO DE EDITAL DE NOTIFICAÇÃO DE VEÍCULOS APREENDIDOS
-
-O DEPARTAMENTO ESTADUAL DE TRÂNSITO DO ESTADO DA PARAIBA – DETRAN/PB,
+O  DEPARTAMENTO  ESTADUAL  DE  TRÂNSITO  DO  ESTADO  DA  PARAIBA  –  DETRAN/PB,
 através de seu Diretor Superintendente, no uso de suas atribuições legais, TORNA PÚBLICO a quem 
 possa interessar, que tem publicado EDITAL DE NOTIFICAÇÃO aos proprietários de veículos apreen-
 didos por este órgão de trânsito, em Portal na internet do DETRAN/PB, acessível através do endereço 
@@ -3733,7 +3974,6 @@ www.detran.pb.gov.br, no link Leilões, na forma do disposto no parágrafo §1°
 João Pessoa, 20 de Dezembro de 2021.
 
 ISAIAS JOSÉ DANTAS GUALBERTO
-
 Diretor Superintendente
 
 14
@@ -3747,41 +3987,12 @@ da Paraíba - CINEP
 
 EDITAL DE CONVOCAÇÃO
 
-2º
-
-Luana Carla Martins Campos Akinruli
-
-APP‐ JampaPatrimônio: conectando comunidades, territórios e patrimônios do Centro 
-Histórico de João Pessoa/PB
-
-CATEGORIA 5
-INVENTORES DA ECONOMIA CRIATIVA
-Pos. Nome
-
 COMPANHIA DE DESENVOLVIMENTO DA PARAÍBA
-
 CNPJ(MF) No 09.123.027/0001-46
-
 JOÃO PESSOA – PARAÍBA
 
-1º
-
-2º
-
-Karina Batista Moraes Leonardo
-
-André Huchi Dib
-
-Nome do Projeto
-Feira Viva o Centro – Feira no Balaio Sediada no Centro
-Histórico
-AQUI HAVIA UM CINEMA: REATIVANDO O CIRCUITO DOS ANTIGOS CINEMAS 
-DO CENTRO HISTÓRICO DE JOÃO PESSOA
-
 EDITAL DE PRIMEIRA CONVOCAÇÃO 
-
 PARA ASSEMBLEIA GERAL EXTRAORDINÁRIA
-
 Pelo presente Edital, convidamos os Acionistas da COMPANHIA DE DESENVOLVIMENTO DA 
 PARAÍBA-CINEP a se reunirem em Assembleia Geral Extraordinária, em primeira convocação, às 15:00 
 horas do dia 30 de dezembro de 2021, na modalidade vídeo conferência, tendo em vista a pandemia 
@@ -3791,7 +4002,6 @@ I – Destituição do presidente do Conselho de Administração e II - Outros a
 João Pessoa, 21 de dezembro de 2021
 
 RÔMULO SOARES POLARI FILHO
-
 Vice-Presidente do Conselho de Administração
 
 Companhia
@@ -3802,7 +4012,6 @@ EDITAL DE CONVOCAÇÃO
 COMPANHIA PARAIBANA DE GÁS - PBGÁS
 
 ADIAMENTO DA AUDIÊNCIA PÚBLICA Nº 005/2021
-
 A COMPANHIA PARAIBANA DE GÁS – PBGÁS comunica aos usuários e demais interessados que a 
 AUDIÊNCIA PÚBLICA Nº 005/2021, marcada para o dia 23 de dezembro de 2021, às 09h, foi ADIADA 
 para o dia 30 de dezembro de 2021, às 9h.
@@ -3811,23 +4020,15 @@ tarifas do serviço público de distribuição de gás canalizado no Estado da P
 virtual e qualquer interessado poderá participar através do link de acesso que será disponibilizado no site 
 da PBGÁS (www.pbgas.com.br).
 
-A DIRETORIA
-
 Fundação de Apoio à
 Pesquisa do Estado da Paraíba
-
-EDITAIS E AVISOS
 
 FUNDAÇÃO DE APOIO A PESQUISA DO ESTADO DA PARAÍBA – FAPESQ 
 
 EDITAL Nº 18 /2021 – SEECT/FAPESQ/PB 
-
 SELEÇÃO DE PROPOSTAS PARA PREMIAÇÃO
-
 CONCURSO IDEIAS INOVADORAS 2021 –
-
 REQUALIFICAÇÃO DO CENTRO HISTÓRICO DE JOÃO PESSOA
-
 A Fundação de Apoio à Pesquisa do Estado da Paraíba – FAPESQ, e a Secretaria de Estado da Educação 
 e da Ciência e Tecnologia - SEECT/PB, no uso de suas atribuições legais, torna público o resultado da 
 Fase 04: Seleção das Propostas Premiadas, conforme item 11 do edital. A solenidade de premiação será 
@@ -3835,266 +4036,371 @@ realizada em janeiro, em data a ser deﬁ nida. Na oportunidade as propostas, qu
 serão apresentadas por vídeos. O modelo e orientações para confecção do vídeo serão passados pela 
 equipe do Programa Ouse Criar, da SEECT, no momento oportuno.
 CATEGORIA 1
-ESTUDANTES DE ENSINO MÉDIO OU ENSINO PROFISSIONAL TÉCNICO DE NÍVEL 
+ESTUDANTES  DE  ENSINO  MÉDIO  OU  ENSINO  PROFISSIONAL TÉCNICO  DE  NÍVEL 
 MÉDIO
+
 Pos. Nome
-1º
-2º
-3º
 
 Nome do Projeto
-TuristaKids Centro – Plataforma de serviços e atividades voltadas para o público.
+
+Otacílio Gabriel de Góis Mororó Ribeiro
+
 Rota 83
+
+Francicleudo Alves de Oliveira
+
 Insuﬂ ando nova vida ao maior “Museu a céu aberto” do estado da Paraíba
 
-Walleska Ferreira da Silva
-Otacílio Gabriel de Góis Mororó Ribeiro
-Francicleudo Alves de Oliveira
+1º
+
+2º
+
+3º
+
+1º
+
+2º
 
 CATEGORIA 2 
 GRADUANDOS.
+
 Pos. Nome
+
 1º
 
 Johnnyf Wesley da Silva Bezerra
 
-Nome do Projeto
 SPOT - Aplicativo interativo de serviços turísticos e informação.
+
+Nome do Projeto
 
 CATEGORIA 3
 PÓS-GRADUANDOS LATO SENSU E STRICTO SENSU.
+
 Pos. Nome
 
 Nome do Projeto
-O patrimônio da classe trabalhadora: mundos do trabalho,
-moradias e experiências compartilhadas no Centro Histórico de João Pessoa
-HiRA
-
-1º
-2º
 
 Letícia Helen Silva Teles
+
 Hermes Augusto de Almeida
+
+HiRA
+
+O patrimônio da classe trabalhadora: mundos do trabalho,
+moradias e experiências compartilhadas no Centro Histórico de João Pessoa
 
 CATEGORIA 4
 PESQUISADORES
+
 Pos. Nome
+
 1º
 
 Eudes Raony Silva
 
+Nome do Projeto
+
+ANDAR DE CIMA
+
+2º
+
+Luana Carla Martins Campos Akinruli
+
+Histórico de João Pessoa/PB
+
+APP‐ JampaPatrimônio: conectando comunidades, territórios e patrimônios do Centro 
+
+CATEGORIA 5
+INVENTORES DA ECONOMIA CRIATIVA
+
+Pos. Nome
+
+Nome do Projeto
+
+1º
+
+Karina Batista Moraes Leonardo
+
+Histórico
+
+Feira Viva o Centro – Feira no Balaio Sediada no Centro
+
+2º
+
+André Huchi Dib
+
+DO CENTRO HISTÓRICO DE JOÃO PESSOA
+
+AQUI HAVIA UM CINEMA: REATIVANDO O  CIRCUITO DOS ANTIGOS CINEMAS 
+
 CATEGORIA 6 
 INOVAÇÕES EDUCACIONAIS
+
 Pos. Nome
+
+Nome do Projeto
 
 1º
 
 Osvaldo Santos Falcão
 
-Nome do Projeto
-Aprendizagem Baseada em Problemas: prática pedagógico curatorial para o Largo de São Frei Pedro 
 Gonçalves, Paraíba.
 
-ROBERTO GERMANO COSTA
-
-Presidente da FAPESQ
+Aprendizagem Baseada em Problemas: prática pedagógico curatorial para o Largo de São Frei Pedro 
 
 Campina Grande, 17 de Dezembro de 2021.
+
+ROBERTO GERMANO COSTA
+Presidente da FAPESQ
 
 FUNDAÇÃO DE APOIO A PESQUISA DO ESTADO DA PARAÍBA – FAPESQ
 
 RESULTADO FINAL DO EDITAL Nº 010/2021 - FAPESQ/PB - MCTIC/CNPq
+A Fundação de Apoio à Pesquisa do Estado da Paraíba - FAPESQ e a Secretaria de Estado da Educação 
+e da Ciência e Tecnologia - SEECT tornam público o resultado ﬁ nal do Edital Nº 010/2021 FAPESQ/
+MCTIC/CNPq. Conforme o item 6.3 Etapa III: Análise pela Diretoria Executiva do CNPq segue o 
+resultado ﬁ nal homologado.
 
-9,4
+TITULO
 
-9,6
-
-9,6
-
-9,6
-
-9,8
-
-9,50
-
-9,65
-
-9,80
+PROPONENTE
 
 NOTA
 
 SITUAÇÃO
 
-APROVADO
+Evolução  na  representação  do  balanço  de  energia  por  meio  da 
 
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-PROPONENTE
-
-Luciana Diniz Rola
-
-Viviane Farias Silva
-
-Mônica Correia Gonçalves
-
-Teobaldo Leite Bulhões Júnior
+integração  de  dados  de  campo  e  satélite  aplicados  a  computação 
 
 John Elton de Brito Leite Cunha
 
+9,80
+
+APROVADO
+
+Algoritmos eﬁ cientes para problemas de otimização da produção
+
+Teobaldo Leite Bulhões Júnior
+
+9,65
+
+APROVADO
+
+em nuvem para o semiárido brasileiro
+
+Conviver no semiárido: avaliação da sustentabilidade ambiental em 
+
+assentamento no sertão paraibano
+
+Desenvolvimento de técnica para maturação de oócitos de ruminan-
+
+tes utilizando ovários de abatedouro
+
+Queijo Burrata de leite de cabra com fermento autóctone recheado 
+
+Emissão de gases e vibração das máquinas ﬂ orestais em áreas de 
+
+manejo ﬂ orestal no semiárido paraibano
+
+Método de Detecção, Isolamento e Identiﬁ cação de Falhas em Moto-
+
+res de Corrente Contínua Sem Escovas Baseado em Teoria do Caos
+
+Morfoﬁ siologia  e  resposta  imune  intestinal  de  frangos  de  corte 
+
+jejum alimentar pós-eclosão.
+
+O papel da cobertura natural e da diversidade de culturas no serviço 
+
+ecossistêmico de polinização e sua valoração na Caatinga
+
+Avaliação da resistência ambiental de oocistos e genotipagem de ce-
+
+pas obtidas de caprinos, ovinos e seres humanos no estado da Paraíba
+
+Segurança Alimentar e Nutricional em município de pequeno porte: 
+
+alimentar da população, 2011-2022
+
+Otimização  dos  parâmetros  de  soldagem  de  união  dissimilar  no 
+
+estado sólido de ligas de alumínio e ligas de magnésio empregando 
+
+o processo de soldagem linear por atrito e mistura – FSW (Friction 
+
+Stir Welding)
+
+Efeitos do uso de jogos ativos no desempenho ocupacional e motor 
+
+de crianças com transtorno do desenvolvimento da coordenação.
+
+USO  DE  PÓ  DE  BETERRABA  (Beta Vulgaris  L.)  E  RÚCULA 
+
+Indicadores de saúde única em trabalhadores de abatedouros e em 
+
+bovinos destinados ao consumo na Paraíba
+
+Fermento natural em pó desenvolvido a partir de bactérias ácido 
+
+inserção no mercado paniﬁ cador local
+
+Vigilância  Epidemiológica  e  Molecular  para  detecção  do  SARS-
+
+-COV-2 e outros Vírus Respiratórios no Estado da Paraíba
+
+Revestimento Multifuncional para Dispositivos Médicos Hospitala-
+
+res Baseado em Materiais Híbridos e Nanopartículas de Quitosana.
+
+Benchmarks de Gerência de Energia - Analisando Indicadores de 
+
+Eﬁ ciência Energética em Smart Campus
+
+Síntese E Caracterização De Amostras Cerâmicas Nanoestruturadas 
+
+Por Um Moinho Vibratório De Alta Energia
+
+Viviane Farias Silva
+
+9,8
+
+APROVADO
+
+Luciana Diniz Rola
+
+9,6
+
+APROVADO
+
+Mônica Correia Gonçalves
+
+9,6
+
+APROVADO
+
 Flavio Cipriano de Assis do Carmo
+
+9,6
+
+APROVADO
 
 Thyago Leite de Vasconcelos Lima
 
+9,50
+
+APROVADO
+
 Lenyneves Duarte Alvino de Araújo
-
-Alexandre  Lemos  de  Barros  Mo-
-reira Filho
-
-A Fundação de Apoio à Pesquisa do Estado da Paraíba - FAPESQ e a Secretaria de Estado da Educação 
-e da Ciência e Tecnologia - SEECT tornam público o resultado ﬁ nal do Edital Nº 010/2021 FAPESQ/
-MCTIC/CNPq. Conforme o item 6.3 Etapa III: Análise pela Diretoria Executiva do CNPq segue o 
-resultado ﬁ nal homologado.
-TITULO
-Evolução  na  representação  do  balanço  de  energia  por  meio  da 
-integração de dados de campo e satélite aplicados a computação 
-em nuvem para o semiárido brasileiro
-Conviver no semiárido: avaliação da sustentabilidade ambiental em 
-assentamento no sertão paraibano
-Algoritmos eﬁ cientes para problemas de otimização da produção
-Desenvolvimento de técnica para maturação de oócitos de ruminan-
-tes utilizando ovários de abatedouro
-Queijo Burrata de leite de cabra com fermento autóctone recheado 
-com creme de Ricota
-Emissão de gases e vibração das máquinas ﬂ orestais em áreas de 
-manejo ﬂ orestal no semiárido paraibano
-Método de Detecção, Isolamento e Identiﬁ cação de Falhas em Moto-
-res de Corrente Contínua Sem Escovas Baseado em Teoria do Caos
-Morfoﬁ siologia e resposta imune intestinal de frangos de corte 
-suplementados in ovo com aminoácidos funcionais e submetidos a 
-jejum alimentar pós-eclosão.
-O papel da cobertura natural e da diversidade de culturas no serviço 
-ecossistêmico de polinização e sua valoração na Caatinga
-Avaliação da resistência ambiental de oocistos e genotipagem de ce-
-pas obtidas de caprinos, ovinos e seres humanos no estado da Paraíba
-Segurança Alimentar e Nutricional em município de pequeno porte: 
-monitoramento e análise longitudinal da situação de insegurança 
-alimentar da população, 2011-2022
-Otimização dos parâmetros de soldagem de união dissimilar no 
-estado sólido de ligas de alumínio e ligas de magnésio empregando 
-o processo de soldagem linear por atrito e mistura – FSW (Friction 
-Stir Welding)
-Efeitos do uso de jogos ativos no desempenho ocupacional e motor 
-de crianças com transtorno do desenvolvimento da coordenação.
-USO DE PÓ DE BETERRABA (Beta Vulgaris L.) E RÚCULA 
-(Eruca Sativa L.) COMO FONTE NATURAL DE NITRITO EM 
-SALAME BOVINO
-Caracterização toxicológica e investigação da atividade antibacte-
-riana de aminonitrilas
-Indicadores de saúde única em trabalhadores de abatedouros e em 
-bovinos destinados ao consumo na Paraíba
-Fermento natural em pó desenvolvido a partir de bactérias ácido 
-láticas  isoladas  de  padarias  da  Paraíba:  produção,  aplicação  e 
-inserção no mercado paniﬁ cador local
-Vigilância Epidemiológica e Molecular para detecção do SARS-
--COV-2 e outros Vírus Respiratórios no Estado da Paraíba
-Revestimento Multifuncional para Dispositivos Médicos Hospitala-
-res Baseado em Materiais Híbridos e Nanopartículas de Quitosana.
-Benchmarks de Gerência de Energia - Analisando Indicadores de 
-Eﬁ ciência Energética em Smart Campus
-
-Valquiria Cardoso da Silva Ferreira
-
-Raphael Henrique Falcão de Melo
-
-Arthur Willian de Lima Brasil
-
-Clarice Ribeiro Soares Araújo
-
-Fabio Jorge Almeida Morais
-
-João Augusto Oshiro Junior
-
-Estefânia Fernandes Garcia
-
-Poliana de Araújo Palmeira
-
-Sávio Benvindo Ferreira
-
-Thais Ferreira Feitosa
-
-Joao Felipe Bezerra
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-9,20
-
-9,00
-
-9,00
-
-8,85
-
-8,85
-
-9,20
-
-9,14
-
-9,14
-
-9,25
 
 9,4
 
+APROVADO
+
+Thais Ferreira Feitosa
+
 9,3
 
-9,1
+APROVADO
 
-Nome do Projeto
-ANDAR DE CIMA
+Raphael Henrique Falcão de Melo
 
-Síntese E Caracterização De Amostras Cerâmicas Nanoestruturadas 
-Por Um Moinho Vibratório De Alta Energia
+9,20
+
+APROVADO
+
+Clarice Ribeiro Soares Araújo
+
+9,20
+
+APROVADO
+
+Joao Felipe Bezerra
+
+9,00
+
+APROVADO
+
+João Augusto Oshiro Junior
+
+8,85
+
+APROVADO
+
+Fabio Jorge Almeida Morais
+
+8,85
+
+APROVADO
 
 Renilton Correia da Costa
 
 8,80
 
 APROVADO
+
+SALAME BOVINO
+
+riana de aminonitrilas
+
+Caracterização toxicológica e investigação da atividade antibacte-
+
+Sávio Benvindo Ferreira
+
+9,14
+
+APROVADO
+
+Arthur Willian de Lima Brasil
+
+9,1
+
+APROVADO
+
+láticas  isoladas  de  padarias  da  Paraíba:  produção,  aplicação  e 
+
+Estefânia Fernandes Garcia
+
+9,00
+
+APROVADO
+
+monitoramento e análise longitudinal da situação de insegurança 
+
+Poliana de Araújo Palmeira
+
+9,25
+
+APROVADO
+
+EDITAIS E AVISOS
+
+suplementados in ovo com aminoácidos funcionais e submetidos a 
+
+9,4
+
+APROVADO
+
+Alexandre  Lemos  de  Barros  Mo-
+
+reira Filho
+
+Walleska Ferreira da Silva
+
+TuristaKids Centro – Plataforma de serviços e atividades voltadas para o público.
+
+(Eruca Sativa L.) COMO FONTE NATURAL DE NITRITO EM 
+
+Valquiria Cardoso da Silva Ferreira
+
+9,14
+
+APROVADO
+
+A DIRETORIA
+
+com creme de Ricota
 
 Diário Oﬁ cial
 
@@ -4103,64 +4409,46 @@ João Pessoa - Quarta-feira, 22 de Dezembro de 2021
 15
 
 Modelos de Vector Embeddings Multicamada para viabilizar busca 
+
+Modus operandi epitemológico da linguística aplicada brasileira: 
+
 por lugares similares considerando um contexto ampliado na repre-
-sentação de Pontos de Interesse georreferenciados
-Implementação de mecanismos de multiplexação e armazenamento 
-de luz em vapores atômicos
-Métodos exatos, heurísticos e de aprendizagem de máquina aplicados 
-à resolução de problemas de conectividade
-Projeto Sentinela: Investigação da doença da dilatação proventricular 
-(PDD) e bornavirus dos psitaciformes (PaBVs) em psitacídeos no 
-Nordeste do Brasil
-Integração de métodos de Aprendizagem de Máquina e Programação 
-Inteira na solução do Problema das Sequências Justas Ponderadas
-Inﬂ uência da obesidade no desenvolvimento da osteonecrose por 
-bifosfonatos em modelo experimental murino.
-Uso do mel de abelhas sem ferrão (Meliponini sp.) associado a 
-diferentes antimicrobianos para o tratamento de feridas cutâneas
-Remoção de corante em águas industriais a partir de membranas sintéticas
-desenvolvidas por meio de compósitos.
-Filtro óptico de Ag-ITO como artifício para o aumento da eﬁ ciência 
-energética em células fotovoltaicas de silício cristalino
-Sistema de armazenamento baseado em supercapacitores aplicado 
-a planta de geração fotovoltaica no estado da Paraíba
-Pesquisa  clínica  e  desenvolvimento  de  ﬁ tocosmético  inovador 
-contendo o extrato aquoso padronizado de momordica charantia l
-Viabilidade  na  produção  de  salame  italiano  com  utilização  de 
-beterraba  (Beta  vulgaris  L.)  e  rúcula  (Eruca  sativa  L.)  como 
-fontes  naturais  de  nitrito  e  resíduo  de  acerola  (Malpighia
-emarginata) como antioxidante
-Avaliação de políticas de auto-scaling para empresas que utilizam 
-provedores de nuvem públicos
-Desenvolvimento  de  híbridos  inorgânicos/inorgânicos  e
-orgânicos/inorgânicos baseados em argilas abundantes no estado 
-da Paraíba e aplicação em processos de adsorção e fotodegradação 
-de poluentes orgânicos.
-Características nutricionais e potencial funcional do leite asinino 
-produzido na região semiárida do estado da paraíba
-Desenvolvimento e caracterização de biohidrogel de Aloe vera (L.) 
-Burm. F. contendo nanossistemas de óleo de copaíba para tratamento 
-de queimaduras
-Levantamento de estirpes de Salmonella spp. de importância na 
-Saúde Única em fezes de jabutis (Chelonoidis carbonaria) adotados 
-como animais de estimação.
-C a r a c t e r i z a ç ã o   f í s i c o - q u í m i c a   e   p r o p r i e d a -
-d e s   f u n c i o n a i s   d a   c e r v e j a   p r o d u z i d a   u s a n d o
-insetos comestíveis
-Membranas hemostáticas à base de biopolímeros e plantas me-
-dicinais
-Otimização da extração de betalaínas para elaboração de embala-
-gens ativa e inteligente para preservação e avaliação da qualidade 
-de carne suína
-Avaliação da atividade antiangiogênica em uma série de novos 
-complexos de metais de transição estruturalmente relacionados a 
-bases de Schiﬀ 
-Envelhecimento de cachaças paraibanas, em barris de diferentes
-madeiras
 
 Maxwell Guimarães de Oliveira
 
 8,75
+
+APROVADO
+
+questões identitárias
+
+Marcus Viníciu Freitas Mussi
+
+9,40
+
+APROVADO
+
+(PDD) e bornavirus dos psitaciformes (PaBVs) em psitacídeos no 
+
+Jeann Leal de Araujo
+
+8,6
+
+APROVADO
+
+Avaliação de políticas de auto-scaling para empresas que utilizam 
+
+Thiago Emmanuel Pereira da Cunha 
+
+8,15
+
+APROVADO
+
+Grupos de picard, grupos de brauer, cohomologia de ações parciais 
+
+Josefa Itailma da Rocha
+
+8,45
 
 APROVADO
 
@@ -4176,200 +4464,13 @@ Thiago Gouveia da Silva
 
 APROVADO
 
-Jeann Leal de Araujo
-
-8,6
-
-APROVADO
-
-Bruno Jeﬀ erson de Sousa Pessoa
-
-8,6
-
-APROVADO
-
-Adriano Francisco Alves
-
-8,40
-
-APROVADO
-
-Felipe Hugo Alencar Fernandes
-
-8,28
-
-APROVADO
-
-Erivaldo Genuino Lima
-
-8,23
-
-APROVADO
-
-José Felix da Silva Neto
-
-8,20
-
-APROVADO
-
-Italo Roger Ferreira Moreno Pinheiro 
-da Silva
-
-8,20
-
-APROVADO
-
-Esther Bastos Palitot
-
-8,20
-
-APROVADO
-
-Iris Braz da Silva Araújo
-
-8,15
-
-APROVADO
-
-Thiago Emmanuel Pereira da Cunha 
-Silva
-
-8,15
-
-APROVADO
-
-Deoclecio Ferreira de Brito
-
-8,08
-
-APROVADO
-
-Amanda Marilia da Silva Sant Ana
-
-8,05
-
-APROVADO
-
-Silvana Teresa Lacerda Jales
-
-8,00
-
-APROVADO
-
-Carlos Augusto de Oliveira Júnior
-
-8,0
-
-APROVADO
-
-Anderson Ferreira Vilela
-
-7,99
-
-APROVADO
-
-Elizandra Silva da Penha
-
-7,87
-
-APROVADO
-
-Bruno Raniere Lins de Albuquerque 
-Meireles
-
-7,83
-
-APROVADO 
-
-Bruna Braga Dantas
-
-7,83
-
-APROVADO
-
-Taliana Kênia Alencar Bezerra
-
-7,80
-
-APROVADO
-
-RESULTADO DOS PROJETOS DA FAIXA B
-TITULO
-Problemas de rigidez em variedades riemannianas com fronteira
-PI-ÁLGEBRAS e suas geometrias
-Equações Diferenciais Elípticas Não-locais
-Mulheres no tribunal: análises sobre encarceramento, gênero e a 
-guerra às drogas
-Sobre a Geometria de W-Hipersuperfícies do Espaço Euclidiano 
-R n+1 e da Esfera S n+1
-Controlabilidade E Estabilização De Sistemas Não Lineares
-Associação entre a vitimização por bullying, a qualidade de vida 
-relacionada à saúde bucal e a necessidade de tratamento ortodôntico 
-em escolares
-Tráﬁ co de drogas e homicídios de mulheres na Paraíba: análises 
-criminológicas sobre participação e vitimização feminina
-
-PROPONENTE
-Allan George de Carvalho Freitas
-Claudemir Fideles Bezerra Junior
-Alânnio Barbosa Nóbrega
-
-NOTA
-9,93
-9,91
-9,89
-
-SITUAÇÃO
-APROVADO
-APROVADO
-APROVADO
-
-Renata Monteiro Garcia
-
-9,70
-
-APROVADO
-
-Eudes Leite de Lima
-
-Pammella Queiroz de Souza
-
-9,67
-
-9,64
-
-APROVADO
-
-APROVADO
-
-Alidianne Fabia Cabral Cavalcanti
-
-9,50
-
-APROVADO
-
-Nelson  Gomes  de  Sant'ana  e  Silva 
-Junior
-
-9,50
-
-APROVADO
-
-Modus operandi epitemológico da linguística aplicada brasileira: 
-questões identitárias
-Dinâmica dos Fluidos Computacional para aplicação a modelos de 
-escoamento em fraturas e Carste
-Racismo e infâncias: impactos, desaﬁ os e perspectivas na educação 
 paraibana
 
-Desenvolvimento  de  Novas  Técnicas  de  Diversidade  para  o 
-Aumento de Conﬁ abilidade em Redes sem Fio de Baixa Potência
+Dinâmica dos Fluidos Computacional para aplicação a modelos de 
 
-Marcus Viníciu Freitas Mussi
+escoamento em fraturas e Carste
 
-9,40
-
-APROVADO
+Racismo e infâncias: impactos, desaﬁ os e perspectivas na educação 
 
 Valdecir Alves dos Santos Júnior
 
@@ -4383,176 +4484,433 @@ Diego dos Santos Reis
 
 APROVADO
 
+Desenvolvimento  de  Novas  Técnicas  de  Diversidade  para  o 
+
+Aumento de Conﬁ abilidade em Redes sem Fio de Baixa Potência
+
+Fenomenologia de Gravitação Quântica: Astronomia multimensa-
+
+geira e Experimentos tabletop
+
+sexualmente transmissíveis
+
 Ruan Delgado Gomes
 
 9,30
 
 APROVADO
 
-9,1
-
-9,20
+Iarley Pereira Lobo
 
 9,30
 
-8,78
-
-8,80
-
-8,77
-
-9,25
-
-9,08
-
-Iarley Pereira Lobo
-
-Beatriz Prado Pereira
-
-Karen Guedes Oliveira
-
-Sandra Naomi Morioka
-
-Henrique Elias Pessoa Gutierres
+APROVADO
 
 Sheila Milena Pessoa dos Santos
 
+9,25
+
+APROVADO
+
+Bruno Jeﬀ erson de Sousa Pessoa
+
+8,6
+
+APROVADO
+
+Tecnologias em saúde para apoio a tomada de decisão em infecções 
+
+Adriano Francisco Alves
+
+8,40
+
+APROVADO
+
+Nenhum  a  menos”:  subsídios  teórico-práticos  para  criação  de 
+
+estratégias de apoio ao retorno dos jovens à escola
+
+Beatriz Prado Pereira
+
+9,20
+
+APROVADO
+
+Felipe Hugo Alencar Fernandes
+
+8,28
+
+APROVADO
+
+PROGRAMA AQUADATA:  ferramenta  para  o  monitoramento 
+
+e a gestão integrada dos recursos hídricos no Estado da Paraíba
+
 Daniele Jovem da Silva Azevêdo
 
-Carolyne Wanessa Lins de Andrade 
+9,1
+
+APROVADO
+
+Erivaldo Genuino Lima
+
+8,23
+
+APROVADO
+
+Modelagem hidrológica e cenários de mudanças climáticas em bacia 
+
+Carolyne  Wanessa  Lins  de Andrade 
+
+hidrográﬁ ca do semiárido paraibano
+
 Farias
 
-Fenomenologia de Gravitação Quântica: Astronomia multimensa-
-geira e Experimentos tabletop
-Tecnologias em saúde para apoio a tomada de decisão em infecções 
-sexualmente transmissíveis
-Nenhum  a  menos”:  subsídios  teórico-práticos  para  criação  de 
-estratégias de apoio ao retorno dos jovens à escola
-PROGRAMA AQUADATA:  ferramenta  para  o  monitoramento 
-e a gestão integrada dos recursos hídricos no Estado da Paraíba
-Modelagem hidrológica e cenários de mudanças climáticas em bacia 
-hidrográﬁ ca do semiárido paraibano
-Inclusão da criança com deﬁ ciência: uma explicação a partir dos 
-valores humanos e do sentido na vida
-Cálculo Variacional Aplicado ao Estudo de Espaços Homogêneos Kennerson Nascimento de Sousa Lima 8,80
-A perícia ambiental e a elucidação dos danos ambientais no parque 
-estadual das trilhas
-Modelos  de  negócios  para  sustentabilidade  e  competitividade: 
-Proposta de um toolkit para suporte ao empreendedorismo sus-
-tentável na Paraíba
-A Coprodução na Prestação de Serviços Públicos Educacionais 
-na Paraíba
-Grupos de picard, grupos de brauer, cohomologia de ações parciais 
-e sequências relacionadas
-Análise dos Impactos da Incubação Empresarial de Egressos da 
-UEPB no Desenvolvimento Econômico Social da Paraíba
- Arcabouço de Gestão Orientada por Dados para Espaços Inteligentes
-Baseada em Modelos de Aprendizagem com Dados Multimodais
-Aprendizagem profunda aplicada ao monitoramento não-invasivo 
-de cargas
-Publicidade de alimentos: análise dos dados de monitoramento da 
-televisão em duas capitais brasileiras.
-R u í d o  
-e m p r e g a -
-do  no  desenvolvimento  de  técnica  para  avaliar  materiais
-dos componentes de aerogeradores.
-S i s t e m a  
-t o r a m e n -
-to  de  Qualidade  de  Vacinas  na  Cadeia  de  Distribuição  e
-Armazenamento
-Análise da conjuntura de empresas de base tecnológica da paraíba 
-no contexto de vantagens competitivas transitórias
-Estrutura produtiva e comércio externo sob a nova divisão inter-
-nacional do trabalho: um estudo comparativo de países da américa 
-latina e do sudeste asiático
+9,08
 
-Rafaela  Lira  Formiga  Cavalcanti 
-de Lima
+APROVADO
 
-Camila Cristina Rodrigues Salgado
-
-Lucas Milanez de Lima Almeida
-
-d e   B a r k h a u s e n  
-
-David Candeia Medeiros Maia
-
-Ana Maria da Paixão Duarte
-
-Gudson Nicolau de Melo
-
-Patrícia Trindade Caldas
-
-Petrônio Carlos Bezerra
-
-Josefa Itailma da Rocha
-
-Igor Barbosa da Costa
-
-M o n i
-
-d e  
-
-8,00
-
-8,10
-
-7,90
+José Felix da Silva Neto
 
 8,20
 
-7,85
+APROVADO
+
+Inclusão da criança com deﬁ ciência: uma explicação a partir dos 
+
+valores humanos e do sentido na vida
+
+Karen Guedes Oliveira
+
+8,80
+
+APROVADO
+
+8,20
+
+APROVADO
+
+Cálculo Variacional Aplicado ao Estudo de Espaços Homogêneos Kennerson Nascimento de Sousa Lima 8,80
+
+APROVADO
+
+A perícia ambiental e a elucidação dos danos ambientais no parque 
+
+Henrique Elias Pessoa Gutierres
+
+8,78
+
+APROVADO
+
+Esther Bastos Palitot
+
+8,20
+
+APROVADO
+
+estadual das trilhas
+
+Modelos  de  negócios  para  sustentabilidade  e  competitividade: 
+
+Proposta  de  um  toolkit  para  suporte  ao  empreendedorismo  sus-
+
+Sandra Naomi Morioka
+
+8,77
+
+APROVADO
+
+Iris Braz da Silva Araújo
 
 8,15
 
-8,45
+APROVADO
+
+tentável na Paraíba
+
+A  Coprodução  na  Prestação  de  Serviços  Públicos  Educacionais 
+
+Patrícia Trindade Caldas
 
 8,70
 
+APROVADO
+
+Deoclecio Ferreira de Brito
+
+8,08
+
+APROVADO
+
+Ana Maria da Paixão Duarte
+
+8,20
+
+APROVADO
+
+David Candeia Medeiros Maia
+
+8,15
+
+APROVADO
+
+Amanda Marilia da Silva Sant Ana
+
+8,05
+
+APROVADO
+
+Igor Barbosa da Costa
+
+8,10
+
+APROVADO
+
+na Paraíba
+
+e sequências relacionadas
+
+Análise  dos  Impactos  da  Incubação  Empresarial  de  Egressos  da 
+
+UEPB no Desenvolvimento Econômico Social da Paraíba
+
+ Arcabouço de Gestão Orientada por Dados para Espaços Inteligentes
+
+Baseada em Modelos de Aprendizagem com Dados Multimodais
+
+Aprendizagem profunda aplicada ao monitoramento não-invasivo 
+
+de cargas
+
+Sistema de armazenamento baseado em supercapacitores aplicado 
+
+Italo Roger Ferreira Moreno Pinheiro 
+
+sentação de Pontos de Interesse georreferenciados
+
+Implementação de mecanismos de multiplexação e armazenamento 
+
+de luz em vapores atômicos
+
+Métodos exatos, heurísticos e de aprendizagem de máquina aplicados 
+
+à resolução de problemas de conectividade
+
+Projeto Sentinela: Investigação da doença da dilatação proventricular 
+
+Nordeste do Brasil
+
+Integração de métodos de Aprendizagem de Máquina e Programação 
+
+Inteira na solução do Problema das Sequências Justas Ponderadas
+
+Inﬂ uência da obesidade no desenvolvimento da osteonecrose por 
+
+bifosfonatos em modelo experimental murino.
+
+Uso  do  mel  de  abelhas  sem  ferrão  (Meliponini  sp.)  associado  a 
+
+diferentes antimicrobianos para o tratamento de feridas cutâneas
+
+Remoção de corante em águas industriais a partir de membranas sintéticas
+
+desenvolvidas por meio de compósitos.
+
+Filtro óptico de Ag-ITO como artifício para o aumento da eﬁ ciência 
+
+energética em células fotovoltaicas de silício cristalino
+
+a planta de geração fotovoltaica no estado da Paraíba
+
+da Silva
+
+Pesquisa  clínica  e  desenvolvimento  de  ﬁ tocosmético  inovador 
+
+contendo o extrato aquoso padronizado de momordica charantia l
+
+Viabilidade  na  produção  de  salame  italiano  com  utilização  de 
+
+beterraba  (Beta  vulgaris  L.)  e  rúcula  (Eruca  sativa  L.)  como 
+
+fontes  naturais  de  nitrito  e  resíduo  de  acerola  (Malpighia
+
+emarginata) como antioxidante
+
+provedores de nuvem públicos
+
+Silva
+
+Desenvolvimento  de  híbridos  inorgânicos/inorgânicos  e
+
+orgânicos/inorgânicos  baseados  em  argilas  abundantes  no  estado 
+
+da Paraíba e aplicação em processos de adsorção e fotodegradação 
+
+de poluentes orgânicos.
+
+Características nutricionais e potencial funcional do leite asinino 
+
+produzido na região semiárida do estado da paraíba
+
+Desenvolvimento e caracterização de biohidrogel de Aloe vera (L.) 
+
+de queimaduras
+
+Levantamento  de  estirpes  de  Salmonella  spp.  de  importância  na 
+
+como animais de estimação.
+
+C a r a c t e r i z a ç ã o   f í s i c o - q u í m i c a   e   p r o p r i e d a -
+
+insetos comestíveis
+
+dicinais
+
+de carne suína
+
+bases de Schiﬀ 
+
+madeiras
+
+TITULO
+
+Burm. F. contendo nanossistemas de óleo de copaíba para tratamento 
+
+Silvana Teresa Lacerda Jales
+
+8,00
+
+APROVADO
+
+televisão em duas capitais brasileiras.
+
+de Lima
+
+Saúde Única em fezes de jabutis (Chelonoidis carbonaria) adotados 
+
+Carlos Augusto de Oliveira Júnior
+
+8,0
+
+APROVADO
+
+dos componentes de aerogeradores.
+
+d e s   f u n c i o n a i s   d a   c e r v e j a   p r o d u z i d a   u s a n d o
+
+Anderson Ferreira Vilela
+
+7,99
+
+APROVADO
+
+Armazenamento
+
+Membranas  hemostáticas  à  base  de  biopolímeros  e  plantas  me-
+
+Elizandra Silva da Penha
+
+7,87
+
+APROVADO
+
+Publicidade de alimentos: análise dos dados de monitoramento da 
+
+Rafaela  Lira  Formiga  Cavalcanti 
+
+8,00
+
+APROVADO
+
+R u í d o  
+
+d e   B a r k h a u s e n  
+
+e m p r e g a -
+
+do  no  desenvolvimento  de  técnica  para  avaliar  materiais
+
+Gudson Nicolau de Melo
+
+7,90
+
+APROVADO
+
+S i s t e m a  
+
+d e  
+
+M o n i
+
+t o r a m e n -
+
+to  de  Qualidade  de  Vacinas  na  Cadeia  de  Distribuição  e
+
+Petrônio Carlos Bezerra
+
+7,85
+
+APROVADO
+
+Análise da conjuntura de empresas de base tecnológica da paraíba 
+
+no contexto de vantagens competitivas transitórias
+
+Estrutura produtiva e comércio externo sob a nova divisão inter-
+
+Camila Cristina Rodrigues Salgado
+
 7,20
+
+APROVADO
+
+Otimização da extração de betalaínas para elaboração de embala-
+
+nacional do trabalho: um estudo comparativo de países da américa 
+
+Lucas Milanez de Lima Almeida
 
 6,18
 
 APROVADO
 
-APROVADO
+gens ativa e inteligente para preservação e avaliação da qualidade 
 
-APROVADO
+7,83
 
-APROVADO
+APROVADO 
 
-APROVADO
+latina e do sudeste asiático
 
-APROVADO
+Bruno Raniere Lins de Albuquerque 
 
-APROVADO
+Meireles
 
-APROVADO
+Avaliação  da  atividade  antiangiogênica  em  uma  série  de  novos 
 
-APROVADO
+complexos de metais de transição estruturalmente relacionados a 
 
-APROVADO
+Bruna Braga Dantas
 
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
-
-APROVADO
+7,83
 
 APROVADO
 
 PROJETOS NÃO APROVADOS
+
 TITULO 
+
+PROPONENTE
+
+SITUAÇÃO
+
+Envelhecimento  de  cachaças  paraibanas,  em  barris  de  diferentes
+
+Taliana Kênia Alencar Bezerra
+
+7,80
+
+APROVADO
 
 Desenvolvimento de componentes mecânicos de alto desempenho a 
 
@@ -4560,25 +4918,87 @@ partir de metais inteligentes com adições de Nióbio
 
 Uso  de  coagulantes  e  argilas  na  remoção  de  cianobactérias  e 
 
-PROPONENTE
-
-SITUAÇÃO
-NÃO APROVADO  não 
-
 Estephanie Nobre Dantas Grassi
 
 atende ao subitem b do item 
 
-4.1 do edital.
-NÃO APROVADO  não 
+RESULTADO DOS PROJETOS DA FAIXA B
 
-cianotoxinas em reservatórios de abastecimento público: análise 
+cianotoxinas  em  reservatórios  de  abastecimento  público:  análise 
 
 Juliana dos Santos Severiano
 
 atende ao subitem b do item 
 
+PROPONENTE
+
+NOTA
+
+SITUAÇÃO
+
 experimental de produtos ecologicamente e economicamente viáveis
+
+Problemas de rigidez em variedades riemannianas com fronteira
+
+Allan George de Carvalho Freitas
+
+PI-ÁLGEBRAS e suas geometrias
+
+Claudemir Fideles Bezerra Junior
+
+Equações Diferenciais Elípticas Não-locais
+
+Alânnio Barbosa Nóbrega
+
+9,93
+
+9,91
+
+9,89
+
+APROVADO
+
+APROVADO
+
+APROVADO
+
+Mulheres no tribunal: análises sobre encarceramento, gênero e a 
+
+Sobre a Geometria de W-Hipersuperfícies do Espaço Euclidiano 
+
+guerra às drogas
+
+R n+1 e da Esfera S n+1
+
+Renata Monteiro Garcia
+
+9,70
+
+APROVADO
+
+Eudes Leite de Lima
+
+9,67
+
+APROVADO
+
+Controlabilidade E Estabilização De Sistemas Não Lineares
+
+Pammella Queiroz de Souza
+
+9,64
+
+APROVADO
+
+Associação entre a vitimização por bullying, a qualidade de vida 
+
+relacionada à saúde bucal e a necessidade de tratamento ortodôntico 
+
+Alidianne Fabia Cabral Cavalcanti
+
+9,50
+
+APROVADO
 
 Uso de nanoﬁ bras de óxidos cerâmicos para tratamento e desinfecção 
 
@@ -4586,13 +5006,7 @@ de eﬂ uentes hospitalares
 
 Raquel Santos Leite
 
-4.1 do edital.
-NÃO APROVADO  não 
-
 atende ao subitem b do item 
-
-4.1 do edital.
-NÃO APROVADO  não 
 
 Scalﬀ ods biodegradaveis para regeneração tecidual
 
@@ -4604,52 +5018,75 @@ Desenvolvimento de materiais nanoestruturados visando o tratamento
 
 de águas contaminadas com agrotoxicos
 
-A Violência Política de Gênero na Câmara dos Deputados
-As práticas de autogestão dos empreendimentos econômicos solidá-
-
-rios: signiﬁ cados e sentidos
-
-4.1 do edital.
-NÃO APROVADO  não 
-
 Rosiane Maria da Costa Farias
 
 atende ao subitem b do item 
 
+em escolares
+
+A Violência Política de Gênero na Câmara dos Deputados
+
 Tassia Rabelo de Pinho
 
-4.1 do edital.
- Não aprovado  
+Tráﬁ co de drogas e homicídios de mulheres na Paraíba: análises 
+
+Nelson  Gomes  de  Sant'ana  e  Silva 
+
+As práticas de autogestão dos empreendimentos econômicos solidá-
+
+9,50
+
+APROVADO
 
 Alysson André Régis Oliveira
 
 Não aprovado  
 
-16
+criminológicas sobre participação e vitimização feminina
 
-João Pessoa - Quarta-feira, 22 de Dezembro de 2021
+Junior
+
+rios: signiﬁ cados e sentidos
+
+NÃO  APROVADO  não 
+
+4.1 do edital.
+
+NÃO  APROVADO  não 
+
+4.1 do edital.
+
+NÃO  APROVADO  não 
+
+4.1 do edital.
+
+NÃO  APROVADO  não 
+
+4.1 do edital.
+
+NÃO  APROVADO  não 
+
+4.1 do edital.
+
+ Não aprovado  
+
+João Pessoa - Quarta-feira, 22 de Dezembro de 2021
 
 Diário Oﬁ cial
 
-Crescimento  e  caracterização  de  materiais  magnéticos  nanoes-
+16
 
 truturados
-Sistema  de  liberação  de  fármaco  biodegradável  com  ação  con-
 
 traceptiva
-Avaliação do efeito inibidor da farinha de vísceras de aves hidroli-
 
-sada no sistema renina angiotensina aldosterona de cães saudáveis
-Estudo de corpos graníticos pegmatíticos na região de Picuí, Faixa 
-
-Seridó, NE do Brasil 
-Uso de diferentes tipos e formas de revestimentos na conservação 
-
-de frutas do semiárido brasileiro
+Crescimento  e  caracterização  de  materiais  magnéticos  nanoes-
 
 Karoline Oliveira Moura
 
 Não aprovado  
+
+Sistema  de  liberação  de  fármaco  biodegradável  com  ação  con-
 
 Wladymyr  Jefferson  Bacalhau 
 
@@ -4663,51 +5100,66 @@ Wilmer Alejandro Zamora Restan
 
 Vinicius Anselmo Carvalho Lisboa Não aprovado 
 
-Emmanuel Moreira Pereira
-
-Não aprovado 
-
 FUNDAÇÃO DE APOIO A PESQUISA DO ESTADO DA PARAÍBA - FAPESQ
 
 EDITAL 50/2021 – SEECT/FAPESQ/PB CENTROS ESTADUAIS DE INFRAESTRUTURA 
-
 CIENTÍFICA E TECNOLÓGICA DE CARÁTER MULTIUSUÁRIO
-
 RESULTADO FINAL
-
 A FUNDAÇÃO DE APOIO À PESQUISA DO ESTADO DA PARAÍBA-FAPESQ, vinculada à SE-
 CRETARIA DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E TECNOLOGIA-SEECT, torna público 
 o resultado ﬁ nal do EDITAL 50/2021 – SEECT/FAPESQ/PB - CENTROS ESTADUAIS DE INFRA-
 ESTRUTURA CIENTÍFICA E TECNOLÓGICA DE CARÁTER MULTIUSUÁRIO. São divulgadas 
 as propostas e orçamentos aprovados.
-Coordenador (a)
-Faixa 1
+
+Avaliação do efeito inibidor da farinha de vísceras de aves hidroli-
+
+sada no sistema renina angiotensina aldosterona de cães saudáveis
+
+Estudo de corpos graníticos pegmatíticos na região de Picuí, Faixa 
+
+Seridó, NE do Brasil 
+
+Uso de diferentes tipos e formas de revestimentos na conservação 
+
+de frutas do semiárido brasileiro
+
+trans em joão pessoa
+
+no Brejo Paraibano
+
+arbóreas da caatinga
+
+Caracterização  e  chave  de  identiﬁ cação  dendrológica  de  espécies 
+
+E-Resistance UFCG – Desenvolvimento de um veículo elétrico para 
+
+competição Fórmula SAE
+
+Potencial energético da madeira de espécies nativas e exótica utiliza-
+
+Emmanuel Moreira Pereira
+
+Não aprovado 
 
 Título da propostas
 
-Orçamentos
+Coordenador (a)
+
+Faixa 1
 
 Biologia reprodutiva de anuros e lagartos em áreas de Caatinga
 
 Marcio Frazão Chaves
 
+Retratos  de  irrupções:  impactos  da  pandemia  na  vida  de  pessoas 
+
 Não aprovado  
 
 Cassiano Francisco Weege Nonaka
 
-Retratos de irrupções: impactos da pandemia na vida de pessoas 
+dade de Biologia Molecular
 
-trans em joão pessoa
-Gestão dos Resíduos Sólidos de Empresas Produtoras de Cachaça 
-
-no Brejo Paraibano
-Caracterização e chave de identiﬁ cação dendrológica de espécies 
-
-arbóreas da caatinga
-E-Resistance UFCG – Desenvolvimento de um veículo elétrico para 
-
-competição Fórmula SAE
-Potencial energético da madeira de espécies nativas e exótica utiliza-
+Centro integrado Multiusuário de Referência em Saúde da Paraíba – Uni-
 
 Gustavo Artur Monzeli
 
@@ -4715,10 +5167,29 @@ Não aprovado
 
 Elquio Eleamen Oliveira
 
-Ana Cecília Feitosa de Vasconcelos Não aprovado  
+Implementação do laboratório de nanotecnologia no centro multiusuário 
+
+de análise e caracterização químico-biológica
+
+Gestão dos Resíduos Sólidos de Empresas Produtoras de Cachaça 
 
 Francisco  Jaime  Bezerra  Mendonça 
+
+Instalação da Central Multiusuária de Análise e Caracterização Quími-
+
+Ana Cecília Feitosa de Vasconcelos Não aprovado  
+
 Junior
+
+co-Biológica da UEPB
+
+Orçamentos
+
+R$440.000,00
+
+R$500.000,00
+
+R$999.720,00
 
 Cheila Deisy Ferreira
 
@@ -4726,9 +5197,27 @@ Não aprovado
 
 José Etham de Lucena Barbosa
 
+Água, Alimentos, Resíduos e Biodiversidade' para atendimento de serviços, 
+
+R$470.000,00
+
+Consolidação do 'Centro Integrado Multiusuário de Pesquisa e Análise de 
+
 Rafael Bezerra Correia Lima 
 
 Não aprovado  
+
+José Félix de Brito Neto
+
+Faixa 2
+
+pesquisa e inovação tecnológica na Paraíba
+
+Análise da qualidade de cachaças paraibanas e caracterização de leveduras 
+
+fermentadoras visando a indicação geográﬁ ca
+
+R$925.595,00
 
 das nas indústrias de cerâmicas vermelhas no semiárido paraibano e 
 
@@ -4736,7 +5225,15 @@ Pedro Nicó de Medeiros Neto
 
 Não aprovado  
 
+Consolidação de um ambiente multiusuário de inovação e empreendedo-
+
 o uso da casca do coco como fonte alternativa de energia
+
+Josemir Moura Maia
+
+rismo para atendimento à comunidade e fortalecimento do ecossistema 
+
+R$339.199,10
 
 Campos escalares: estruturas topológicas e aplicações
 
@@ -4744,15 +5241,12 @@ Matheus Araújo Marques
 
 Não aprovado  
 
+Criação  do  Centro  Estadual  de  Infraestrutura  Cientíﬁ ca  e  Tecnológica 
+
 Estudo  Quântico  Computacional  do  Mecanismo  e  Seletividade 
 
-das Reações X− + CH3ONO e CH3CH2ONO (X = F, OH, NH2 e 
-
-Ezequiel Fragoso Vieira Leitão
-
-Não aprovado 
-
 OCH3) em Fase Gasosa
+
 Desenvolvimento de Impressora 3D de Baixo Custo para as Escolas 
 
 Públicas do Estado da Paraíba
@@ -4761,49 +5255,34 @@ Mario César Soares Xavier
 
 Não aprovado  
 
-ROBERTO GERMANO COSTA
-
-Presidente da FAPESQ
-
 Campina Grande, 07 de dezembro de 2021
 
-Centro integrado Multiusuário de Referência em Saúde da Paraíba – Uni-
-dade de Biologia Molecular
-Implementação do laboratório de nanotecnologia no centro multiusuário 
-de análise e caracterização químico-biológica
-Instalação da Central Multiusuária de Análise e Caracterização Quími-
-co-Biológica da UEPB
-Consolidação do 'Centro Integrado Multiusuário de Pesquisa e Análise de 
-Água, Alimentos, Resíduos e Biodiversidade' para atendimento de serviços, 
-pesquisa e inovação tecnológica na Paraíba
-Análise da qualidade de cachaças paraibanas e caracterização de leveduras 
-fermentadoras visando a indicação geográﬁ ca
+ROBERTO GERMANO COSTA
+Presidente da FAPESQ
 
-R$440.000,00
-
-R$500.000,00
-
-R$999.720,00
-
-R$470.000,00
-
-R$925.595,00
-
-R$339.199,10
-
-Consolidação de um ambiente multiusuário de inovação e empreendedo-
-rismo para atendimento à comunidade e fortalecimento do ecossistema 
 de inovação paraibano
-Criação do Centro Estadual de Infraestrutura Cientíﬁ ca e Tecnológica 
-de  Caráter  Multiusuário  para  o  Estudo  do  Comércio  Internacional  e 
+
 Exportações Paraibanas
-Consolidação do Centro de Estudos Avançados em Políticas Públicas e 
+
 Governança (CEAPPG)
-Centro de Capacitação em Tecnologias Assistivas para o Idoso (CCTAI) R$498.500,00
-Centro de Pesquisa em Análise Preditiva, Analytics e Data Science da 
-Universidade Estadual da Paraíba
+
+Lucila  Gabriella  Maciel  Carneiro 
+
+Vilhena
+
+de  Caráter  Multiusuário  para  o  Estudo  do  Comércio  Internacional  e 
 
 R$263.284,26
+
+Paulo Eduardo e Silva Barbosa
+
+Centro de Capacitação em Tecnologias Assistivas para o Idoso (CCTAI) R$498.500,00
+
+Ricardo Alves de Olinda
+
+Universidade Estadual da Paraíba
+
+Centro  de  Pesquisa  em Análise  Preditiva, Analytics  e  Data  Science  da 
 
 R$148.000,00
 
@@ -4814,19 +5293,14 @@ Campina Grande, 21 de dezembro de 2021.
 Roberto Germano Costa
 Presidente da FAPESQ
 
-José Félix de Brito Neto
+das Reações X− + CH3ONO e CH3CH2ONO (X = F, OH, NH2 e 
 
-Faixa 2
+Ezequiel Fragoso Vieira Leitão
 
-Josemir Moura Maia
-
-Lucila  Gabriella  Maciel  Carneiro 
-Vilhena
+Não aprovado 
 
 Marcionila Fernandes
 
-Paulo Eduardo e Silva Barbosa
-
-Ricardo Alves de Olinda
+Consolidação do Centro de Estudos Avançados em Políticas Públicas e 
 
 
