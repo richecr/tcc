@@ -3,4 +3,4 @@ __pycache__/
 .coverage
 .env
 *.pyc
-__pycache__/*.pyc
+extract_text/__pycache__/utils.cpython-39.pyc
