@@ -18,21 +18,21 @@ E então, basta instalar as dependencias e executar.
 
 #### No windows:
 
+##### Tesseract:
+
 Deve ser instalado o [tesseract](https://github.com/UB-Mannheim/tesseract/wiki), baixar e instalar.
+
+Após isso tem que instalar os dados para portugues: https://github.com/tesseract-ocr/tessdata
+
+Basta baixar o por.traineddata e mover para a basta \tessdata, onde está instalado o tesseract-orc.
+
+##### Poppler:
 
 E também deve instalar o poppler: https://stackoverflow.com/questions/18381713/how-to-install-poppler-on-windows
 
-Other answers have linked to the correct download page for Windows users but do not specify how to install them for the uninitiated: https://blog.alivate.com.au/poppler-windows/
+Download Poppler Packaged for Windows: https://github.com/oschwartz10612/poppler-windows/releases
 
-- Go to this page and download the binary of your choice. In this example we will download and use poppler-0.68.0_x86.
-
-- Extract the archive file poppler-0.68.0_x86.7z into C:\Program Files. Thus, the directory structure should look something like this:
-
-- Add ´C:\Program Files\poppler-0.68.0_x86\bin` to your system PATH by doing the following: Click on the Windows start button, search for Edit the system environment variables, click on Environment Variables..., under System variables, look for and double-click on PATH, click on New, then add C:\Users\Program Files\poppler-0.68.0_x86\bin, click OK.
-
-- If you are using a terminal to execute poppler (e.g. running pdf2image in command line), you may need to reopen your terminal for poppler to work.
-
-- Done.
+I threw together a quick repo with the latest Poppler prebuilt-binaries packaged with dependencies for Windows. Built with the help of conda-forge and poppler-feedstock. Includes the latest poppler-data.
 
 No código adicionar: 
 

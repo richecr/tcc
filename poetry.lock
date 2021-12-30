@@ -386,14 +386,6 @@ python-versions = ">=3.6"
 Pillow = "*"
 
 [[package]]
-name = "python-poppler"
-version = "0.2.2"
-description = "A Python binding to poppler-cpp"
-category = "main"
-optional = false
-python-versions = ">=3.6"
-
-[[package]]
 name = "regex"
 version = "2021.11.10"
 description = "Alternative regular expression module, to replace re."
@@ -636,7 +628,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "c7e51c48f4b3eba2df99bd1cd815e1c47d16fa65188ebf72a138160265f67dc6"
+content-hash = "a87e4e0f829da899fb58c8902e13fd1ac5704da7214108a75654dfdc969baba6"
 
 [metadata.files]
 black = [
@@ -1062,9 +1054,6 @@ pypdf2 = [
 ]
 pytesseract = [
     {file = "pytesseract-0.3.8.tar.gz", hash = "sha256:6148a01e4375760862e8f56ea718e22b5d13b281454df46ea8dac9807793fc5a"},
-]
-python-poppler = [
-    {file = "python-poppler-0.2.2.tar.gz", hash = "sha256:6843398adc9c290035646c4cf3c7bfcea9c8e04390bb9cd8fdc9bd063fb77880"},
 ]
 regex = [
     {file = "regex-2021.11.10-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:9345b6f7ee578bad8e475129ed40123d265464c4cfead6c261fd60fc9de00bcf"},
