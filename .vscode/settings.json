@@ -1,6 +1,6 @@
 {
   "python.formatting.provider": "black",
-  "python.pythonPath": "C:\\Users\\richr\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\tcc-KuSx8n3p-py3.9\\Scripts\\python.exe",
+  "python.pythonPath": "/home/rich/.cache/pypoetry/virtualenvs/tcc-sYdELU-S-py3.9/bin/python",
   "python.linting.pycodestyleEnabled": true,
   "python.linting.enabled": true,
   "discord.detailsEditing": "Fazendo meu TCC, mexendo em {file_name}",
