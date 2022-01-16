@@ -10,7 +10,7 @@ from pdfminer.pdfparser import PDFParser
 from utils import write_txt_pb
 
 
-def extract_pdfminer_six(pdf):
+def extract_pdfminer_six(pdf, uf):
     output_string = StringIO()
     with open(pdf, 'rb') as in_file:
         parser = PDFParser(in_file)
@@ -27,5 +27,6 @@ def extract_pdfminer_six(pdf):
     output_string.close()
     content = content.replace("�", '.')
     filename = 'output_{}.txt'.format(pdf.split("/")[3])
+    path_dir = "./outputs/pdfminer_six_dou_{}/".format(uf)
     write_txt_pb(
-        content, filename=filename, dir="./outputs/pdfminer_six_dou_pb/")
+        content, filename=filename, dir=path_dir)

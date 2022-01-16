@@ -11,7 +11,9 @@ logging.info("Iniciado extração de textos dos PDF")
 print(pdfs)
 logging.info("São um total de {} pdfs".format(len(pdfs)))
 count = 1
+
 for pdf in pdfs:
-    extract_multilingual_ocr(pdf)
+    extract_multilingual_ocr(pdf, "pb")
     filename = pdf.split("/")[3]
     logging.info("Extração do pdf {} - {} concluído".format(count, filename))
+    count += 1

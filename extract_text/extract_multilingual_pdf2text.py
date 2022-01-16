@@ -10,15 +10,16 @@ logging.basicConfig(level=logging.INFO)
 # pytesseract.pytesseract.tesseract_cmd = path_tesseract_ocr
 
 
-def extract_multilingual_ocr(pdf):
+def extract_multilingual_ocr(pdf, uf):
     pdf_document = Document(document_path=pdf, language="por")
     pdf2text = PDF2Text(document=pdf_document)
     content = pdf2text.extract()
     for page in content:
         filename = 'output_{}.txt'.format(pdf.split("/")[3])
+        path_dir = "./outputs/multilingual_ocr_dou_{}/".format(uf)
         write_txt(
             page["text"],
             filename=filename,
-            dir="./outputs/multilingual_ocr_dou_pb/",
+            dir=path_dir,
             mode="a"
         )
