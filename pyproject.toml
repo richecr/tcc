@@ -5,13 +5,16 @@ description = "Meu TCC S2"
 authors = ["Rich <richelton14@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 PyPDF2 = "^1.26.0"
 PyMuPDF = "^1.19.2"
 pdfminer3 = "^2018.12.3"
 "pdfminer.six" = "^20211012"
 spacy = "^3.2.0"
 multilingual-pdf2text = "^1.1.0"
+pyxpdf = "^0.2.3"
+pyxpdf-data = "^1.1.0"
+Pillow = "^9.0.0"
 
 [tool.poetry.dev-dependencies]
 black = {version = "^21.11b1", allow-prereleases = true}
