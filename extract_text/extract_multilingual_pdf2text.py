@@ -6,8 +6,8 @@ from multilingual_pdf2text.models.document_model.document import Document
 from utils import write_txt
 
 logging.basicConfig(level=logging.INFO)
-# path_tesseract_ocr = r'D:\Programas\Tesseract-OCR\tesseract.exe'
-# pytesseract.pytesseract.tesseract_cmd = path_tesseract_ocr
+path_tesseract_ocr = r'D:\Programas\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = path_tesseract_ocr
 
 
 def extract_multilingual_ocr(pdf, uf):

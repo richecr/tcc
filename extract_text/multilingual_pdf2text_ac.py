@@ -1,7 +1,7 @@
 import os
 import time
 import logging
-from multiprocessing import Pool, cpu_count
+from os.path import exists
 from extract_multilingual_pdf2text import extract_multilingual_ocr
 
 directory = os.listdir('./pdfs_samples/ac')
@@ -15,9 +15,13 @@ logging.info("São um total de {} pdfs".format(len(pdfs)))
 
 
 def extract(pdf):
-    extract_multilingual_ocr(pdf, "ac")
     filename = pdf.split("/")[3]
-    logging.info("Extração do pdf {} concluído".format(filename))
+    file_exists = exists("./outputs/multilingual_ocr_dou_ac/output_{}.txt".format(filename))
+    if not file_exists:
+        extract_multilingual_ocr(pdf, "ac")
+        logging.info("Extração do pdf {} concluído".format(filename))
+    else:
+        logging.info("Extração do pdf {} já foi feita".format(filename))
 
 
 start_time = time.time()
