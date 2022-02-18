@@ -10,9 +10,10 @@ pages = []
 for page in pdf:
     paths = page.get_cdrawings()
     rects_interested = []
+    color_draw = (0.13669031858444214, 0.12195010483264923, 0.1252918243408203)
     for path in paths:
         if path['type'] == 's' and len(path['items']) == 1:
-            if path['color'] == (0.13669031858444214, 0.12195010483264923, 0.1252918243408203):
+            if path['color'] == color_draw:
                 page.draw_rect(path["rect"], color=(1, 0, 0))
                 rects_interested.append(path)
 
