@@ -1,0 +1,3963 @@
+[
+    {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375,
+        "blocks": [
+            {
+                "number": 0,
+                "type": 0,
+                "bbox": [
+                    63.070899963378906,
+                    129.3309326171875,
+                    563.3840942382812,
+                    138.42840576171875
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 16777215,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Sexta-feira, 17 de Dezembro de 2021",
+                                "origin": [
+                                    63.070899963378906,
+                                    136.73309326171875
+                                ],
+                                "bbox": [
+                                    63.070899963378906,
+                                    129.49090576171875,
+                                    196.4720916748047,
+                                    138.42840576171875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            63.070899963378906,
+                            129.49090576171875,
+                            196.4720916748047,
+                            138.42840576171875
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 16,
+                                "font": "Arial-BoldMT",
+                                "color": 16777215,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Ano LIV  -    ",
+                                "origin": [
+                                    400.7508850097656,
+                                    136.5731201171875
+                                ],
+                                "bbox": [
+                                    400.7508850097656,
+                                    129.3309326171875,
+                                    440.56561279296875,
+                                    138.2684326171875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            400.7508850097656,
+                            129.3309326171875,
+                            440.56561279296875,
+                            138.2684326171875
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 16,
+                                "font": "Arial-BoldMT",
+                                "color": 13750996,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "146 P\u00e1ginas",
+                                "origin": [
+                                    517.1348876953125,
+                                    136.5731201171875
+                                ],
+                                "bbox": [
+                                    517.1348876953125,
+                                    129.3309326171875,
+                                    563.3840942382812,
+                                    138.2684326171875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            517.1348876953125,
+                            129.3309326171875,
+                            563.3840942382812,
+                            138.2684326171875
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 1,
+                "type": 0,
+                "bbox": [
+                    221.49630737304688,
+                    84.10094451904297,
+                    405.24517822265625,
+                    131.99388122558594
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 9.989999771118164,
+                                "flags": 16,
+                                "font": "Tahoma-Bold",
+                                "color": 2236191,
+                                "ascender": 1.00048828125,
+                                "descender": -0.20654296875,
+                                "text": "ESTADO DO ACRE",
+                                "origin": [
+                                    256.0304870605469,
+                                    94.0958251953125
+                                ],
+                                "bbox": [
+                                    256.0304870605469,
+                                    84.10094451904297,
+                                    370.6880187988281,
+                                    96.15918731689453
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            256.0304870605469,
+                            84.10094451904297,
+                            370.6880187988281,
+                            96.15918731689453
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 31.968000411987305,
+                                "flags": 4,
+                                "font": "ArnoPro-Caption",
+                                "color": 2236191,
+                                "ascender": 0.8949999809265137,
+                                "descender": -0.37299999594688416,
+                                "text": "Di\u00e1rio Oficial",
+                                "origin": [
+                                    221.49630737304688,
+                                    120.06982421875
+                                ],
+                                "bbox": [
+                                    221.49630737304688,
+                                    91.45846557617188,
+                                    405.24517822265625,
+                                    131.99388122558594
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            221.49630737304688,
+                            91.45846557617188,
+                            405.24517822265625,
+                            131.99388122558594
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "type": 0,
+                "bbox": [
+                    89.75990295410156,
+                    108.6060791015625,
+                    151.8842010498047,
+                    115.3092041015625
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 6.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 16777215,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "ASSINATURA DIGITAL",
+                                "origin": [
+                                    89.75990295410156,
+                                    114.0377197265625
+                                ],
+                                "bbox": [
+                                    89.75990295410156,
+                                    108.6060791015625,
+                                    151.8842010498047,
+                                    115.3092041015625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            89.75990295410156,
+                            108.6060791015625,
+                            151.8842010498047,
+                            115.3092041015625
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "type": 0,
+                "bbox": [
+                    273.91558837890625,
+                    129.54290771484375,
+                    353.48883056640625,
+                    138.48040771484375
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 16,
+                                "font": "Arial-BoldMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "www.diario.ac.gov.br",
+                                "origin": [
+                                    273.91558837890625,
+                                    136.78509521484375
+                                ],
+                                "bbox": [
+                                    273.91558837890625,
+                                    129.54290771484375,
+                                    353.48883056640625,
+                                    138.48040771484375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            273.91558837890625,
+                            129.54290771484375,
+                            353.48883056640625,
+                            138.48040771484375
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "type": 0,
+                "bbox": [
+                    293.49957275390625,
+                    152.222900390625,
+                    331.27423095703125,
+                    161.160400390625
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 16,
+                                "font": "Arial-BoldMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "SUM\u00c1RIO",
+                                "origin": [
+                                    293.49957275390625,
+                                    159.465087890625
+                                ],
+                                "bbox": [
+                                    293.49957275390625,
+                                    152.222900390625,
+                                    331.27423095703125,
+                                    161.160400390625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            293.49957275390625,
+                            152.222900390625,
+                            331.27423095703125,
+                            161.160400390625
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "type": 0,
+                "bbox": [
+                    55.665924072265625,
+                    171.4405517578125,
+                    572.7471313476562,
+                    257.6900634765625
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "GOVERNADORIA DO ESTADO \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd1",
+                                "origin": [
+                                    55.67390060424805,
+                                    178.6827392578125
+                                ],
+                                "bbox": [
+                                    55.67390060424805,
+                                    171.4405517578125,
+                                    572.7391357421875,
+                                    180.3780517578125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            55.67390060424805,
+                            171.4405517578125,
+                            572.7391357421875,
+                            180.3780517578125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "\u00d3RG\u00c3OS MILITARES \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd5",
+                                "origin": [
+                                    55.67388916015625,
+                                    188.31475830078125
+                                ],
+                                "bbox": [
+                                    55.67388916015625,
+                                    181.07257080078125,
+                                    572.7391357421875,
+                                    190.01007080078125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            55.67388916015625,
+                            181.07257080078125,
+                            572.7391357421875,
+                            190.01007080078125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "SECRETARIAS DE ESTADO \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd13",
+                                "origin": [
+                                    55.67388916015625,
+                                    197.9307861328125
+                                ],
+                                "bbox": [
+                                    55.67388916015625,
+                                    190.6885986328125,
+                                    572.7391357421875,
+                                    199.6260986328125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            55.67388916015625,
+                            190.6885986328125,
+                            572.7391357421875,
+                            199.6260986328125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "AUTARQUIAS \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd44",
+                                "origin": [
+                                    55.673919677734375,
+                                    207.62677001953125
+                                ],
+                                "bbox": [
+                                    55.673919677734375,
+                                    200.38458251953125,
+                                    572.7391357421875,
+                                    209.32208251953125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            55.673919677734375,
+                            200.38458251953125,
+                            572.7391357421875,
+                            209.32208251953125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "FUNDA\u00c7\u00d5ES P\u00daBLICAS \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd52",
+                                "origin": [
+                                    55.673919677734375,
+                                    217.29876708984375
+                                ],
+                                "bbox": [
+                                    55.673919677734375,
+                                    210.05657958984375,
+                                    572.7471313476562,
+                                    218.99407958984375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            55.673919677734375,
+                            210.05657958984375,
+                            572.7471313476562,
+                            218.99407958984375
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "EMPRESAS P\u00daBLICAS \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd57",
+                                "origin": [
+                                    55.681915283203125,
+                                    226.9307861328125
+                                ],
+                                "bbox": [
+                                    55.681915283203125,
+                                    219.6885986328125,
+                                    572.7391357421875,
+                                    228.6260986328125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            55.681915283203125,
+                            219.6885986328125,
+                            572.7391357421875,
+                            228.6260986328125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "SOCIEDADES DE ECONOMIA MISTA \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd59",
+                                "origin": [
+                                    55.673919677734375,
+                                    236.53875732421875
+                                ],
+                                "bbox": [
+                                    55.673919677734375,
+                                    229.29656982421875,
+                                    572.7311401367188,
+                                    238.23406982421875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            55.673919677734375,
+                            229.29656982421875,
+                            572.7311401367188,
+                            238.23406982421875
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "MUNICIPALIDADE \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd59",
+                                "origin": [
+                                    55.665924072265625,
+                                    246.146728515625
+                                ],
+                                "bbox": [
+                                    55.665924072265625,
+                                    238.904541015625,
+                                    572.7311401367188,
+                                    247.842041015625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            55.665924072265625,
+                            238.904541015625,
+                            572.7311401367188,
+                            247.842041015625
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "DIVERSOS \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd144",
+                                "origin": [
+                                    55.665924072265625,
+                                    255.9947509765625
+                                ],
+                                "bbox": [
+                                    55.665924072265625,
+                                    248.7525634765625,
+                                    572.7311401367188,
+                                    257.6900634765625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            55.665924072265625,
+                            248.7525634765625,
+                            572.7311401367188,
+                            257.6900634765625
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "type": 0,
+                "bbox": [
+                    443.48028564453125,
+                    129.3302001953125,
+                    477.9775085449219,
+                    138.2677001953125
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 16,
+                                "font": "Arial-BoldMT",
+                                "color": 16777215,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "n\u00ba 13.187",
+                                "origin": [
+                                    443.48028564453125,
+                                    136.5723876953125
+                                ],
+                                "bbox": [
+                                    443.48028564453125,
+                                    129.3302001953125,
+                                    477.9775085449219,
+                                    138.2677001953125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            443.48028564453125,
+                            129.3302001953125,
+                            477.9775085449219,
+                            138.2677001953125
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "type": 0,
+                "bbox": [
+                    238.7230987548828,
+                    274.4117126464844,
+                    387.7007141113281,
+                    285.4674072265625
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 9.895999908447266,
+                                "flags": 16,
+                                "font": "Arial-BoldMT",
+                                "color": 16777215,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "GOVERNADORIA DO ESTADO",
+                                "origin": [
+                                    238.7230987548828,
+                                    283.37030029296875
+                                ],
+                                "bbox": [
+                                    238.7230987548828,
+                                    274.4117126464844,
+                                    387.7007141113281,
+                                    285.4674072265625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            238.7230987548828,
+                            274.4117126464844,
+                            387.7007141113281,
+                            285.4674072265625
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "type": 0,
+                "bbox": [
+                    242.29660034179688,
+                    291.9601135253906,
+                    384.1673889160156,
+                    303.01580810546875
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 9.895999908447266,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "GABINETE DO GOVERNADOR",
+                                "origin": [
+                                    242.29660034179688,
+                                    300.918701171875
+                                ],
+                                "bbox": [
+                                    242.29660034179688,
+                                    291.9601135253906,
+                                    384.1673889160156,
+                                    303.01580810546875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            242.29660034179688,
+                            291.9601135253906,
+                            384.1673889160156,
+                            303.01580810546875
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 9,
+                "type": 0,
+                "bbox": [
+                    53.858299255371094,
+                    314.64520263671875,
+                    124.3894271850586,
+                    323.58270263671875
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "ESTADO DO ACRE",
+                                "origin": [
+                                    53.858299255371094,
+                                    321.88739013671875
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    314.64520263671875,
+                                    124.3894271850586,
+                                    323.58270263671875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            314.64520263671875,
+                            124.3894271850586,
+                            323.58270263671875
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 10,
+                "type": 0,
+                "bbox": [
+                    53.858299255371094,
+                    334.3652038574219,
+                    574.8009033203125,
+                    372.8947448730469
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "DECRETO N\u00ba 10\ufffd823, DE 16 DE DEZEMBRO DE 2021",
+                                "origin": [
+                                    53.858299255371094,
+                                    341.6073913574219
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    334.3652038574219,
+                                    251.3658905029297,
+                                    343.3027038574219
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            334.3652038574219,
+                            251.3658905029297,
+                            343.3027038574219
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": " ",
+                                "origin": [
+                                    53.858299255371094,
+                                    351.4714050292969
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    344.2292175292969,
+                                    56.080955505371094,
+                                    353.1667175292969
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            344.2292175292969,
+                            56.080955505371094,
+                            353.1667175292969
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Disp\u00f5e sobre o expediente administrativo nos \u00f3rg\u00e3os e entidades da Administra\u00e7\u00e3o Direta e Indireta do Poder Executivo Estadual, no per\u00edodo de ",
+                                "origin": [
+                                    53.858299255371094,
+                                    361.3354187011719
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    354.0932312011719,
+                                    574.8009033203125,
+                                    363.0307312011719
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            354.0932312011719,
+                            574.8009033203125,
+                            363.0307312011719
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "21 a 31 de dezembro 2021\ufffd",
+                                "origin": [
+                                    53.858299255371094,
+                                    371.1994323730469
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    363.9572448730469,
+                                    151.69692993164062,
+                                    372.8947448730469
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            363.9572448730469,
+                            151.69692993164062,
+                            372.8947448730469
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 11,
+                "type": 0,
+                "bbox": [
+                    53.8582763671875,
+                    383.67724609375,
+                    574.815185546875,
+                    530.7109375
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "O GOVERNADOR DO ESTADO DO ACRE, no uso da atribui\u00e7\u00e3o que lhe confere o art\ufffd 78, inciso IV, da Constitui\u00e7\u00e3o Estadual,",
+                                "origin": [
+                                    53.858299255371094,
+                                    390.91943359375
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    383.67724609375,
+                                    501.61444091796875,
+                                    392.61474609375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            383.67724609375,
+                            501.61444091796875,
+                            392.61474609375
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "DECRETA:",
+                                "origin": [
+                                    53.858299255371094,
+                                    400.783447265625
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    393.541259765625,
+                                    93.71375274658203,
+                                    402.478759765625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            393.541259765625,
+                            93.71375274658203,
+                            402.478759765625
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Art. 1\u00ba Nos per\u00edodos de 20 a 23 e de 29 a 30 de dezembro de 2021 fica autorizado o estabelecimento de expediente em regime de revezamento, ",
+                                "origin": [
+                                    53.858299255371094,
+                                    410.6474609375
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    403.4052734375,
+                                    574.815185546875,
+                                    412.3427734375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            403.4052734375,
+                            574.815185546875,
+                            412.3427734375
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "nos \u00f3rg\u00e3os e entidades da Administra\u00e7\u00e3o Direta e Indireta do Poder Executivo Estadual, a crit\u00e9rio dos respectivos titulares\ufffd",
+                                "origin": [
+                                    53.858299255371094,
+                                    420.511474609375
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    413.269287109375,
+                                    490.0672607421875,
+                                    422.206787109375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            413.269287109375,
+                            490.0672607421875,
+                            422.206787109375
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "\u00a7 1\u00ba N\u00e3o se aplica o disposto no caput deste artigo aos \u00f3rg\u00e3os e entidades cuja presta\u00e7\u00e3o do servi\u00e7o seja considerada essencial\ufffd",
+                                "origin": [
+                                    53.858299255371094,
+                                    430.37548828125
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    423.13330078125,
+                                    513.0088500976562,
+                                    432.07080078125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            423.13330078125,
+                            513.0088500976562,
+                            432.07080078125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "\u00a7 2\u00ba Durante os per\u00edodos referidos no caput deste artigo ser\u00e1 observado o hor\u00e1rio regular de funcionamento dos \u00f3rg\u00e3os e entidades da administra\u00e7\u00e3o p\u00fablica estadual\ufffd",
+                                "origin": [
+                                    53.858299255371094,
+                                    440.239501953125
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    432.997314453125,
+                                    569.95166015625,
+                                    451.798828125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            432.997314453125,
+                            569.95166015625,
+                            451.798828125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Art\ufffd 2\u00ba \u00c9 vedada a antecipa\u00e7\u00e3o ou posterga\u00e7\u00e3o do recesso em discord\u00e2ncia com o que disp\u00f5e este Decreto\ufffd ",
+                                "origin": [
+                                    53.858299255371094,
+                                    459.967529296875
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    452.725341796875,
+                                    440.52886962890625,
+                                    461.662841796875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            452.725341796875,
+                            440.52886962890625,
+                            461.662841796875
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Art\ufffd 3\u00ba Os \u00f3rg\u00e3os e entidades que adotarem o expediente em regime de revezamento dever\u00e3o elaborar escala entre os servidores de cada unidade ",
+                                "origin": [
+                                    53.858299255371094,
+                                    469.83154296875
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    462.58935546875,
+                                    574.8008422851562,
+                                    471.52685546875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            462.58935546875,
+                            574.8008422851562,
+                            471.52685546875
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "administrativa, com a anu\u00eancia da chefia imediata, de modo que em cada per\u00edodo permane\u00e7a quantitativo de servidores que garantam a manuten\u00e7\u00e3o dos servi\u00e7os\ufffd ",
+                                "origin": [
+                                    53.858299255371094,
+                                    479.695556640625
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    472.453369140625,
+                                    569.9234008789062,
+                                    491.2548828125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            472.453369140625,
+                            569.9234008789062,
+                            491.2548828125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Art\ufffd 4\u00ba Fica estabelecido ponto facultativo no dia 27 de dezembro de 2021, bem como feriado no dia 28 de dezembro de 2021, em alus\u00e3o ao anivers\u00e1rio do munic\u00edpio de Rio Branco, nos termos do Decreto n\u00ba 7\ufffd613, de 31 de dezembro de 2020\ufffd",
+                                "origin": [
+                                    53.8582763671875,
+                                    499.423583984375
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    492.181396484375,
+                                    569.873046875,
+                                    510.98291015625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            492.181396484375,
+                            569.873046875,
+                            510.98291015625
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Art\ufffd 5\u00ba Este Decreto entra em vigor na data de sua publica\u00e7\u00e3o\ufffd",
+                                "origin": [
+                                    53.8582763671875,
+                                    519.151611328125
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    511.909423828125,
+                                    275.5528869628906,
+                                    520.846923828125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            511.909423828125,
+                            275.5528869628906,
+                            520.846923828125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Rio Branco-Acre, 16 de dezembro de 2021, 132\u00ba da Rep\u00fablica, 119\u00ba do Tratado de Petr\u00f3polis e 60\u00ba do Estado do Acre\ufffd",
+                                "origin": [
+                                    53.8582763671875,
+                                    529.015625
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    521.7734375,
+                                    475.63446044921875,
+                                    530.7109375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            521.7734375,
+                            475.63446044921875,
+                            530.7109375
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 12,
+                "type": 0,
+                "bbox": [
+                    53.8582763671875,
+                    541.493408203125,
+                    163.70587158203125,
+                    560.294921875
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Gladson de Lima Cameli",
+                                "origin": [
+                                    53.8582763671875,
+                                    548.735595703125
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    541.493408203125,
+                                    141.443603515625,
+                                    550.430908203125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            541.493408203125,
+                            141.443603515625,
+                            550.430908203125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Governador do Estado do Acre",
+                                "origin": [
+                                    53.8582763671875,
+                                    558.599609375
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    551.357421875,
+                                    163.70587158203125,
+                                    560.294921875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            551.357421875,
+                            163.70587158203125,
+                            560.294921875
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 13,
+                "type": 0,
+                "bbox": [
+                    53.8582763671875,
+                    575.3894653320312,
+                    124.389404296875,
+                    584.3269653320312
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "ESTADO DO ACRE",
+                                "origin": [
+                                    53.8582763671875,
+                                    582.6316528320312
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    575.3894653320312,
+                                    124.389404296875,
+                                    584.3269653320312
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            575.3894653320312,
+                            124.389404296875,
+                            584.3269653320312
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 14,
+                "type": 0,
+                "bbox": [
+                    53.8582763671875,
+                    595.1094970703125,
+                    251.36585998535156,
+                    604.0469970703125
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "DECRETO N\u00ba 10\ufffd825, DE 16 DE DEZEMBRO DE 2021",
+                                "origin": [
+                                    53.8582763671875,
+                                    602.3516845703125
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    595.1094970703125,
+                                    251.36585998535156,
+                                    604.0469970703125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            595.1094970703125,
+                            251.36585998535156,
+                            604.0469970703125
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 15,
+                "type": 0,
+                "bbox": [
+                    53.8582763671875,
+                    614.8294677734375,
+                    394.4889221191406,
+                    623.7669677734375
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Torna sem efeito nomea\u00e7\u00e3o para cargos do Instituto de Defesa Agropecu\u00e1ria e Florestal \u2013 IDAF\ufffd",
+                                "origin": [
+                                    53.8582763671875,
+                                    622.0716552734375
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    614.8294677734375,
+                                    394.4889221191406,
+                                    623.7669677734375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            614.8294677734375,
+                            394.4889221191406,
+                            623.7669677734375
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 16,
+                "type": 0,
+                "bbox": [
+                    53.8582763671875,
+                    634.5494384765625,
+                    574.817626953125,
+                    791.4469604492188
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "O GOVERNADOR DO ESTADO DO ACRE, no uso da atribui\u00e7\u00e3o que lhe confere o art\ufffd 78, inciso XX, da Constitui\u00e7\u00e3o Estadual,",
+                                "origin": [
+                                    53.8582763671875,
+                                    641.7916259765625
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    634.5494384765625,
+                                    505.44561767578125,
+                                    643.4869384765625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            634.5494384765625,
+                            505.44561767578125,
+                            643.4869384765625
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "CONSIDERANDO o disposto no art\ufffd 14, \u00a7\u00a7 1\u00ba e 6\u00ba da Lei Complementar n\u00ba 39, de 29 de dezembro de 1993,",
+                                "origin": [
+                                    53.8582763671875,
+                                    651.6556396484375
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    644.4134521484375,
+                                    439.24884033203125,
+                                    653.3509521484375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            644.4134521484375,
+                            439.24884033203125,
+                            653.3509521484375
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "CONSIDERANDO o resultado final do concurso p\u00fablico para a forma\u00e7\u00e3o de cadastro de reserva do Instituto de Defesa Agropecu\u00e1ria e Florestal ",
+                                "origin": [
+                                    53.8582763671875,
+                                    661.5196533203125
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    654.2774658203125,
+                                    574.8143310546875,
+                                    663.2149658203125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            654.2774658203125,
+                            574.8143310546875,
+                            663.2149658203125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "\u2013 IDAF, homologado pelo Edital n\u00ba 022 SEPLAG/IDAF, de 27 de novembro de 2020, publicado no Di\u00e1rio Oficial do Estado n\u00ba 12.931, de 30 de ",
+                                "origin": [
+                                    53.8582763671875,
+                                    671.3836669921875
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    664.1414794921875,
+                                    574.817626953125,
+                                    673.0789794921875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            664.1414794921875,
+                            574.817626953125,
+                            673.0789794921875
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "novembro de 2020, ",
+                                "origin": [
+                                    53.8582763671875,
+                                    681.2476806640625
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    674.0054931640625,
+                                    125.00891876220703,
+                                    682.9429931640625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            674.0054931640625,
+                            125.00891876220703,
+                            682.9429931640625
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "CONSIDERANDO que ap\u00f3s a nomea\u00e7\u00e3o para os cargos do Instituto de Defesa Agropecu\u00e1ria e Florestal \u2013 IDAF, de que trata o Decreto n\u00ba 10\ufffd435 de ",
+                                "origin": [
+                                    53.8582763671875,
+                                    691.1116333007812
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    683.8694458007812,
+                                    574.8080444335938,
+                                    692.8069458007812
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            683.8694458007812,
+                            574.8080444335938,
+                            692.8069458007812
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "28 de outubro de 2021, publicado no Di\u00e1rio Oficial do Estado n\u00ba 13.162-A, de 10 de novembro de 2021, os candidatos que menciona n\u00e3o tomaram ",
+                                "origin": [
+                                    53.8582763671875,
+                                    700.9756469726562
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    693.7334594726562,
+                                    574.8111572265625,
+                                    702.6709594726562
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            693.7334594726562,
+                            574.8111572265625,
+                            702.6709594726562
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "posse no prazo estabelecido,",
+                                "origin": [
+                                    53.8582763671875,
+                                    710.8396606445312
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    703.5974731445312,
+                                    157.9129180908203,
+                                    712.5349731445312
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            703.5974731445312,
+                            157.9129180908203,
+                            712.5349731445312
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "RESOLVE:",
+                                "origin": [
+                                    53.8582763671875,
+                                    720.70361328125
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    713.46142578125,
+                                    93.2801284790039,
+                                    722.39892578125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            713.46142578125,
+                            93.2801284790039,
+                            722.39892578125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Art\ufffd 1\u00ba Tornar sem efeito a nomea\u00e7\u00e3o para os cargos efetivos do Instituto de Defesa Agropecu\u00e1ria e Florestal \u2013 IDAF:",
+                                "origin": [
+                                    53.8582763671875,
+                                    730.567626953125
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    723.325439453125,
+                                    469.28643798828125,
+                                    732.262939453125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            723.325439453125,
+                            469.28643798828125,
+                            732.262939453125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "I \u2013 T\u00e9cnico em Defesa Agropecu\u00e1ria e Florestal - Manoel Urbano: Nubio Junio de Faria\ufffd Rodrigues Alves: Marcos Marcelo do Nascimento Fernandes\ufffd Santa Rosa do Purus: Luana Santos Maia\ufffd Senador Guiomard: Matheus Matos do Nascimento;",
+                                "origin": [
+                                    53.8582763671875,
+                                    740.431640625
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    733.189453125,
+                                    569.941650390625,
+                                    751.990966796875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            733.189453125,
+                            569.941650390625,
+                            751.990966796875
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "II  \u2013  Engenheiro Agr\u00f4nomo - Sena Madureira: Julio C\u00e9sar de Lima Mendes Junior;",
+                                "origin": [
+                                    53.8582763671875,
+                                    760.15966796875
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    752.91748046875,
+                                    347.32086181640625,
+                                    761.85498046875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            752.91748046875,
+                            347.32086181640625,
+                            761.85498046875
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "III  \u2013  M\u00e9dico Veterin\u00e1rio - Rio Branco: Amaury Azevedo Luz\ufffd",
+                                "origin": [
+                                    53.8582763671875,
+                                    770.0236206054688
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    762.7814331054688,
+                                    268.6257019042969,
+                                    771.7189331054688
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            762.7814331054688,
+                            268.6257019042969,
+                            771.7189331054688
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Art\ufffd 2\u00ba Este Decreto entra em vigor na data de sua publica\u00e7\u00e3o\ufffd",
+                                "origin": [
+                                    53.8582763671875,
+                                    779.8876342773438
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    772.6454467773438,
+                                    275.5528869628906,
+                                    781.5829467773438
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            772.6454467773438,
+                            275.5528869628906,
+                            781.5829467773438
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Rio Branco-Acre, 16 de dezembro de 2021, 133\u00ba da Rep\u00fablica, 119\u00ba do Tratado de Petr\u00f3polis e 60\u00ba do Estado do Acre\ufffd",
+                                "origin": [
+                                    53.8582763671875,
+                                    789.7516479492188
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    782.5094604492188,
+                                    475.63446044921875,
+                                    791.4469604492188
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            782.5094604492188,
+                            475.63446044921875,
+                            791.4469604492188
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 17,
+                "type": 0,
+                "bbox": [
+                    53.8582763671875,
+                    802.2294311523438,
+                    163.70587158203125,
+                    821.0309448242188
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Gladson de Lima Cameli",
+                                "origin": [
+                                    53.8582763671875,
+                                    809.4716186523438
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    802.2294311523438,
+                                    141.443603515625,
+                                    811.1669311523438
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            802.2294311523438,
+                            141.443603515625,
+                            811.1669311523438
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Governador do Estado do Acre",
+                                "origin": [
+                                    53.8582763671875,
+                                    819.3356323242188
+                                ],
+                                "bbox": [
+                                    53.8582763671875,
+                                    812.0934448242188,
+                                    163.70587158203125,
+                                    821.0309448242188
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.8582763671875,
+                            812.0934448242188,
+                            163.70587158203125,
+                            821.0309448242188
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 18,
+                "type": 0,
+                "bbox": [
+                    69.22039794921875,
+                    95.8939208984375,
+                    112.62317657470703,
+                    107.11395263671875
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 4.671050548553467,
+                                "flags": 4,
+                                "font": "MyriadPro-Regular",
+                                "color": 0,
+                                "ascender": 0.9520000219345093,
+                                "descender": -0.25,
+                                "text": "JOSE GLAUBER MAIA ",
+                                "origin": [
+                                    69.22039794921875,
+                                    100.34082794189453
+                                ],
+                                "bbox": [
+                                    69.22039794921875,
+                                    95.8939208984375,
+                                    110.77345275878906,
+                                    101.50860595703125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            69.22039794921875,
+                            95.8939208984375,
+                            110.77345275878906,
+                            101.50860595703125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 4.671050548553467,
+                                "flags": 4,
+                                "font": "MyriadPro-Regular",
+                                "color": 0,
+                                "ascender": 0.9520000219345093,
+                                "descender": -0.25,
+                                "text": "SANTOS:74412850200",
+                                "origin": [
+                                    69.22039794921875,
+                                    105.94617462158203
+                                ],
+                                "bbox": [
+                                    69.22039794921875,
+                                    101.499267578125,
+                                    112.62317657470703,
+                                    107.11395263671875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            69.22039794921875,
+                            101.499267578125,
+                            112.62317657470703,
+                            107.11395263671875
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 19,
+                "type": 0,
+                "bbox": [
+                    122.07179260253906,
+                    97.67713165283203,
+                    172.3202667236328,
+                    105.72602081298828
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 1.3410145044326782,
+                                "flags": 4,
+                                "font": "MyriadPro-Regular",
+                                "color": 0,
+                                "ascender": 0.9520000219345093,
+                                "descender": -0.25,
+                                "text": "Digitally signed by JOSE GLAUBER MAIA SANTOS:74412850200 ",
+                                "origin": [
+                                    122.07179260253906,
+                                    98.95379638671875
+                                ],
+                                "bbox": [
+                                    122.07179260253906,
+                                    97.67713165283203,
+                                    157.3855743408203,
+                                    99.28905487060547
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            122.07179260253906,
+                            97.67713165283203,
+                            157.3855743408203,
+                            99.28905487060547
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 1.3410145044326782,
+                                "flags": 4,
+                                "font": "MyriadPro-Regular",
+                                "color": 0,
+                                "ascender": 0.9520000219345093,
+                                "descender": -0.25,
+                                "text": "DN: c=BR, o=ICP-Brasil, ou=Secretaria da Receita Federal do Brasil - RFB, ou=RFB e-CPF A1, ",
+                                "origin": [
+                                    122.07179260253906,
+                                    100.56303405761719
+                                ],
+                                "bbox": [
+                                    122.07179260253906,
+                                    99.28636932373047,
+                                    172.3202667236328,
+                                    100.8982925415039
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            122.07179260253906,
+                            99.28636932373047,
+                            172.3202667236328,
+                            100.8982925415039
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 1.3410145044326782,
+                                "flags": 4,
+                                "font": "MyriadPro-Regular",
+                                "color": 0,
+                                "ascender": 0.9520000219345093,
+                                "descender": -0.25,
+                                "text": "ou=VALID, ou=AR AMAZON DIGITAL CERTIFICADORA, ou=Presencial, ",
+                                "origin": [
+                                    122.07179260253906,
+                                    102.17227935791016
+                                ],
+                                "bbox": [
+                                    122.07179260253906,
+                                    100.89561462402344,
+                                    160.90298461914062,
+                                    102.50753784179688
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            122.07179260253906,
+                            100.89561462402344,
+                            160.90298461914062,
+                            102.50753784179688
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 1.3410145044326782,
+                                "flags": 4,
+                                "font": "MyriadPro-Regular",
+                                "color": 0,
+                                "ascender": 0.9520000219345093,
+                                "descender": -0.25,
+                                "text": "ou=21196601000191, cn=JOSE GLAUBER MAIA SANTOS:74412850200 ",
+                                "origin": [
+                                    122.07179260253906,
+                                    103.7815170288086
+                                ],
+                                "bbox": [
+                                    122.07179260253906,
+                                    102.50485229492188,
+                                    161.35763549804688,
+                                    104.11677551269531
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            122.07179260253906,
+                            102.50485229492188,
+                            161.35763549804688,
+                            104.11677551269531
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 1.3410145044326782,
+                                "flags": 4,
+                                "font": "MyriadPro-Regular",
+                                "color": 0,
+                                "ascender": 0.9520000219345093,
+                                "descender": -0.25,
+                                "text": "Date: 2021.12.16 22:20:27 -03'00'",
+                                "origin": [
+                                    122.07179260253906,
+                                    105.39076232910156
+                                ],
+                                "bbox": [
+                                    122.07179260253906,
+                                    104.11409759521484,
+                                    140.26644897460938,
+                                    105.72602081298828
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            122.07179260253906,
+                            104.11409759521484,
+                            140.26644897460938,
+                            105.72602081298828
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375,
+        "blocks": [
+            {
+                "number": 0,
+                "type": 0,
+                "bbox": [
+                    58.107208251953125,
+                    18.32012939453125,
+                    572.598388671875,
+                    33.45684814453125
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 12.0,
+                                "flags": 4,
+                                "font": "TimesNewRomanPSMT",
+                                "color": 2236191,
+                                "ascender": 0.89111328125,
+                                "descender": -0.21630859375,
+                                "text": "2",
+                                "origin": [
+                                    566.598388671875,
+                                    29.01348876953125
+                                ],
+                                "bbox": [
+                                    566.598388671875,
+                                    18.32012939453125,
+                                    572.598388671875,
+                                    31.60919189453125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            566.598388671875,
+                            18.32012939453125,
+                            572.598388671875,
+                            31.60919189453125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 16,
+                                "font": "Arial-BoldMT",
+                                "color": 16777215,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "DI\u00c1RIO OFICIAL",
+                                "origin": [
+                                    506.6265869140625,
+                                    31.61968994140625
+                                ],
+                                "bbox": [
+                                    506.6265869140625,
+                                    24.37750244140625,
+                                    568.8493041992188,
+                                    33.31500244140625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            506.6265869140625,
+                            24.37750244140625,
+                            568.8493041992188,
+                            33.31500244140625
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 16,
+                                "font": "Arial-BoldMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "N\u00ba 13.187",
+                                "origin": [
+                                    295.6512145996094,
+                                    31.76153564453125
+                                ],
+                                "bbox": [
+                                    295.6512145996094,
+                                    24.51934814453125,
+                                    331.03643798828125,
+                                    33.45684814453125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            295.6512145996094,
+                            24.51934814453125,
+                            331.03643798828125,
+                            33.45684814453125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 16,
+                                "font": "Arial-BoldMT",
+                                "color": 13750996,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "2    ",
+                                "origin": [
+                                    58.107208251953125,
+                                    31.6175537109375
+                                ],
+                                "bbox": [
+                                    58.107208251953125,
+                                    24.3753662109375,
+                                    71.44986724853516,
+                                    33.3128662109375
+                                ]
+                            },
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 16777215,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Sexta-feira, 17 de Dezembro de 2021",
+                                "origin": [
+                                    71.44320678710938,
+                                    31.6175537109375
+                                ],
+                                "bbox": [
+                                    71.44320678710938,
+                                    24.3753662109375,
+                                    204.84439086914062,
+                                    33.3128662109375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            58.107208251953125,
+                            24.3753662109375,
+                            204.84439086914062,
+                            33.3128662109375
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 1,
+                "type": 0,
+                "bbox": [
+                    53.858299255371094,
+                    43.9366455078125,
+                    124.3894271850586,
+                    52.8741455078125
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "ESTADO DO ACRE",
+                                "origin": [
+                                    53.858299255371094,
+                                    51.1788330078125
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    43.9366455078125,
+                                    124.3894271850586,
+                                    52.8741455078125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            43.9366455078125,
+                            124.3894271850586,
+                            52.8741455078125
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "type": 0,
+                "bbox": [
+                    53.858299255371094,
+                    63.13665771484375,
+                    251.3658905029297,
+                    72.07415771484375
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "DECRETO N\u00ba 10\ufffd826, DE 16 DE DEZEMBRO DE 2021",
+                                "origin": [
+                                    53.858299255371094,
+                                    70.37884521484375
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    63.13665771484375,
+                                    251.3658905029297,
+                                    72.07415771484375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            63.13665771484375,
+                            251.3658905029297,
+                            72.07415771484375
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "type": 0,
+                "bbox": [
+                    53.858299255371094,
+                    82.336669921875,
+                    569.9219970703125,
+                    100.8741455078125
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Excluir do Decreto n\u00ba 10.435 de 28 de outubro de 2021, publicado no Di\u00e1rio Oficial do Estado n\u00ba 13.162-A, de 10 de novembro de 2021, os candidatos nomeados para cargos efetivos do Instituto de Defesa Agropecu\u00e1ria e Florestal \u2013 IDAF\ufffd",
+                                "origin": [
+                                    53.858299255371094,
+                                    89.578857421875
+                                ],
+                                "bbox": [
+                                    53.858299255371094,
+                                    82.336669921875,
+                                    569.9219970703125,
+                                    100.8741455078125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858299255371094,
+                            82.336669921875,
+                            569.9219970703125,
+                            100.8741455078125
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "type": 0,
+                "bbox": [
+                    53.858306884765625,
+                    111.13665771484375,
+                    574.820068359375,
+                    235.27386474609375
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "O GOVERNADOR DO ESTADO DO ACRE, no uso da atribui\u00e7\u00e3o que lhe confere o art\ufffd 78, inciso XX, da Constitui\u00e7\u00e3o Estadual e,",
+                                "origin": [
+                                    53.858306884765625,
+                                    118.37884521484375
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    111.13665771484375,
+                                    512.11767578125,
+                                    120.07415771484375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            111.13665771484375,
+                            512.11767578125,
+                            120.07415771484375
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Considerando o resultado final do concurso p\u00fablico para a forma\u00e7\u00e3o de cadastro de reserva do Instituto de Defesa Agropecu\u00e1ria e Florestal \u2013 IDAF, ",
+                                "origin": [
+                                    53.858306884765625,
+                                    127.97882080078125
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    120.73663330078125,
+                                    574.820068359375,
+                                    129.67413330078125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            120.73663330078125,
+                            574.820068359375,
+                            129.67413330078125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "homologado pelo Edital n\u00ba 022 SEPLAG/IDAF, de 27 de novembro de 2020, publicado no Di\u00e1rio Oficial do Estado n\u00ba 12.931, de 30 de novembro ",
+                                "origin": [
+                                    53.858306884765625,
+                                    137.57879638671875
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    130.33660888671875,
+                                    574.8199462890625,
+                                    139.27410888671875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            130.33660888671875,
+                            574.8199462890625,
+                            139.27410888671875
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "de 2020,",
+                                "origin": [
+                                    53.858306884765625,
+                                    147.17877197265625
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    139.93658447265625,
+                                    84.99295806884766,
+                                    148.87408447265625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            139.93658447265625,
+                            84.99295806884766,
+                            148.87408447265625
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "CONSIDERANDO os pedidos de reclassifica\u00e7\u00e3o dos candidatos que menciona, constantes dos Processos SEI n\u00ba 4010.012341.00051/2021-05 e ",
+                                "origin": [
+                                    53.858306884765625,
+                                    156.77874755859375
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    149.53656005859375,
+                                    574.817626953125,
+                                    158.47406005859375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            149.53656005859375,
+                            574.817626953125,
+                            158.47406005859375
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "n\u00ba 4010\ufffd012341\ufffd00058/2021-19,",
+                                "origin": [
+                                    53.858306884765625,
+                                    166.37872314453125
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    159.13653564453125,
+                                    168.41693115234375,
+                                    168.07403564453125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            159.13653564453125,
+                            168.41693115234375,
+                            168.07403564453125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "RESOLVE:",
+                                "origin": [
+                                    53.858306884765625,
+                                    175.97869873046875
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    168.73651123046875,
+                                    93.28015899658203,
+                                    177.67401123046875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            168.73651123046875,
+                            93.28015899658203,
+                            177.67401123046875
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Art. 1\u00ba Excluir do Decreto n\u00ba 10.435 de 28 de outubro de 2021, publicado no Di\u00e1rio Oficial do Estado n\u00ba 13.162-A, de 10 de novembro de 2021, que ",
+                                "origin": [
+                                    53.858306884765625,
+                                    185.57867431640625
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    178.33648681640625,
+                                    574.8167724609375,
+                                    187.27398681640625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            178.33648681640625,
+                            574.8167724609375,
+                            187.27398681640625
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "nomeou candidatos para os cargos efetivos do Instituto de Defesa Agropecu\u00e1ria e Florestal \u2013 IDAF:",
+                                "origin": [
+                                    53.858306884765625,
+                                    195.17864990234375
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    187.93646240234375,
+                                    406.9385070800781,
+                                    196.87396240234375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            187.93646240234375,
+                            406.9385070800781,
+                            196.87396240234375
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "I - T\u00e9cnico em Defesa Agropecu\u00e1ria e Florestal - Assis Brasil: Joao Ricardo Lima Brito;",
+                                "origin": [
+                                    53.858306884765625,
+                                    204.77862548828125
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    197.53643798828125,
+                                    360.93609619140625,
+                                    206.47393798828125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            197.53643798828125,
+                            360.93609619140625,
+                            206.47393798828125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "II - M\u00e9dico Veterin\u00e1rio \u2013 Capixaba: Katriny Elifelina Monteiro Rodrigues\ufffd",
+                                "origin": [
+                                    53.858306884765625,
+                                    214.37860107421875
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    207.13641357421875,
+                                    308.1737365722656,
+                                    216.07391357421875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            207.13641357421875,
+                            308.1737365722656,
+                            216.07391357421875
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Art\ufffd 2\u00ba Este Decreto entra em vigor na data de sua publica\u00e7\u00e3o\ufffd",
+                                "origin": [
+                                    53.858306884765625,
+                                    223.97857666015625
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    216.73638916015625,
+                                    275.55291748046875,
+                                    225.67388916015625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            216.73638916015625,
+                            275.55291748046875,
+                            225.67388916015625
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Rio Branco-Acre, 16 de dezembro de 2021, 133\u00ba da Rep\u00fablica, 119\u00ba do Tratado de Petr\u00f3polis e 60\u00ba do Estado do Acre\ufffd",
+                                "origin": [
+                                    53.858306884765625,
+                                    233.57855224609375
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    226.33636474609375,
+                                    475.6344909667969,
+                                    235.27386474609375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            226.33636474609375,
+                            475.6344909667969,
+                            235.27386474609375
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "type": 0,
+                "bbox": [
+                    53.858306884765625,
+                    245.536376953125,
+                    163.70590209960938,
+                    264.0738525390625
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Gladson de Lima Cameli",
+                                "origin": [
+                                    53.858306884765625,
+                                    252.778564453125
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    245.536376953125,
+                                    141.44363403320312,
+                                    254.473876953125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            245.536376953125,
+                            141.44363403320312,
+                            254.473876953125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Governador do Estado do Acre",
+                                "origin": [
+                                    53.858306884765625,
+                                    262.3785400390625
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    255.1363525390625,
+                                    163.70590209960938,
+                                    264.0738525390625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            255.1363525390625,
+                            163.70590209960938,
+                            264.0738525390625
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "type": 0,
+                "bbox": [
+                    439.2423095703125,
+                    278.912353515625,
+                    572.5929565429688,
+                    287.849853515625
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "REPUBLICADO POR INCORRE\u00c7\u00c3O",
+                                "origin": [
+                                    439.2423095703125,
+                                    286.154541015625
+                                ],
+                                "bbox": [
+                                    439.2423095703125,
+                                    278.912353515625,
+                                    572.5929565429688,
+                                    287.849853515625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            439.2423095703125,
+                            278.912353515625,
+                            572.5929565429688,
+                            287.849853515625
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "type": 0,
+                "bbox": [
+                    53.858306884765625,
+                    298.11236572265625,
+                    124.38943481445312,
+                    307.04986572265625
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "ESTADO DO ACRE",
+                                "origin": [
+                                    53.858306884765625,
+                                    305.35455322265625
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    298.11236572265625,
+                                    124.38943481445312,
+                                    307.04986572265625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            298.11236572265625,
+                            124.38943481445312,
+                            307.04986572265625
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "type": 0,
+                "bbox": [
+                    53.858306884765625,
+                    317.3123779296875,
+                    246.9178924560547,
+                    326.2498779296875
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "DECRETO N\u00ba 10\ufffd710, DE 8 DE DEZEMBRO DE 2021",
+                                "origin": [
+                                    53.858306884765625,
+                                    324.5545654296875
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    317.3123779296875,
+                                    246.9178924560547,
+                                    326.2498779296875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            317.3123779296875,
+                            246.9178924560547,
+                            326.2498779296875
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": 9,
+                "type": 0,
+                "bbox": [
+                    53.858306884765625,
+                    336.51239013671875,
+                    574.8201293945312,
+                    489.4499816894531
+                ],
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "O GOVERNADOR DO ESTADO DO ACRE, no uso da",
+                                "origin": [
+                                    53.858306884765625,
+                                    343.75457763671875
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    336.51239013671875,
+                                    246.64830017089844,
+                                    345.44989013671875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            336.51239013671875,
+                            246.64830017089844,
+                            345.44989013671875
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "atribui\u00e7\u00e3o que lhe confere o art\ufffd 78, inciso XXII, da Constitui\u00e7\u00e3o Estadual; combinado com os arts\ufffd 50, inciso III, al\u00ednea \u201cg\u201d, 55, inciso I, al\u00ednea \u201cd\u201d e ",
+                                "origin": [
+                                    53.858306884765625,
+                                    353.3545837402344
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    346.1123962402344,
+                                    574.7977294921875,
+                                    355.0498962402344
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            346.1123962402344,
+                            574.7977294921875,
+                            355.0498962402344
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "\u201ci\u201d, \u00a7\u00a7 2\u00ba, 16 esse, 91, inciso I, 94, inciso I e 95, caput, da Lei Complementar n\u00ba 164/2006; art\ufffd 5\u00ba da Lei Complementar n\u00ba 197/2009; e ainda, com ",
+                                "origin": [
+                                    53.858306884765625,
+                                    362.95458984375
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    355.71240234375,
+                                    574.7800903320312,
+                                    364.64990234375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            355.71240234375,
+                            574.7800903320312,
+                            364.64990234375
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "os arts\ufffd 13, par\u00e1grafo \u00fanico, 25, \u00a71\u00ba, todos da Lei n\u00ba 1\ufffd236/1997, art\ufffd 3\u00ba, incisos I e II, da Lei Complementar n\u00ba 324/2016; art\ufffd 2\u00ba, \u00a72\u00ba, inciso I da Lei ",
+                                "origin": [
+                                    53.858306884765625,
+                                    372.5545959472656
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    365.3124084472656,
+                                    574.79052734375,
+                                    374.2499084472656
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            365.3124084472656,
+                            574.79052734375,
+                            374.2499084472656
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Complementar n\u00ba 349/2018, e",
+                                "origin": [
+                                    53.858306884765625,
+                                    382.15460205078125
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    374.91241455078125,
+                                    160.3874969482422,
+                                    383.84991455078125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            374.91241455078125,
+                            160.3874969482422,
+                            383.84991455078125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Considerando os documentos acostados ao Processo n\u00b0 0044\ufffd011984\ufffd00516/2021-16 da Pol\u00edcia Militar do Estado do Acre, incluso o Despacho do Presidente do ACREPREVID\u00caNCIA, informando que o processo encontra-se regularmente instru\u00eddo com base na legisla\u00e7\u00e3o vigente,",
+                                "origin": [
+                                    53.858306884765625,
+                                    391.7546081542969
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    384.5124206542969,
+                                    569.9939575195312,
+                                    403.0499267578125
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            384.5124206542969,
+                            569.9939575195312,
+                            403.0499267578125
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "RESOLVE:",
+                                "origin": [
+                                    53.858306884765625,
+                                    410.9546203613281
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    403.7124328613281,
+                                    93.28015899658203,
+                                    412.6499328613281
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            403.7124328613281,
+                            93.28015899658203,
+                            412.6499328613281
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Art\ufffd 1\u00ba Transferir, a pedido, para a Reserva Remunerada Integral (0502)  da Pol\u00edcia Militar do Estado do Acre, o SUBTENENTE PM RG 2429 JOS\u00c9 ",
+                                "origin": [
+                                    53.858306884765625,
+                                    420.55462646484375
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    413.31243896484375,
+                                    574.8201293945312,
+                                    422.24993896484375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            413.31243896484375,
+                            574.8201293945312,
+                            422.24993896484375
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "MOURA PINTO, em raz\u00e3o de ter completado mais de 30 (trinta) anos de servi\u00e7o e preencher os requisitos legais, fazendo jus aos proventos calculados sobre o posto de 2\u00ba TENENTE PM\ufffd",
+                                "origin": [
+                                    53.858306884765625,
+                                    430.1546325683594
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    422.9124450683594,
+                                    569.8899536132812,
+                                    441.449951171875
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            422.9124450683594,
+                            569.8899536132812,
+                            441.449951171875
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Art\ufffd 2\u00ba Este Decreto entra em vigor na data de sua publica\u00e7\u00e3o, com efeitos a contar de 23 de novembro de 2021\ufffd",
+                                "origin": [
+                                    53.858306884765625,
+                                    449.3546447753906
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    442.1124572753906,
+                                    454.32086181640625,
+                                    451.0499572753906
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            442.1124572753906,
+                            454.32086181640625,
+                            451.0499572753906
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Rio Branco-Acre, 8 de dezembro de 2021, 133\u00ba da Rep\u00fablica, 119\u00ba do Tratado de Petr\u00f3polis e 60\u00b0 do Estado do Acre\ufffd",
+                                "origin": [
+                                    53.858306884765625,
+                                    458.95465087890625
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    451.71246337890625,
+                                    471.46246337890625,
+                                    460.64996337890625
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            451.71246337890625,
+                            471.46246337890625,
+                            460.64996337890625
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": " ",
+                                "origin": [
+                                    53.858306884765625,
+                                    468.5546569824219
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    461.3124694824219,
+                                    56.080963134765625,
+                                    470.2499694824219
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            461.3124694824219,
+                            56.080963134765625,
+                            470.2499694824219
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Gladson de Lima Cameli",
+                                "origin": [
+                                    53.858306884765625,
+                                    478.1546630859375
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    470.9124755859375,
+                                    141.44363403320312,
+                                    479.8499755859375
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            470.9124755859375,
+                            141.44363403320312,
+                            479.8499755859375
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "size": 8.0,
+                                "flags": 0,
+                                "font": "ArialMT",
+                                "color": 2236191,
+                                "ascender": 0.9052734375,
+                                "descender": -0.2119140625,
+                                "text": "Governador do Estado do Acre",
+                                "origin": [
+                                    53.858306884765625,
+                                    487.7546691894531
+                                ],
+                                "bbox": [
+                                    53.858306884765625,
+                                    480.5124816894531,
+                                    163.70590209960938,
+                                    489.4499816894531
+                                ]
+                            }
+                        ],
+                        "wmode": 0,
+                        "dir": [
+                            1.0,
+                            0.0
+                        ],
+                        "bbox": [
+                            53.858306884765625,
+                            480.5124816894531,
+                            163.70590209960938,
+                            489.4499816894531
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
