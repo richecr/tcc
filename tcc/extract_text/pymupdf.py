@@ -17,33 +17,21 @@ def init(path):
         colors_draw = [
             (0.13669031858444214, 0.12195010483264923, 0.1252918243408203),
             (0.5772945880889893, 0.5855344533920288, 0.5958037972450256),
+            (0.3449302017688751, 0.3479514718055725, 0.35645076632499695),
         ]
         for path in paths:
             if path['type'] == 's' and (len(path['items']) == 1):
-                if (
-                    (path['color'] == colors_draw[0] and path['width'] == 0.5)
-                    or (path['color'] == colors_draw[1])
-                    or (
-                        path['color']
-                        == (
-                            0.3449302017688751,
-                            0.3479514718055725,
-                            0.35645076632499695,
-                        )
-                    )
-                ):
+                p_color = path['color']
+                if p_color in colors_draw:
                     rects_interested.append(path)
                     page.draw_rect(path['rect'], color=(1, 0, 0))
 
         dict_page = page.get_text('dict', flags=24)
-        text_page = json.dumps(dict_page)
-        text_page = text_page.replace('�', '.')
-        dict_page = json.loads(text_page)
         pages.append(dict_page)
         rects_interested.sort(key=lambda rect: rect['rect'][1])
-        r = get_all(blocks=dict_page['blocks'], rects_interested=rects_interested)
-        print(r)
-        if count == 2:
+        result = get_all(dict_page['blocks'], rects_interested)
+        print(result)
+        if count == 4:
             break
         count += 1
 

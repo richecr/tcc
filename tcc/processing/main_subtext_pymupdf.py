@@ -32,20 +32,14 @@ def concat_texts_blocks(blocks, rect_start, rect_end):
     return result
 
 
-def get_all(blocks, rects_interested, firts_page=False):
+def get_all(blocks, rects_interested):
     result = ''
-    for i in range(1, len(rects_interested) + 1, 2):
-        result += concat_texts_blocks(
-            blocks=blocks,
-            rect_start=rects_interested[i - 2]['rect'],
-            rect_end=rects_interested[i - 1]['rect'],
-        )
-        result += '\n\n------\n\n'
-
-    if len(rects_interested) % 2 != 0:
+    for i in range(0, len(rects_interested) - 1, 1):
         result += concat_texts_blocks(
             blocks=blocks,
             rect_start=rects_interested[i]['rect'],
             rect_end=rects_interested[i + 1]['rect'],
         )
+        result += '\n\n------\n\n'
+    result = result.replace('�', '.')
     return result
