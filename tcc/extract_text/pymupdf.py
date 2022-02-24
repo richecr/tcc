@@ -3,7 +3,7 @@ import fitz
 
 from tcc.processing.main_subtext_pymupdf import get_all
 
-from .utils import write_json
+from .utils import write_json, write_txt
 
 
 def init(path):
@@ -11,6 +11,7 @@ def init(path):
 
     count = 1
     pages = []
+    result = ''
     for page in pdf:
         paths = page.get_cdrawings()
         rects_interested = []
@@ -20,7 +21,11 @@ def init(path):
             (0.3449302017688751, 0.3479514718055725, 0.35645076632499695),
         ]
         for path in paths:
-            if path['type'] == 's' and (len(path['items']) == 1):
+            if (
+                path['type'] == 's'
+                and (len(path['items']) == 1)
+                and path['width'] != 0.25
+            ):
                 p_color = path['color']
                 if p_color in colors_draw:
                     rects_interested.append(path)
@@ -29,11 +34,13 @@ def init(path):
         dict_page = page.get_text('dict', flags=24)
         pages.append(dict_page)
         rects_interested.sort(key=lambda rect: rect['rect'][1])
-        result = get_all(dict_page['blocks'], rects_interested)
-        print(result)
-        if count == 4:
+        res = get_all(dict_page['blocks'], rects_interested)
+        if res != '':
+            result += res
+        if count == 6:
             break
         count += 1
 
     pdf.ez_save('x.pdf')
-    write_json(pages, filename='data_pymupdf.json')
+    # write_json(pages, filename='data_pymupdf.json')
+    write_txt(result, filename='test.txt')

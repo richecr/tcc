@@ -32,14 +32,44 @@ def concat_texts_blocks(blocks, rect_start, rect_end):
     return result
 
 
+def get_last_block(blocks, rect_start, rect_end):
+    result = ''
+    for block in blocks:
+        if (
+            block['bbox'][1] <= rect_end[1]
+            and block['bbox'][1] >= rect_start[1]
+        ):
+            result = block
+    return result
+
+
 def get_all(blocks, rects_interested):
     result = ''
+    end_ = (0.3449302017688751, 0.3479514718055725, 0.35645076632499695)
     for i in range(0, len(rects_interested) - 1, 1):
-        result += concat_texts_blocks(
+        res = concat_texts_blocks(
             blocks=blocks,
             rect_start=rects_interested[i]['rect'],
             rect_end=rects_interested[i + 1]['rect'],
         )
-        result += '\n\n------\n\n'
+        if res != '' and res != ' ':
+            if (
+                rects_interested[i]['color'] == end_
+                or rects_interested[i + 1]['color'] == end_
+            ):
+                block = get_last_block(
+                    blocks,
+                    rects_interested[i]['rect'],
+                    rects_interested[i + 1]['rect'],
+                )
+                if len(block['lines']) == 2:
+                    result += res
+                    result += '\n\n------\n\n'
+                else:
+                    result += res
+            else:
+                result += res
+                result += '\n\n------\n\n'
+
     result = result.replace('�', '.')
     return result

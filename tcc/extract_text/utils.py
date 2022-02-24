@@ -1,7 +1,7 @@
 import json
 
 
-def write_txt(data, filename='output.txt', dir='./outputs/', mode='w'):
+def write_txt(data, filename='output.txt', dir='./tcc/outputs/', mode='w'):
     file = dir + filename
     with open(file, mode=mode, encoding='utf-8') as f:
         f.write(data)
