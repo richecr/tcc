@@ -24,52 +24,104 @@ def concatena_lines(block):
 def concat_texts_blocks(blocks, rect_start, rect_end):
     result = ''
     for block in blocks:
-        if (
-            block['bbox'][1] <= rect_end[1]
-            and block['bbox'][1] >= rect_start[1]
+        if (rect_start[0] <= 57 and rect_start[0] >= 53) and (
+            rect_end[0] <= 320 and rect_end[0] >= 319
         ):
-            result += concatena_lines(block)
+            if block['bbox'][0] >= 53 and block['bbox'][0] <= 54.4:
+                if block['bbox'][1] >= rect_start[1]:
+                    result += concatena_lines(block)
+            elif block['bbox'][0] >= 319 and block['bbox'][0] <= 320:
+                if block['bbox'][1] <= rect_end[1]:
+                    result += concatena_lines(block)
+        elif (
+            block['bbox'][1] >= rect_start[1]
+            and block['bbox'][1] <= rect_end[1]
+        ):
+            if (rect_start[0] >= 53 and rect_start[0] <= 57):
+                if block['bbox'][0] >= 53 and block['bbox'][0] <= 54.4:
+                    result += concatena_lines(block)
+            else:
+                if block['bbox'][0] >= 319 and block['bbox'][0] <= 320:
+                    result += concatena_lines(block)
+        # if (
+        #     block['bbox'][1] >= rect_start[1]
+        #     and block['bbox'][1] <= rect_end[1]
+        # ):
+        #     result += concatena_lines(block)
+
     return result
 
 
 def get_last_block(blocks, rect_start, rect_end):
     result = ''
     for block in blocks:
-        if (
-            block['bbox'][1] <= rect_end[1]
-            and block['bbox'][1] >= rect_start[1]
+        if (rect_start[0] <= 57 and rect_start[0] >= 53) and (
+            rect_end[0] <= 320 and rect_end[0] >= 319
         ):
-            result = block
+            if block['bbox'][0] >= 53 and block['bbox'][0] <= 54.4:
+                if block['bbox'][1] >= rect_start[1]:
+                    result = block
+            elif block['bbox'][0] >= 319 and block['bbox'][0] <= 320:
+                if block['bbox'][1] <= rect_end[1]:
+                    result = block
+        elif (
+            block['bbox'][1] >= rect_start[1]
+            and block['bbox'][1] <= rect_end[1]
+        ):
+            if (rect_start[0] >= 53 and rect_start[0] <= 54.4):
+                if block['bbox'][0] >= 53 and block['bbox'][0] <= 54.4:
+                    result = block
+            else:
+                if block['bbox'][0] >= 319 and block['bbox'][0] <= 320:
+                    result = block
+    return result
+
+
+def concat_test(blocks, rect_start, rect_end):
+    result = ''
+    for block in blocks:
+        if (
+            block['bbox'][1] >= rect_start[1]
+            and block['bbox'][1] <= rect_end[1]
+        ):
+            result += concatena_lines(block)
     return result
 
 
 def get_all(blocks, rects_interested):
     result = ''
     end_ = (0.3449302017688751, 0.3479514718055725, 0.35645076632499695)
-    for i in range(0, len(rects_interested) - 1, 1):
-        res = concat_texts_blocks(
+    if len(rects_interested) == 2:
+        result += concat_test(
             blocks=blocks,
-            rect_start=rects_interested[i]['rect'],
-            rect_end=rects_interested[i + 1]['rect'],
+            rect_start=rects_interested[0]['rect'],
+            rect_end=rects_interested[1]['rect']
         )
-        if res != '' and res != ' ':
-            if (
-                rects_interested[i]['color'] == end_
-                or rects_interested[i + 1]['color'] == end_
-            ):
-                block = get_last_block(
-                    blocks,
-                    rects_interested[i]['rect'],
-                    rects_interested[i + 1]['rect'],
-                )
-                if len(block['lines']) == 2:
-                    result += res
-                    result += '\n\n------\n\n'
+    else:
+        for i in range(0, len(rects_interested) - 1, 1):
+            res = concat_texts_blocks(
+                blocks=blocks,
+                rect_start=rects_interested[i]['rect'],
+                rect_end=rects_interested[i + 1]['rect'],
+            )
+            if res != '' and res != ' ':
+                if (
+                    rects_interested[i]['color'] == end_
+                    or rects_interested[i + 1]['color'] == end_
+                ):
+                    block = get_last_block(
+                        blocks,
+                        rects_interested[i]['rect'],
+                        rects_interested[i + 1]['rect'],
+                    )
+                    if len(block['lines']) == 2:
+                        result += res
+                        result += '\n\n------\n\n'
+                    else:
+                        result += res
                 else:
                     result += res
-            else:
-                result += res
-                result += '\n\n------\n\n'
+                    result += '\n\n------\n\n'
 
     result = result.replace('�', '.')
     return result

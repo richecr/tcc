@@ -6,6 +6,13 @@ from tcc.processing.main_subtext_pymupdf import get_all
 from .utils import write_json, write_txt
 
 
+def filter_blocks(block):
+    return (
+        (block['bbox'][0] <= 320 and block['bbox'][0] >= 319)
+        or (block['bbox'][0] <= 54 and block['bbox'][0] >= 53)
+    )
+
+
 def init(path):
     pdf = fitz.open(path)
 
@@ -20,6 +27,7 @@ def init(path):
             (0.5772945880889893, 0.5855344533920288, 0.5958037972450256),
             (0.3449302017688751, 0.3479514718055725, 0.35645076632499695),
         ]
+        last = None
         for path in paths:
             if (
                 path['type'] == 's'
@@ -27,17 +35,26 @@ def init(path):
                 and path['width'] != 0.25
             ):
                 p_color = path['color']
-                if p_color in colors_draw:
+                if p_color == colors_draw[2]:
+                    last = path
+                if p_color in colors_draw[0:2]:
                     rects_interested.append(path)
                     page.draw_rect(path['rect'], color=(1, 0, 0))
 
+        if last is not None:
+            rects_interested.append(last)
+
         dict_page = page.get_text('dict', flags=24)
         pages.append(dict_page)
-        rects_interested.sort(key=lambda rect: rect['rect'][1])
-        res = get_all(dict_page['blocks'], rects_interested)
+        blocks = dict_page['blocks']
+        if count != 1:
+            blocks.sort(key=lambda rect: (rect['bbox'][0], rect['bbox'][1]))
+        blocks = list(filter(filter_blocks, blocks))
+        # rects_interested.sort(key=lambda rect: rect['rect'][1])
+        res = get_all(blocks, rects_interested)
         if res != '':
             result += res
-        if count == 6:
+        if count == 9:
             break
         count += 1
 
