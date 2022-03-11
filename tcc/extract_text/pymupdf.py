@@ -54,7 +54,7 @@ def init(path):
         res = get_all(blocks, rects_interested)
         if res != '':
             result += res
-        if count == 9:
+        if count == 12:
             break
         count += 1
 
