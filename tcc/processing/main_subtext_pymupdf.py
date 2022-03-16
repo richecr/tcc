@@ -114,14 +114,26 @@ def get_all(blocks, rects_interested):
                         rects_interested[i]['rect'],
                         rects_interested[i + 1]['rect'],
                     )
-                    if len(block['lines']) == 2:
+                    try:
+                        if len(block['lines']) in [1, 2, 3]:
+                            result += res
+                            result += '\n\n------\n\n'
+                        else:
+                            result += res
+                    except Exception as ex:
                         result += res
                         result += '\n\n------\n\n'
-                    else:
-                        result += res
                 else:
                     result += res
                     result += '\n\n------\n\n'
 
     result = result.replace('�', '.')
+    return result
+
+
+def concat_texts_blocks2(blocks):
+    result = ''
+    for block in blocks:
+        result += concatena_lines(block)
+
     return result

@@ -1,7 +1,9 @@
 import json
+from sys import flags
 import fitz
+from numpy import block
 
-from tcc.processing.main_subtext_pymupdf import get_all
+from tcc.processing.main_subtext_pymupdf import get_all, concat_texts_blocks2
 
 from .utils import write_json, write_txt
 
@@ -13,14 +15,14 @@ def filter_blocks(block):
     )
 
 
-def init(path):
-    pdf = fitz.open(path)
+def init(path_file):
+    pdf = fitz.open(path_file)
 
     count = 1
     pages = []
     result = ''
     for page in pdf:
-        paths = page.get_cdrawings()
+        paths = page.get_drawings()
         rects_interested = []
         colors_draw = [
             (0.13669031858444214, 0.12195010483264923, 0.1252918243408203),
@@ -43,6 +45,7 @@ def init(path):
 
         if last is not None:
             rects_interested.append(last)
+            page.draw_rect(last['rect'], color=(1, 0, 0))
 
         dict_page = page.get_text('dict', flags=24)
         pages.append(dict_page)
@@ -54,10 +57,11 @@ def init(path):
         res = get_all(blocks, rects_interested)
         if res != '':
             result += res
-        if count == 12:
+        if count == 27:
             break
         count += 1
 
     pdf.ez_save('x.pdf')
     # write_json(pages, filename='data_pymupdf.json')
-    write_txt(result, filename='test.txt')
+    filename = path_file.split("/")[4].replace("pdf", "txt")
+    write_txt(result, filename=filename)
