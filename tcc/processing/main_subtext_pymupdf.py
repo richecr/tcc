@@ -101,9 +101,19 @@ def concat_test(blocks, rect_start, rect_end):
     return result
 
 
+def is_start_publish(blocks):
+    if len(blocks) > 0:
+        first_block = blocks[0]
+        text_line = concatena_spans(first_block['lines'][0])
+        if text_line.isupper() and not text_line[0].isdigit():
+            return True
+    return False
+
 def get_all(blocks, rects_interested):
     result = ''
     end_ = (0.3449302017688751, 0.3479514718055725, 0.35645076632499695)
+    if is_start_publish(blocks):
+        result += '\n\n------\n\n'
     if len(rects_interested) == 2:
         result += concat_test(
             blocks=blocks,
@@ -111,11 +121,6 @@ def get_all(blocks, rects_interested):
             rect_end=rects_interested[1]['rect']
         )
     else:
-        first_block = get_first_block(blocks, rects_interested[0]['rect'])
-        text_line = concatena_spans(first_block['lines'][0])
-        if text_line.isupper() and not text_line[0].isalnum():
-            result += '\n\n------\n\n'
-
         for i in range(0, len(rects_interested) - 1, 1):
             res = concat_texts_blocks(
                 blocks=blocks,

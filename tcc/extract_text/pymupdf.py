@@ -54,6 +54,8 @@ def init(path_file):
             blocks.sort(key=lambda rect: (rect['bbox'][0], rect['bbox'][1]))
         blocks = list(filter(filter_blocks, blocks))
         # rects_interested.sort(key=lambda rect: rect['rect'][1])
+        if count == 23:
+            print("OPA")
         res = get_all(blocks, rects_interested)
         if res != '':
             result += res
