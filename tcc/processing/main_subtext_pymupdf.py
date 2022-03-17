@@ -52,6 +52,19 @@ def concat_texts_blocks(blocks, rect_start, rect_end):
     return result
 
 
+def get_first_block(blocks, rect_start):
+    for block in blocks:
+        if rect_start[0] <= 57 and rect_start[0] >= 53:
+            if block['bbox'][0] >= 53 and block['bbox'][0] <= 54.4:
+                if block['bbox'][1] >= rect_start[1]:
+                    return block
+        elif block['bbox'][1] >= rect_start[1]:
+            if rect_start[0] >= 53 and rect_start[0] <= 54.4:
+                if block['bbox'][0] >= 53 and block['bbox'][0] <= 54.4:
+                    return block
+    return None
+
+
 def get_last_block(blocks, rect_start, rect_end):
     result = ''
     for block in blocks:
@@ -98,6 +111,11 @@ def get_all(blocks, rects_interested):
             rect_end=rects_interested[1]['rect']
         )
     else:
+        first_block = get_first_block(blocks, rects_interested[0]['rect'])
+        text_line = concatena_spans(first_block['lines'][0])
+        if text_line.isupper() and not text_line[0].isalnum():
+            result += '\n\n------\n\n'
+
         for i in range(0, len(rects_interested) - 1, 1):
             res = concat_texts_blocks(
                 blocks=blocks,
@@ -109,20 +127,7 @@ def get_all(blocks, rects_interested):
                     rects_interested[i]['color'] == end_
                     or rects_interested[i + 1]['color'] == end_
                 ):
-                    block = get_last_block(
-                        blocks,
-                        rects_interested[i]['rect'],
-                        rects_interested[i + 1]['rect'],
-                    )
-                    try:
-                        if len(block['lines']) in [1, 2, 3]:
-                            result += res
-                            result += '\n\n------\n\n'
-                        else:
-                            result += res
-                    except Exception as ex:
-                        result += res
-                        result += '\n\n------\n\n'
+                    result += res
                 else:
                     result += res
                     result += '\n\n------\n\n'
