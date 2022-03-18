@@ -100,10 +100,6 @@ def is_start_publish(blocks):
             return False
 
         text_line = pre_processing(text_line)
-        print(text_line)
-        print(text_line.isupper())
-        print(not text_line[0].isdigit())
-        print(':' not in text_line)
         if text_line.isupper() and not text_line[0].isdigit():
             return True
     return False
