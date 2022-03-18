@@ -1,3 +1,6 @@
+import re
+
+
 def concatena_spans(line):
     spans = line['spans']
     paragraph = ''
@@ -25,44 +28,26 @@ def concat_texts_blocks(blocks, rect_start, rect_end):
     result = ''
     for block in blocks:
         if (rect_start[0] <= 57 and rect_start[0] >= 53) and (
-            rect_end[0] <= 320 and rect_end[0] >= 319
+            rect_end[0] <= 322.2 and rect_end[0] >= 319
         ):
             if block['bbox'][0] >= 53 and block['bbox'][0] <= 54.4:
                 if block['bbox'][1] >= rect_start[1]:
                     result += concatena_lines(block)
-            elif block['bbox'][0] >= 319 and block['bbox'][0] <= 320:
+            elif block['bbox'][0] >= 319 and block['bbox'][0] <= 322.2:
                 if block['bbox'][1] <= rect_end[1]:
                     result += concatena_lines(block)
         elif (
             block['bbox'][1] >= rect_start[1]
             and block['bbox'][1] <= rect_end[1]
         ):
-            if (rect_start[0] >= 53 and rect_start[0] <= 57):
+            if rect_start[0] >= 53 and rect_start[0] <= 57:
                 if block['bbox'][0] >= 53 and block['bbox'][0] <= 54.4:
                     result += concatena_lines(block)
             else:
                 if block['bbox'][0] >= 319 and block['bbox'][0] <= 320:
                     result += concatena_lines(block)
-        # if (
-        #     block['bbox'][1] >= rect_start[1]
-        #     and block['bbox'][1] <= rect_end[1]
-        # ):
-        #     result += concatena_lines(block)
 
     return result
-
-
-def get_first_block(blocks, rect_start):
-    for block in blocks:
-        if rect_start[0] <= 57 and rect_start[0] >= 53:
-            if block['bbox'][0] >= 53 and block['bbox'][0] <= 54.4:
-                if block['bbox'][1] >= rect_start[1]:
-                    return block
-        elif block['bbox'][1] >= rect_start[1]:
-            if rect_start[0] >= 53 and rect_start[0] <= 54.4:
-                if block['bbox'][0] >= 53 and block['bbox'][0] <= 54.4:
-                    return block
-    return None
 
 
 def get_last_block(blocks, rect_start, rect_end):
@@ -81,7 +66,7 @@ def get_last_block(blocks, rect_start, rect_end):
             block['bbox'][1] >= rect_start[1]
             and block['bbox'][1] <= rect_end[1]
         ):
-            if (rect_start[0] >= 53 and rect_start[0] <= 54.4):
+            if rect_start[0] >= 53 and rect_start[0] <= 54.4:
                 if block['bbox'][0] >= 53 and block['bbox'][0] <= 54.4:
                     result = block
             else:
@@ -101,13 +86,28 @@ def concat_test(blocks, rect_start, rect_end):
     return result
 
 
+def pre_processing(text: str):
+    result: str = re.sub(r'º|ª|°|/', '', text)
+    result: str = re.sub(r':|–', 'error', result)
+    return result
+
+
 def is_start_publish(blocks):
     if len(blocks) > 0:
         first_block = blocks[0]
         text_line = concatena_spans(first_block['lines'][0])
+        if len(first_block['lines']) > 1 and len(text_line.split(' ')) < 3:
+            return False
+
+        text_line = pre_processing(text_line)
+        print(text_line)
+        print(text_line.isupper())
+        print(not text_line[0].isdigit())
+        print(':' not in text_line)
         if text_line.isupper() and not text_line[0].isdigit():
             return True
     return False
+
 
 def get_all(blocks, rects_interested):
     result = ''
@@ -118,7 +118,7 @@ def get_all(blocks, rects_interested):
         result += concat_test(
             blocks=blocks,
             rect_start=rects_interested[0]['rect'],
-            rect_end=rects_interested[1]['rect']
+            rect_end=rects_interested[1]['rect'],
         )
     else:
         for i in range(0, len(rects_interested) - 1, 1):

@@ -9,9 +9,8 @@ from .utils import write_json, write_txt
 
 
 def filter_blocks(block):
-    return (
-        (block['bbox'][0] <= 320 and block['bbox'][0] >= 319)
-        or (block['bbox'][0] <= 54 and block['bbox'][0] >= 53)
+    return (block['bbox'][0] <= 320 and block['bbox'][0] >= 319) or (
+        block['bbox'][0] <= 54 and block['bbox'][0] >= 53
     )
 
 
@@ -51,11 +50,11 @@ def init(path_file):
         pages.append(dict_page)
         blocks = dict_page['blocks']
         if count != 1:
-            blocks.sort(key=lambda rect: (rect['bbox'][0], rect['bbox'][1]))
+            blocks.sort(
+                key=lambda rect: (int(rect['bbox'][0]), int(rect['bbox'][1]))
+            )
         blocks = list(filter(filter_blocks, blocks))
         # rects_interested.sort(key=lambda rect: rect['rect'][1])
-        if count == 23:
-            print("OPA")
         res = get_all(blocks, rects_interested)
         if res != '':
             result += res
@@ -65,5 +64,5 @@ def init(path_file):
 
     pdf.ez_save('x.pdf')
     # write_json(pages, filename='data_pymupdf.json')
-    filename = path_file.split("/")[4].replace("pdf", "txt")
+    filename = path_file.split('/')[4].replace('pdf', 'txt')
     write_txt(result, filename=filename)
