@@ -1,11 +1,9 @@
-import json
-from sys import flags
 import fitz
-from numpy import block
 
-from tcc.processing.main_subtext_pymupdf import get_all, concat_texts_blocks2
+from tcc.processing.main_extract import get_all_
 
-from .utils import write_json, write_txt
+
+from .utils import write_txt
 
 
 def filter_blocks(block):
@@ -49,13 +47,21 @@ def init(path_file):
         dict_page = page.get_text('dict', flags=24)
         pages.append(dict_page)
         blocks = dict_page['blocks']
-        if count != 1:
-            blocks.sort(
-                key=lambda rect: (int(rect['bbox'][0]), int(rect['bbox'][1]))
-            )
-        blocks = list(filter(filter_blocks, blocks))
+        lines = []
+        for block in blocks:
+            lines.extend(block['lines'])
+
+        lines.sort(
+            key=lambda rect: (int(rect['bbox'][0]), int(rect['bbox'][1]))
+        )
+        lines = list(filter(filter_blocks, lines))
+
         # rects_interested.sort(key=lambda rect: rect['rect'][1])
-        res = get_all(blocks, rects_interested)
+        if count == 1:
+            res = get_all_(lines, rects_interested, True)
+        else:
+            res = get_all_(lines, rects_interested, False)
+
         if res != '':
             result += res
         if count == 27:
