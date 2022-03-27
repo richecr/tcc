@@ -26,6 +26,7 @@ def concatena_lines(block):
 
 def concat_texts_blocks(blocks, rect_start, rect_end):
     result = ''
+    two_page = False
     for block in blocks:
         if (rect_start[0] <= 57 and rect_start[0] >= 53) and (
             rect_end[0] <= 322.2 and rect_end[0] >= 319
@@ -35,6 +36,10 @@ def concat_texts_blocks(blocks, rect_start, rect_end):
                     result += concatena_lines(block)
             elif block['bbox'][0] >= 319 and block['bbox'][0] <= 322.2:
                 if block['bbox'][1] <= rect_end[1]:
+                    # if not two_page:
+                    #     two_page = True
+                    #     if is_start_publish([block]):
+                    #         result += '\n\n------\n\n'
                     result += concatena_lines(block)
         elif (
             block['bbox'][1] >= rect_start[1]
@@ -45,7 +50,17 @@ def concat_texts_blocks(blocks, rect_start, rect_end):
                     result += concatena_lines(block)
             else:
                 if block['bbox'][0] >= 319 and block['bbox'][0] <= 320:
+                    lines = block['lines']
+                    lines_start = list(filter(lambda line: line['bbox'][1] <= rect_end[1], lines))
+                    lines_end = list(filter(lambda line: line['bbox'][1] > rect_end[1], lines))
+                    block['lines'] = lines_start
                     result += concatena_lines(block)
+                    if len(lines_end) > 0:
+                        result += '\n\n------\n\n'
+                        block['lines'] = lines_end
+                        result += concatena_lines(block)
+
+
 
     return result
 

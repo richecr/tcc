@@ -55,11 +55,11 @@ def init(path_file):
             )
         blocks = list(filter(filter_blocks, blocks))
         # rects_interested.sort(key=lambda rect: rect['rect'][1])
+        if count == 30:
+            print("AAA")
         res = get_all(blocks, rects_interested)
         if res != '':
             result += res
-        if count == 27:
-            break
         count += 1
 
     pdf.ez_save('x.pdf')
