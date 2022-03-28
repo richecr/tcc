@@ -9,4 +9,4 @@ Repositório para pesquisa do meu Trabalho de Conclusão de Curso.
     - PyMuPDF obteve melhores resultados.
 - [ ] Segementação dos textos por publicações.
     - [X] Utilizado o pipe que tem nos PDF para a separação de atos.
-    - [ ] Regex para encontrar padrões de quando se inicia um novo ato.
+    - [X] Regex para encontrar padrões de quando se inicia um novo ato.
