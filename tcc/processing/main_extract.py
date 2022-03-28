@@ -43,7 +43,7 @@ def is_start_publish(lines):
     if len(lines) > 0:
         first_block = lines[0]
         text_line = concatena_spans(first_block)
-        if len(first_block) > 1 and len(text_line.split(' ')) < 2:
+        if (len(first_block) > 1 and len(text_line.split(' ')) < 2) or len(text_line.split(' ')[0]) <= 4:
             return False
 
         text_line = pre_processing(text_line)
