@@ -1,13 +1,12 @@
-# My TCC
+# Meu TCC
 
-Repository for research of my Course Completion Paper.
+Repositório para pesquisa do meu Trabalho de Conclusão de Curso.
 
-### Todo:
+### Tasks:
 
-- [X] Check if the python-poppler library is a good way to extract text from PDFs.
-- [X] Extract text from full PDF - With all extraction methods used so far.
-    - PyMuPDF got better results.
-
+- [X] Verifique se a biblioteca python-poppler é uma boa maneira de extrair texto de PDFs.
+- [X] Extraia texto de PDF completo - Com todos os métodos de extração usados até agora.
+    - PyMuPDF obteve melhores resultados.
 - [ ] Segementação dos textos por publicações.
-    - Utilizado o pipe que tem nos PDF para a separação de atos.
-    - Regex para encontrar padrões de quando se inicia um novo ato.
+    - [X] Utilizado o pipe que tem nos PDF para a separação de atos.
+    - [X] Regex para encontrar padrões de quando se inicia um novo ato.
