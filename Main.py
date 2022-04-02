@@ -1,4 +1,3 @@
-import fitz
 from tcc.extract_text.pymupdf import init as pymupdf
 from tcc.extract_text.pdfminer_six import init as pdfminer_six
 

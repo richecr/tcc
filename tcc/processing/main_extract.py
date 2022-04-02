@@ -43,7 +43,11 @@ def is_start_publish(lines):
     if len(lines) > 0:
         first_block = lines[0]
         text_line = concatena_spans(first_block)
-        if len(first_block) > 1 and len(text_line.split(' ')) < 2:
+        if (
+            len(first_block) > 1
+            and len(text_line.split(' ')) <= 2
+            and len(text_line.split(' ')[0]) < 4
+        ):
             return False
 
         text_line = pre_processing(text_line)
@@ -79,7 +83,7 @@ def concat_texts_blocks(lines, rect_start, rect_end):
                 if line['bbox'][1] >= rect_start[1]:
                     result += concatena_lines(line)
             elif line['bbox'][0] >= 319 and line['bbox'][0] <= 322.2:
-                # Página de duas colunas: A última linha a ser lida foi a 
+                # Página de duas colunas: A última linha a ser lida foi a
                 # última da coluna a esquerda, temos que verificar se aqui
                 # não inicia um novo ato.
                 if two_col == 2:
