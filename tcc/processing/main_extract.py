@@ -44,9 +44,9 @@ def is_start_publish(lines):
         first_block = lines[0]
         text_line = concatena_spans(first_block)
         if (
-            len(first_block) > 1
-            and len(text_line.split(' ')) <= 2
-            and len(text_line.split(' ')[0]) < 4
+            len(first_block['spans']) > 1
+            or len(text_line.split(' ')) <= 2
+            or len(text_line.split(' ')[0]) < 4
         ):
             return False
 
@@ -58,7 +58,11 @@ def is_start_publish(lines):
 
 def line_is_start_publish(line):
     text_line = concatena_spans(line)
-    if len(line) > 1 and len(text_line.split(' ')) < 2:
+    if (
+        len(line['spans']) > 1
+        or len(text_line.split(' ')) <= 2
+        or len(text_line.split(' ')[0]) < 4
+    ):
         return False
 
     text_line = pre_processing(text_line)
@@ -70,6 +74,7 @@ def line_is_start_publish(line):
 def concat_texts_blocks(lines, rect_start, rect_end):
     result = ''
     two_col = 1
+    test = False
     for line in lines:
         if (rect_start[0] <= 57 and rect_start[0] >= 53) and (
             rect_end[0] <= 322.2 and rect_end[0] >= 319
@@ -94,10 +99,21 @@ def concat_texts_blocks(lines, rect_start, rect_end):
                     two_col = 3
                 if line['bbox'][1] <= rect_end[1]:
                     result += concatena_lines(line)
+        elif (rect_start[0] <= 58.5 and rect_start[0] >= 53) and rect_end[1] >= 827:
+            if line['bbox'][0] >= 53 and line['bbox'][0] <= 54.4:
+                if line['bbox'][1] >= rect_start[1]:
+                    result += concatena_lines(line)
+            elif line['bbox'][0] >= 319 and line['bbox'][0] <= 322.2:
+                if not test:
+                    test = True
+                    if line_is_start_publish(line):
+                        result += '\n\n------\n\n'
+                if line['bbox'][1] <= rect_end[1]:
+                    result += concatena_lines(line)
         elif (
             line['bbox'][1] >= rect_start[1] and line['bbox'][1] <= rect_end[1]
         ):
-            if rect_start[0] >= 53 and rect_start[0] <= 57:
+            if rect_start[0] >= 53 and rect_start[0] <= 58.5:
                 if line['bbox'][0] >= 53 and line['bbox'][0] <= 54.4:
                     result += concatena_lines(line)
             else:
