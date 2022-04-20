@@ -99,7 +99,9 @@ def concat_texts_blocks(lines, rect_start, rect_end):
                     two_col = 3
                 if line['bbox'][1] <= rect_end[1]:
                     result += concatena_lines(line)
-        elif (rect_start[0] <= 58.5 and rect_start[0] >= 53) and rect_end[1] >= 827:
+        elif (rect_start[0] <= 58.5 and rect_start[0] >= 53) and rect_end[
+            1
+        ] >= 827:
             if line['bbox'][0] >= 53 and line['bbox'][0] <= 54.4:
                 if line['bbox'][1] >= rect_start[1]:
                     result += concatena_lines(line)
