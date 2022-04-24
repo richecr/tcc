@@ -64,11 +64,12 @@ def init(path_file):
 
         if res != '':
             result += res
-        if count == 27:
-            break
+        # if count == 30:
+        #     break
         count += 1
 
     pdf.ez_save('x.pdf')
     # write_json(pages, filename='data_pymupdf.json')
     filename = path_file.split('/')[4].replace('pdf', 'txt')
     write_txt(result, filename=filename)
+    print('${filename}: Concluido!'.format(filename=filename))

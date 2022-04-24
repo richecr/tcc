@@ -66,7 +66,11 @@ def line_is_start_publish(line):
         return False
 
     text_line = pre_processing(text_line)
-    if text_line.isupper() and not text_line[0].isdigit():
+    if (
+        text_line.isupper()
+        and not text_line[0].isdigit()
+        and '�' not in text_line
+    ):
         return True
     return False
 
