@@ -143,6 +143,8 @@ def get_all_(lines, rects_interested, first_page=False):
         if len(rects_interested) == 3:
             start = rects_interested[1]['rect']
 
+        if rects_interested[1]['width'] == 17.0:
+            result += "**************** TITLE ****************"
         result += concat_page_complete(
             blocks=lines,
             rect_start=start,
@@ -150,7 +152,10 @@ def get_all_(lines, rects_interested, first_page=False):
         )
     else:
         for i in range(0, len(rects_interested) - 1, 1):
-            res = concat_texts_blocks(
+            res = ''
+            if rects_interested[i]['width'] == 17.0:
+                res = "**************** TITLE ****************"
+            res += concat_texts_blocks(
                 lines=lines,
                 rect_start=rects_interested[i]['rect'],
                 rect_end=rects_interested[i + 1]['rect'],
