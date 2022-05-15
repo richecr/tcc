@@ -143,7 +143,15 @@ def get_text_all(lines, rects_interested, first_page=False):
         if len(rects_interested) == 3:
             start = rects_interested[1]['rect']
 
-        if rects_interested[1]['width'] == 17.0:
+        if rects_interested[1]['width'] == 17.0 and rects_interested[1][
+            'color'
+        ] == (
+            0.6552987098693848,
+            0.6636301279067993,
+            0.6734569072723389,
+        ):
+            result += '**************** ENTITY ****************'
+        elif rects_interested[1]['width'] == 17.0:
             result += '**************** TITLE ****************'
         result += concat_page_complete(
             blocks=lines,
@@ -153,8 +161,16 @@ def get_text_all(lines, rects_interested, first_page=False):
     else:
         for i in range(0, len(rects_interested) - 1, 1):
             res = ''
-            if rects_interested[i]['width'] == 17.0:
-                res = '**************** TITLE ****************'
+            if rects_interested[i]['width'] == 17.0 and rects_interested[i][
+                'color'
+            ] == (
+                0.6552987098693848,
+                0.6636301279067993,
+                0.6734569072723389,
+            ):
+                res += '**************** ENTITY ****************'
+            elif rects_interested[i]['width'] == 17.0:
+                res += '**************** TITLE ****************'
             res += concat_texts_blocks(
                 lines=lines,
                 rect_start=rects_interested[i]['rect'],

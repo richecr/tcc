@@ -15,7 +15,7 @@ def write_txt_pb(
         f.write(data)
 
 
-def write_json(data, filename='output.txt', dir='./tcc/outputs/'):
+def write_json(data, filename='output.json', dir='./tcc/outputs/json/'):
     file = dir + filename
     with open(file, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4)
