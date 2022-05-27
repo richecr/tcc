@@ -2,9 +2,9 @@ import json
 
 
 filename = 'all.json'
-labeled = 835
+labeled = 1011
 
-with open(filename) as json_file:
+with open(filename, 'r', encoding='utf-8') as json_file:
     data = json.load(json_file)
     for obj in data:
         if obj['id'] >= labeled:
