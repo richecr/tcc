@@ -26,5 +26,8 @@ for path in jsons:
                         count += 1
 
 json_object = json.dumps(result, indent=4)
-with open("dou_ac_08_21.json", "w") as outfile:
-    outfile.write(json_object)
+
+with open('output.jsonl', 'w') as outfile:
+    for entry in result:
+        json.dump(entry, outfile)
+        outfile.write('\n')
