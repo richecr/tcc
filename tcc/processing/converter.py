@@ -14,7 +14,7 @@ for path in jsons:
     with open(path) as f:
         data = json.load(f)
         for entity in data.keys():
-            if entity == 'DIVERSOS':
+            if isinstance(data[entity], list):
                 for act in data[entity]:
                     result.append({'id': count, 'text': act, 'label': []})
                     count += 1

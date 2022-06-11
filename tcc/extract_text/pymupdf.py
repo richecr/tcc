@@ -109,7 +109,7 @@ def init(path_file):
 
     for act, key_ent in zip(acts_entities[1:], result_.keys()):
         acts_title = act.split('**************** TITLE ****************')
-        if key_ent == 'DIVERSOS':
+        if "**************** TITLE ****************" not in act:
             acts = list(
                 filter(
                     lambda x: x != '', acts_title[0].split('\n\n------\n\n')
@@ -129,5 +129,5 @@ def init(path_file):
         filename=filename.replace('txt', 'json'),
         dir='./tcc/outputs/json/2021/08/',
     )
-    write_txt(result, filename=filename)
+    # write_txt(result, filename=filename)
     print('${filename}: Concluido!'.format(filename=filename))
