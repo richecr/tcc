@@ -16,5 +16,5 @@ with open(filename, 'r', encoding='UTF-8') as json_file:
             entity['label'] = ['yes']
         result.append(entity)
 
-with open(output, 'w', encoding="UTF-8") as json_file:
+with open(output, 'w', encoding='UTF-8') as json_file:
     json.dump(result, json_file, indent=4)
