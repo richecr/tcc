@@ -69,17 +69,28 @@ def get_text_from_page(page):
     return blocks
 
 
+def mount_entity(x):
+    result = {'flags': 0, 'text': x[1]}
+    if x[0] == 1:
+        result['flags'] = 16
+    return result
+
+
 def init(path_file):
     pdf = fitz.open(path_file)
 
     count = 1
     result = ''
+    entities_ = list(map(lambda x: x[1].upper(), pdf.get_toc()))
     entities = []
     for page in pdf:
         rects_interested = get_rects_interested(page)
         blocks = get_text_from_page(page)
         lines = blocks2lines(blocks)
         entities.extend(lines2entities(lines))
+        entities = list(
+            filter(lambda x: x['text'].upper() in entities_, entities)
+        )
         lines.sort(
             key=lambda rect: (int(rect['bbox'][0]), int(rect['bbox'][1]))
         )
@@ -109,7 +120,7 @@ def init(path_file):
 
     for act, key_ent in zip(acts_entities[1:], result_.keys()):
         acts_title = act.split('**************** TITLE ****************')
-        if "**************** TITLE ****************" not in act:
+        if '**************** TITLE ****************' not in act:
             acts = list(
                 filter(
                     lambda x: x != '', acts_title[0].split('\n\n------\n\n')
