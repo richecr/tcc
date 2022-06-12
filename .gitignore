@@ -4,3 +4,4 @@ __pycache__/
 .env
 *.pyc
 extract_text/__pycache__/utils.cpython-39.pyc
+*.pdf
