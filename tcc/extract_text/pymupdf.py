@@ -76,7 +76,7 @@ def mount_entity(x):
     return result
 
 
-def init(path_file):
+def init(path_file, dir):
     pdf = fitz.open(path_file)
 
     count = 1
@@ -138,7 +138,7 @@ def init(path_file):
     write_json(
         result_,
         filename=filename.replace('txt', 'json'),
-        dir='./tcc/outputs/json/2021/08/',
+        dir=dir,
     )
     # write_txt(result, filename=filename)
     print('${filename}: Concluido!'.format(filename=filename))
