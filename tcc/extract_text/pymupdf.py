@@ -88,9 +88,10 @@ def init(path_file, dir):
         blocks = get_text_from_page(page)
         lines = blocks2lines(blocks)
         entities.extend(lines2entities(lines))
-        entities = list(
-            filter(lambda x: x['text'].upper() in entities_, entities)
-        )
+        if len(entities_) > 0:
+            entities = list(
+                filter(lambda x: x['text'].upper() in entities_, entities)
+            )
         lines.sort(
             key=lambda rect: (int(rect['bbox'][0]), int(rect['bbox'][1]))
         )
@@ -106,7 +107,7 @@ def init(path_file, dir):
         #     break
         count += 1
 
-    pdf.ez_save('x.pdf')
+    # pdf.ez_save('x.pdf')
     filename = path_file.split('/')[6].replace('pdf', 'txt')
     acts_entities = result.split('**************** ENTITY ****************')
     result_ = {}
