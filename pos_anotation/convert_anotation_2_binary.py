@@ -1,9 +1,8 @@
-from html import entities
 import json
 
 
-filename = './pos_anotation/output_08_2021_anotacoes.json'
-output = './pos_anotation/output_08_2021_classifier.json'
+filename = './pos_anotation/output_anotacoes.json'
+output = './pos_anotation/output_classifier.json'
 
 result = []
 with open(filename, 'r', encoding='UTF-8') as json_file:

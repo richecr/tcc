@@ -1,8 +1,8 @@
 import json
 
 
-filename = './pos_anotation/all.jsonl'
-output = './pos_anotation/output_08_2021_anotacoes.json'
+filename = './pos_anotation/all_texts.jsonl'
+output = './pos_anotation/output_anotacoes.json'
 
 data = []
 with open(filename, 'r', encoding='UTF-8') as json_file:

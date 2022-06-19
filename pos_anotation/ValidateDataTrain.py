@@ -1,7 +1,7 @@
 import json
 
 
-filename = './pos_anotation/output_08_2021_anotacoes.json'
+filename = './pos_anotation/output_anotacoes.json'
 
 
 def label_contains_type(labels, type):

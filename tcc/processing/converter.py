@@ -2,7 +2,7 @@ import os
 import json
 
 
-dir = './tcc/outputs/json/2021/08/'
+dir = './tcc/outputs/json/2021/09/'
 directory = os.listdir(dir)
 caminhos = [os.path.join(dir, name) for name in directory]
 arquivos = [arq for arq in caminhos if os.path.isfile(arq)]
